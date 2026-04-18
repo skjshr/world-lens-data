@@ -2,81 +2,81 @@
   "JP": {
     "countryCode": "JP",
     "cityName": "東京",
-    "tempC": 14.3,
-    "humidity": 88,
-    "weatherCode": 0,
-    "asOf": "2026-04-18T20:45"
+    "tempC": 13.7,
+    "humidity": 89,
+    "weatherCode": 2,
+    "asOf": "2026-04-18T22:00"
   },
   "US": {
     "countryCode": "US",
     "cityName": "ワシントンD.C.",
-    "tempC": 16.9,
-    "humidity": 78,
+    "tempC": 19.1,
+    "humidity": 71,
     "weatherCode": 0,
-    "asOf": "2026-04-18T07:45"
+    "asOf": "2026-04-18T09:00"
   },
   "GB": {
     "countryCode": "GB",
     "cityName": "ロンドン",
-    "tempC": 15.7,
-    "humidity": 42,
-    "weatherCode": 1,
-    "asOf": "2026-04-18T12:45"
+    "tempC": 16.2,
+    "humidity": 40,
+    "weatherCode": 2,
+    "asOf": "2026-04-18T14:00"
   },
   "DE": {
     "countryCode": "DE",
     "cityName": "ベルリン",
-    "tempC": 19.7,
-    "humidity": 32,
-    "weatherCode": 2,
-    "asOf": "2026-04-18T13:45"
+    "tempC": 20.4,
+    "humidity": 31,
+    "weatherCode": 3,
+    "asOf": "2026-04-18T15:00"
   },
   "FR": {
     "countryCode": "FR",
     "cityName": "パリ",
-    "tempC": 21.9,
-    "humidity": 42,
-    "weatherCode": 2,
-    "asOf": "2026-04-18T13:45"
+    "tempC": 21.6,
+    "humidity": 48,
+    "weatherCode": 3,
+    "asOf": "2026-04-18T15:00"
   },
   "CN": {
     "countryCode": "CN",
     "cityName": "北京",
-    "tempC": 22.5,
+    "tempC": 21.3,
     "humidity": 51,
-    "weatherCode": 0,
-    "asOf": "2026-04-18T19:45"
+    "weatherCode": 2,
+    "asOf": "2026-04-18T21:00"
   },
   "KR": {
     "countryCode": "KR",
     "cityName": "ソウル",
-    "tempC": 16.4,
-    "humidity": 75,
+    "tempC": 14.8,
+    "humidity": 81,
     "weatherCode": 3,
-    "asOf": "2026-04-18T20:45"
+    "asOf": "2026-04-18T22:00"
   },
   "IN": {
     "countryCode": "IN",
     "cityName": "ニューデリー",
-    "tempC": 37.8,
-    "humidity": 23,
-    "weatherCode": 3,
-    "asOf": "2026-04-18T17:15"
+    "tempC": 35.8,
+    "humidity": 30,
+    "weatherCode": 2,
+    "asOf": "2026-04-18T18:30"
   },
   "BR": {
     "countryCode": "BR",
     "cityName": "ブラジリア",
-    "tempC": 21.5,
-    "humidity": 76,
+    "tempC": 23,
+    "humidity": 64,
     "weatherCode": 3,
-    "asOf": "2026-04-18T08:45"
+    "asOf": "2026-04-18T10:00"
   },
   "AU": {
     "countryCode": "AU",
     "cityName": "キャンベラ",
-    "tempC": 5.5,
+    "tempC": 5.1,
     "humidity": 90,
-    "weatherCode": 1,
-    "asOf": "2026-04-18T21:45"
+    "weatherCode": 0,
+    "asOf": "2026-04-18T23:00"
   }
 }
