@@ -1,0 +1,83 @@
+name: fetch-snapshots
+
+# スケジュール戦略:
+#   hourly: GDELT / RSS / Stooq / Open-Meteo を 15 分ごとに取得（リアルタイム性重視）
+#   weekly: World Bank 人口（年次更新なので毎週月曜のみ）
+# workflow_dispatch で手動実行も可能。
+
+on:
+  schedule:
+    # 15 分ごと（*/15 は GitHub Actions でも通る）
+    - cron: "*/15 * * * *"
+    # 週次（月曜 04:00 UTC = 月曜 13:00 JST）
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "fetch mode (hourly / weekly / all)"
+        required: false
+        default: "all"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-snapshots
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci --no-audit --no-fund
+
+      - name: Determine mode
+        id: mode
+        run: |
+          # schedule のどの cron で起動したかを判定
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 4 * * 1" ]; then
+            echo "mode=weekly" >> $GITHUB_OUTPUT
+          else
+            echo "mode=hourly" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fetch snapshots
+        env:
+          MODE: ${{ steps.mode.outputs.mode }}
+        run: npm run fetch
+
+      - name: Commit & push
+        run: |
+          git config user.name  "world-lens-bot"
+          git config user.email "skjshrcl@gmail.com"
+          git add snapshots/
+          if git diff --cached --quiet; then
+            echo "no snapshot changes"
+            exit 0
+          fi
+          git commit -m "chore(snapshots): ${{ steps.mode.outputs.mode }} $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+
+      - name: Purge jsdelivr CDN
+        if: success()
+        continue-on-error: true
+        run: |
+          # jsdelivr は GitHub 上の JSON を 12h キャッシュするので、更新のたびに purge する。
+          # 認証不要、レート制限あり（一応 sleep を挟む）。
+          for f in snapshots/*.json; do
+            name=$(basename "$f")
+            curl -sS "https://purge.jsdelivr.net/gh/skjshr/world-lens-data@main/snapshots/${name}" | head -c 200
+            echo
+            sleep 1
+          done
