@@ -1,6 +1,6 @@
 {
-  "startedAt": "2026-04-19T10:52:20.009Z",
-  "finishedAt": "2026-04-19T10:52:49.436Z",
+  "startedAt": "2026-04-19T11:38:43.131Z",
+  "finishedAt": "2026-04-19T11:38:57.178Z",
   "targets": [
     "gdelt",
     "rss",
@@ -8,7 +8,9 @@
     "fred",
     "fred-forex",
     "fred-commodities",
-    "fred-rates"
+    "fred-rates",
+    "stooq",
+    "lbma"
   ],
   "mode": "hourly"
 }
