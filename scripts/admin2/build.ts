@@ -51,6 +51,19 @@ const ISO2_TO_ISO3: Readonly<Record<string, string>> = {
   BR: "BRA",
   IN: "IND",
   CN: "CHN",
+  // G20 残り（2026-04 時点、EU は国ではないため除外）
+  CA: "CAN",
+  AU: "AUS",
+  KR: "KOR",
+  IT: "ITA",
+  ES: "ESP",
+  MX: "MEX",
+  ID: "IDN",
+  RU: "RUS",
+  SA: "SAU",
+  TR: "TUR",
+  AR: "ARG",
+  ZA: "ZAF",
 };
 
 /** geoBoundaries API のメタデータレスポンス（必要フィールドのみ） */
@@ -149,6 +162,20 @@ const TOLERANCE_BY_COUNTRY: Readonly<Record<string, number>> = {
   // 0.04 に上げて最終 1.5MB 程度（gzip 後 500KB 目標）。細部消失は municipality
   // レベルでは許容範囲（地球儀ズーム時は境界線の大枠で十分判別できる）。
   BR: 0.04,
+  // MX: 2469 municipalities、US と同等規模
+  MX: 0.015,
+  // RU: 国土広大で rayon 2327 件、tolerance 0.015 でも 3.5MB と大きい。
+  // 北方シベリア等は低密度地域なので 0.025 まで上げて 2.5MB 程度に絞る
+  RU: 0.025,
+  // ID: regency 500+、面積広大なので中庸 tolerance
+  ID: 0.01,
+  // AU: local government area 560+、面積広大なので中庸 tolerance
+  AU: 0.01,
+  // TR: 973 districts
+  TR: 0.01,
+  // CA: 76 census division しかないが、北方群島・フィヨルド等で vertex 密度が高く
+  // tolerance 0.005 だと 6MB。0.025 で 2MB 台に絞る（admin2 レベルの視覚は維持）
+  CA: 0.025,
 };
 const DEFAULT_TOLERANCE = 0.005;
 
