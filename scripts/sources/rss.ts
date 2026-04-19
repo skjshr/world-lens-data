@@ -47,6 +47,16 @@ const SOURCES: RssSource[] = [
   { name: "Al Jazeera",      url: "https://www.aljazeera.com/xml/rss/all.xml",                            lang: "en", countryCode: "QA", priority: 2 },
   { name: "France 24",       url: "https://www.france24.com/en/rss",                                      lang: "en", countryCode: "FR", priority: 3 },
   { name: "The Guardian",    url: "https://www.theguardian.com/world/rss",                                lang: "en", countryCode: "GB", priority: 3 },
+
+  // 地域主要（非英語 + 新興国）— publisher の国多様性を広げる目的。
+  //   既存は GB/DE/QA/FR/JP に偏っており、map 上のニュース分布が欧北＋カタールで止まる。
+  //   ここで南欧・伊・印・南米・独（国際英語版）を追加して publisher 分布を 5 大陸に広げる。
+  //   lang は UI 表示用で、countryCode は publisher 本拠地。priority=3 は既存英語紙と同格。
+  { name: "El País",         url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",     lang: "es", countryCode: "ES", priority: 3 },
+  { name: "ANSA",            url: "https://www.ansa.it/sito/ansait_rss.xml",                              lang: "it", countryCode: "IT", priority: 3 },
+  { name: "The Hindu",       url: "https://www.thehindu.com/news/national/feeder/default.rss",            lang: "en", countryCode: "IN", priority: 3 },
+  { name: "g1 Globo",        url: "https://g1.globo.com/rss/g1/",                                         lang: "pt", countryCode: "BR", priority: 3 },
+  { name: "Spiegel Intl",    url: "https://www.spiegel.de/international/index.rss",                       lang: "en", countryCode: "DE", priority: 3 },
 ];
 
 const parser = new XMLParser({
