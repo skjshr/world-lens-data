@@ -40,7 +40,7 @@ export async function fetchText(url: string, timeoutMs = 20_000): Promise<string
   try {
     const res = await fetch(url, {
       signal: ac.signal,
-      headers: { "User-Agent": "world-lens-data/0.1 (+https://github.com/skjshr/world-lens-data)" },
+      headers: { "User-Agent": "mundeye-data/0.2 (+https://github.com/skjshr/mundeye-data)" },
     });
     if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
     return await res.text();

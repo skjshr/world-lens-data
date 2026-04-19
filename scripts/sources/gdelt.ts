@@ -4,6 +4,7 @@
 // 返す形は world-lens の NewsItem[]。見出し / URL / 発信時刻のみ保持（著作権配慮）。
 
 import { fetchJson, writeJson } from "../lib/io.ts";
+import { dedupeByHeadline } from "../lib/dedupe.ts";
 import type { NewsItem } from "../lib/types.ts";
 
 interface GdeltArticle {
@@ -81,14 +82,51 @@ async function fetchGdeltQuery(query: string, maxRecords: number): Promise<NewsI
 
 export async function fetchGdelt(): Promise<void> {
   console.log("• GDELT (news)…");
-  // グローバルニュース（主要国、英語）
+  // グローバルニュース（主要国、英語）。domain 多様性を広げて国の偏りを減らす:
+  //   BBC(GB) / Reuters(GB) / NYT(US) / Bloomberg(US) / AP(US) / WSJ(US)
+  //   Guardian(GB) / Al Jazeera(QA) / DW(DE) / France24(FR) / Le Monde(FR)
+  //   South China Morning Post(HK) / Times of India(IN) / Straits Times(SG)
   const global = await fetchGdeltQuery(
-    "sourcelang:english (domainis:bbc.co.uk OR domainis:reuters.com OR domainis:nytimes.com OR domainis:bloomberg.com)",
-    75,
+    "sourcelang:english (" +
+      [
+        "domainis:bbc.co.uk",
+        "domainis:reuters.com",
+        "domainis:nytimes.com",
+        "domainis:bloomberg.com",
+        "domainis:apnews.com",
+        "domainis:wsj.com",
+        "domainis:theguardian.com",
+        "domainis:aljazeera.com",
+        "domainis:dw.com",
+        "domainis:france24.com",
+        "domainis:lemonde.fr",
+        "domainis:scmp.com",
+        "domainis:timesofindia.indiatimes.com",
+        "domainis:straitstimes.com",
+      ].join(" OR ") +
+      ")",
+    100,
   );
-  await writeJson("gdelt-global.json", global);
+  // dedupe: 同じ事件が別 domain で多重に入るのを server 側で刈る。
+  // GDELT は DateDesc で降順返却なので、最も早く出した domain が採用される。
+  const globalDedup = dedupeByHeadline(global, (n) => n.headline);
+  console.log(`  ↻ global dedupe: ${global.length} → ${globalDedup.length}`);
+  // 取得失敗（0 件 = 429 / timeout）では既存 snapshot を上書きしない。
+  //   以前は空配列を平気で書き込み、サイトから GDELT ニュースが消える事故が起きていた。
+  //   レート制限は次回 cron（15 分後）で自然回復するので、前回値を残すのが安全。
+  if (globalDedup.length > 0) {
+    await writeJson("gdelt-global.json", globalDedup.slice(0, 80));
+  } else {
+    console.log("  ⏭ gdelt-global 取得 0 件、既存 snapshot を維持");
+  }
 
   // 日本関連（日本語）
-  const jp = await fetchGdeltQuery("sourcelang:japanese", 75);
-  await writeJson("gdelt-jp.json", jp);
+  const jp = await fetchGdeltQuery("sourcelang:japanese", 100);
+  const jpDedup = dedupeByHeadline(jp, (n) => n.headline);
+  console.log(`  ↻ jp dedupe: ${jp.length} → ${jpDedup.length}`);
+  if (jpDedup.length > 0) {
+    await writeJson("gdelt-jp.json", jpDedup.slice(0, 80));
+  } else {
+    console.log("  ⏭ gdelt-jp 取得 0 件、既存 snapshot を維持");
+  }
 }
