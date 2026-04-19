@@ -145,7 +145,10 @@ const TOLERANCE_BY_COUNTRY: Readonly<Record<string, number>> = {
   US: 0.015,
   CN: 0.015,
   IN: 0.015,
-  BR: 0.015,
+  // BR は municipality 5570 件と最大級、tolerance 0.025 でも 3.3MB 残った。
+  // 0.04 に上げて最終 1.5MB 程度（gzip 後 500KB 目標）。細部消失は municipality
+  // レベルでは許容範囲（地球儀ズーム時は境界線の大枠で十分判別できる）。
+  BR: 0.04,
 };
 const DEFAULT_TOLERANCE = 0.005;
 
