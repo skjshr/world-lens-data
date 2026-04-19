@@ -13,7 +13,7 @@
 //   - changePct は直近 2 営業日の close 差。同日連続値が返ることがあるので dedup が必要。
 
 import { fetchText, writeJson, sleep } from "../lib/io.ts";
-import type { StockIndex } from "../lib/types.ts";
+import type { StockIndex, ForexRate } from "../lib/types.ts";
 
 /**
  * FRED series の定義。指数を追加したいときはここに 1 行足すだけ。
@@ -97,4 +97,70 @@ export async function fetchFredStock(): Promise<void> {
   }
 
   await writeJson("fred-stock.json", results);
+}
+
+/**
+ * 為替シリーズの定義。FRED の DEXxxYY シリーズは base/quote の方向が紛らわしいので
+ * 明示的に pair/base/quote を併記する（定義ミスを commit diff で見つけやすい）。
+ *
+ * FRED 命名規則:
+ *   - DEXAAAB: "A currency per B currency"（A 通貨で B 通貨 1 単位を表す値）
+ *   - DEXJPUS = JPY per USD → "USD/JPY" (1 USD = X JPY)
+ *   - DEXUSEU = USD per EUR → "EUR/USD" (1 EUR = X USD)
+ */
+interface FredForexSeries {
+  fredId: string;
+  pair: string;
+  base: string;
+  quote: string;
+}
+
+const FOREX_SERIES: readonly FredForexSeries[] = [
+  { fredId: "DEXJPUS", pair: "USD/JPY", base: "USD", quote: "JPY" },
+  { fredId: "DEXUSEU", pair: "EUR/USD", base: "EUR", quote: "USD" },
+  { fredId: "DEXUSUK", pair: "GBP/USD", base: "GBP", quote: "USD" },
+  { fredId: "DEXCHUS", pair: "USD/CNY", base: "USD", quote: "CNY" },
+  { fredId: "DEXCAUS", pair: "USD/CAD", base: "USD", quote: "CAD" },
+  { fredId: "DEXKOUS", pair: "USD/KRW", base: "USD", quote: "KRW" },
+];
+
+export async function fetchFredForex(): Promise<void> {
+  console.log("• FRED (forex rates)…");
+  const results: ForexRate[] = [];
+
+  for (const series of FOREX_SERIES) {
+    try {
+      const url = `https://fred.stlouisfed.org/graph/fredgraph.csv?id=${series.fredId}`;
+      const csv = await fetchText(url, 30_000);
+      const rows = parseFredCsv(csv);
+
+      if (rows.length < 2) {
+        throw new Error(`not enough data (got ${rows.length} rows)`);
+      }
+
+      const latest = rows[0];
+      const prev = rows[1];
+      const changePct = ((latest.value - prev.value) / prev.value) * 100;
+
+      results.push({
+        pair: series.pair,
+        base: series.base,
+        quote: series.quote,
+        rate: latest.value,
+        changePct: Number(changePct.toFixed(2)),
+        asOf: new Date(latest.date + "T00:00:00Z").toISOString(),
+      });
+
+      console.log(`  ✓ ${series.pair}: ${latest.value} (${changePct.toFixed(2)}%) @ ${latest.date}`);
+      await sleep(150);
+    } catch (e) {
+      console.warn(`  ! ${series.fredId}: ${(e as Error).message}`);
+    }
+  }
+
+  if (results.length === 0) {
+    throw new Error("all FRED forex series failed — skipping write to preserve previous snapshot");
+  }
+
+  await writeJson("fred-forex.json", results);
 }

@@ -1,11 +1,8 @@
 {
-  "startedAt": "2026-04-19T08:59:40.115Z",
-  "finishedAt": "2026-04-19T08:59:48.550Z",
+  "startedAt": "2026-04-19T09:14:43.195Z",
+  "finishedAt": "2026-04-19T09:14:57.839Z",
   "targets": [
-    "gdelt",
-    "rss",
-    "open-meteo",
-    "fred"
+    "fred-forex"
   ],
-  "mode": "hourly"
+  "mode": "all"
 }

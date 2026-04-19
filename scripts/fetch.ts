@@ -12,12 +12,18 @@ import { fetchGdelt } from "./sources/gdelt.ts";
 import { fetchRssJa } from "./sources/rss.ts";
 import { fetchOpenMeteo } from "./sources/open-meteo.ts";
 import { fetchWorldBankPopulation } from "./sources/world-bank.ts";
-import { fetchFredStock } from "./sources/fred.ts";
+import { fetchFredStock, fetchFredForex } from "./sources/fred.ts";
 import { writeJson } from "./lib/io.ts";
 
-// 株価指数: FRED の公開 CSV endpoint（API key 不要）を使う。
+// 株価・為替: FRED の公開 CSV endpoint（API key 不要）を使う。
 // Alpha Vantage は 25req/day 制限が厳しいので fallback 候補のみ。
-type SourceName = "gdelt" | "rss" | "open-meteo" | "world-bank" | "fred";
+type SourceName =
+  | "gdelt"
+  | "rss"
+  | "open-meteo"
+  | "world-bank"
+  | "fred"
+  | "fred-forex";
 
 const SOURCES: Record<SourceName, () => Promise<void>> = {
   gdelt: fetchGdelt,
@@ -25,16 +31,17 @@ const SOURCES: Record<SourceName, () => Promise<void>> = {
   "open-meteo": fetchOpenMeteo,
   "world-bank": fetchWorldBankPopulation,
   fred: fetchFredStock,
+  "fred-forex": fetchFredForex,
 };
 
 // MODE ごとの実行対象
-// - hourly: 日中動くデータ（ニュース、天気、株価）。FRED は日次更新だが 4 series の CSV 取得は
+// - hourly: 日中動くデータ（ニュース、天気、株価、為替）。FRED は日次更新だが CSV 取得は
 //   数秒で終わるため hourly に含めても CI コストはほぼゼロ。cron 分離するより運用がシンプル。
 // - weekly: 低頻度更新（world-bank は年次）
 const MODE_SETS: Record<string, SourceName[]> = {
-  hourly: ["gdelt", "rss", "open-meteo", "fred"],
+  hourly: ["gdelt", "rss", "open-meteo", "fred", "fred-forex"],
   weekly: ["world-bank"],
-  all: ["gdelt", "rss", "open-meteo", "world-bank", "fred"],
+  all: ["gdelt", "rss", "open-meteo", "world-bank", "fred", "fred-forex"],
 };
 
 async function main(): Promise<void> {
