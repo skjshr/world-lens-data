@@ -1,10 +1,9 @@
 {
-  "startedAt": "2026-04-19T07:53:57.580Z",
-  "finishedAt": "2026-04-19T07:54:02.497Z",
+  "startedAt": "2026-04-19T07:40:39.635Z",
+  "finishedAt": "2026-04-19T07:40:43.723Z",
   "targets": [
-    "gdelt",
     "rss",
-    "open-meteo"
+    "gdelt"
   ],
-  "mode": "hourly"
+  "mode": "all"
 }

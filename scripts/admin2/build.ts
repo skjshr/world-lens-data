@@ -133,6 +133,22 @@ async function buildCountry(iso2: string, tolerance = 0.005): Promise<void> {
   console.log(`  ✓ ${outputPath} (${kb} KB, features=${simplified.features.length})`);
 }
 
+/**
+ * 国ごとの tolerance。原データの feature 数が多い国は tolerance を上げて出力を絞る。
+ * 目標: gzip 後 500KB 以下（初回 lazy load が許容範囲に収まる）。
+ *
+ * 実測値（tolerance=0.005 時）:
+ *   - JP: 1742 feat → 1.4MB
+ *   - US: 3233 feat → 4.4MB（巨大、0.015 に上げて絞る）
+ */
+const TOLERANCE_BY_COUNTRY: Readonly<Record<string, number>> = {
+  US: 0.015,
+  CN: 0.015,
+  IN: 0.015,
+  BR: 0.015,
+};
+const DEFAULT_TOLERANCE = 0.005;
+
 async function main(): Promise<void> {
   // CLI 引数で国を絞れる: `npm run admin2 -- JP US`
   const targets = process.argv.slice(2).filter((s) => !s.startsWith("-"));
@@ -140,8 +156,9 @@ async function main(): Promise<void> {
 
   console.log(`admin2 build: targets = ${countries.join(", ")}`);
   for (const iso2 of countries) {
+    const tol = TOLERANCE_BY_COUNTRY[iso2] ?? DEFAULT_TOLERANCE;
     try {
-      await buildCountry(iso2);
+      await buildCountry(iso2, tol);
     } catch (e) {
       console.error(`  ✗ ${iso2}: ${(e as Error).message}`);
     }
