@@ -34,12 +34,24 @@ interface StooqSeries {
   currency: string;
 }
 
-// FTSE100 / DAX / HSI の 3 本で G7 欧州＋香港の主要指数を網羅。
+// 主要国の株価指数を網羅。
+// なぜ US / JP も Stooq で取るか（旧実装は FRED 使用）:
+//   - FRED (fredgraph.csv) は連邦機関の公開サービスで、日次集計→public 公開までに
+//     3〜5 営業日の遅延がある。ユーザー検収で「株価データが古い」と指摘された根本原因。
+//   - Stooq の latest endpoint は終値をその日中に反映するのでラグは最大 1 日（週末除く）。
+//   - ただし FRED 為替・商品・利回りは Stooq に無いので fred.ts は残し、株価のみ移管する。
 // 指数を増やすときはここに 1 行追加すれば snapshot と BI の両方に流れる。
 const SERIES: readonly StooqSeries[] = [
+  // US major
+  { stooqId: "^SPX", symbol: "SPX", name: "S&P 500", countryCode: "US", currency: "USD" },
+  { stooqId: "^DJI", symbol: "DJI", name: "Dow Jones", countryCode: "US", currency: "USD" },
+  { stooqId: "^NDQ", symbol: "IXIC", name: "NASDAQ Composite", countryCode: "US", currency: "USD" },
+  // Asia
+  { stooqId: "^NKX", symbol: "N225", name: "Nikkei 225", countryCode: "JP", currency: "JPY" },
+  { stooqId: "^HSI", symbol: "HSI", name: "Hang Seng", countryCode: "HK", currency: "HKD" },
+  // Europe
   { stooqId: "^FTM", symbol: "FTSE", name: "FTSE 100", countryCode: "GB", currency: "GBP" },
   { stooqId: "^DAX", symbol: "DAX", name: "DAX", countryCode: "DE", currency: "EUR" },
-  { stooqId: "^HSI", symbol: "HSI", name: "Hang Seng", countryCode: "HK", currency: "HKD" },
 ];
 
 const SNAPSHOT_NAME = "stooq-stock.json";
