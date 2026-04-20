@@ -3,8 +3,8 @@
     "symbol": "SPX",
     "name": "S&P 500",
     "countryCode": "US",
-    "price": 7102,
-    "changePct": -0.01,
+    "price": 7105.7,
+    "changePct": 0.05,
     "currency": "USD",
     "asOf": "2026-04-20T00:00:00.000Z"
   },
@@ -12,8 +12,8 @@
     "symbol": "DJI",
     "name": "Dow Jones",
     "countryCode": "US",
-    "price": 49360.1,
-    "changePct": -0.02,
+    "price": 49377.5,
+    "changePct": 0.04,
     "currency": "USD",
     "asOf": "2026-04-20T00:00:00.000Z"
   },
@@ -21,8 +21,8 @@
     "symbol": "IXIC",
     "name": "NASDAQ Composite",
     "countryCode": "US",
-    "price": 24353.932,
-    "changePct": 0.02,
+    "price": 24383.639,
+    "changePct": 0.12,
     "currency": "USD",
     "asOf": "2026-04-20T00:00:00.000Z"
   },
