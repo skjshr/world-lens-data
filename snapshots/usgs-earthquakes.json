@@ -1,5 +1,15 @@
 [
   {
+    "id": "nn00916046",
+    "type": "earthquake",
+    "lat": 39.2758,
+    "lng": -119.0955,
+    "intensity": 4.78,
+    "timestamp": "2026-04-22T17:23:37.085Z",
+    "description": "M 4.8 - 19 km SE of Silver Springs, Nevada",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ss20",
     "type": "earthquake",
     "lat": -15.4409,
