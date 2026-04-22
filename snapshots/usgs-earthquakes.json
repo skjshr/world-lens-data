@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ss13",
+    "type": "earthquake",
+    "lat": 10.4424,
+    "lng": -41.8425,
+    "intensity": 4.9,
+    "timestamp": "2026-04-22T08:35:51.205Z",
+    "description": "M 4.9 - northern Mid-Atlantic Ridge",
+    "source": "USGS"
+  },
+  {
     "id": "us6000srzq",
     "type": "earthquake",
     "lat": 49.9647,
@@ -67,16 +77,6 @@
     "intensity": 4.7,
     "timestamp": "2026-04-21T11:03:15.713Z",
     "description": "M 4.7 - southeast of the Loyalty Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000srtd",
-    "type": "earthquake",
-    "lat": -62.0123,
-    "lng": 164.998,
-    "intensity": 5.7,
-    "timestamp": "2026-04-21T10:30:27.397Z",
-    "description": "M 5.7 - Balleny Islands region",
     "source": "USGS"
   }
 ]
