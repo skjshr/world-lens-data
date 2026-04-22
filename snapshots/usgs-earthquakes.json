@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ss58",
+    "type": "earthquake",
+    "lat": -10.9927,
+    "lng": 113.8493,
+    "intensity": 4.7,
+    "timestamp": "2026-04-22T18:15:00.002Z",
+    "description": "M 4.7 - 282 km SSW of Jimbaran, Indonesia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ss57",
+    "type": "earthquake",
+    "lat": 40.1155,
+    "lng": 142.3557,
+    "intensity": 4.5,
+    "timestamp": "2026-04-22T17:46:37.429Z",
+    "description": "M 4.5 - 45 km E of Noda, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "nn00916046",
     "type": "earthquake",
     "lat": 39.2758,
