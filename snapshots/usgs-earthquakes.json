@@ -78,25 +78,5 @@
     "timestamp": "2026-04-22T18:15:00.002Z",
     "description": "M 4.7 - 282 km SSW of Jimbaran, Indonesia",
     "source": "USGS"
-  },
-  {
-    "id": "us6000ss57",
-    "type": "earthquake",
-    "lat": 40.1155,
-    "lng": 142.3557,
-    "intensity": 4.5,
-    "timestamp": "2026-04-22T17:46:37.429Z",
-    "description": "M 4.5 - 45 km E of Noda, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "nn00916046",
-    "type": "earthquake",
-    "lat": 39.2758,
-    "lng": -119.0955,
-    "intensity": 4.78,
-    "timestamp": "2026-04-22T17:23:37.085Z",
-    "description": "M 4.8 - 19 km SE of Silver Springs, Nevada",
-    "source": "USGS"
   }
 ]
