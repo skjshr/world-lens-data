@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ss9m",
+    "type": "earthquake",
+    "lat": -42.2859,
+    "lng": -18.4093,
+    "intensity": 5.2,
+    "timestamp": "2026-04-23T10:07:48.736Z",
+    "description": "M 5.2 - southern Mid-Atlantic Ridge",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ss90",
     "type": "earthquake",
     "lat": -20.7822,
@@ -117,16 +127,6 @@
     "intensity": 4.6,
     "timestamp": "2026-04-22T12:04:45.398Z",
     "description": "M 4.6 - 47 km WSW of Kirakira, Solomon Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ss1k",
-    "type": "earthquake",
-    "lat": 46.8378,
-    "lng": 92.8983,
-    "intensity": 4.9,
-    "timestamp": "2026-04-22T11:11:46.916Z",
-    "description": "M 4.9 - 160 km SE of Khovd, Mongolia",
     "source": "USGS"
   }
 ]
