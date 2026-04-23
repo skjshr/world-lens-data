@@ -21,6 +21,7 @@ import {
 import { fetchStooqStock } from "./sources/stooq.ts";
 import { fetchLbmaCommodities } from "./sources/lbma.ts";
 import { fetchUsgs } from "./sources/usgs.ts";
+import { fetchWikipediaPageviews, fetchWikipediaOnThisDay } from "./sources/wikipedia.ts";
 import { writeJson } from "./lib/io.ts";
 
 // 株価・為替・商品・金利: FRED の公開 CSV endpoint（API key 不要）を使う。
@@ -36,7 +37,9 @@ type SourceName =
   | "fred-rates"
   | "stooq"
   | "lbma"
-  | "usgs";
+  | "usgs"
+  | "wikipedia"
+  | "wikipedia-onthisday";
 
 const SOURCES: Record<SourceName, () => Promise<void>> = {
   gdelt: fetchGdelt,
@@ -50,6 +53,8 @@ const SOURCES: Record<SourceName, () => Promise<void>> = {
   stooq: fetchStooqStock,
   lbma: fetchLbmaCommodities,
   usgs: fetchUsgs,
+  wikipedia: fetchWikipediaPageviews,
+  "wikipedia-onthisday": fetchWikipediaOnThisDay,
 };
 
 // MODE ごとの実行対象
@@ -68,6 +73,8 @@ const MODE_SETS: Record<string, SourceName[]> = {
     "stooq",
     "lbma",
     "usgs",
+    "wikipedia",
+    "wikipedia-onthisday",
   ],
   weekly: ["world-bank"],
   all: [
@@ -82,6 +89,8 @@ const MODE_SETS: Record<string, SourceName[]> = {
     "stooq",
     "lbma",
     "usgs",
+    "wikipedia",
+    "wikipedia-onthisday",
   ],
 };
 
