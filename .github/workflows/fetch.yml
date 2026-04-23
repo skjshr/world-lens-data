@@ -55,6 +55,7 @@ jobs:
       - name: Fetch snapshots
         env:
           MODE: ${{ steps.mode.outputs.mode }}
+          WINDY_API_KEY: ${{ secrets.WINDY_API_KEY }}
         run: npm run fetch
 
       - name: Commit & push
