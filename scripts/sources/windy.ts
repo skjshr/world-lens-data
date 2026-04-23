@@ -82,61 +82,75 @@ export async function fetchWindyWebcams(): Promise<void> {
   const countryCodes = Object.keys(COUNTRY_META);
 
   for (const code of countryCodes) {
-    try {
-      const url = `${BASE}?country=${code}&include=images,location,player&limit=100`;
-      const data = await fetchWindy(url);
-      const webcams = data.webcams ?? [];
+    // 各国 50件×最大20ページ = 最大1,000件/国
+    for (let offset = 0; offset < 1000; offset += 50) {
+      try {
+        const url = `${BASE}?country=${code}&include=images,location,player&limit=50&offset=${offset}`;
+        const data = await fetchWindy(url);
+        const webcams = data.webcams ?? [];
+        if (webcams.length === 0) break;
 
-      for (const cam of webcams) {
-        if (cam.status !== "active") continue;
-        allCameras.push({
-          id: `windy-${cam.webcamId}`,
-          name: cam.title,
-          city: cam.location?.city ?? cam.location?.region ?? "",
-          countryCode: cam.location?.countryCode?.toUpperCase() ?? code,
-          lat: cam.location?.latitude ?? 0,
-          lng: cam.location?.longitude ?? 0,
-          thumbnailUrl: cam.images?.current?.preview ?? cam.images?.current?.thumbnail ?? "",
-          playerUrl: cam.player?.lifetime?.embed ?? cam.player?.day?.embed ?? "",
-          category: "city",
-        });
+        for (const cam of webcams) {
+          if (cam.status !== "active") continue;
+          allCameras.push({
+            id: `windy-${cam.webcamId}`,
+            name: cam.title,
+            city: cam.location?.city ?? cam.location?.region ?? "",
+            countryCode: cam.location?.countryCode?.toUpperCase() ?? code,
+            lat: cam.location?.latitude ?? 0,
+            lng: cam.location?.longitude ?? 0,
+            thumbnailUrl: cam.images?.current?.preview ?? cam.images?.current?.thumbnail ?? "",
+            playerUrl: cam.player?.lifetime?.embed ?? cam.player?.day?.embed ?? "",
+            category: "city",
+          });
+        }
+
+        // 50件未満なら最終ページ
+        if (webcams.length < 50) break;
+      } catch (e) {
+        console.warn(`  ! Windy ${code} offset=${offset}: ${(e as Error).message}`);
+        break;
       }
-
-      console.log(`  ${code}: ${webcams.length} cameras (${allCameras.length} total)`);
-    } catch (e) {
-      console.warn(`  ! Windy ${code}: ${(e as Error).message}`);
+      await sleep(300);
     }
-    await sleep(300);
+    console.log(`  ${code}: ${allCameras.length} total`);
   }
 
-  // 主要国以外も追加: continent 単位で広くカバー
-  for (const continent of ["AF", "SA", "OC"]) {
-    try {
-      const url = `${BASE}?continent=${continent}&include=images,location,player&limit=200`;
-      const data = await fetchWindy(url);
-      const webcams = data.webcams ?? [];
+  // 主要国以外も追加: continent 単位で広くカバー（各大陸最大500件）
+  const existingIds = new Set(allCameras.map((c) => c.id));
+  for (const continent of ["AF", "SA", "OC", "EU", "AS", "NA"]) {
+    for (let offset = 0; offset < 500; offset += 50) {
+      try {
+        const url = `${BASE}?continent=${continent}&include=images,location,player&limit=50&offset=${offset}`;
+        const data = await fetchWindy(url);
+        const webcams = data.webcams ?? [];
+        if (webcams.length === 0) break;
 
-      for (const cam of webcams) {
-        if (cam.status !== "active") continue;
-        // 既に追加済みならスキップ
-        if (allCameras.some((c) => c.id === `windy-${cam.webcamId}`)) continue;
-        allCameras.push({
-          id: `windy-${cam.webcamId}`,
-          name: cam.title,
-          city: cam.location?.city ?? cam.location?.region ?? "",
-          countryCode: cam.location?.countryCode?.toUpperCase() ?? "",
-          lat: cam.location?.latitude ?? 0,
-          lng: cam.location?.longitude ?? 0,
-          thumbnailUrl: cam.images?.current?.preview ?? cam.images?.current?.thumbnail ?? "",
-          playerUrl: cam.player?.lifetime?.embed ?? cam.player?.day?.embed ?? "",
-          category: "city",
-        });
+        for (const cam of webcams) {
+          if (cam.status !== "active") continue;
+          const id = `windy-${cam.webcamId}`;
+          if (existingIds.has(id)) continue;
+          existingIds.add(id);
+          allCameras.push({
+            id,
+            name: cam.title,
+            city: cam.location?.city ?? cam.location?.region ?? "",
+            countryCode: cam.location?.countryCode?.toUpperCase() ?? "",
+            lat: cam.location?.latitude ?? 0,
+            lng: cam.location?.longitude ?? 0,
+            thumbnailUrl: cam.images?.current?.preview ?? cam.images?.current?.thumbnail ?? "",
+            playerUrl: cam.player?.lifetime?.embed ?? cam.player?.day?.embed ?? "",
+            category: "city",
+          });
+        }
+        if (webcams.length < 50) break;
+      } catch (e) {
+        console.warn(`  ! Windy continent ${continent} offset=${offset}: ${(e as Error).message}`);
+        break;
       }
-      console.log(`  continent ${continent}: +${webcams.length} (${allCameras.length} total)`);
-    } catch (e) {
-      console.warn(`  ! Windy continent ${continent}: ${(e as Error).message}`);
+      await sleep(300);
     }
-    await sleep(500);
+    console.log(`  continent ${continent}: ${allCameras.length} total`);
   }
 
   if (allCameras.length > 0) {
