@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssn7",
+    "type": "earthquake",
+    "lat": -30.8541,
+    "lng": -178.3194,
+    "intensity": 4.9,
+    "timestamp": "2026-04-24T18:22:36.449Z",
+    "description": "M 4.9 - Kermadec Islands, New Zealand",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssmp",
     "type": "earthquake",
     "lat": -8.4704,

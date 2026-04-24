@@ -605,17 +605,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "JP",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -4378,17 +4367,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "JP",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -4396,6 +4374,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "JP",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5621,17 +5610,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "JP",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -5639,6 +5617,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "JP",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5973,13 +5962,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "JP",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8305,17 +8294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "JP",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -8965,17 +8943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "JP",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -8983,6 +8950,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "JP",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9735,17 +9713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "JP",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -9753,6 +9720,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "JP",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9867,17 +9845,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "JP",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -9885,6 +9852,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "JP",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10831,6 +10809,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "JP",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "JP",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11440,17 +11440,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "US",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -15213,17 +15202,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "US",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -15231,6 +15209,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "US",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16456,17 +16445,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "US",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -16474,6 +16452,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "US",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16808,13 +16797,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "US",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19140,17 +19129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "US",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -19800,17 +19778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "US",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -19818,6 +19785,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "US",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20570,17 +20548,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "US",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -20588,6 +20555,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "US",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20702,17 +20680,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "US",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -20720,6 +20687,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "US",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21666,6 +21644,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "US",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "US",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22275,17 +22275,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "GB",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -26048,17 +26037,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "GB",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -26066,6 +26044,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "GB",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27291,17 +27280,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "GB",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -27309,6 +27287,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "GB",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27643,13 +27632,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "GB",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29975,17 +29964,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "GB",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -30635,17 +30613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "GB",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -30653,6 +30620,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "GB",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31405,17 +31383,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "GB",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -31423,6 +31390,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "GB",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31537,17 +31515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "GB",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -31555,6 +31522,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "GB",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32501,6 +32479,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "GB",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "GB",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33110,17 +33110,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "DE",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -36883,17 +36872,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "DE",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -36901,6 +36879,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "DE",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38126,17 +38115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "DE",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -38144,6 +38122,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "DE",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38478,13 +38467,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "DE",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40810,17 +40799,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "DE",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -41470,17 +41448,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "DE",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -41488,6 +41455,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "DE",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42240,17 +42218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "DE",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -42258,6 +42225,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "DE",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42372,17 +42350,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "DE",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -42390,6 +42357,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "DE",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43336,6 +43314,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "DE",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "DE",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43945,17 +43945,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "FR",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -47718,17 +47707,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "FR",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -47736,6 +47714,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "FR",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48961,17 +48950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "FR",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -48979,6 +48957,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "FR",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49313,13 +49302,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "FR",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51645,17 +51634,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "FR",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -52305,17 +52283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "FR",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -52323,6 +52290,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "FR",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53075,17 +53053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "FR",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -53093,6 +53060,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "FR",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53207,17 +53185,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "FR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -53225,6 +53192,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "FR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54171,6 +54149,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "FR",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "FR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54780,17 +54780,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "CN",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -58553,17 +58542,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "CN",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -58571,6 +58549,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "CN",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59796,17 +59785,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "CN",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -59814,6 +59792,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "CN",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60148,13 +60137,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "CN",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62480,17 +62469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "CN",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -63140,17 +63118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "CN",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -63158,6 +63125,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "CN",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63910,17 +63888,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "CN",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -63928,6 +63895,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "CN",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64042,17 +64020,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "CN",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -64060,6 +64027,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "CN",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65006,6 +64984,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "CN",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "CN",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65615,17 +65615,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "KR",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -69388,17 +69377,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "KR",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -69406,6 +69384,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "KR",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70631,17 +70620,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "KR",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -70649,6 +70627,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "KR",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70983,13 +70972,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "KR",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73315,17 +73304,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "KR",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -73975,17 +73953,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "KR",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -73993,6 +73960,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "KR",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74745,17 +74723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "KR",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -74763,6 +74730,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "KR",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74877,17 +74855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "KR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -74895,6 +74862,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "KR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75841,6 +75819,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "KR",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "KR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76450,17 +76450,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "IN",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -80223,17 +80212,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "IN",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -80241,6 +80219,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "IN",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81466,17 +81455,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "IN",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -81484,6 +81462,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "IN",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81818,13 +81807,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "IN",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84150,17 +84139,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "IN",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -84810,17 +84788,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "IN",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -84828,6 +84795,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "IN",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85580,17 +85558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "IN",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -85598,6 +85565,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "IN",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85712,17 +85690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "IN",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -85730,6 +85697,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "IN",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86676,6 +86654,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "IN",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "IN",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87285,17 +87285,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "BR",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -91058,17 +91047,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "BR",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -91076,6 +91054,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "BR",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92301,17 +92290,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "BR",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -92319,6 +92297,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "BR",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92653,13 +92642,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "BR",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94985,17 +94974,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "BR",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -95645,17 +95623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "BR",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -95663,6 +95630,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "BR",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96415,17 +96393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "BR",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -96433,6 +96400,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "BR",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96547,17 +96525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "BR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -96565,6 +96532,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "BR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97511,6 +97489,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "BR",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "BR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98120,17 +98120,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1289303006",
-    "name": "Trikala",
-    "city": "Trikala",
-    "countryCode": "AU",
-    "lat": 39.55746,
-    "lng": 21.76246,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1289303006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181820895",
     "name": "Santa Maria: Pontao",
     "city": "Santa Maria",
@@ -101893,17 +101882,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253577230",
-    "name": "Arachova: Αράχοβα",
-    "city": "Arachova",
-    "countryCode": "AU",
-    "lat": 38.48034,
-    "lng": 22.58288,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229944284",
     "name": "Zakopane: Kasprowy Wierch",
     "city": "Zakopane",
@@ -101911,6 +101889,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "AU",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103136,17 +103125,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246915663",
-    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
-    "city": "Pesaro",
-    "countryCode": "AU",
-    "lat": 43.91904,
-    "lng": 12.91111,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -103154,6 +103132,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246915663",
+    "name": "Pesaro: Hotel Nettuno - Spiaggia di Ponente",
+    "city": "Pesaro",
+    "countryCode": "AU",
+    "lat": 43.91904,
+    "lng": 12.91111,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246915663/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103488,13 +103477,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1222709123",
-    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
-    "city": "Itapoa",
+    "id": "windy-1793892542",
+    "name": "Plymouth › East: Tamar Bridge - A38",
+    "city": "Plymouth",
     "countryCode": "AU",
-    "lat": -26.18102,
-    "lng": -48.60039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
+    "lat": 50.40814,
+    "lng": -4.20339,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105820,17 +105809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "AU",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1207677696",
     "name": "Demi-Quartier: Megève",
     "city": "Demi-Quartier",
@@ -106480,17 +106458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1607110571",
-    "name": "Stosswihr › East: Col de la Schlucht",
-    "city": "Stosswihr",
-    "countryCode": "AU",
-    "lat": 48.06361,
-    "lng": 7.02463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -106498,6 +106465,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1607110571",
+    "name": "Stosswihr › East: Col de la Schlucht",
+    "city": "Stosswihr",
+    "countryCode": "AU",
+    "lat": 48.06361,
+    "lng": 7.02463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107250,17 +107228,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1238873888",
-    "name": "Krippen: Bad Schandau",
-    "city": "Krippen",
-    "countryCode": "AU",
-    "lat": 50.91154,
-    "lng": 14.16596,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -107268,6 +107235,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1238873888",
+    "name": "Krippen: Bad Schandau",
+    "city": "Krippen",
+    "countryCode": "AU",
+    "lat": 50.91154,
+    "lng": 14.16596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238873888/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107382,17 +107360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "AU",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -107400,6 +107367,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "AU",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108346,6 +108324,28 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1358871901",
+    "name": "Obergesteln: Obergoms",
+    "city": "Obergesteln",
+    "countryCode": "AU",
+    "lat": 46.51267,
+    "lng": 8.32238,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "AU",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
