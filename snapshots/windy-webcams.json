@@ -2574,6 +2574,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "JP",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -2702,17 +2713,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "JP",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3109,17 +3109,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "JP",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3839,6 +3828,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "JP",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -4319,17 +4319,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "JP",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13321,6 +13310,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "US",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -13449,17 +13449,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "US",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13856,17 +13845,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "US",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14586,6 +14564,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "US",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -15066,17 +15055,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "US",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24068,6 +24046,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "GB",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -24196,17 +24185,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24603,17 +24581,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "GB",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25333,6 +25300,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "GB",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -25813,17 +25791,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "GB",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34815,6 +34782,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "DE",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -34943,17 +34921,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35350,17 +35317,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "DE",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36080,6 +36036,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "DE",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -36560,17 +36527,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "DE",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45562,6 +45518,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "FR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -45690,17 +45657,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46097,17 +46053,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "FR",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46827,6 +46772,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "FR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -47307,17 +47263,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "FR",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56309,6 +56254,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "CN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -56437,17 +56393,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56844,17 +56789,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "CN",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57574,6 +57508,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "CN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -58054,17 +57999,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "CN",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67056,6 +66990,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "KR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -67184,17 +67129,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67591,17 +67525,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "KR",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68321,6 +68244,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "KR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -68801,17 +68735,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "KR",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77803,6 +77726,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "IN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -77931,17 +77865,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78338,17 +78261,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "IN",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79068,6 +78980,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "IN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -79548,17 +79471,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "IN",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88550,6 +88462,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "BR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -88678,17 +88601,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89085,17 +88997,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "BR",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89815,6 +89716,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "BR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -90295,17 +90207,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "BR",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99297,6 +99198,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "AU",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -99425,17 +99337,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99832,17 +99733,6 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651451",
-    "name": "Arolla › South-west: Pigne d'Arolla",
-    "city": "Arolla",
-    "countryCode": "AU",
-    "lat": 46.02599,
-    "lng": 7.47766,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100562,6 +100452,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "AU",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -101042,17 +100943,6 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1141651608",
-    "name": "Arolla: Mont-Collon",
-    "city": "Arolla",
-    "countryCode": "AU",
-    "lat": 46.0265,
-    "lng": 7.47727,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },

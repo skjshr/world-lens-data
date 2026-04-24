@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssgf",
+    "type": "earthquake",
+    "lat": 13.8985,
+    "lng": 144.9045,
+    "intensity": 4.9,
+    "timestamp": "2026-04-23T23:22:33.956Z",
+    "description": "M 4.9 - 40 km N of Yigo Village, Guam",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssga",
     "type": "earthquake",
     "lat": 28.3412,
@@ -97,16 +107,6 @@
     "intensity": 4.9,
     "timestamp": "2026-04-23T01:43:46.712Z",
     "description": "M 4.9 - 206 km SSE of Vilyuchinsk, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ss7p",
-    "type": "earthquake",
-    "lat": 39.6744,
-    "lng": 143.3289,
-    "intensity": 4.9,
-    "timestamp": "2026-04-23T00:07:57.051Z",
-    "description": "M 4.9 - 119 km E of Miyako, Japan",
     "source": "USGS"
   }
 ]
