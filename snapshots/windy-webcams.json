@@ -1298,17 +1298,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "JP",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -2123,17 +2112,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "JP",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -2145,6 +2123,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "JP",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -2152,6 +2141,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2618,17 +2618,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "JP",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -2658,6 +2647,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5115,17 +5115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "JP",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -5133,6 +5122,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "JP",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5940,13 +5940,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "JP",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6666,17 +6666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "JP",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -6684,6 +6673,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "JP",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7898,17 +7898,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "JP",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -7916,6 +7905,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "JP",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8290,6 +8290,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "JP",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9284,17 +9295,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "JP",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -9302,6 +9302,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "JP",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9460,17 +9471,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "JP",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -9478,6 +9478,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "JP",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9874,6 +9885,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "JP",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10820,17 +10842,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "JP",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12133,17 +12144,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "US",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -12958,17 +12958,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "US",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -12980,6 +12969,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "US",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -12987,6 +12987,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13453,17 +13464,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "US",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -13493,6 +13493,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15950,17 +15961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "US",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -15968,6 +15968,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "US",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16775,13 +16786,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "US",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17501,17 +17512,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "US",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -17519,6 +17519,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "US",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18733,17 +18744,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "US",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -18751,6 +18751,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "US",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19125,6 +19136,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "US",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20119,17 +20141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "US",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -20137,6 +20148,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "US",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20295,17 +20317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "US",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -20313,6 +20324,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "US",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20709,6 +20731,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "US",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21655,17 +21688,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "US",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22968,17 +22990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "GB",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -23793,17 +23804,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "GB",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -23815,6 +23815,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "GB",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -23822,6 +23833,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24288,17 +24310,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "GB",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -24328,6 +24339,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26785,17 +26807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "GB",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -26803,6 +26814,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "GB",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27610,13 +27632,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "GB",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28336,17 +28358,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "GB",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -28354,6 +28365,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "GB",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29568,17 +29590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "GB",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -29586,6 +29597,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "GB",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29960,6 +29982,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "GB",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30954,17 +30987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "GB",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -30972,6 +30994,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "GB",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31130,17 +31163,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "GB",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -31148,6 +31170,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "GB",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31544,6 +31577,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "GB",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32490,17 +32534,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "GB",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33803,17 +33836,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "DE",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -34628,17 +34650,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "DE",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -34650,6 +34661,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "DE",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -34657,6 +34679,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35123,17 +35156,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "DE",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -35163,6 +35185,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37620,17 +37653,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "DE",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -37638,6 +37660,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "DE",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38445,13 +38478,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "DE",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39171,17 +39204,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "DE",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -39189,6 +39211,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "DE",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40403,17 +40436,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "DE",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -40421,6 +40443,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "DE",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40795,6 +40828,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "DE",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41789,17 +41833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "DE",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -41807,6 +41840,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "DE",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41965,17 +42009,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "DE",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -41983,6 +42016,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "DE",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42379,6 +42423,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "DE",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43325,17 +43380,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "DE",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44638,17 +44682,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "FR",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -45463,17 +45496,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "FR",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -45485,6 +45507,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "FR",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -45492,6 +45525,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45958,17 +46002,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "FR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -45998,6 +46031,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48455,17 +48499,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "FR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -48473,6 +48506,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "FR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49280,13 +49324,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "FR",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50006,17 +50050,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "FR",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -50024,6 +50057,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "FR",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51238,17 +51282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "FR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -51256,6 +51289,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "FR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51630,6 +51674,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "FR",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52624,17 +52679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "FR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -52642,6 +52686,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "FR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52800,17 +52855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "FR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -52818,6 +52862,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "FR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53214,6 +53269,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "FR",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54160,17 +54226,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "FR",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55473,17 +55528,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "CN",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -56298,17 +56342,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "CN",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -56320,6 +56353,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "CN",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -56327,6 +56371,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56793,17 +56848,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "CN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -56833,6 +56877,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59290,17 +59345,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "CN",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -59308,6 +59352,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "CN",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60115,13 +60170,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "CN",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60841,17 +60896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "CN",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -60859,6 +60903,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "CN",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62073,17 +62128,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "CN",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -62091,6 +62135,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "CN",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62465,6 +62520,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "CN",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63459,17 +63525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "CN",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -63477,6 +63532,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "CN",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63635,17 +63701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "CN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -63653,6 +63708,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "CN",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64049,6 +64115,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "CN",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64995,17 +65072,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "CN",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66308,17 +66374,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "KR",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -67133,17 +67188,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "KR",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -67155,6 +67199,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "KR",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -67162,6 +67217,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67628,17 +67694,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "KR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -67668,6 +67723,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70125,17 +70191,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "KR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -70143,6 +70198,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "KR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70950,13 +71016,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "KR",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71676,17 +71742,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "KR",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -71694,6 +71749,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "KR",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72908,17 +72974,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "KR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -72926,6 +72981,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "KR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73300,6 +73366,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "KR",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74294,17 +74371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "KR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -74312,6 +74378,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "KR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74470,17 +74547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "KR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -74488,6 +74554,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "KR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74884,6 +74961,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "KR",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75830,17 +75918,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "KR",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77143,17 +77220,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "IN",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -77968,17 +78034,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "IN",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -77990,6 +78045,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "IN",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -77997,6 +78063,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78463,17 +78540,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "IN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -78503,6 +78569,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80960,17 +81037,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "IN",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -80978,6 +81044,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "IN",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81785,13 +81862,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "IN",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82511,17 +82588,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "IN",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -82529,6 +82595,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "IN",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83743,17 +83820,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "IN",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -83761,6 +83827,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "IN",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84135,6 +84212,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "IN",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85129,17 +85217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "IN",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -85147,6 +85224,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "IN",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85305,17 +85393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "IN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -85323,6 +85400,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "IN",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85719,6 +85807,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "IN",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86665,17 +86764,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "IN",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87978,17 +88066,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "BR",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -88803,17 +88880,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "BR",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -88825,6 +88891,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "BR",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -88832,6 +88909,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89298,17 +89386,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "BR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -89338,6 +89415,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91795,17 +91883,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "BR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -91813,6 +91890,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "BR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92620,13 +92708,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "BR",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93346,17 +93434,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "BR",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -93364,6 +93441,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "BR",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94578,17 +94666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "BR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -94596,6 +94673,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "BR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94970,6 +95058,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "BR",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95964,17 +96063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "BR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -95982,6 +96070,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "BR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96140,17 +96239,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "BR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -96158,6 +96246,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "BR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96554,6 +96653,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "BR",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97500,17 +97610,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "BR",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98813,17 +98912,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1420893641",
-    "name": "London: Trafalgar Square",
-    "city": "London",
-    "countryCode": "AU",
-    "lat": 51.5074,
-    "lng": -0.12765,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1099128193",
     "name": "Filisur: Bahnhof",
     "city": "Filisur",
@@ -99638,17 +99726,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
-    "city": "Sankt Moritz",
-    "countryCode": "AU",
-    "lat": 46.48455,
-    "lng": 9.82,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250856",
     "name": "Lisbon › North: Ponte 25 de Abril - PSP - Posto Policial da Ponte 25 de Abril - Almada",
     "city": "unknown",
@@ -99660,6 +99737,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1698744503",
+    "name": "Sankt Moritz › South-west: › South-West",
+    "city": "Sankt Moritz",
+    "countryCode": "AU",
+    "lat": 46.48455,
+    "lng": 9.82,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1349915423",
     "name": "Santa Ursula: Canary Islands - Tenerife - La Quinta",
     "city": "Santa Ursula",
@@ -99667,6 +99755,17 @@
     "lat": 28.42341,
     "lng": -16.4922,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349915423/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100133,17 +100232,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "AU",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -100173,6 +100261,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102630,17 +102729,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "AU",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -102648,6 +102736,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "AU",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103455,13 +103554,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1793892542",
-    "name": "Plymouth › East: Tamar Bridge - A38",
-    "city": "Plymouth",
+    "id": "windy-1222709123",
+    "name": "Itapoa › South-west: Avenida 2551 Beira Mar V - Praia de Itapoá",
+    "city": "Itapoa",
     "countryCode": "AU",
-    "lat": 50.40814,
-    "lng": -4.20339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793892542/original.jpg",
+    "lat": -26.18102,
+    "lng": -48.60039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222709123/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104181,17 +104280,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "AU",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -104199,6 +104287,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "AU",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105413,17 +105512,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "AU",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556429112",
     "name": "Fiordland Community: Kepler Track, Fiordland National Park",
     "city": "Fiordland Community",
@@ -105431,6 +105519,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "AU",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105805,6 +105904,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "AU",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106799,17 +106909,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "AU",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -106817,6 +106916,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "AU",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106975,17 +107085,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "AU",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -106993,6 +107092,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "AU",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107389,6 +107499,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "AU",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108335,17 +108456,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "AU",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
