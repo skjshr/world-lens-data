@@ -110,17 +110,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -2717,6 +2706,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "JP",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -2922,17 +2922,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "JP",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3186,6 +3175,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "JP",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4224,17 +4224,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "JP",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -4242,6 +4231,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "JP",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4396,6 +4396,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "JP",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5324,6 +5335,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "JP",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -5335,13 +5357,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "JP",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9416,17 +9438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "JP",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -9434,6 +9445,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "JP",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9757,13 +9779,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "JP",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9779,13 +9801,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "JP",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10340,17 +10362,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "JP",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -10358,6 +10369,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "JP",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10934,17 +10956,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -13541,6 +13552,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "US",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -13746,17 +13768,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "US",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14010,6 +14021,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "US",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15048,17 +15070,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "US",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -15066,6 +15077,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "US",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15220,6 +15242,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "US",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16148,6 +16181,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "US",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -16159,13 +16203,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "US",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20240,17 +20284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "US",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -20258,6 +20291,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "US",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20581,13 +20625,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "US",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20603,13 +20647,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "US",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21164,17 +21208,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "US",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -21182,6 +21215,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "US",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21758,17 +21802,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -24365,6 +24398,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "GB",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -24570,17 +24614,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "GB",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24834,6 +24867,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "GB",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25872,17 +25916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "GB",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -25890,6 +25923,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "GB",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26044,6 +26088,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "GB",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26972,6 +27027,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "GB",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -26983,13 +27049,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "GB",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31064,17 +31130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "GB",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -31082,6 +31137,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "GB",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31405,13 +31471,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "GB",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31427,13 +31493,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "GB",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31988,17 +32054,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "GB",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -32006,6 +32061,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "GB",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32582,17 +32648,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -35189,6 +35244,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "DE",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -35394,17 +35460,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "DE",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35658,6 +35713,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "DE",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36696,17 +36762,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "DE",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -36714,6 +36769,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "DE",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36868,6 +36934,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "DE",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37796,6 +37873,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "DE",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -37807,13 +37895,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "DE",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41888,17 +41976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "DE",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -41906,6 +41983,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "DE",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42229,13 +42317,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "DE",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42251,13 +42339,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "DE",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42812,17 +42900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "DE",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -42830,6 +42907,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "DE",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43406,17 +43494,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -46013,6 +46090,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "FR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -46218,17 +46306,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "FR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46482,6 +46559,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "FR",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47520,17 +47608,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "FR",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -47538,6 +47615,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "FR",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47692,6 +47780,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "FR",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48620,6 +48719,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "FR",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -48631,13 +48741,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "FR",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52712,17 +52822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "FR",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -52730,6 +52829,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "FR",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53053,13 +53163,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "FR",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53075,13 +53185,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "FR",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53636,17 +53746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "FR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -53654,6 +53753,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "FR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54230,17 +54340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -56837,6 +56936,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "CN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -57042,17 +57152,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "CN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57306,6 +57405,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "CN",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58344,17 +58454,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "CN",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -58362,6 +58461,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "CN",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58516,6 +58626,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "CN",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59444,6 +59565,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "CN",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -59455,13 +59587,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "CN",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63536,17 +63668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "CN",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -63554,6 +63675,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "CN",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63877,13 +64009,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "CN",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63899,13 +64031,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "CN",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64460,17 +64592,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "CN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -64478,6 +64599,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "CN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65054,17 +65186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -67661,6 +67782,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "KR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -67866,17 +67998,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "KR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68130,6 +68251,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "KR",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69168,17 +69300,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "KR",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -69186,6 +69307,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "KR",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69340,6 +69472,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "KR",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70268,6 +70411,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "KR",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -70279,13 +70433,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "KR",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74360,17 +74514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "KR",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -74378,6 +74521,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "KR",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74701,13 +74855,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "KR",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74723,13 +74877,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "KR",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75284,17 +75438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "KR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -75302,6 +75445,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "KR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75878,17 +76032,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -78485,6 +78628,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "IN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -78690,17 +78844,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "IN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78954,6 +79097,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "IN",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79992,17 +80146,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "IN",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -80010,6 +80153,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "IN",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80164,6 +80318,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "IN",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81092,6 +81257,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "IN",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -81103,13 +81279,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "IN",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85184,17 +85360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "IN",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -85202,6 +85367,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "IN",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85525,13 +85701,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "IN",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85547,13 +85723,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "IN",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86108,17 +86284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "IN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -86126,6 +86291,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "IN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86702,17 +86878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -89309,6 +89474,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "BR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -89514,17 +89690,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "BR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89778,6 +89943,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "BR",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90816,17 +90992,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "BR",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -90834,6 +90999,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "BR",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90988,6 +91164,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "BR",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91916,6 +92103,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "BR",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -91927,13 +92125,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "BR",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96008,17 +96206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "BR",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -96026,6 +96213,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "BR",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96349,13 +96547,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "BR",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96371,13 +96569,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "BR",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96932,17 +97130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "BR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -96950,6 +97137,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "BR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97526,17 +97724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -100133,6 +100320,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "AU",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -100338,17 +100536,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "AU",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100602,6 +100789,17 @@
     "lat": 37.02195,
     "lng": -8.92476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1190446582/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651451",
+    "name": "Arolla › South-west: Pigne d'Arolla",
+    "city": "Arolla",
+    "countryCode": "AU",
+    "lat": 46.02599,
+    "lng": 7.47766,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101640,17 +101838,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1423223033",
-    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
-    "city": "Langnau am Albis",
-    "countryCode": "AU",
-    "lat": 47.27626,
-    "lng": 8.52166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697029358",
     "name": "Ollon: Villars-sur-Ollon",
     "city": "Ollon",
@@ -101658,6 +101845,17 @@
     "lat": 46.33152,
     "lng": 7.06704,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1423223033",
+    "name": "Langnau am Albis › South: Albispass - Zürich, Schweiz",
+    "city": "Langnau am Albis",
+    "countryCode": "AU",
+    "lat": 47.27626,
+    "lng": 8.52166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1423223033/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101812,6 +102010,17 @@
     "lat": 49.29002,
     "lng": 19.98224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229944284/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1141651608",
+    "name": "Arolla: Mont-Collon",
+    "city": "Arolla",
+    "countryCode": "AU",
+    "lat": 46.0265,
+    "lng": 7.47727,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1141651608/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102740,6 +102949,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1401283880",
+    "name": "Monte: Pico do Arieiro",
+    "city": "Monte",
+    "countryCode": "AU",
+    "lat": 32.73565,
+    "lng": -16.92846,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1602865598",
     "name": "Kota Kinabalu",
     "city": "Kota Kinabalu",
@@ -102751,13 +102971,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1401283880",
-    "name": "Monte: Pico do Arieiro",
-    "city": "Monte",
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
     "countryCode": "AU",
-    "lat": 32.73565,
-    "lng": -16.92846,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106832,17 +107052,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1425650668",
-    "name": "Lecce: Puglia, Italia",
-    "city": "Lecce",
-    "countryCode": "AU",
-    "lat": 40.35497,
-    "lng": 18.17252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520465861",
     "name": "Malaga: Nueva Málaga",
     "city": "Malaga",
@@ -106850,6 +107059,17 @@
     "lat": 36.72599,
     "lng": -4.44411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1425650668",
+    "name": "Lecce: Puglia, Italia",
+    "city": "Lecce",
+    "countryCode": "AU",
+    "lat": 40.35497,
+    "lng": 18.17252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1425650668/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107173,13 +107393,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
+    "id": "windy-1309097534",
+    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
+    "city": "Rovaniemi",
     "countryCode": "AU",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
+    "lat": 66.50386,
+    "lng": 25.7252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107195,13 +107415,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1309097534",
-    "name": "Rovaniemi: Tie 4 Tie 4 - Revontuli pohjoinen - Revontuli pohj",
-    "city": "Rovaniemi",
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
     "countryCode": "AU",
-    "lat": 66.50386,
-    "lng": 25.7252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309097534/original.jpg",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107756,17 +107976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "AU",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -107774,6 +107983,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "AU",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
