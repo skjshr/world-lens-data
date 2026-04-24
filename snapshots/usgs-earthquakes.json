@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssmp",
+    "type": "earthquake",
+    "lat": -8.4704,
+    "lng": 123.9891,
+    "intensity": 4.5,
+    "timestamp": "2026-04-24T16:10:57.219Z",
+    "description": "M 4.5 - 91 km NNW of Pante Makasar, Timor Leste",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssjg",
     "type": "earthquake",
     "lat": -27.92,
