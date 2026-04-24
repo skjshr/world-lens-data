@@ -1859,17 +1859,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "JP",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -7271,17 +7260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "JP",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -7931,6 +7909,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -7993,6 +7982,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "JP",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12694,17 +12694,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "US",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -18106,17 +18095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "US",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -18766,6 +18744,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -18828,6 +18817,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "US",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23529,17 +23529,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "GB",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -28941,17 +28930,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "GB",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -29601,6 +29579,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -29663,6 +29652,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "GB",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34364,17 +34364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "DE",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -39776,17 +39765,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "DE",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -40436,6 +40414,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -40498,6 +40487,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "DE",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45199,17 +45199,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "FR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -50611,17 +50600,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "FR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -51271,6 +51249,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -51333,6 +51322,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "FR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56034,17 +56034,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "CN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -61446,17 +61435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "CN",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -62106,6 +62084,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -62168,6 +62157,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "CN",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66869,17 +66869,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "KR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -72281,17 +72270,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "KR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -72941,6 +72919,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -73003,6 +72992,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "KR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77704,17 +77704,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "IN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -83116,17 +83105,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "IN",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -83776,6 +83754,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -83838,6 +83827,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "IN",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88539,17 +88539,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "BR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -93951,17 +93940,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "BR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -94611,6 +94589,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -94673,6 +94662,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "BR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99374,17 +99374,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "AU",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -104786,17 +104775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "AU",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -105446,6 +105424,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697039326",
     "name": "Zurich: Unterstrass: Zürich West",
     "city": "Zurich",
@@ -105508,6 +105497,17 @@
     "lat": 43.23926,
     "lng": 17.07692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396521994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "AU",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
