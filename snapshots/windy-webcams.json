@@ -616,17 +616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "JP",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -1848,17 +1837,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "JP",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -2706,17 +2684,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "JP",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -2944,17 +2911,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "JP",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3846,6 +3802,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "JP",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6387,17 +6354,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "JP",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11418,17 +11374,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "US",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -12650,17 +12595,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "US",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -13508,17 +13442,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "US",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -13746,17 +13669,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "US",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14648,6 +14560,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "US",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17189,17 +17112,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "US",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22220,17 +22132,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "GB",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -23452,17 +23353,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "GB",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -24310,17 +24200,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -24548,17 +24427,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "GB",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25450,6 +25318,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "GB",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27991,17 +27870,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "GB",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33022,17 +32890,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "DE",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -34254,17 +34111,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "DE",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -35112,17 +34958,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -35350,17 +35185,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "DE",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36252,6 +36076,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "DE",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38793,17 +38628,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "DE",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43824,17 +43648,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "FR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -45056,17 +44869,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "FR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -45914,17 +45716,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -46152,17 +45943,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "FR",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47054,6 +46834,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "FR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49595,17 +49386,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "FR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54626,17 +54406,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "CN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -55858,17 +55627,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "CN",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -56716,17 +56474,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -56954,17 +56701,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "CN",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57856,6 +57592,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "CN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60397,17 +60144,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "CN",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65428,17 +65164,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "KR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -66660,17 +66385,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "KR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -67518,17 +67232,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -67756,17 +67459,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "KR",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68658,6 +68350,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "KR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71199,17 +70902,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "KR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76230,17 +75922,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "IN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -77462,17 +77143,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "IN",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -78320,17 +77990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -78558,17 +78217,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "IN",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79460,6 +79108,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "IN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82001,17 +81660,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "IN",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87032,17 +86680,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "BR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -88264,17 +87901,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "BR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -89122,17 +88748,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -89360,17 +88975,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "BR",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90262,6 +89866,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "BR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92803,17 +92418,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "BR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97834,17 +97438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "AU",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -99066,17 +98659,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "AU",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -99924,17 +99506,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326831618",
     "name": "Hartberg › South: Ring - Stadtpfarrkirche hl. Martin Hartberg",
     "city": "Hartberg",
@@ -100162,17 +99733,6 @@
     "lat": 15.22906,
     "lng": 120.60006,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "AU",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101064,6 +100624,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "AU",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103605,17 +103176,6 @@
     "lat": 47.48464,
     "lng": 6.92703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212847240/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "AU",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
