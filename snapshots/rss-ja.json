@@ -1,15 +1,690 @@
 [
   {
-    "id": "NHK-6-424/k10015107191000.html",
-    "headline": "“エプスタイン文書”公開 適切に実施か 米司法省が内部調査へ",
+    "id": "The Hindu-0-ates/article70900317.ece",
+    "headline": "One killed, two admitted as group of people falls into pit at under-construction site in Mumbai’s Bhandup",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/mumbai/group-of-people-falls-into-pit-at-under-construction-site-in-mumbai-updates/article70900317.ece",
+    "publishedAt": "2026-04-24T06:08:00.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-1-dson/article70900368.ece",
+    "headline": "Economic growth, prosperity remain primary impulse for changes in India: Vinay Kwatra",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/ambassador-to-us-vinay-kwatra-new-india-conference-hudson/article70900368.ece",
+    "publishedAt": "2026-04-24T06:08:00.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-2-iver/article70900328.ece",
+    "headline": "Telangana Transport Minister condoles death of RTC driver",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/telangana/telangana-transport-minister-condoles-death-of-rtc-driver/article70900328.ece",
+    "publishedAt": "2026-04-24T06:07:03.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-3-tion/article70897478.ece",
+    "headline": "MLA take dig at Priyank Kharge for Kalaburagi’s last rank in SSLC examination",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/Mangalore/mla-bjp-take-a-dig-at-priyank-kharge-for-kalaburagis-last-rank-in-sslc-examination/article70897478.ece",
+    "publishedAt": "2026-04-24T06:05:11.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-0-s-de-tenis-de-mesa.ghtml",
+    "headline": "Robô supera jogadores humanos profissionais em partidas de tênis de mesa",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/inovacao/noticia/2026/04/24/robo-supera-jogadores-humanos-profissionais-em-partidas-de-tenis-de-mesa.ghtml",
+    "publishedAt": "2026-04-24T06:01:13.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-1-e-que-contar-moeda.ghtml",
+    "headline": "Edson, da dupla com Hudson, relembra quando pagou R$ 10 para entrar no próprio show: 'Tive que contar moeda'",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/campinas-regiao/e-pra-cantar/noticia/2026/04/24/edson-da-dupla-com-hudson-relembra-quando-pagou-r-10-para-entrar-no-proprio-show-tive-que-contar-moeda.ghtml",
+    "publishedAt": "2026-04-24T06:01:07.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-2-ortes-tradicionais.ghtml",
+    "headline": "Costela e vazio ou 'flat iron' e 'prime rib'? Jovens assadores mudam perfil do churrasco e apostam em carnes nobres em detrimento de cortes tradicionais",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/24/costela-e-vazio-ou-flat-iron-e-prime-rib-jovens-assadores-mudam-perfil-do-churrasco-e-apostam-em-carnes-nobres-em-detrimento-de-cortes-tradicionais.ghtml",
+    "publishedAt": "2026-04-24T06:01:03.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "The Hindu-4-ffic/article70897142.ece",
+    "headline": "Double-decker cuts time for ORR commuters, hits Aurobindo Marg traffic",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/double-decker-cuts-time-for-orr-commuters-hits-aurobindo-marg-traffic/article70897142.ece",
+    "publishedAt": "2026-04-24T06:00:42.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-3-s-de-elite-nos-eua.ghtml",
+    "headline": "Celular só aos 15, alfabetização no hospital: como gêmeos brasileiros de 18 anos chegaram a universidades de elite nos EUA",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/educacao/noticia/2026/04/24/celular-so-aos-15-alfabetizacao-no-hospital-como-gemeos-brasileiros-de-18-anos-chegaram-a-universidades-de-elite-nos-eua.ghtml",
+    "publishedAt": "2026-04-24T06:00:36.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-4-onge-mostra-estudo.ghtml",
+    "headline": "Salmão exposto à cocaína nada mais longe, mostra estudo",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/meio-ambiente/noticia/2026/04/24/salmao-exposto-a-cocaina-nada-mais-longe-mostra-estudo.ghtml",
+    "publishedAt": "2026-04-24T06:00:35.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-5-urso-internacional.ghtml",
+    "headline": "Com leite ordenhado no amanhecer, queijo de SC vence concurso internacional",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sc/santa-catarina/noticia/2026/04/24/com-leite-ordenhado-amanhecer-queijo-sc-vence-concurso-internacional.ghtml",
+    "publishedAt": "2026-04-24T06:00:34.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-6--intrigam-biologos.ghtml",
+    "headline": "Tartarugas-cabeçudas, como 'Jorge', voltam a aparecer na Baía de Guanabara e intrigam biólogos",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/24/tartarugas-cabecudas-como-jorge-voltam-a-aparecer-na-baia-de-guanabara-e-intrigam-biologos.ghtml",
+    "publishedAt": "2026-04-24T06:00:33.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "NHK国際-0-424/k10015107311000.html",
+    "headline": "“北朝鮮に無人機飛ばす指示”韓国ユン前大統領に懲役30年求刑",
+    "sourceName": "NHK国際",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107311000.html",
+    "publishedAt": "2026-04-24T05:59:24.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Hindu-5-plea/article70900553.ece",
+    "headline": "Gauhati High Court rejects Pawan Khera’s anticipatory bail plea",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/assam/gauhati-high-court-rejects-pawan-kheras-anticipatory-bail-plea/article70900553.ece",
+    "publishedAt": "2026-04-24T05:58:40.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-6-l-26/article70897466.ece",
+    "headline": "Bengaluru metro services to start early for TCS World 10K on April 26",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/bengaluru-metro-services-to-start-early-for-tcs-world-10k-on-april-26/article70897466.ece",
+    "publishedAt": "2026-04-24T05:57:45.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "NHK経済-0-424/k10015107321000.html",
+    "headline": "オンラインカジノ規制強化策“ブロッキング導入は検証が必要”",
+    "sourceName": "NHK経済",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107321000.html",
+    "publishedAt": "2026-04-24T05:57:15.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Hindu-7-ay-9/article70897607.ece",
+    "headline": "Convention to mark 50 years of public life of BSY to be held on May 9, prep to commence on April 26",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/karnataka/convention-to-mark-50-years-of-public-life-of-bsy-to-be-held-on-may-9/article70897607.ece",
+    "publishedAt": "2026-04-24T05:55:11.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "France 24-0-at-chance-for-peace-deal",
+    "headline": "Israel, Lebanon extend ceasefire as Trump says ‘great chance’ for peace deal",
+    "sourceName": "France 24",
+    "sourceUrl": "https://www.france24.com/en/middle-east/20260424-israel-lebanon-extend-ceasefire-as-trump-says-great-chance-for-peace-deal",
+    "publishedAt": "2026-04-24T05:52:49.000Z",
+    "countryCode": "FR",
+    "lang": "en"
+  },
+  {
+    "id": "The Guardian-25-ait-israel-lebanon-truce",
+    "headline": "Middle East crisis live: Trump orders US to ‘shoot and kill’ boats laying mines in Hormuz strait; Israel-Lebanon truce extended",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
+    "publishedAt": "2026-04-24T05:52:31.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-8-ence/article70896652.ece",
+    "headline": "West Bengal election 2026: Record turnout of over 92% in first phase amidst isolated incidents of violence",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-first-phase-of-polling-scattered-violence/article70896652.ece",
+    "publishedAt": "2026-04-24T05:49:40.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-9-ents/article70897625.ece",
+    "headline": "Mental health institution, organisations facilitate voting for residents",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/mental-health-institution-organisations-facilitate-voting-for-residents/article70897625.ece",
+    "publishedAt": "2026-04-24T05:46:58.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Guardian-15--anthony-albanese-ntwnfb",
+    "headline": "Australia news live: US approves first major Aukus submarine contract; Harvey Norman facing class action for alleged ‘misleading’ ads",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/apr/24/andrew-hastie-us-defence-ndis-reform-cuts-budget-gas-export-fuel-crisis-jim-chalmers-anthony-albanese-ntwnfb",
+    "publishedAt": "2026-04-24T05:45:52.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-10-e-cm/article70898187.ece",
+    "headline": "Make sure medicines, vaccines are available: CM",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/make-sure-medicines-vaccines-are-available-cm/article70898187.ece",
+    "publishedAt": "2026-04-24T05:45:06.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-0--iran?traffic_source=rss",
+    "headline": "How fake AI victims are being used to provide rationale for attacking Iran",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/24/how-fake-ai-victims-are-being-used-to-provide-rationale-for-attacking-iran?traffic_source=rss",
+    "publishedAt": "2026-04-24T05:44:11.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-11-city/article70898415.ece",
+    "headline": "Dr. Radhakrishnan Nagar registers the highest turnout in Chennai",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/dr-radhakrishnan-nagar-registers-the-highest-turnout-in-the-city/article70898415.ece",
+    "publishedAt": "2026-04-24T05:43:24.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-12-lity/article70897704.ece",
+    "headline": "What Telangana’s survey shows about caste inequality",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/telangana/what-telanganas-survey-shows-about-caste-inequality/article70897704.ece",
+    "publishedAt": "2026-04-24T05:43:07.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-13-ngal/article70900315.ece",
+    "headline": "Assembly Elections 2026 LIVE: ECI issues fresh post-poll guidelines for West Bengal",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-24-2026-tamil-nadu-kerala-puducherry-assam-west-bengal/article70900315.ece",
+    "publishedAt": "2026-04-24T05:41:20.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "NHK-6-424/k10015107241000.html",
+    "headline": "米司法省“ベネズエラ作戦の賭けで6500万円” 兵士を起訴",
     "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107241000.html",
+    "publishedAt": "2026-04-24T05:41:13.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Hindu-14-uram/article70897748.ece",
+    "headline": "Karur stampede is yet to fade from memory of voters at Velusamypuram",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/the-karur-stampede-is-yet-to-fade-from-the-memory-of-the-voters-at-velusamypuram/article70897748.ece",
+    "publishedAt": "2026-04-24T05:39:13.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-15-rial/article70900527.ece",
+    "headline": "Watch: Manipur sees little respite despite a change of guard under the BJP | The Hindu Editorial",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/videos/watch-manipur-sees-little-respite-despite-a-change-of-guard-under-the-bjp-the-hindu-editorial/article70900527.ece",
+    "publishedAt": "2026-04-24T05:36:37.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-5-3-8948-197b11d0f491.html",
+    "headline": "Medio Oriente - Cnn, 'Usa pianificano attacchi all'Iran su Hormuz se salta la tregua'",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/24/medio-oriente-cnn-usa-pianificano-attacchi-alliran-su-hormuz-se-salta-la-tregua_ed5a6356-1c54-4643-8948-197b11d0f491.html",
+    "publishedAt": "2026-04-24T05:36:15.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "The Hindu-16-bers/article70898471.ece",
+    "headline": "Despite heat, senior citizens step out to vote in large numbers",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/despite-heat-senior-citizens-step-out-to-vote-in-large-numbers/article70898471.ece",
+    "publishedAt": "2026-04-24T05:32:32.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-17-swap/article70900411.ece",
+    "headline": "India approves ₹30 billion for Maldives under SAARC swap",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/india-approves-30-billion-withdrawal-to-maldives-under-saarc-swap/article70900411.ece",
+    "publishedAt": "2026-04-24T05:29:29.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-18-epot/article70900437.ece",
+    "headline": "Tension escalates in Telangana’s Warangal as RTC workers demand deceased driver’s mortal remains be taken to bus depot",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/telangana/tension-escalates-in-telanganas-warangal-as-rtc-workers-demand-deceased-drivers-mortal-remains-be-taken-to-bus-depot/article70900437.ece",
+    "publishedAt": "2026-04-24T05:27:36.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "France 24-1-amal-after-muscle-injury",
+    "headline": "Season over for Lamine Yamal after muscle injury",
+    "sourceName": "France 24",
+    "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260424-season-over-for-lamine-yamal-after-muscle-injury",
+    "publishedAt": "2026-04-24T05:26:46.000Z",
+    "countryCode": "FR",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-16-c-bef9-4c980f7e1a27.html",
+    "headline": "Terremoto di magnitudo 5.8 al largo della costa di Creta",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/24/terremoto-di-magnitudo-5.8-al-largo-della-costa-di-creta_e7782d57-97bb-4b8c-bef9-4c980f7e1a27.html",
+    "publishedAt": "2026-04-24T05:26:26.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "NHK-1-424/k10015107181000.html",
+    "headline": "「OTC類似薬」追加負担求める改正案が可決 衆院厚生労働委員会",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107181000.html",
+    "publishedAt": "2026-04-24T05:25:49.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "g1 Globo-7-ricanas-diz-jornal.ghtml",
+    "headline": "Trump ameaça Reino Unido com 'grande tarifa' por imposto sobre big techs americanas, diz jornal",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/economia/noticia/2026/04/24/trump-ameaca-reino-unido-com-grande-tarifa-por-imposto-sobre-big-techs-americanas-diz-jornal.ghtml",
+    "publishedAt": "2026-04-24T05:25:23.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "DW-0-a=en-rss-en-all-1573-rdf",
+    "headline": "China's DeepSeek launches preview of new AI model",
+    "sourceName": "DW",
+    "sourceUrl": "https://www.dw.com/en/china-s-deepseek-launches-preview-of-new-ai-model/a-76919223?maca=en-rss-en-all-1573-rdf",
+    "publishedAt": "2026-04-24T05:25:00.000Z",
+    "countryCode": "DE",
+    "lang": "en"
+  },
+  {
+    "id": "NHK-2-424/k10015107281000.html",
+    "headline": "熱中症を防ぐ “暑熱順化”で今から暑さに強い体に【Q＆A】",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107281000.html",
+    "publishedAt": "2026-04-24T05:23:05.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Hindu-19-ment/article70898190.ece",
+    "headline": "First-time voters exercise their franchise with overwhelming excitement",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/first-time-voters-exercise-their-franchise-with-overwhelming-excitement/article70898190.ece",
+    "publishedAt": "2026-04-24T05:22:16.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-20-aphy/article70900439.ece",
+    "headline": "PM takes boat ride on Hooghly river in Kolkata, tries his hand at photography",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/west-bengal-assembly/pm-takes-boat-ride-on-hooghly-river-in-kolkata-tries-his-hand-at-photography/article70900439.ece",
+    "publishedAt": "2026-04-24T05:20:13.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-21-tion/article70898707.ece",
+    "headline": "Post-SIR electorate drop drives turnout surge; votes remain steady compared to 2021 election",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/post-sir-electorate-drop-drives-turnout-surge-votes-remain-steady-compared-to-2021-election/article70898707.ece",
+    "publishedAt": "2026-04-24T05:18:43.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-1--tech?traffic_source=rss",
+    "headline": "China’s DeepSeek unveils latest models a year after upending global tech",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech?traffic_source=rss",
+    "publishedAt": "2026-04-24T05:17:27.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-22-ists/article70900207.ece",
+    "headline": "Delhi HC questions police over allegations of illegal detention, torture of activists",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-pulls-up-police-over-allegations-of-illegal-detention-torture-of-activists/article70900207.ece",
+    "publishedAt": "2026-04-24T05:14:53.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-23-oked/article70900433.ece",
+    "headline": "Another ‘godman’ in Nashik faces allegations of sexual exploitation, booked",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/another-godman-in-nashik-faces-allegations-of-sexual-exploitation-booked/article70900433.ece",
+    "publishedAt": "2026-04-24T05:10:34.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-14-c-a7a3-44c672feb91d.html",
+    "headline": "Trump: 'L'Italia invece dell'Iran ai Mondiali? Non ci sto pensando'",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/24/trump-litalia-invece-delliran-ai-mondiali-non-ci-sto-pensando-_28e577ba-34e6-429c-a7a3-44c672feb91d.html",
+    "publishedAt": "2026-04-24T05:09:18.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "The Hindu-24-tack/article70898171.ece",
+    "headline": "Odisha issues SOP for safety of census enumerators following incidents of attack",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/odisha/odisha-issues-sop-for-safety-of-census-enumerators-following-incidents-of-attack/article70898171.ece",
+    "publishedAt": "2026-04-24T05:08:42.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-8-atou-menino-4-anos.ghtml",
+    "headline": "'Chegou com ele nos braços': vizinhos relatam terror em ataque de rottweiler que matou menino de 4 anos em SC",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sc/santa-catarina/noticia/2026/04/24/chegou-ele-bracos-vizinhos-relatam-terror-ataque-rottweiler-matou-menino-4-anos.ghtml",
+    "publishedAt": "2026-04-24T05:01:33.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-9-e-nos-eua-e-brasil.ghtml",
+    "headline": "Denúncia contra empresa de MrBeast: quais as diferenças na licença-maternidade nos EUA e Brasil",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/24/denuncia-contra-empresa-de-mrbeast-quais-as-diferencas-na-licenca-maternidade-nos-eua-e-brasil.ghtml",
+    "publishedAt": "2026-04-24T05:01:23.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-10-s-e-ciclo-de-abuso.ghtml",
+    "headline": "Violência contra a mulher cresce 17% no Vale do Paraíba; vítimas relatam agressões e ciclo de abuso",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/04/24/violencia-contra-a-mulher-cresce-17percent-no-vale-do-paraiba-vitimas-relatam-agressoes-e-ciclo-de-abuso.ghtml",
+    "publishedAt": "2026-04-24T05:00:39.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-11-to-no-centro-de-sp.ghtml",
+    "headline": "Tarcísio participa de anúncio da 'Times Square de SP' e usa IA para turbinar projeto no Centro de SP",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/04/24/tarcisio-participa-de-anuncio-da-times-square-de-sp-e-usa-ia-para-turbinar-projeto-no-centro-de-sp.ghtml",
+    "publishedAt": "2026-04-24T05:00:38.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-12-im-de-semana-no-df.ghtml",
+    "headline": "'Cê Tá Doido' e festival com Capital Inicial, Nando Reis e Chico Chico agitam fim de semana no DF",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/04/24/ce-ta-doido-e-festival-com-capital-inicial-nando-reis-e-chico-chico-agitam-fim-de-semana-no-df.ghtml",
+    "publishedAt": "2026-04-24T05:00:36.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-13--inicio-do-mandato.ghtml",
+    "headline": "Trump faz 'limpa' no alto escalão militar em meio a guerra; veja os principais exonerados desde o início do mandato",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/24/trump-faz-limpa-no-alto-escalao-militar-em-meio-a-guerra-veja-os-principais-exonerados-desde-o-inicio-do-mandato.ghtml",
+    "publishedAt": "2026-04-24T05:00:35.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-14-a-federal-para-usp.ghtml",
+    "headline": "Clube náutico diz ser dono legítimo de aeronave soviética abandonada em SP após doação da Receita Federal para USP",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/04/24/clube-nautico-diz-ser-dono-legitimo-de-aeronave-sovietica-abandonada-em-sp-apos-doacao-da-receita-federal-para-usp.ghtml",
+    "publishedAt": "2026-04-24T05:00:34.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-15-pagamento-a-bancos.ghtml",
+    "headline": "Aumento de despesas com precatórios travou receita dos Correios para garantir pagamento a bancos",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/politica/noticia/2026/04/24/aumento-de-despesas-com-precatorios-travou-receita-dos-correios-para-garantir-pagamento-a-bancos.ghtml",
+    "publishedAt": "2026-04-24T05:00:33.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "The Guardian-20--sanctions-did-not-apply",
+    "headline": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
+    "publishedAt": "2026-04-24T05:00:32.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "BBC World-26-dium=RSS&at_campaign=rss",
+    "headline": "Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
+    "sourceName": "BBC World",
+    "sourceUrl": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-24T05:00:29.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-25-tion/article70897534.ece",
+    "headline": "The real equity gap in higher education",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/the-real-equity-gap-in-higher-education/article70897534.ece",
+    "publishedAt": "2026-04-24T04:59:32.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-26-down/article70898132.ece",
+    "headline": "Kerala on the brink of heatwave, Chief Minister calls for ‘self-lockdown’",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/kerala/kerala-on-the-brink-of-heatwave-chief-minister-calls-for-self-lockdown/article70898132.ece",
+    "publishedAt": "2026-04-24T04:58:40.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "DW-1-a=en-rss-en-all-1573-rdf",
+    "headline": "Israel, Lebanon to extend ceasefire as US-Iran talks stall",
+    "sourceName": "DW",
+    "sourceUrl": "https://www.dw.com/en/israel-lebanon-to-extend-ceasefire-as-us-iran-talks-stall/live-76918799?maca=en-rss-en-all-1573-rdf",
+    "publishedAt": "2026-04-24T04:58:00.000Z",
+    "countryCode": "DE",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-27-anka/article70897308.ece",
+    "headline": "Two delivery executives arrested for harassing woman at Yelahanka in Bengaluru",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/karnataka/two-delivery-executives-arrested-for-harassing-woman-in-yelahanka/article70897308.ece",
+    "publishedAt": "2026-04-24T04:57:11.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-28-gana/article70897223.ece",
+    "headline": "High healthcare cost, lower ante-natal and post-natal costs in Telangana",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/telangana/high-healthcare-cost-lower-ante-natal-and-post-natal-costs-in-telangana/article70897223.ece",
+    "publishedAt": "2026-04-24T04:54:37.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "NHK-0-424/k10015107301000.html",
+    "headline": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107301000.html",
+    "publishedAt": "2026-04-24T04:52:35.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Hindu-29-cies/article70898633.ece",
+    "headline": "Tamil Nadu may witness close contests in many constituencies",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/state-may-witness-close-contests-in-many-constituencies/article70898633.ece",
+    "publishedAt": "2026-04-24T04:51:48.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "France 24-2-g-awaited-new-ai-model-1",
+    "headline": "China's DeepSeek says releases long-awaited new AI model",
+    "sourceName": "France 24",
+    "sourceUrl": "https://www.france24.com/en/live-news/20260424-china-s-deepseek-says-releases-long-awaited-new-ai-model-1",
+    "publishedAt": "2026-04-24T04:39:12.000Z",
+    "countryCode": "FR",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-16-nados-oklahoma-eua.ghtml",
+    "headline": "Dez ficam feridos após tornados atingirem Oklahoma nos EUA, diz mídia  local",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/24/-tornados-oklahoma-eua.ghtml",
+    "publishedAt": "2026-04-24T04:29:48.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "NHK-4-424/k10015107231000.html",
+    "headline": "スポーツ見る機会確保のあり方 有識者会議を設置し論点整理へ",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107231000.html",
+    "publishedAt": "2026-04-24T04:20:16.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "NHK国際-2-424/k10015107121000.html",
+    "headline": "フィリピン マルコス大統領 来月下旬に国賓として訪日へ",
+    "sourceName": "NHK国際",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107121000.html",
+    "publishedAt": "2026-04-24T04:18:09.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "NHK経済-2-424/k10015107211000.html",
+    "headline": "イラン情勢受けた節約の呼びかけ“規制的手法は考えず”経産相",
+    "sourceName": "NHK経済",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107211000.html",
+    "publishedAt": "2026-04-24T04:01:27.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Guardian-16--defamation-trial-ntwnfb",
+    "headline": "Actor felt ‘mocked’ by Rebel Wilson’s wife in Instagram post referencing Finding Nemo, court hears",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/film/2026/apr/24/actor-mocked-rebel-wilson-wife-instagram-post-defamation-trial-ntwnfb",
+    "publishedAt": "2026-04-24T04:00:50.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-17-o-na-ilha-do-diabo.ghtml",
+    "headline": "Ditadura na Amazônia: ex-preso político de 92 anos relembra prisão e tortura psicológica em presídio na antiga ‘Ilha do Diabo’",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/pa/para/noticia/2026/04/24/ditadura-na-amazonia-ex-preso-politico-de-92-anos-relembra-prisao-e-tortura-psicologica-em-presidio-na-ilha-do-diabo.ghtml",
+    "publishedAt": "2026-04-24T04:00:34.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "The Guardian-21--delays-pollution-report",
+    "headline": "Largest-ever ban on toxic chemicals in EU hit by ‘extremely frustrating’ delays",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/environment/2026/apr/24/toxic-chemicals-eu-delays-pollution-report",
+    "publishedAt": "2026-04-24T04:00:30.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "DW-2-a=en-rss-en-all-1573-rdf",
+    "headline": "Meta, Microsoft purge jobs amid AI build-up",
+    "sourceName": "DW",
+    "sourceUrl": "https://www.dw.com/en/meta-microsoft-purge-jobs-amid-ai-build-up/a-76918848?maca=en-rss-en-all-1573-rdf",
+    "publishedAt": "2026-04-24T03:54:00.000Z",
+    "countryCode": "DE",
+    "lang": "en"
+  },
+  {
+    "id": "The Guardian-10-david-pocock-fuel-supply",
+    "headline": "Anthony Albanese accused of ‘caving to gas companies’ as Labor set to reject new export tax",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/apr/24/labor-albanese-gas-tax-caving-david-pocock-fuel-supply",
+    "publishedAt": "2026-04-24T03:49:09.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "NHK国際-3-424/k10015107191000.html",
+    "headline": "“エプスタイン文書”公開 適切に実施か米司法省が内部調査へ",
+    "sourceName": "NHK国際",
     "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107191000.html",
     "publishedAt": "2026-04-24T03:48:43.000Z",
     "countryCode": "JP",
     "lang": "ja"
   },
   {
-    "id": "NHK経済-0-424/k10015107031000.html",
+    "id": "NHK経済-3-424/k10015107031000.html",
     "headline": "【きょうのおはBiz 4月24日(金)】TOB中止勧告 ポイントを整理",
     "sourceName": "NHK経済",
     "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107031000.html",
@@ -18,7 +693,7 @@
     "lang": "ja"
   },
   {
-    "id": "DW-0-a=en-rss-en-all-1573-rdf",
+    "id": "DW-3-a=en-rss-en-all-1573-rdf",
     "headline": "US soldier allegedly made $400k on Polymarket betting on Maduro raid",
     "sourceName": "DW",
     "sourceUrl": "https://www.dw.com/en/us-soldier-allegedly-made-400k-on-polymarket-betting-on-maduro-raid/a-76918858?maca=en-rss-en-all-1573-rdf",
@@ -27,7 +702,7 @@
     "lang": "en"
   },
   {
-    "id": "g1 Globo-0-pel-o-assunto-1706.ghtml",
+    "id": "g1 Globo-18-pel-o-assunto-1706.ghtml",
     "headline": "Reforma do Judiciário: as chances de sair do papel - O Assunto #1706",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/podcast/o-assunto/noticia/2026/04/24/reforma-do-judiciario-as-chances-de-sair-do-papel-o-assunto-1706.ghtml",
@@ -36,7 +711,52 @@
     "lang": "pt"
   },
   {
-    "id": "NHK-0-424/k10015106911000.html",
+    "id": "El País-2--prioridad-nacional.html",
+    "headline": "Así harán PP y Vox que funcione su “prioridad nacional”",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/podcasts/hoy-en-el-pais/2026-04-24/asi-haran-pp-y-vox-que-funcione-su-prioridad-nacional.html",
+    "publishedAt": "2026-04-24T03:45:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-18-n-economica-de-iran.html",
+    "headline": "El cerco marítimo estadounidense agrava la frágil situación económica de Irán",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/internacional/2026-04-24/el-cerco-maritimo-estadounidense-agrava-la-fragil-situacion-economica-de-iran.html",
+    "publishedAt": "2026-04-24T03:45:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-19-etario-de-la-armada.html",
+    "headline": "Nadie está seguro en el Gobierno de Trump: la purga en el Pentágono sigue con el despido del secretario de la Armada",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/internacional/2026-04-24/nadie-esta-seguro-en-el-gobierno-de-trump-la-purga-en-el-pentagono-sigue-con-el-despido-del-secretario-de-la-armada.html",
+    "publishedAt": "2026-04-24T03:45:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-21-nsmite-sin-palabras.html",
+    "headline": "El genocidio armenio, un dolor que se transmite sin palabras",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/internacional/2026-04-24/el-genocidio-armenio-un-dolor-que-se-transmite-sin-palabras.html",
+    "publishedAt": "2026-04-24T03:45:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-5-ncion-de-farruquito.html",
+    "headline": "“El duende no visita a cualquiera; si no, ¿donde estaría la magia?“: auge, caída y redención de Farruquito",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/eps/2026-04-24/el-duende-no-visita-a-cualquiera-si-no-donde-estaria-la-magia-auge-caida-y-redencion-de-farruquito.html",
+    "publishedAt": "2026-04-24T03:40:00.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "NHK-3-424/k10015106911000.html",
     "headline": "岩手 大槌町山林火災延焼続く 焼失面積1000ヘクタール超に拡大",
     "sourceName": "NHK",
     "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015106911000.html",
@@ -45,25 +765,7 @@
     "lang": "ja"
   },
   {
-    "id": "The Guardian-15--anthony-albanese-ntwnfb",
-    "headline": "News live: Pocock accuses Labor of ‘ignoring’ vulnerable Australians in favour of gas companies as report calls for jobseeker rise",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/apr/24/andrew-hastie-us-defence-ndis-reform-cuts-budget-gas-export-fuel-crisis-jim-chalmers-anthony-albanese-ntwnfb",
-    "publishedAt": "2026-04-24T03:38:36.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "NHK-2-424/k10015107061000.html",
-    "headline": "パスポート申請手数料7月1日から引き下げへ 改正旅券法が成立",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107061000.html",
-    "publishedAt": "2026-04-24T03:38:23.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "g1 Globo-1-alerta-de-temporal.ghtml",
+    "id": "g1 Globo-19-alerta-de-temporal.ghtml",
     "headline": "Aulas são suspensas na rede estadual de Pernambuco após alerta de temporal no Grande Recife",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/pe/pernambuco/noticia/2026/04/24/aulas-sao-suspensas-pernambuco-apos-alerta-de-temporal.ghtml",
@@ -72,831 +774,129 @@
     "lang": "pt"
   },
   {
-    "id": "NHK経済-1-424/k10015107151000.html",
-    "headline": "改正農林中金法成立 巨額赤字受け運用の専門家 理事登用可能に",
-    "sourceName": "NHK経済",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107151000.html",
-    "publishedAt": "2026-04-24T03:25:26.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "NHK-4-424/k10015107161000.html",
-    "headline": "“イラン最高指導者が革命防衛隊に意思決定を委ねる”米報道",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107161000.html",
-    "publishedAt": "2026-04-24T03:18:20.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "NHK経済-2-424/k10015107091000.html",
-    "headline": "片山財務相 為替は日米緊密連携 株価6万円は“強い経済 象徴”",
-    "sourceName": "NHK経済",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107091000.html",
-    "publishedAt": "2026-04-24T03:17:04.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "NHK-3-424/k10015107041000.html",
-    "headline": "モバイルバッテリー きょうから航空機内での使用禁止に",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107041000.html",
-    "publishedAt": "2026-04-24T03:10:15.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "The Hindu-0-ists/article70900207.ece",
-    "headline": "Delhi High Court pulls up police over allegations of illegal detention, torture of activists",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-pulls-up-police-over-allegations-of-illegal-detention-torture-of-activists/article70900207.ece",
-    "publishedAt": "2026-04-24T03:08:54.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-1-cies/article70898633.ece",
-    "headline": "State may witness close contests in many constituencies",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/state-may-witness-close-contests-in-many-constituencies/article70898633.ece",
-    "publishedAt": "2026-04-24T03:07:38.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-2-e-guerra-do-brasil.ghtml",
-    "headline": "Fragata Tamandaré é incorporada à Marinha no Rio; veja o raio-x do novo navio de guerra do Brasil",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/24/fragata-tamandare-e-incorporada-a-marinha-no-rio-veja-o-raio-x-do-novo-navio-de-guerra-do-brasil.ghtml",
-    "publishedAt": "2026-04-24T03:05:33.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-3-lheres-vulneraveis.ghtml",
-    "headline": "Prefeitura de Montes Claros distribui kits natalidade para mulheres vulneráveis",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2026/04/24/prefeitura-de-montes-claros-distribui-kits-natalidade-para-mulheres-vulneraveis.ghtml",
-    "publishedAt": "2026-04-24T03:04:34.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "BBC World-0-dium=RSS&at_campaign=rss",
-    "headline": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-24T03:03:55.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "NHK経済-3-424/k10015107171000.html",
-    "headline": "株価 午前は値上がり 市場拡大期待の半導体銘柄がけん引",
-    "sourceName": "NHK経済",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107171000.html",
-    "publishedAt": "2026-04-24T03:03:47.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "g1 Globo-4-na-casa-de-cultura.ghtml",
-    "headline": "Sábado é dia de lançamento do livro “Olha o Trem” na Casa de Cultura",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/04/24/sabado-e-dia-de-lancamento-do-livro-olha-o-trem-na-casa-de-cultura.ghtml",
-    "publishedAt": "2026-04-24T03:03:33.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "NHK-1-424/k10015106881000.html",
-    "headline": "米“海峡封鎖で経済的打撃”譲歩迫る イランは海峡管理を強調",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015106881000.html",
-    "publishedAt": "2026-04-24T03:02:47.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "g1 Globo-5-ilha-dos-royalties.ghtml",
-    "headline": "Rio das Ostras participa de reunião sobre nova partilha dos royalties",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/04/24/rio-das-ostras-participa-de-reuniao-sobre-nova-partilha-dos-royalties.ghtml",
-    "publishedAt": "2026-04-24T03:02:38.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-6-ncao-especializada.ghtml",
-    "headline": "Saúde reforça integração entre setores da Atenção Especializada",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/04/24/saude-reforca-integracao-entre-setores-da-atencao-especializada.ghtml",
-    "publishedAt": "2026-04-24T03:02:37.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-7-e-educacao-digital.ghtml",
-    "headline": "Município é destaque em Encontro de Educação Digital",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/04/24/municipio-e-destaque-em-encontro-de-educacao-digital.ghtml",
-    "publishedAt": "2026-04-24T03:02:36.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-8-cas-e-design-atual.ghtml",
-    "headline": "Banheiros modernos evoluem com soluções tecnológicas e design atual",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/04/24/banheiros-modernos-evoluem-com-solucoes-tecnologicas-e-design-atual.ghtml",
-    "publishedAt": "2026-04-24T03:02:33.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-9-er-filha-nascer-sc.ghtml",
-    "headline": "'Não lembro de absolutamente nada', diz pai que desmaiou ao ver filha nascer em SC",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sc/santa-catarina/noticia/2026/04/24/nao-lembro-absolutamente-nada-diz-pai-desmaiou-ver-filha-nascer-sc.ghtml",
-    "publishedAt": "2026-04-24T03:01:37.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-10-il-veja-calendario.ghtml",
-    "headline": "INSS inicia pagamento de benefícios de abril; veja calendário",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/economia/noticia/2026/04/24/inss-inicia-pagamento-de-beneficios-de-abril-veja-calendario.ghtml",
-    "publishedAt": "2026-04-24T03:01:14.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-11-veja-passo-a-passo.ghtml",
-    "headline": "Prazo para pedir isenção da taxa de inscrição do Enem 2026 termina nesta sexta; veja passo a passo",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/educacao/enem/2026/noticia/2026/04/24/prazo-para-pedir-isencao-da-taxa-de-inscricao-do-enem-2026-termina-nesta-sexta-veja-passo-a-passo.ghtml",
-    "publishedAt": "2026-04-24T03:01:11.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-12-e-prematuro-morreu.ghtml",
-    "headline": "UTI neonatal segue interditada após detecção de superbactéria em Porto Alegre; um bebê prematuro morreu",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/24/uti-neonatal-segue-interditada-apos-deteccao-de-superbacteria-em-porto-alegre-um-bebe-prematuro-morreu.ghtml",
-    "publishedAt": "2026-04-24T03:01:08.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-13-ens-ao-mesmo-tempo.ghtml",
-    "headline": "O caso incomum da colombiana que ficou grávida de dois homens ao mesmo tempo",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/saude/noticia/2026/04/24/o-caso-incomum-da-colombiana-que-ficou-gravida-de-dois-homens-ao-mesmo-tempo.ghtml",
-    "publishedAt": "2026-04-24T03:01:02.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-14-a-os-procedimentos.ghtml",
-    "headline": "Lula fará retirada de queratose na cabeça e infiltração no punho hoje; entenda os procedimentos",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/saude/noticia/2026/04/24/lula-fara-retirada-de-queratose-na-cabeca-e-infiltracao-no-punho-hoje-entenda-os-procedimentos.ghtml",
-    "publishedAt": "2026-04-24T03:01:01.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-15-a-no-fim-de-semana.ghtml",
-    "headline": "Chuva forte e temporais atingem o Sul e o Norte do Brasil nesta sexta; frio intenso chega no fim de semana",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/meio-ambiente/noticia/2026/04/24/chuva-forte-e-temporais-atingem-o-sul-e-o-norte-do-brasil-nesta-sexta-frio-intenso-chega-no-fim-de-semana.ghtml",
-    "publishedAt": "2026-04-24T03:01:00.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-16-nante-diz-policial.ghtml",
-    "headline": "Família tinha pouca esperança de achar professor desaparecido há 5 anos: 'Emocionante', diz policial",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/04/24/familia-tinha-pouca-esperanca-de-achar-professor-desaparecido-ha-5-anos-emocionante-diz-policial.ghtml",
-    "publishedAt": "2026-04-24T03:00:59.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-17-o-que-esta-em-jogo.ghtml",
-    "headline": "Conferência sobre transição dos combustíveis fósseis começa nesta sexta; entenda o que está em jogo",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/meio-ambiente/noticia/2026/04/24/conferencia-sobre-transicao-dos-combustiveis-fosseis-comeca-nesta-sexta-entenda-o-que-esta-em-jogo.ghtml",
-    "publishedAt": "2026-04-24T03:00:57.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-18-r-jovens-em-igreja.ghtml",
-    "headline": "Influencer investigado por vídeos sexualizados de evangélicas com IA diz que usou 'humor' para criticar roupas usadas por jovens em igreja",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/24/influencer-investigado-por-videos-sexualizados-de-evangelicas-com-ia-diz-que-usou-humor-para-criticar-roupas-usadas-por-jovens-em-igreja.ghtml",
-    "publishedAt": "2026-04-24T03:00:56.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-19--nesta-sexta-em-sp.ghtml",
-    "headline": "Lula passa por procedimentos no hospital Sírio-Libanês nesta sexta em SP",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/24/lula-passa-por-procedimentos-no-hospital-sirio-libanes-nesta-sexta-em-sp.ghtml",
-    "publishedAt": "2026-04-24T03:00:38.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-20-ta-mandando-no-ira.ghtml",
-    "headline": "Golpe militar ou união inabalável? Entenda a guerra de narrativas sobre quem está mandando no Irã",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/24/golpe-militar-x-uniao-inabalavel-entenda-a-guerra-de-narrativas-sobre-quem-esta-mandando-no-ira.ghtml",
-    "publishedAt": "2026-04-24T03:00:34.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Guardian-25-ade-ships-latest-updates",
-    "headline": "US forces board vessel in Indian Ocean – as it happened",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
-    "publishedAt": "2026-04-24T02:55:20.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-2-rise/article70895838.ece",
-    "headline": "How Visakhapatnam zoo keeps animals cool as temperatures rise",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/how-visakhapatnam-zoo-keeps-animals-cool-as-temperatures-rise/article70895838.ece",
-    "publishedAt": "2026-04-24T02:53:09.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-3-sort/article70897873.ece",
-    "headline": "Torn fisherfolk families in Thangachimadam turn to the polls as a last resort",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/torn-fisherfolk-families-in-thangachimadam-turn-to-the-polls-as-a-last-resort/article70897873.ece",
-    "publishedAt": "2026-04-24T02:53:03.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-0-ormuz?traffic_source=rss",
-    "headline": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss",
-    "publishedAt": "2026-04-24T02:50:04.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-4-tors/article70898667.ece",
-    "headline": "KSRTC issues summer advisory for drivers and conductors",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/karnataka/ksrtc-issues-summer-advisory-for-drivers-conductors/article70898667.ece",
-    "publishedAt": "2026-04-24T02:47:04.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-5-tion/article70898707.ece",
-    "headline": "Post-SIR electorate drop drives turnout surge; votes remain steady compared to 2021 election",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/post-sir-electorate-drop-drives-turnout-surge-votes-remain-steady-compared-to-2021-election/article70898707.ece",
-    "publishedAt": "2026-04-24T02:43:01.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-6-uram/article70897748.ece",
-    "headline": "The Karur stampede is yet to fade from the memory of the voters at Velusamypuram",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/the-karur-stampede-is-yet-to-fade-from-the-memory-of-the-voters-at-velusamypuram/article70897748.ece",
-    "publishedAt": "2026-04-24T02:41:23.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "NHK-5-424/k10015106821000.html",
-    "headline": "後発地震注意情報 三陸沖で地震活動続く 震度1以上は28回発生",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015106821000.html",
-    "publishedAt": "2026-04-24T02:40:07.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "The Hindu-7-meet/article70897647.ece",
-    "headline": "Deliberations on partnerships, investment held at New Delhi roadshow for agritech meet",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/deliberations-on-partnerships-investment-held-at-new-delhi-roadshow-for-agritech-meet/article70897647.ece",
-    "publishedAt": "2026-04-24T02:37:29.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "NHK経済-4-424/k10015106981000.html",
-    "headline": "3月消費者物価 5か月ぶりに上昇率拡大 イラン情勢緊迫も受けて",
-    "sourceName": "NHK経済",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015106981000.html",
-    "publishedAt": "2026-04-24T02:36:17.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "g1 Globo-21-usacao-contra-zema.ghtml",
-    "headline": "Gilmar Mendes diz que errou ao citar homossexualidade em críticas a Zema",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/politica/politico/noticia/2026/04/23/gilmar-mendes-diz-que-errou-ao-relacionar-homossexualidade-a-uma-acusacao-contra-zema.ghtml",
-    "publishedAt": "2026-04-24T02:33:34.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Hindu-8-olls/article70896509.ece",
-    "headline": "MLC election: Congress, NCP SP coax Uddhav; BJP sends 30 names for five seats to central leadership",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/bjp-to-contest-four-seats-in-upcoming-maharashtra-legislative-council-polls/article70896509.ece",
-    "publishedAt": "2026-04-24T02:28:25.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-9-muri/article70898129.ece",
-    "headline": "West Bengal polls: Modi and Mamata spar over jhaal muri",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-polls-modi-and-mamata-spar-overjhaalmuri/article70898129.ece",
-    "publishedAt": "2026-04-24T02:28:19.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Guardian-26-izes-two-container-ships",
-    "headline": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships",
-    "publishedAt": "2026-04-24T02:22:28.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-22-rno-rio-de-janeiro.ghtml",
-    "headline": "TSE publica acórdão de julgamento que condenou Castro e reconhece renúncia do ex-governador",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/politica/noticia/2026/04/23/tse-publica-acordao-julgamento-governo-rio-de-janeiro.ghtml",
-    "publishedAt": "2026-04-24T02:17:55.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Hindu-10-tory/article70898260.ece",
-    "headline": "Tamil Nadu elections 2026: Over 84% voter turnout in the State, highest in its electoral history",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/over-84-polling-in-tamil-nadu-highest-in-its-electoral-history/article70898260.ece",
-    "publishedAt": "2026-04-24T02:16:50.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-11-ions/article70897598.ece",
-    "headline": "Bihar Government seeks ₹12,000 crore loan from RBI to cover delayed social security pensions",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-government-seeks-12000-crore-loan-from-rbi-to-cover-delayed-social-security-pensions/article70897598.ece",
-    "publishedAt": "2026-04-24T02:13:54.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "NHK国際-3-424/k10015107001000.html",
-    "headline": "“中国拠点企業 先端AI「蒸留」で模倣”と非難 ホワイトハウス",
-    "sourceName": "NHK国際",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107001000.html",
-    "publishedAt": "2026-04-24T02:12:06.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "g1 Globo-23-implementar-medida.ghtml",
-    "headline": "Presidente da Venezuela encerra Lei de Anistia para presos políticos dois meses após implementar medida",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/23/presidente-da-venezuela-encerra-lei-de-anistia-para-presos-politicos-dois-meses-apos-implementar-medida.ghtml",
-    "publishedAt": "2026-04-24T02:11:31.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Hindu-12-term/article70897035.ece",
-    "headline": "Stressing grave constitutional wrong, Lucknow lawyer pushes for release of Chinese national languishing in U.P. Jail after prison term",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/stressing-grave-constitutional-wrong-lucknow-lawyer-pushes-for-release-of-chinese-national-languishing-in-up-jail-after-prison-term/article70897035.ece",
-    "publishedAt": "2026-04-24T02:07:41.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-13-sive/article70897745.ece",
-    "headline": "Prolonged electricity cuts in Punjab cities as mercury soars put AAP govt on defensive",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/punjab/prolonged-electricity-cuts-in-punjab-cities-as-mercury-soars-put-aap-govt-on-defensive/article70897745.ece",
-    "publishedAt": "2026-04-24T02:03:20.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-24--venda-de-produtos.ghtml",
-    "headline": "Festival do Chocolate e Cacau começa em Belém com degustações, cursos e venda de produtos",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pa/para/noticia/2026/04/23/festival-do-chocolate-e-cacau-comeca-em-belem-com-degustacoes-cursos-e-venda-de-produtos.ghtml",
-    "publishedAt": "2026-04-24T01:58:44.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-25-a-23-abril-de-2026.ghtml",
-    "headline": "VÍDEOS: Jornal Liberal 2ª Edição de quinta-feira, 23 abril de 2026",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pa/para/edicao/2026/04/23/videos-jornal-liberal-2-edicao-de-quinta-feira-23-abril-de-2026.ghtml",
-    "publishedAt": "2026-04-24T01:57:17.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Hindu-14-tack/article70898171.ece",
-    "headline": "Odisha issues SOP for safety of census enumerators following incidents of attack",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/odisha/odisha-issues-sop-for-safety-of-census-enumerators-following-incidents-of-attack/article70898171.ece",
-    "publishedAt": "2026-04-24T01:55:26.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-15-ence/article70896652.ece",
-    "headline": "West Bengal election 2026: Record turnout of over 92% in first phase amidst isolated incidents of violence",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-first-phase-of-polling-scattered-violence/article70896652.ece",
-    "publishedAt": "2026-04-24T01:54:20.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "NHK経済-5-424/k10015107011000.html",
-    "headline": "米 メタ マイクロソフト 人員削減や早期退職募集 AI開発背景か",
-    "sourceName": "NHK経済",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015107011000.html",
-    "publishedAt": "2026-04-24T01:48:31.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "The Guardian-16-rn-radio-contract-ntwnfb",
-    "headline": "‘If you buy Kyle, you get Kyle’: Sandilands’ lawyer defends sacked Kiis FM shock jock in Sydney court",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/media/2026/apr/24/kyle-sandilands-kiis-fm-arn-radio-contract-ntwnfb",
-    "publishedAt": "2026-04-24T01:46:04.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-16-says/article70898432.ece",
-    "headline": "CEC hails West Bengal and Tamil Nadu for highest ever voter turnout since independence",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-west-bengal-voter-turnout-highest-ever-since-indepence-cec-says/article70898432.ece",
-    "publishedAt": "2026-04-24T01:45:46.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-26-ca-em-r-85-bilhoes.ghtml",
-    "headline": "Prejuízo dos Correios triplica em 2025 e fica em R$ 8,5 bilhões",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/jornal-nacional/noticia/2026/04/23/prejuizo-dos-correios-triplica-em-2025-e-fica-em-r-85-bilhoes.ghtml",
-    "publishedAt": "2026-04-24T01:39:12.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "France 24-0-ump-hopes-for-peace-deal",
-    "headline": "Middle East war live: Israel-Lebanon ceasefire continues as Trump hopes for peace deal",
-    "sourceName": "France 24",
-    "sourceUrl": "https://www.france24.com/en/middle-east/20260424-middle-east-war-live-israel-lebanon-ceasefire-continues-as-trump-hopes-for-peace-deal",
-    "publishedAt": "2026-04-24T01:38:23.000Z",
-    "countryCode": "FR",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-27-ada-ainda-em-abril.ghtml",
-    "headline": "Ponte sobre o rio Autaz Mirim, na BR-319, é testada e pode ser liberada ainda em abril",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/am/amazonas/noticia/2026/04/23/ponte-sobre-o-rio-autaz-mirim-na-br-319-e-testada-e-pode-ser-liberada-ainda-em-abril.ghtml",
-    "publishedAt": "2026-04-24T01:35:28.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-28-3-de-abril-de-2026.ghtml",
-    "headline": "VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 23 de abril de 2026",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-23-de-abril-de-2026.ghtml",
-    "publishedAt": "2026-04-24T01:27:11.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Hindu-17-week/article70900152.ece",
-    "headline": "UN General Assembly President Annalena Baerbock to visit India next week",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/international/un-general-assembly-president-annalena-baerbock-to-visit-india-next-week/article70900152.ece",
-    "publishedAt": "2026-04-24T01:22:32.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-29-3-de-abril-de-2026.ghtml",
-    "headline": "VÍDEOS: NE2 de quinta-feira, 23 de abril de 2026",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-quinta-feira-23-de-abril-de-2026.ghtml",
-    "publishedAt": "2026-04-24T01:19:42.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "BBC World-9-dium=RSS&at_campaign=rss",
-    "headline": "White House memo claims mass AI theft by Chinese firms",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-24T00:58:58.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "BBC World-26-dium=RSS&at_campaign=rss",
-    "headline": "Headscarf with a beret: Muslim designers showcase floral dresses and boxy streetwear in Paris",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/cx23zmxd2z3o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-24T00:34:04.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "BBC World-3-dium=RSS&at_campaign=rss",
-    "headline": "US soldier charged after winning $400,000 betting on removal of Maduro",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-24T00:21:32.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-18-rani/article70898007.ece",
-    "headline": "YSRCP thriving on false narratives on NDA govt, says Minister Sandhya Rani",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-thriving-on-false-narratives-on-nda-govt-says-minister-sandhya-rani/article70898007.ece",
-    "publishedAt": "2026-04-24T00:20:36.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "NHK国際-5-424/k10015106971000.html",
-    "headline": "村上宗隆1安打 6試合連続本塁打はならず チームは競り勝つ",
-    "sourceName": "NHK国際",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015106971000.html",
-    "publishedAt": "2026-04-24T00:18:12.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "NHK国際-6-424/k10015106951000.html",
-    "headline": "大谷 チャンスで1本が出ず5打数無安打 チームは連敗止める",
-    "sourceName": "NHK国際",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015106951000.html",
-    "publishedAt": "2026-04-24T00:16:49.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "France 24-1-lligence-spending-surges",
-    "headline": "Meta to cut workforce by ten per cent as artificial intelligence spending surges",
-    "sourceName": "France 24",
-    "sourceUrl": "https://www.france24.com/en/technology/20260424-meta-to-cut-workforce-by-ten-per-cent-as-artificial-intelligence-spending-surges",
-    "publishedAt": "2026-04-24T00:12:12.000Z",
-    "countryCode": "FR",
-    "lang": "en"
-  },
-  {
-    "id": "The Guardian-5-uro-raid-soldier-charged",
-    "headline": "US soldier involved in Maduro raid charged over alleged bets on capture",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/23/maduro-raid-soldier-charged",
-    "publishedAt": "2026-04-24T00:05:46.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "DW-1-a=en-rss-en-all-1573-rdf",
-    "headline": "ICC says Philippines' Duterte can stand trial over war on drugs",
-    "sourceName": "DW",
-    "sourceUrl": "https://www.dw.com/en/icc-says-philippines-duterte-can-stand-trial-over-war-on-drugs/a-76918608?maca=en-rss-en-all-1573-rdf",
-    "publishedAt": "2026-04-24T00:04:00.000Z",
-    "countryCode": "DE",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-1--side?traffic_source=rss",
-    "headline": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
-    "publishedAt": "2026-04-24T00:00:00.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "NHK国際-7-424/k10015106921000.html",
-    "headline": "トランプ氏 “イスラエルとレバノンの停戦 3週間延長で合意”",
-    "sourceName": "NHK国際",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015106921000.html",
-    "publishedAt": "2026-04-23T23:43:57.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "The Hindu-19--row/article70896501.ece",
-    "headline": "Troubled waters: A.P., T.N. fishermen embroiled in a row",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/troubled-waters-ap-tn-fishermen-embroiled-in-a-row/article70896501.ece",
-    "publishedAt": "2026-04-23T23:42:57.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-20-tion/article70891338.ece",
-    "headline": "Domestic work and its quest for recognition",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/domestic-work-and-its-quest-for-recognition/article70891338.ece",
-    "publishedAt": "2026-04-23T23:41:23.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "BBC World-27-dium=RSS&at_campaign=rss",
-    "headline": "A rumour, a lynching in India and a long wait for justice",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-23T23:30:52.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-2-otest?traffic_source=rss",
-    "headline": "US professors sue university over arrest during pro-Palestine protest",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss",
-    "publishedAt": "2026-04-23T23:20:52.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "NHK国際-8-424/k10015106941000.html",
-    "headline": "カブス 鈴木誠也 3試合連続本塁打含む3安打 9連勝に貢献",
-    "sourceName": "NHK国際",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015106941000.html",
-    "publishedAt": "2026-04-23T23:15:12.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "BBC World-29-dium=RSS&at_campaign=rss",
-    "headline": "Ringo Starr: 'I made all my mistakes on stage'",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-23T23:05:11.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-3-ction?traffic_source=rss",
-    "headline": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/economy/2026/4/23/us-soldier-charged-with-using-polymarket-to-bet-on-nicolas-maduro-abduction?traffic_source=rss",
-    "publishedAt": "2026-04-23T23:04:51.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "NHK国際-9-424/k10015082711000.html",
-    "headline": "【随時更新】ロシア ウクライナに軍事侵攻（4月24日の動き）",
-    "sourceName": "NHK国際",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260424/k10015082711000.html",
-    "publishedAt": "2026-04-23T23:00:12.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "The Hindu-21--row/article70898198.ece",
-    "headline": "‘No difference between Kauravas and Congress members’: M.P. CM on women’s reservation row",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/no-difference-between-kauravas-and-congress-members-mp-cm-on-womens-reservation-row/article70898198.ece",
-    "publishedAt": "2026-04-23T22:58:52.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-22-ress/article70897961.ece",
-    "headline": "BJP claiming ‘fake credit’ for raising land acquisition compensation for farmers; law made by UPA govt, says Congress",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-claiming-fake-credit-for-raising-land-acquisition-compensation-for-farmers-law-made-by-upa-govt-says-congress/article70897961.ece",
-    "publishedAt": "2026-04-23T22:56:02.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "BBC World-5-dium=RSS&at_campaign=rss",
-    "headline": "Meta says it will cut 8,000 jobs as AI spending soars",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-23T22:56:00.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-23-lity/article70897704.ece",
-    "headline": "What Telangana’s survey shows about caste inequality",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/what-telanganas-survey-shows-about-caste-inequality/article70897704.ece",
-    "publishedAt": "2026-04-23T22:51:04.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-24-mode/article70899113.ece",
-    "headline": "Telangana RTC strike | A transport system stuck in breakdown mode",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/telangana/telangana-rtc-strike-a-transport-system-stuck-in-breakdown-mode/article70899113.ece",
-    "publishedAt": "2026-04-23T22:47:10.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "El País-0--israel-y-el-libano.html",
-    "headline": "Trump anuncia una prórroga de tres semanas del alto el fuego entre Israel y Líbano",
+    "id": "El País-0-aciones-de-pp-y-vox.html",
+    "headline": "Preguntas y respuestas sobre la “prioridad nacional”: qué dicen los pactos más allá de las declaraciones de PP y Vox",
     "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/internacional/2026-04-23/trump-anuncia-una-prorroga-de-tres-semanas-del-alto-el-fuego-entre-israel-y-el-libano.html",
-    "publishedAt": "2026-04-23T22:44:19.000Z",
+    "sourceUrl": "https://elpais.com/espana/2026-04-24/preguntas-y-respuestas-sobre-la-prioridad-nacional-que-dicen-los-pactos-mas-alla-de-las-declaraciones-de-pp-y-vox.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
     "countryCode": "ES",
     "lang": "es"
   },
   {
-    "id": "BBC World-6-dium=RSS&at_campaign=rss",
-    "headline": "Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-23T22:37:08.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "ANSA-22-c-a7a3-44c672feb91d.html",
-    "headline": "Trump: 'L'Italia invece dell'Iran ai Mondiali? Non ci sto pensando'",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/24/trump-litalia-invece-delliran-ai-mondiali-non-ci-sto-pensando-_28e577ba-34e6-429c-a7a3-44c672feb91d.html",
-    "publishedAt": "2026-04-23T22:34:58.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "The Hindu-25-gles/article70896513.ece",
-    "headline": "Pahalgam, a year on: Resilience falters, tourism struggles",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/pahalgam-a-year-on-resilience-falters-tourism-struggles/article70896513.ece",
-    "publishedAt": "2026-04-23T22:33:27.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "El País-15-te-subita-de-europa.html",
-    "headline": "España experimenta el mayor aumento de muerte súbita de Europa",
+    "id": "El País-1-a-miles-de-personas.html",
+    "headline": "El cuello de botella de la regularización: el certificado de vulnerabilidad bloquea a miles de personas",
     "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/salud-y-bienestar/2026-04-24/espana-experimenta-el-mayor-aumento-de-muerte-subita-de-europa.html",
-    "publishedAt": "2026-04-23T22:30:00.000Z",
+    "sourceUrl": "https://elpais.com/espana/2026-04-24/el-cuello-de-botella-de-la-regularizacion-el-certificado-de-vulnerabilidad-bloquea-a-miles-de-personas.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
     "countryCode": "ES",
     "lang": "es"
   },
   {
-    "id": "ANSA-8-5-a90c-8d971dd9886d.html",
-    "headline": "Trump ordina di distruggere le posamine iraniane. 'Esteso il cessate il fuoco Israele-Libano'",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/24/trump-ordina-di-distruggere-le-posamine-iraniane.-esteso-il-cessate-il-fuoco-israele-libano_c395e0b2-6be3-4945-a90c-8d971dd9886d.html",
-    "publishedAt": "2026-04-23T22:24:08.000Z",
-    "countryCode": "IT",
-    "lang": "it"
+    "id": "El País-3--vivienda-en-madrid.html",
+    "headline": "El sector inmobiliario apoya la idea de multiplicar la construcción de vivienda en Madrid",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/economia/vivienda/2026-04-24/el-sector-inmobiliario-apoya-con-matices-la-idea-de-multiplicar-la-construccion-de-vivienda-en-madrid.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-4-l-modelo-de-almeida.html",
+    "headline": "Valdebebas, el barrio que nació hace dos décadas como emblema del nuevo urbanismo y hoy es lo opuesto al modelo de Almeida",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/espana/madrid/2026-04-24/valdebebas-el-barrio-que-nacio-hace-dos-decadas-como-emblema-del-nuevo-urbanismo-y-hoy-es-lo-opuesto-al-modelo-de-almeida.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-6--musico-excepcional.html",
+    "headline": "‘Michael’, solo la cara amable de aquel músico excepcional",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/cultura/cine/2026-04-24/michael-solo-la-cara-amable-de-aquel-musico-excepcional.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-7-la-herencia-materna.html",
+    "headline": "El apellido de la madre primero: en qué países tiene prioridad la herencia materna",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/smoda/feminismo/2026-04-24/llevar-el-apellido-de-la-madre-en-que-paises-tiene-prioridad-la-herencia-materna.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-8-idos-con-el-sistema.html",
+    "headline": "La era de la ‘manocultura’: qué leen y miran los jóvenes misóginos resentidos con el sistema",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/babelia/2026-04-24/la-era-de-la-manocultura-que-leen-y-miran-los-jovenes-misoginos-resentidos-con-el-sistema.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-9-dad-en-10-preguntas.html",
+    "headline": "El Desafío Semanal: enfréntate a nuestro test de actualidad en 10 preguntas",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/juegos/actualidad/2026-04-24/el-desafio-semanal-enfrentate-a-nuestro-test-de-actualidad-en-10-preguntas.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-10-4/otra-inteligencia.html",
+    "headline": "Otra inteligencia",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/opinion/2026-04-24/otra-inteligencia.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-11-4/cartas-con-premio.html",
+    "headline": "Cartas con premio",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/opinion/2026-04-24/cartas-con-premio.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-12-/nadie-esta-a-salvo.html",
+    "headline": "Nadie está a salvo",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/opinion/2026-04-24/nadie-esta-a-salvo.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-13--z-rechaza-ser-jefa.html",
+    "headline": "Un ascenso o la vida: por qué la generación Z rechaza ser jefa",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/opinion/2026-04-24/un-ascenso-o-la-vida-por-que-la-generacion-z-rechaza-ser-jefa.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-15--cospedal-ahora-que.html",
+    "headline": "Tras los noes de Rajoy y Cospedal, ¿ahora qué?",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/videos/2026-04-24/tras-los-noes-de-rajoy-y-cospedal-ahora-que.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-16-por-el-caso-kitchen.html",
+    "headline": "El PP de Rajoy extiende un manto de protección sobre Fernández Díaz por el ‘caso Kitchen’",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/espana/2026-04-24/el-pp-de-rajoy-extiende-un-manto-de-proteccion-sobre-fernandez-diaz-por-el-caso-kitchen.html",
+    "publishedAt": "2026-04-24T03:30:01.000Z",
+    "countryCode": "ES",
+    "lang": "es"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sshp",
+    "type": "earthquake",
+    "lat": 40.095,
+    "lng": 142.8333,
+    "intensity": 5,
+    "timestamp": "2026-04-24T05:13:10.736Z",
+    "description": "M 5.0 - 86 km E of Noda, Japan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sshk",
+    "type": "earthquake",
+    "lat": 1.1341,
+    "lng": 126.3665,
+    "intensity": 5.3,
+    "timestamp": "2026-04-24T04:45:20.134Z",
+    "description": "M 5.3 - 119 km WNW of Ternate, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sshc",
     "type": "earthquake",
     "lat": 34.9345,
@@ -137,16 +157,6 @@
     "intensity": 5.2,
     "timestamp": "2026-04-23T06:31:10.762Z",
     "description": "M 5.2 - 108 km WNW of Houma, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ss8w",
-    "type": "earthquake",
-    "lat": -57.1,
-    "lng": -24.5095,
-    "intensity": 5,
-    "timestamp": "2026-04-23T05:30:59.775Z",
-    "description": "M 5.0 - South Sandwich Islands region",
     "source": "USGS"
   }
 ]
