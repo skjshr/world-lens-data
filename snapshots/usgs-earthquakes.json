@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ssjg",
+    "type": "earthquake",
+    "lat": -27.92,
+    "lng": -70.9962,
+    "intensity": 5,
+    "timestamp": "2026-04-24T13:49:41.138Z",
+    "description": "M 5.0 - 76 km NNW of Vallenar, Chile",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssja",
+    "type": "earthquake",
+    "lat": 52.9177,
+    "lng": 161.0719,
+    "intensity": 5.1,
+    "timestamp": "2026-04-24T12:49:37.014Z",
+    "description": "M 5.1 - 164 km E of Petropavlovsk-Kamchatsky, Russia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssiy",
     "type": "earthquake",
     "lat": 52.9131,
@@ -197,16 +217,6 @@
     "intensity": 4.5,
     "timestamp": "2026-04-23T14:53:17.030Z",
     "description": "M 4.5 - 3 km S of Kemigawa, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssak",
-    "type": "earthquake",
-    "lat": 13.1854,
-    "lng": -89.4104,
-    "intensity": 4.8,
-    "timestamp": "2026-04-23T14:09:26.046Z",
-    "description": "M 4.8 - 34 km SSW of La Libertad, El Salvador",
     "source": "USGS"
   }
 ]

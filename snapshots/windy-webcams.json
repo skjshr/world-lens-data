@@ -110,6 +110,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -1607,11 +1618,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "JP",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -1668,17 +1679,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "JP",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2926,6 +2926,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "JP",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -3912,17 +3923,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "JP",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5137,17 +5137,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "JP",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -5155,6 +5144,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "JP",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7095,17 +7095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "JP",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -7986,17 +7975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "JP",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -8004,6 +7982,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "JP",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10593,6 +10582,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -10842,6 +10842,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "JP",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10956,6 +10967,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -12453,11 +12475,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "US",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -12514,17 +12536,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "US",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13772,6 +13783,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "US",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -14758,17 +14780,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "US",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15983,17 +15994,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "US",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -16001,6 +16001,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "US",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17941,17 +17952,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "US",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -18832,17 +18832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "US",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -18850,6 +18839,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "US",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21439,6 +21439,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -21688,6 +21699,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "US",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21802,6 +21824,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -23299,11 +23332,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "GB",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -23360,17 +23393,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "GB",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24618,6 +24640,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "GB",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -25604,17 +25637,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "GB",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26829,17 +26851,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "GB",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -26847,6 +26858,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "GB",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28787,17 +28809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "GB",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -29678,17 +29689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "GB",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -29696,6 +29696,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "GB",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32285,6 +32296,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -32534,6 +32556,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "GB",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32648,6 +32681,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -34145,11 +34189,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "DE",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -34206,17 +34250,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "DE",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35464,6 +35497,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "DE",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -36450,17 +36494,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "DE",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37675,17 +37708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "DE",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -37693,6 +37715,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "DE",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39633,17 +39666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "DE",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -40524,17 +40546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "DE",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -40542,6 +40553,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "DE",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43131,6 +43153,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -43380,6 +43413,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "DE",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43494,6 +43538,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -44991,11 +45046,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "FR",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -45052,17 +45107,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "FR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46310,6 +46354,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "FR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -47296,17 +47351,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "FR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48521,17 +48565,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "FR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -48539,6 +48572,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "FR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50479,17 +50523,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "FR",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -51370,17 +51403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "FR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -51388,6 +51410,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "FR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53977,6 +54010,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -54226,6 +54270,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "FR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54340,6 +54395,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -55837,11 +55903,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "CN",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -55898,17 +55964,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "CN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57156,6 +57211,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "CN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -58142,17 +58208,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "CN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59367,17 +59422,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "CN",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -59385,6 +59429,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "CN",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61325,17 +61380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "CN",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -62216,17 +62260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "CN",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -62234,6 +62267,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "CN",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64823,6 +64867,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -65072,6 +65127,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "CN",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65186,6 +65252,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -66683,11 +66760,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "KR",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -66744,17 +66821,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "KR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68002,6 +68068,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "KR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -68988,17 +69065,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "KR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70213,17 +70279,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "KR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -70231,6 +70286,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "KR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72171,17 +72237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "KR",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -73062,17 +73117,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "KR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -73080,6 +73124,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "KR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75669,6 +75724,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -75918,6 +75984,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "KR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76032,6 +76109,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -77529,11 +77617,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "IN",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -77590,17 +77678,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "IN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78848,6 +78925,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "IN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -79834,17 +79922,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "IN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81059,17 +81136,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "IN",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -81077,6 +81143,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "IN",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83017,17 +83094,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "IN",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -83908,17 +83974,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "IN",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -83926,6 +83981,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "IN",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86515,6 +86581,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -86764,6 +86841,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "IN",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86878,6 +86966,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -88375,11 +88474,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "BR",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -88436,17 +88535,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "BR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89694,6 +89782,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "BR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -90680,17 +90779,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "BR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91905,17 +91993,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "BR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -91923,6 +92000,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "BR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93863,17 +93951,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "BR",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -94754,17 +94831,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "BR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -94772,6 +94838,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "BR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97361,6 +97438,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -97610,6 +97698,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "BR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97724,6 +97823,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -99221,11 +99331,11 @@
   },
   {
     "id": "windy-1349746206",
-    "name": "Ravenna: Piazza del Popolo",
+    "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
     "countryCode": "AU",
-    "lat": 44.41778,
-    "lng": 12.19975,
+    "lat": 44.41766,
+    "lng": 12.19989,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349746206/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -99282,17 +99392,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "AU",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100540,6 +100639,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "AU",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208959324",
     "name": "Augsburg: Rathausplatz",
     "city": "Augsburg",
@@ -101526,17 +101636,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "AU",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102751,17 +102850,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "AU",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1517470268",
     "name": "Hoyos del Espino › West: Castilla y León, España",
     "city": "Hoyos del Espino",
@@ -102769,6 +102857,17 @@
     "lat": 40.35623,
     "lng": -5.17505,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "AU",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104709,17 +104808,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217348812",
-    "name": "District of Tvrdošín: Brezovica: Spálená",
-    "city": "District of Tvrdošín",
-    "countryCode": "AU",
-    "lat": 49.2308,
-    "lng": 19.71147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217348812/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346469018",
     "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
     "city": "Deggendorf",
@@ -105600,17 +105688,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "AU",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -105618,6 +105695,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "AU",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108207,6 +108295,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -108456,6 +108555,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "AU",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
