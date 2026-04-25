@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssu2",
+    "type": "earthquake",
+    "lat": 52.9203,
+    "lng": 160.9454,
+    "intensity": 4.5,
+    "timestamp": "2026-04-25T13:22:05.912Z",
+    "description": "M 4.5 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sst4",
     "type": "earthquake",
     "lat": 52.6755,
