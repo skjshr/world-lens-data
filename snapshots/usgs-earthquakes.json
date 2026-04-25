@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ssvq",
+    "type": "earthquake",
+    "lat": -14.5752,
+    "lng": -76.4954,
+    "intensity": 5,
+    "timestamp": "2026-04-25T20:14:39.279Z",
+    "description": "M 5.0 - 82 km SSW of Paracas, Peru",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssve",
+    "type": "earthquake",
+    "lat": 35.0771,
+    "lng": 25.9054,
+    "intensity": 4.9,
+    "timestamp": "2026-04-25T19:49:58.244Z",
+    "description": "M 4.9 - 14 km ENE of Kentrí, Greece",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssuz",
     "type": "earthquake",
     "lat": 0.2021,
