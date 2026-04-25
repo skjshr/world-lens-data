@@ -1,5 +1,35 @@
 [
   {
+    "id": "us6000ssr1",
+    "type": "earthquake",
+    "lat": -27.9466,
+    "lng": -66.6105,
+    "intensity": 4.5,
+    "timestamp": "2026-04-25T02:56:29.305Z",
+    "description": "M 4.5 - 49 km SW of Andalgalá, Argentina",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssqy",
+    "type": "earthquake",
+    "lat": 14.0345,
+    "lng": -92.2662,
+    "intensity": 4.5,
+    "timestamp": "2026-04-25T02:09:28.475Z",
+    "description": "M 4.5 - 47 km SW of Champerico, Guatemala",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssqb",
+    "type": "earthquake",
+    "lat": -4.6304,
+    "lng": 153.6037,
+    "intensity": 4.6,
+    "timestamp": "2026-04-24T23:59:31.491Z",
+    "description": "M 4.6 - 151 km ESE of Kokopo, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sspm",
     "type": "earthquake",
     "lat": 14.0519,
@@ -117,46 +147,6 @@
     "intensity": 4.8,
     "timestamp": "2026-04-24T07:26:31.285Z",
     "description": "M 4.8 - 113 km E of Kokopo, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sshp",
-    "type": "earthquake",
-    "lat": 40.095,
-    "lng": 142.8333,
-    "intensity": 5,
-    "timestamp": "2026-04-24T05:13:10.736Z",
-    "description": "M 5.0 - 86 km E of Noda, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sshk",
-    "type": "earthquake",
-    "lat": 1.1341,
-    "lng": 126.3665,
-    "intensity": 5.3,
-    "timestamp": "2026-04-24T04:45:20.134Z",
-    "description": "M 5.3 - 119 km WNW of Ternate, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sshc",
-    "type": "earthquake",
-    "lat": 34.9345,
-    "lng": 25.8274,
-    "intensity": 5.8,
-    "timestamp": "2026-04-24T03:18:53.476Z",
-    "description": "M 5.8 - 11 km SE of Ierápetra, Greece",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sshb",
-    "type": "earthquake",
-    "lat": -18.5264,
-    "lng": -175.4126,
-    "intensity": 4.5,
-    "timestamp": "2026-04-24T03:15:33.895Z",
-    "description": "M 4.5 - 151 km W of Neiafu, Tonga",
     "source": "USGS"
   }
 ]
