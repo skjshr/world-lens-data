@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssuz",
+    "type": "earthquake",
+    "lat": 0.2021,
+    "lng": 125.9627,
+    "intensity": 4.6,
+    "timestamp": "2026-04-25T17:40:24.367Z",
+    "description": "M 4.6 - 165 km SE of Bitung, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssu2",
     "type": "earthquake",
     "lat": 52.9203,
