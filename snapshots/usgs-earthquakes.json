@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sssg",
+    "type": "earthquake",
+    "lat": 53.5884,
+    "lng": -164.9144,
+    "intensity": 5.4,
+    "timestamp": "2026-04-25T08:05:56.204Z",
+    "description": "M 5.4 - 83 km SE of Akutan, Alaska",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssrm",
     "type": "earthquake",
     "lat": 52.2239,
@@ -107,46 +117,6 @@
     "intensity": 4.7,
     "timestamp": "2026-04-24T09:26:45.744Z",
     "description": "M 4.7 - 16 km ENE of Kentrí, Greece",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssik",
-    "type": "earthquake",
-    "lat": 52.9231,
-    "lng": 161.1117,
-    "intensity": 5.3,
-    "timestamp": "2026-04-24T08:59:28.540Z",
-    "description": "M 5.3 - 167 km E of Petropavlovsk-Kamchatsky, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssij",
-    "type": "earthquake",
-    "lat": 34.9902,
-    "lng": 26.1319,
-    "intensity": 5,
-    "timestamp": "2026-04-24T08:58:17.508Z",
-    "description": "M 5.0 - 24 km S of Sitia, Greece",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssil",
-    "type": "earthquake",
-    "lat": 49.963,
-    "lng": 155.8577,
-    "intensity": 4.5,
-    "timestamp": "2026-04-24T08:47:02.290Z",
-    "description": "M 4.5 - 81 km SSW of Severo-Kuril’sk, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssih",
-    "type": "earthquake",
-    "lat": 1.5616,
-    "lng": 126.6602,
-    "intensity": 4.6,
-    "timestamp": "2026-04-24T08:41:38.770Z",
-    "description": "M 4.6 - 117 km NW of Ternate, Indonesia",
     "source": "USGS"
   }
 ]

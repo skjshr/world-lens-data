@@ -2530,6 +2530,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "JP",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -5357,17 +5368,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "JP",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -5412,17 +5412,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "JP",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -5430,6 +5419,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "JP",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6787,6 +6787,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "JP",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -6853,17 +6864,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "JP",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -6871,6 +6871,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "JP",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7381,17 +7392,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "JP",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -7399,6 +7399,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "JP",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7443,6 +7454,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "JP",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7546,17 +7568,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "JP",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -7564,6 +7575,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "JP",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8074,6 +8096,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "JP",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -8327,17 +8360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "JP",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -8345,6 +8367,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "JP",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9031,17 +9064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "JP",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -9049,6 +9071,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "JP",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9471,6 +9504,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "JP",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -9489,17 +9533,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "JP",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9680,17 +9713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "JP",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -9698,6 +9720,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "JP",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9933,17 +9966,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "JP",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -9951,6 +9973,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "JP",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10142,17 +10175,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "JP",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -10160,6 +10182,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "JP",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10842,6 +10875,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "JP",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13376,6 +13420,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "US",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -16203,17 +16258,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "US",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -16258,17 +16302,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "US",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -16276,6 +16309,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "US",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17633,6 +17677,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "US",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -17699,17 +17754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "US",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -17717,6 +17761,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "US",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18227,17 +18282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "US",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -18245,6 +18289,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "US",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18289,6 +18344,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "US",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18392,17 +18458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "US",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -18410,6 +18465,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "US",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18920,6 +18986,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "US",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -19173,17 +19250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "US",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -19191,6 +19257,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "US",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19877,17 +19954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "US",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -19895,6 +19961,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "US",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20317,6 +20394,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "US",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -20335,17 +20423,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "US",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20526,17 +20603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "US",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -20544,6 +20610,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "US",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20779,17 +20856,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "US",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -20797,6 +20863,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "US",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20988,17 +21065,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "US",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -21006,6 +21072,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "US",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21688,6 +21765,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "US",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24222,6 +24310,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "GB",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -27049,17 +27148,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "GB",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -27104,17 +27192,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "GB",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -27122,6 +27199,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "GB",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28479,6 +28567,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "GB",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -28545,17 +28644,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "GB",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -28563,6 +28651,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "GB",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29073,17 +29172,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "GB",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -29091,6 +29179,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "GB",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29135,6 +29234,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "GB",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29238,17 +29348,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "GB",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -29256,6 +29355,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "GB",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29766,6 +29876,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "GB",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -30019,17 +30140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "GB",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -30037,6 +30147,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "GB",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30723,17 +30844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "GB",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -30741,6 +30851,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "GB",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31163,6 +31284,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "GB",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -31181,17 +31313,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "GB",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31372,17 +31493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "GB",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -31390,6 +31500,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "GB",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31625,17 +31746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "GB",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -31643,6 +31753,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "GB",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31834,17 +31955,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "GB",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -31852,6 +31962,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "GB",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32534,6 +32655,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "GB",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35068,6 +35200,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "DE",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -37895,17 +38038,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "DE",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -37950,17 +38082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "DE",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -37968,6 +38089,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "DE",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39325,6 +39457,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "DE",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -39391,17 +39534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "DE",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -39409,6 +39541,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "DE",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39919,17 +40062,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "DE",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -39937,6 +40069,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "DE",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39981,6 +40124,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "DE",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40084,17 +40238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "DE",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -40102,6 +40245,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "DE",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40612,6 +40766,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "DE",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -40865,17 +41030,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "DE",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -40883,6 +41037,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "DE",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41569,17 +41734,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "DE",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -41587,6 +41741,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "DE",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42009,6 +42174,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "DE",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -42027,17 +42203,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "DE",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42218,17 +42383,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "DE",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -42236,6 +42390,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "DE",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42471,17 +42636,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "DE",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -42489,6 +42643,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "DE",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42680,17 +42845,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "DE",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -42698,6 +42852,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "DE",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43380,6 +43545,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "DE",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45914,6 +46090,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "FR",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -48741,17 +48928,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "FR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -48796,17 +48972,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "FR",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -48814,6 +48979,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "FR",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50171,6 +50347,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "FR",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -50237,17 +50424,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "FR",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -50255,6 +50431,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "FR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50765,17 +50952,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "FR",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -50783,6 +50959,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "FR",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50827,6 +51014,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "FR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50930,17 +51128,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "FR",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -50948,6 +51135,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "FR",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51458,6 +51656,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "FR",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -51711,17 +51920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "FR",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -51729,6 +51927,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "FR",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52415,17 +52624,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "FR",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -52433,6 +52631,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "FR",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52855,6 +53064,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "FR",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -52873,17 +53093,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "FR",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53064,17 +53273,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "FR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -53082,6 +53280,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "FR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53317,17 +53526,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "FR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -53335,6 +53533,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "FR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53526,17 +53735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "FR",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -53544,6 +53742,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "FR",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54226,6 +54435,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "FR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56760,6 +56980,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "CN",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -59587,17 +59818,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "CN",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -59642,17 +59862,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "CN",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -59660,6 +59869,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "CN",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61017,6 +61237,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "CN",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -61083,17 +61314,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "CN",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -61101,6 +61321,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "CN",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61611,17 +61842,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "CN",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -61629,6 +61849,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "CN",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61673,6 +61904,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "CN",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61776,17 +62018,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "CN",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -61794,6 +62025,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "CN",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62304,6 +62546,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "CN",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -62557,17 +62810,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "CN",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -62575,6 +62817,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "CN",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63261,17 +63514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "CN",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -63279,6 +63521,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "CN",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63701,6 +63954,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "CN",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -63719,17 +63983,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "CN",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63910,17 +64163,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "CN",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -63928,6 +64170,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "CN",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64163,17 +64416,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "CN",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -64181,6 +64423,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "CN",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64372,17 +64625,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "CN",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -64390,6 +64632,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "CN",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65072,6 +65325,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "CN",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67606,6 +67870,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "KR",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -70433,17 +70708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "KR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -70488,17 +70752,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "KR",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -70506,6 +70759,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "KR",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71863,6 +72127,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "KR",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -71929,17 +72204,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "KR",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -71947,6 +72211,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "KR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72457,17 +72732,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "KR",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -72475,6 +72739,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "KR",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72519,6 +72794,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "KR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72622,17 +72908,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "KR",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -72640,6 +72915,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "KR",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73150,6 +73436,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "KR",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -73403,17 +73700,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "KR",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -73421,6 +73707,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "KR",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74107,17 +74404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "KR",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -74125,6 +74411,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "KR",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74547,6 +74844,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "KR",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -74565,17 +74873,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "KR",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74756,17 +75053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "KR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -74774,6 +75060,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "KR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75009,17 +75306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "KR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -75027,6 +75313,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "KR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75218,17 +75515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "KR",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -75236,6 +75522,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "KR",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75918,6 +76215,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "KR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78452,6 +78760,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "IN",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -81279,17 +81598,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "IN",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -81334,17 +81642,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "IN",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -81352,6 +81649,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "IN",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82709,6 +83017,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "IN",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -82775,17 +83094,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "IN",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -82793,6 +83101,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "IN",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83303,17 +83622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "IN",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -83321,6 +83629,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "IN",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83365,6 +83684,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "IN",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83468,17 +83798,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "IN",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -83486,6 +83805,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "IN",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83996,6 +84326,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "IN",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -84249,17 +84590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "IN",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -84267,6 +84597,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "IN",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84953,17 +85294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "IN",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -84971,6 +85301,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "IN",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85393,6 +85734,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "IN",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -85411,17 +85763,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "IN",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85602,17 +85943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "IN",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -85620,6 +85950,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "IN",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85855,17 +86196,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "IN",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -85873,6 +86203,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "IN",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86064,17 +86405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "IN",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -86082,6 +86412,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "IN",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86764,6 +87105,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "IN",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89298,6 +89650,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "BR",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -92125,17 +92488,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "BR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -92180,17 +92532,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "BR",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -92198,6 +92539,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "BR",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93555,6 +93907,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "BR",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -93621,17 +93984,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "BR",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -93639,6 +93991,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "BR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94149,17 +94512,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "BR",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -94167,6 +94519,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "BR",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94211,6 +94574,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "BR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94314,17 +94688,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "BR",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -94332,6 +94695,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "BR",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94842,6 +95216,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "BR",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -95095,17 +95480,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "BR",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -95113,6 +95487,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "BR",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95799,17 +96184,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "BR",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -95817,6 +96191,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "BR",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96239,6 +96624,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "BR",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -96257,17 +96653,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "BR",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96448,17 +96833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "BR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -96466,6 +96840,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "BR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96701,17 +97086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "BR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -96719,6 +97093,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "BR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96910,17 +97295,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "BR",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -96928,6 +97302,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "BR",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97610,6 +97995,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "BR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100144,6 +100540,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "AU",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -102971,17 +103378,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "AU",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1181289389",
     "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
     "city": "Lenzerheide",
@@ -103026,17 +103422,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383594004",
-    "name": "Gliwice: Aeroclub 2",
-    "city": "Gliwice",
-    "countryCode": "AU",
-    "lat": 50.27139,
-    "lng": 18.67472,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -103044,6 +103429,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383594004",
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "countryCode": "AU",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104401,6 +104797,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "AU",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -104467,17 +104874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "AU",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -104485,6 +104881,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "AU",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104995,17 +105402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "AU",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1469280621",
     "name": "Peniscola",
     "city": "Peniscola",
@@ -105013,6 +105409,17 @@
     "lat": 40.39249,
     "lng": 0.41296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1469280621/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "AU",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105057,6 +105464,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "AU",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105160,17 +105578,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1227882624",
-    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
-    "city": "Leysin",
-    "countryCode": "AU",
-    "lat": 46.35444,
-    "lng": 7.0252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -105178,6 +105585,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1227882624",
+    "name": "Leysin: Chalet Sybil, 1854 - vue en direction du sud-ouest",
+    "city": "Leysin",
+    "countryCode": "AU",
+    "lat": 46.35444,
+    "lng": 7.0252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1227882624/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105688,6 +106106,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "AU",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -105941,17 +106370,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1263120814",
-    "name": "La Clusaz: Panoramic Centre village",
-    "city": "La Clusaz",
-    "countryCode": "AU",
-    "lat": 45.90463,
-    "lng": 6.42428,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311516125",
     "name": "Porto Corsini: Adriatico Wind Club",
     "city": "Porto Corsini",
@@ -105959,6 +106377,17 @@
     "lat": 44.49822,
     "lng": 12.28151,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311516125/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1263120814",
+    "name": "La Clusaz: Panoramic Centre village",
+    "city": "La Clusaz",
+    "countryCode": "AU",
+    "lat": 45.90463,
+    "lng": 6.42428,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1263120814/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106645,17 +107074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "AU",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -106663,6 +107081,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "AU",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107085,6 +107514,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658397367",
+    "name": "Malaga",
+    "city": "Malaga",
+    "countryCode": "AU",
+    "lat": 36.72253,
+    "lng": -4.3966,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -107103,17 +107543,6 @@
     "lat": 45.8996,
     "lng": 15.94725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658397367",
-    "name": "Malaga",
-    "city": "Malaga",
-    "countryCode": "AU",
-    "lat": 36.72253,
-    "lng": -4.3966,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107294,17 +107723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "AU",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1231534692",
     "name": "Tonning: Eiderblick",
     "city": "Tonning",
@@ -107312,6 +107730,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "AU",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107547,17 +107976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "AU",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › North-east",
     "city": "Malaga",
@@ -107565,6 +107983,17 @@
     "lat": 36.72033,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "AU",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107756,17 +108185,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "AU",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -107774,6 +108192,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "AU",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108456,6 +108885,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "AU",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
