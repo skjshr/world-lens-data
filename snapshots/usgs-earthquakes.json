@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssvu",
+    "type": "earthquake",
+    "lat": 39.8948,
+    "lng": 143.1612,
+    "intensity": 4.8,
+    "timestamp": "2026-04-25T20:41:32.778Z",
+    "description": "M 4.8 - 108 km ENE of Miyako, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssvq",
     "type": "earthquake",
     "lat": -14.5752,
