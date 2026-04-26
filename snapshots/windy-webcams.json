@@ -5115,17 +5115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "JP",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -5133,6 +5122,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "JP",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5203,17 +5203,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "JP",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -5221,6 +5210,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "JP",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5918,17 +5918,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "JP",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -5936,6 +5925,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "JP",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9141,17 +9141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "JP",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -9159,6 +9148,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "JP",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9955,17 +9955,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "JP",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -9973,6 +9962,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "JP",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10127,6 +10127,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "JP",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15895,17 +15906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "US",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -15913,6 +15913,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "US",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15983,17 +15994,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "US",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -16001,6 +16001,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "US",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16698,17 +16709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "US",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -16716,6 +16716,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "US",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19921,17 +19932,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "US",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -19939,6 +19939,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "US",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20735,17 +20746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "US",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -20753,6 +20753,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "US",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20907,6 +20918,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "US",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26675,17 +26697,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "GB",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -26693,6 +26704,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "GB",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26763,17 +26785,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "GB",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -26781,6 +26792,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "GB",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27478,17 +27500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "GB",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -27496,6 +27507,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "GB",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30701,17 +30723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "GB",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -30719,6 +30730,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "GB",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31515,17 +31537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "GB",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -31533,6 +31544,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "GB",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31687,6 +31709,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "GB",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37455,17 +37488,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "DE",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -37473,6 +37495,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "DE",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37543,17 +37576,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "DE",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -37561,6 +37583,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "DE",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38258,17 +38291,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "DE",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -38276,6 +38298,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "DE",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41481,17 +41514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "DE",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -41499,6 +41521,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "DE",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42295,17 +42328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "DE",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -42313,6 +42335,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "DE",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42467,6 +42500,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "DE",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48235,17 +48279,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "FR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -48253,6 +48286,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "FR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48323,17 +48367,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "FR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -48341,6 +48374,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "FR",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49038,17 +49082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "FR",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -49056,6 +49089,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "FR",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52261,17 +52305,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "FR",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -52279,6 +52312,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "FR",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53075,17 +53119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "FR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -53093,6 +53126,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "FR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53247,6 +53291,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "FR",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59015,17 +59070,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "CN",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -59033,6 +59077,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "CN",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59103,17 +59158,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "CN",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -59121,6 +59165,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "CN",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59818,17 +59873,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "CN",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -59836,6 +59880,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "CN",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63041,17 +63096,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "CN",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -63059,6 +63103,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "CN",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63855,17 +63910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "CN",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -63873,6 +63917,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "CN",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64027,6 +64082,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "CN",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69795,17 +69861,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "KR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -69813,6 +69868,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "KR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69883,17 +69949,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "KR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -69901,6 +69956,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "KR",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70598,17 +70664,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "KR",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -70616,6 +70671,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "KR",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73821,17 +73887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "KR",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -73839,6 +73894,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "KR",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74635,17 +74701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "KR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -74653,6 +74708,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "KR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74807,6 +74873,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "KR",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80575,17 +80652,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "IN",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -80593,6 +80659,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "IN",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80663,17 +80740,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "IN",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -80681,6 +80747,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "IN",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81378,17 +81455,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "IN",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -81396,6 +81462,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "IN",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84601,17 +84678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "IN",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -84619,6 +84685,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "IN",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85415,17 +85492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "IN",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -85433,6 +85499,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "IN",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85587,6 +85664,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "IN",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91355,17 +91443,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "BR",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -91373,6 +91450,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "BR",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91443,17 +91531,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "BR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -91461,6 +91538,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "BR",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92158,17 +92246,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "BR",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -92176,6 +92253,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "BR",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95381,17 +95469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "BR",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -95399,6 +95476,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "BR",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96195,17 +96283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "BR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -96213,6 +96290,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "BR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96367,6 +96455,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "BR",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102135,17 +102234,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1243435942",
-    "name": "Bormio",
-    "city": "Bormio",
-    "countryCode": "AU",
-    "lat": 46.46991,
-    "lng": 10.37483,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -102153,6 +102241,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1243435942",
+    "name": "Bormio",
+    "city": "Bormio",
+    "countryCode": "AU",
+    "lat": 46.46991,
+    "lng": 10.37483,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243435942/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102223,17 +102322,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "AU",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1422877039",
     "name": "Pulsano: Marina di Pulsano",
     "city": "Pulsano",
@@ -102241,6 +102329,17 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "AU",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102938,17 +103037,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543178",
-    "name": "Adelboden: Lenk - Sillerenbühl",
-    "city": "Adelboden",
-    "countryCode": "AU",
-    "lat": 46.47096,
-    "lng": 7.51802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -102956,6 +103044,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543178",
+    "name": "Adelboden: Lenk - Sillerenbühl",
+    "city": "Adelboden",
+    "countryCode": "AU",
+    "lat": 46.47096,
+    "lng": 7.51802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543178/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106161,17 +106260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "AU",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -106179,6 +106267,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286464894",
+    "name": "Alba: Colle della Maddalena - Argentera",
+    "city": "Alba",
+    "countryCode": "AU",
+    "lat": 44.40248,
+    "lng": 6.92572,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106975,17 +107074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "AU",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -106993,6 +107081,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "AU",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107147,6 +107246,17 @@
     "lat": 45.95451,
     "lng": 12.66014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "AU",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
