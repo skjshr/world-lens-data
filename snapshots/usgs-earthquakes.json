@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000st08",
+    "type": "earthquake",
+    "lat": 51.4865,
+    "lng": 153.283,
+    "intensity": 4.7,
+    "timestamp": "2026-04-26T13:23:02.103Z",
+    "description": "M 4.7 - 218 km WNW of Severo-Kuril’sk, Russia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sszu",
     "type": "earthquake",
     "lat": 2.623,
