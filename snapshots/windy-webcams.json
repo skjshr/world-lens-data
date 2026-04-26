@@ -231,17 +231,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -2519,17 +2508,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2614,6 +2592,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6182,6 +6171,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "JP",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -7876,17 +7876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "JP",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -7942,17 +7931,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "JP",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -7960,6 +7938,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "JP",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8037,17 +8026,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9130,17 +9108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "JP",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -9148,6 +9115,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "JP",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10461,17 +10439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "JP",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -10479,6 +10446,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "JP",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10809,6 +10787,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "JP",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11044,17 +11033,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -13332,17 +13310,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13427,6 +13394,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16995,6 +16973,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "US",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -18689,17 +18678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "US",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -18755,17 +18733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "US",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -18773,6 +18740,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "US",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18850,17 +18828,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19943,17 +19910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "US",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -19961,6 +19917,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "US",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21274,17 +21241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "US",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -21292,6 +21248,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "US",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21622,6 +21589,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "US",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21857,17 +21835,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -24145,17 +24112,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24240,6 +24196,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27808,6 +27775,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "GB",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -29502,17 +29480,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "GB",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -29568,17 +29535,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "GB",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -29586,6 +29542,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "GB",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29663,17 +29630,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30756,17 +30712,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "GB",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -30774,6 +30719,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "GB",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32087,17 +32043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "GB",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -32105,6 +32050,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "GB",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32435,6 +32391,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "GB",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32670,17 +32637,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -34958,17 +34914,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -35053,6 +34998,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38621,6 +38577,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "DE",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -40315,17 +40282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "DE",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -40381,17 +40337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "DE",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -40399,6 +40344,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "DE",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40476,17 +40432,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41569,17 +41514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "DE",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -41587,6 +41521,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "DE",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42900,17 +42845,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "DE",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -42918,6 +42852,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "DE",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43248,6 +43193,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "DE",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43483,17 +43439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -45771,17 +45716,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45866,6 +45800,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49434,6 +49379,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "FR",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -51128,17 +51084,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "FR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -51194,17 +51139,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "FR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -51212,6 +51146,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "FR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51289,17 +51234,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52382,17 +52316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "FR",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -52400,6 +52323,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "FR",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53713,17 +53647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "FR",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -53731,6 +53654,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "FR",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54061,6 +53995,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "FR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54296,17 +54241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -56584,17 +56518,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56679,6 +56602,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60247,6 +60181,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "CN",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -61941,17 +61886,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "CN",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -62007,17 +61941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "CN",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -62025,6 +61948,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "CN",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62102,17 +62036,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63195,17 +63118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "CN",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -63213,6 +63125,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "CN",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64526,17 +64449,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "CN",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -64544,6 +64456,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "CN",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64874,6 +64797,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "CN",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65109,17 +65043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -67397,17 +67320,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67492,6 +67404,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71060,6 +70983,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "KR",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -72754,17 +72688,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "KR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -72820,17 +72743,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "KR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -72838,6 +72750,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "KR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72915,17 +72838,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74008,17 +73920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "KR",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -74026,6 +73927,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "KR",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75339,17 +75251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "KR",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -75357,6 +75258,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "KR",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75687,6 +75599,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "KR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75922,17 +75845,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -78210,17 +78122,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -78305,6 +78206,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81873,6 +81785,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "IN",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -83567,17 +83490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "IN",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -83633,17 +83545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "IN",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -83651,6 +83552,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "IN",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83728,17 +83640,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84821,17 +84722,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "IN",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -84839,6 +84729,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "IN",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86152,17 +86053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "IN",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -86170,6 +86060,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "IN",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86500,6 +86401,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "IN",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86735,17 +86647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -89023,17 +88924,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -89118,6 +89008,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92686,6 +92587,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "BR",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -94380,17 +94292,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "BR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -94446,17 +94347,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "BR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -94464,6 +94354,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "BR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94541,17 +94442,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95634,17 +95524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "BR",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -95652,6 +95531,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "BR",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96965,17 +96855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "BR",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -96983,6 +96862,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "BR",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97313,6 +97203,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "BR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97548,17 +97449,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -99836,17 +99726,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99931,6 +99810,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103499,6 +103389,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580588306",
+    "name": "Menzberg: Menznau",
+    "city": "Menzberg",
+    "countryCode": "AU",
+    "lat": 47.04012,
+    "lng": 7.9976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580588306/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201548631",
     "name": "Colfiorito: PG",
     "city": "Colfiorito",
@@ -105193,17 +105094,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "AU",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri: Spiaggia di Lacona - Isola d'Elba",
     "city": "Capoliveri",
@@ -105259,17 +105149,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "AU",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -105277,6 +105156,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "AU",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105354,17 +105244,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106447,17 +106326,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "AU",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -106465,6 +106333,17 @@
     "lat": 55.73376,
     "lng": 37.67067,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471290764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "AU",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107778,17 +107657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "AU",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1510609075",
     "name": "Sete › South-west: Plage sète - Port de Sète",
     "city": "Sete",
@@ -107796,6 +107664,17 @@
     "lat": 43.39348,
     "lng": 3.66382,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "AU",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108126,6 +108005,17 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "AU",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
