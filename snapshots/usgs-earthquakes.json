@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssxk",
+    "type": "earthquake",
+    "lat": 52.2084,
+    "lng": 176.3712,
+    "intensity": 4.5,
+    "timestamp": "2026-04-26T03:28:29.064Z",
+    "description": "M 4.5 - 227 km ESE of Attu Station, Alaska",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sswn",
     "type": "earthquake",
     "lat": -30.2935,
@@ -127,26 +137,6 @@
     "intensity": 4.5,
     "timestamp": "2026-04-25T05:18:45.076Z",
     "description": "M 4.5 - 238 km ESE of Attu Station, Alaska",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssr1",
-    "type": "earthquake",
-    "lat": -27.9466,
-    "lng": -66.6105,
-    "intensity": 4.5,
-    "timestamp": "2026-04-25T02:56:29.305Z",
-    "description": "M 4.5 - 49 km SW of Andalgalá, Argentina",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssqy",
-    "type": "earthquake",
-    "lat": 14.0345,
-    "lng": -92.2662,
-    "intensity": 4.5,
-    "timestamp": "2026-04-25T02:09:28.475Z",
-    "description": "M 4.5 - 47 km SW of Champerico, Guatemala",
     "source": "USGS"
   }
 ]
