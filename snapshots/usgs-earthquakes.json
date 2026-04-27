@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000st3z",
+    "type": "earthquake",
+    "lat": -0.1764,
+    "lng": 123.7457,
+    "intensity": 4.6,
+    "timestamp": "2026-04-27T08:17:21.658Z",
+    "description": "M 4.6 - 103 km SW of Modisi, Indonesia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000st3s",
+    "type": "earthquake",
+    "lat": 37.3466,
+    "lng": 71.3121,
+    "intensity": 5.1,
+    "timestamp": "2026-04-27T06:46:08.014Z",
+    "description": "M 5.1 - 26 km SW of Khorugh, Tajikistan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000st1m",
     "type": "earthquake",
     "lat": 42.6311,
@@ -47,16 +67,6 @@
     "intensity": 4.6,
     "timestamp": "2026-04-26T11:52:25.631Z",
     "description": "M 4.6 - 31 km E of Parapat, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssyh",
-    "type": "earthquake",
-    "lat": 40.0306,
-    "lng": 142.6846,
-    "intensity": 4.7,
-    "timestamp": "2026-04-26T06:43:53.060Z",
-    "description": "M 4.7 - 74 km E of Noda, Japan",
     "source": "USGS"
   }
 ]
