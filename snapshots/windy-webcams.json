@@ -1650,17 +1650,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "JP",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -2706,6 +2695,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "JP",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -2768,17 +2768,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "JP",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2911,6 +2900,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "JP",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3120,17 +3120,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "JP",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4671,17 +4660,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "JP",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6897,6 +6875,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "JP",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -7172,17 +7161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "JP",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -7190,6 +7168,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "JP",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7256,6 +7245,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "JP",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7887,17 +7887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "JP",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -7905,6 +7894,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "JP",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7949,6 +7949,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "JP",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8613,17 +8624,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "JP",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -8631,6 +8631,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "JP",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8807,17 +8818,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "JP",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9031,17 +9031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "JP",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -9053,13 +9042,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "JP",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9071,6 +9060,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "JP",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9603,17 +9603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "JP",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -9621,6 +9610,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "JP",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10538,6 +10538,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -10791,17 +10802,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "JP",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -10809,6 +10809,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "JP",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10831,17 +10842,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "JP",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12496,17 +12496,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "US",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -13552,6 +13541,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "US",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -13614,17 +13614,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "US",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13757,6 +13746,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "US",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13966,17 +13966,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "US",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15517,17 +15506,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "US",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17743,6 +17721,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "US",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -18018,17 +18007,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "US",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -18036,6 +18014,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "US",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18102,6 +18091,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "US",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18733,17 +18733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "US",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -18751,6 +18740,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "US",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18795,6 +18795,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "US",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19459,17 +19470,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "US",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -19477,6 +19477,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "US",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19653,17 +19664,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "US",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19877,17 +19877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "US",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -19899,13 +19888,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "US",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19917,6 +19906,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "US",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20449,17 +20449,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "US",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -20467,6 +20456,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "US",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21384,6 +21384,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -21637,17 +21648,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "US",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -21655,6 +21655,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "US",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21677,17 +21688,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "US",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23342,17 +23342,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "GB",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -24398,6 +24387,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "GB",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -24460,17 +24460,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "GB",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24603,6 +24592,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "GB",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24812,17 +24812,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "GB",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26363,17 +26352,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "GB",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28589,6 +28567,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "GB",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -28864,17 +28853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "GB",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -28882,6 +28860,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "GB",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28948,6 +28937,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "GB",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29579,17 +29579,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "GB",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -29597,6 +29586,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "GB",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29641,6 +29641,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "GB",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30305,17 +30316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "GB",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -30323,6 +30323,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "GB",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30499,17 +30510,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "GB",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30723,17 +30723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "GB",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -30745,13 +30734,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "GB",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30763,6 +30752,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "GB",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31295,17 +31295,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "GB",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -31313,6 +31302,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "GB",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32230,6 +32230,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -32483,17 +32494,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "GB",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -32501,6 +32501,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "GB",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32523,17 +32534,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "GB",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34188,17 +34188,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "DE",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -35244,6 +35233,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "DE",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -35306,17 +35306,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "DE",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35449,6 +35438,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "DE",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35658,17 +35658,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "DE",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37209,17 +37198,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "DE",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39435,6 +39413,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "DE",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -39710,17 +39699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "DE",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -39728,6 +39706,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "DE",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39794,6 +39783,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "DE",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40425,17 +40425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "DE",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -40443,6 +40432,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "DE",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40487,6 +40487,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "DE",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41151,17 +41162,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "DE",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -41169,6 +41169,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "DE",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41345,17 +41356,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "DE",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41569,17 +41569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "DE",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -41591,13 +41580,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "DE",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41609,6 +41598,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "DE",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42141,17 +42141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "DE",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -42159,6 +42148,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "DE",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43076,6 +43076,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -43329,17 +43340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "DE",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -43347,6 +43347,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "DE",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43369,17 +43380,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "DE",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45034,17 +45034,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "FR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -46090,6 +46079,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "FR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -46152,17 +46152,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "FR",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46295,6 +46284,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "FR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46504,17 +46504,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "FR",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48055,17 +48044,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "FR",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50281,6 +50259,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "FR",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -50556,17 +50545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "FR",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -50574,6 +50552,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "FR",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50640,6 +50629,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "FR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51271,17 +51271,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "FR",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -51289,6 +51278,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "FR",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51333,6 +51333,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "FR",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51997,17 +52008,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "FR",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -52015,6 +52015,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "FR",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52191,17 +52202,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "FR",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52415,17 +52415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "FR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -52437,13 +52426,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "FR",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52455,6 +52444,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "FR",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52987,17 +52987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "FR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -53005,6 +52994,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "FR",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53922,6 +53922,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -54175,17 +54186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "FR",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -54193,6 +54193,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "FR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54215,17 +54226,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "FR",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55880,17 +55880,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "CN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -56936,6 +56925,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "CN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -56998,17 +56998,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "CN",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57141,6 +57130,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "CN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57350,17 +57350,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "CN",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58901,17 +58890,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "CN",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61127,6 +61105,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "CN",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -61402,17 +61391,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "CN",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -61420,6 +61398,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "CN",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61486,6 +61475,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "CN",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62117,17 +62117,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "CN",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -62135,6 +62124,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "CN",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62179,6 +62179,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "CN",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62843,17 +62854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "CN",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -62861,6 +62861,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "CN",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63037,17 +63048,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "CN",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63261,17 +63261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "CN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -63283,13 +63272,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "CN",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63301,6 +63290,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "CN",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63833,17 +63833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "CN",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -63851,6 +63840,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "CN",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64768,6 +64768,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -65021,17 +65032,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "CN",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -65039,6 +65039,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "CN",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65061,17 +65072,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "CN",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66726,17 +66726,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "KR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -67782,6 +67771,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "KR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -67844,17 +67844,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "KR",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67987,6 +67976,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "KR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68196,17 +68196,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "KR",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69747,17 +69736,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "KR",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71973,6 +71951,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "KR",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -72248,17 +72237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "KR",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -72266,6 +72244,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "KR",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72332,6 +72321,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "KR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72963,17 +72963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "KR",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -72981,6 +72970,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "KR",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73025,6 +73025,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "KR",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73689,17 +73700,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "KR",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -73707,6 +73707,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "KR",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73883,17 +73894,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "KR",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74107,17 +74107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "KR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -74129,13 +74118,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "KR",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74147,6 +74136,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "KR",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74679,17 +74679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "KR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -74697,6 +74686,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "KR",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75614,6 +75614,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -75867,17 +75878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "KR",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -75885,6 +75885,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "KR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75907,17 +75918,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "KR",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77572,17 +77572,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "IN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -78628,6 +78617,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "IN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -78690,17 +78690,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "IN",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78833,6 +78822,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "IN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79042,17 +79042,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "IN",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80593,17 +80582,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "IN",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82819,6 +82797,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "IN",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -83094,17 +83083,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "IN",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -83112,6 +83090,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "IN",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83178,6 +83167,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "IN",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83809,17 +83809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "IN",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -83827,6 +83816,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "IN",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83871,6 +83871,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "IN",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84535,17 +84546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "IN",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -84553,6 +84553,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "IN",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84729,17 +84740,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "IN",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84953,17 +84953,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "IN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -84975,13 +84964,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "IN",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84993,6 +84982,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "IN",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85525,17 +85525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "IN",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -85543,6 +85532,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "IN",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86460,6 +86460,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -86713,17 +86724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "IN",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -86731,6 +86731,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "IN",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86753,17 +86764,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "IN",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88418,17 +88418,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "BR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -89474,6 +89463,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "BR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -89536,17 +89536,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "BR",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89679,6 +89668,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "BR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89888,17 +89888,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "BR",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91439,17 +91428,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "BR",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93665,6 +93643,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "BR",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -93940,17 +93929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "BR",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -93958,6 +93936,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "BR",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94024,6 +94013,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "BR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94655,17 +94655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "BR",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -94673,6 +94662,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "BR",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94717,6 +94717,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "BR",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95381,17 +95392,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "BR",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -95399,6 +95399,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "BR",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95575,17 +95586,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "BR",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95799,17 +95799,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "BR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -95821,13 +95810,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "BR",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95839,6 +95828,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "BR",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96371,17 +96371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "BR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -96389,6 +96378,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "BR",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97306,6 +97306,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -97559,17 +97570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "BR",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -97577,6 +97577,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "BR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97599,17 +97610,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "BR",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99264,17 +99264,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "AU",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -100320,6 +100309,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "AU",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -100382,17 +100382,6 @@
     "lat": 47.2879,
     "lng": 15.9703,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326831618/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "AU",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100525,6 +100514,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "AU",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100734,17 +100734,6 @@
     "lat": 45.90339,
     "lng": 6.14472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1308563875/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697030062",
-    "name": "Laax: Mutta Rodunda B.V.",
-    "city": "Laax",
-    "countryCode": "AU",
-    "lat": 46.86835,
-    "lng": 9.22803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697030062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102285,17 +102274,6 @@
     "lat": 61.21861,
     "lng": -149.8664,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580348000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697032163",
-    "name": "Laax: Nagens: Berghaus Nagens - Crap Sogn Gion",
-    "city": "Laax",
-    "countryCode": "AU",
-    "lat": 46.86191,
-    "lng": 9.23387,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697032163/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104511,6 +104489,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1182187060",
+    "name": "Kortrijk › West: Grote Markt Kortrijk",
+    "city": "Kortrijk",
+    "countryCode": "AU",
+    "lat": 50.82754,
+    "lng": 3.26778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1138022422",
     "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
     "city": "Sumiswald",
@@ -104786,17 +104775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
-    "city": "Kuttigen",
-    "countryCode": "AU",
-    "lat": 47.43145,
-    "lng": 8.02534,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -104804,6 +104782,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1730332451",
+    "name": "Kuttigen › North-east: › North-East",
+    "city": "Kuttigen",
+    "countryCode": "AU",
+    "lat": 47.43145,
+    "lng": 8.02534,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1730332451/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104870,6 +104859,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "AU",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105501,17 +105501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "AU",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -105519,6 +105508,17 @@
     "lat": 69.68206,
     "lng": 18.97785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1322567375/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "AU",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105563,6 +105563,17 @@
     "lat": -45.39002,
     "lng": 167.55646,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "AU",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106227,17 +106238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "AU",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793869097",
     "name": "Svetlogorsk › East",
     "city": "Svetlogorsk",
@@ -106245,6 +106245,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "AU",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106421,17 +106432,6 @@
     "lat": 56.96278,
     "lng": -2.57569,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1260608835",
-    "name": "Queralbs: Vall de Núria - Parc Lúdic",
-    "city": "Queralbs",
-    "countryCode": "AU",
-    "lat": 42.39738,
-    "lng": 2.15399,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106645,17 +106645,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "AU",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -106667,13 +106656,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "AU",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106685,6 +106674,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "AU",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107217,17 +107217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "AU",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295699310",
     "name": "Offida: Piazza del Popolo",
     "city": "Offida",
@@ -107235,6 +107224,17 @@
     "lat": 42.93452,
     "lng": 13.69084,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "AU",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108152,6 +108152,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -108405,17 +108416,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "AU",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -108423,6 +108423,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "AU",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108445,17 +108456,6 @@
     "lat": 46.51267,
     "lng": 8.32238,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358871901/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "AU",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
