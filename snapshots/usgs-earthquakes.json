@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000sgt9",
+    "type": "earthquake",
+    "lat": 12.3502,
+    "lng": 125.5388,
+    "intensity": 4.9,
+    "timestamp": "2026-04-28T22:58:22.003Z",
+    "description": "M 4.9 - 15 km NNE of Alugan, Philippines",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgrs",
     "type": "earthquake",
     "lat": 41.215,
@@ -127,16 +137,6 @@
     "intensity": 4.8,
     "timestamp": "2026-04-28T03:49:47.824Z",
     "description": "M 4.8 - 0 km SE of San Ignacio, Costa Rica",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgke",
-    "type": "earthquake",
-    "lat": 41.281,
-    "lng": 83.9523,
-    "intensity": 4.5,
-    "timestamp": "2026-04-27T23:05:01.877Z",
-    "description": "M 4.5 - 98 km ESE of Kuqa, China",
     "source": "USGS"
   }
 ]
