@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000sgmz",
+    "type": "earthquake",
+    "lat": 39.267,
+    "lng": 23.3291,
+    "intensity": 4.7,
+    "timestamp": "2026-04-28T11:12:23.330Z",
+    "description": "M 4.7 - 10 km ENE of Argalastí, Greece",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgms",
     "type": "earthquake",
     "lat": -4.7006,
