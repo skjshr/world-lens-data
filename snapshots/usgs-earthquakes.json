@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000sglc",
+    "type": "earthquake",
+    "lat": 9.7939,
+    "lng": -84.155,
+    "intensity": 4.8,
+    "timestamp": "2026-04-28T03:49:47.824Z",
+    "description": "M 4.8 - 0 km SE of San Ignacio, Costa Rica",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgke",
     "type": "earthquake",
     "lat": 41.281,
