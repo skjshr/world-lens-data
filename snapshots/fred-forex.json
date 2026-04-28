@@ -1,13 +1,5 @@
 [
   {
-    "pair": "USD/JPY",
-    "base": "USD",
-    "quote": "JPY",
-    "rate": 159.35,
-    "changePct": -0.06,
-    "asOf": "2026-04-24T00:00:00.000Z"
-  },
-  {
     "pair": "EUR/USD",
     "base": "EUR",
     "quote": "USD",
@@ -37,14 +29,6 @@
     "quote": "CAD",
     "rate": 1.3675,
     "changePct": -0.05,
-    "asOf": "2026-04-24T00:00:00.000Z"
-  },
-  {
-    "pair": "USD/KRW",
-    "base": "USD",
-    "quote": "KRW",
-    "rate": 1476.47,
-    "changePct": -0.18,
     "asOf": "2026-04-24T00:00:00.000Z"
   }
 ]

@@ -9,15 +9,6 @@
     "asOf": "2026-04-27T00:00:00.000Z"
   },
   {
-    "symbol": "DJI",
-    "name": "Dow Jones",
-    "countryCode": "US",
-    "price": 49167.79,
-    "changePct": -0.13,
-    "currency": "USD",
-    "asOf": "2026-04-27T00:00:00.000Z"
-  },
-  {
     "symbol": "IXIC",
     "name": "NASDAQ Composite",
     "countryCode": "US",
@@ -25,14 +16,5 @@
     "changePct": 0.2,
     "currency": "USD",
     "asOf": "2026-04-27T00:00:00.000Z"
-  },
-  {
-    "symbol": "N225",
-    "name": "Nikkei 225",
-    "countryCode": "JP",
-    "price": 59917.46,
-    "changePct": -1.02,
-    "currency": "JPY",
-    "asOf": "2026-04-28T00:00:00.000Z"
   }
 ]
