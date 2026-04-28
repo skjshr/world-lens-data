@@ -1,5 +1,25 @@
 [
   {
+    "id": "us7000sgqz",
+    "type": "earthquake",
+    "lat": -5.9905,
+    "lng": 146.5918,
+    "intensity": 4.7,
+    "timestamp": "2026-04-28T16:32:06.338Z",
+    "description": "M 4.7 - 86 km ENE of Kainantu, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sgqy",
+    "type": "earthquake",
+    "lat": -23.1275,
+    "lng": -175.2728,
+    "intensity": 4.9,
+    "timestamp": "2026-04-28T16:18:24.175Z",
+    "description": "M 4.9 - 200 km S of ‘Ohonua, Tonga",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgp4",
     "type": "earthquake",
     "lat": -18.492,
