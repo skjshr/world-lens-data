@@ -1,5 +1,35 @@
 [
   {
+    "id": "us7000sgp4",
+    "type": "earthquake",
+    "lat": -18.492,
+    "lng": -177.5758,
+    "intensity": 5.2,
+    "timestamp": "2026-04-28T15:28:16.421Z",
+    "description": "M 5.2 - Fiji region",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sgnz",
+    "type": "earthquake",
+    "lat": -33.9441,
+    "lng": -72.2494,
+    "intensity": 4.7,
+    "timestamp": "2026-04-28T14:55:23.220Z",
+    "description": "M 4.7 - 70 km WSW of San Antonio, Chile",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sgnb",
+    "type": "earthquake",
+    "lat": 39.1704,
+    "lng": 23.3922,
+    "intensity": 4.8,
+    "timestamp": "2026-04-28T13:07:46.327Z",
+    "description": "M 4.8 - 8 km W of Skiáthos, Greece",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgmz",
     "type": "earthquake",
     "lat": 39.267,
