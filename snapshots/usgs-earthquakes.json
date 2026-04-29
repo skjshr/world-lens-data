@@ -1,12 +1,32 @@
 [
   {
+    "id": "us7000sgv4",
+    "type": "earthquake",
+    "lat": -17.2359,
+    "lng": -173.7681,
+    "intensity": 4.5,
+    "timestamp": "2026-04-29T03:19:23.834Z",
+    "description": "M 4.5 - 141 km S of Hihifo, Tonga",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sgup",
+    "type": "earthquake",
+    "lat": -17.7842,
+    "lng": -174.8688,
+    "intensity": 4.9,
+    "timestamp": "2026-04-29T02:31:14.618Z",
+    "description": "M 4.9 - 134 km NW of Neiafu, Tonga",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgt9",
     "type": "earthquake",
-    "lat": 12.3502,
-    "lng": 125.5388,
+    "lat": 12.3239,
+    "lng": 125.4864,
     "intensity": 4.9,
-    "timestamp": "2026-04-28T22:58:22.003Z",
-    "description": "M 4.9 - 15 km NNE of Alugan, Philippines",
+    "timestamp": "2026-04-28T22:58:22.124Z",
+    "description": "M 4.9 - 11 km NE of Arteche, Philippines",
     "source": "USGS"
   },
   {
@@ -127,16 +147,6 @@
     "intensity": 4.7,
     "timestamp": "2026-04-28T06:23:52.879Z",
     "description": "M 4.7 - 184 km SSE of Vilyuchinsk, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sglc",
-    "type": "earthquake",
-    "lat": 9.7939,
-    "lng": -84.155,
-    "intensity": 4.8,
-    "timestamp": "2026-04-28T03:49:47.824Z",
-    "description": "M 4.8 - 0 km SE of San Ignacio, Costa Rica",
     "source": "USGS"
   }
 ]
