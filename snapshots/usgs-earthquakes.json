@@ -1,5 +1,45 @@
 [
   {
+    "id": "nn00916724",
+    "type": "earthquake",
+    "lat": 37.1408,
+    "lng": -115.2813,
+    "intensity": 4.74,
+    "timestamp": "2026-04-29T15:06:12.116Z",
+    "description": "M 4.7 - 26 km SSW of Alamo, Nevada",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sh0n",
+    "type": "earthquake",
+    "lat": -18.0409,
+    "lng": -178.1369,
+    "intensity": 4.5,
+    "timestamp": "2026-04-29T14:51:27.466Z",
+    "description": "M 4.5 - 269 km E of Levuka, Fiji",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sgxr",
+    "type": "earthquake",
+    "lat": -36.3183,
+    "lng": -98.7783,
+    "intensity": 4.7,
+    "timestamp": "2026-04-29T12:35:29.925Z",
+    "description": "M 4.7 - southeast of Easter Island",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sgwj",
+    "type": "earthquake",
+    "lat": -19.9846,
+    "lng": -71.0682,
+    "intensity": 4.7,
+    "timestamp": "2026-04-29T08:42:21.562Z",
+    "description": "M 4.7 - 98 km WNW of Puerto, Chile",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgvx",
     "type": "earthquake",
     "lat": -47.8113,
@@ -97,26 +137,6 @@
     "intensity": 4.9,
     "timestamp": "2026-04-28T16:18:24.175Z",
     "description": "M 4.9 - 200 km S of ‘Ohonua, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgp4",
-    "type": "earthquake",
-    "lat": -18.492,
-    "lng": -177.5758,
-    "intensity": 5.2,
-    "timestamp": "2026-04-28T15:28:16.421Z",
-    "description": "M 5.2 - Fiji region",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgnz",
-    "type": "earthquake",
-    "lat": -33.9441,
-    "lng": -72.2494,
-    "intensity": 4.7,
-    "timestamp": "2026-04-28T14:55:23.220Z",
-    "description": "M 4.7 - 70 km WSW of San Antonio, Chile",
     "source": "USGS"
   }
 ]
