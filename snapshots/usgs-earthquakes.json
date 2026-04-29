@@ -128,45 +128,5 @@
     "timestamp": "2026-04-28T13:07:46.327Z",
     "description": "M 4.8 - 8 km W of Skiáthos, Greece",
     "source": "USGS"
-  },
-  {
-    "id": "us7000sgmz",
-    "type": "earthquake",
-    "lat": 39.267,
-    "lng": 23.3291,
-    "intensity": 4.7,
-    "timestamp": "2026-04-28T11:12:23.330Z",
-    "description": "M 4.7 - 10 km ENE of Argalastí, Greece",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgms",
-    "type": "earthquake",
-    "lat": -4.7006,
-    "lng": 153.5953,
-    "intensity": 4.8,
-    "timestamp": "2026-04-28T10:27:27.022Z",
-    "description": "M 4.8 - 152 km ESE of Kokopo, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgmq",
-    "type": "earthquake",
-    "lat": 40.3625,
-    "lng": 142.5804,
-    "intensity": 4.5,
-    "timestamp": "2026-04-28T10:14:57.686Z",
-    "description": "M 4.5 - 70 km ENE of Noda, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgmr",
-    "type": "earthquake",
-    "lat": -32.0894,
-    "lng": -178.8476,
-    "intensity": 4.8,
-    "timestamp": "2026-04-28T10:07:09.901Z",
-    "description": "M 4.8 - south of the Kermadec Islands",
-    "source": "USGS"
   }
 ]
