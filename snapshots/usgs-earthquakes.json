@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000sh55",
+    "type": "earthquake",
+    "lat": 8.9018,
+    "lng": 126.6077,
+    "intensity": 5,
+    "timestamp": "2026-04-29T22:04:37.950Z",
+    "description": "M 5.0 - 32 km E of Aras-asan, Philippines",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sh4s",
     "type": "earthquake",
     "lat": -27.7124,
