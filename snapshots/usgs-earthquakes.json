@@ -1,12 +1,42 @@
 [
   {
-    "id": "nn00916724",
+    "id": "us7000sh1g",
     "type": "earthquake",
-    "lat": 37.1408,
-    "lng": -115.2813,
-    "intensity": 4.74,
-    "timestamp": "2026-04-29T15:06:12.116Z",
-    "description": "M 4.7 - 26 km SSW of Alamo, Nevada",
+    "lat": -44.6333,
+    "lng": 37.2902,
+    "intensity": 5.2,
+    "timestamp": "2026-04-29T16:41:45.200Z",
+    "description": "M 5.2 - Prince Edward Islands region",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sh1d",
+    "type": "earthquake",
+    "lat": -44.6347,
+    "lng": 37.2759,
+    "intensity": 5.1,
+    "timestamp": "2026-04-29T16:31:05.172Z",
+    "description": "M 5.1 - Prince Edward Islands region",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sh1c",
+    "type": "earthquake",
+    "lat": -44.5433,
+    "lng": 37.4117,
+    "intensity": 5,
+    "timestamp": "2026-04-29T16:27:36.033Z",
+    "description": "M 5.0 - Prince Edward Islands region",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sh18",
+    "type": "earthquake",
+    "lat": -44.652,
+    "lng": 37.4301,
+    "intensity": 5.1,
+    "timestamp": "2026-04-29T16:11:26.657Z",
+    "description": "M 5.1 - Prince Edward Islands region",
     "source": "USGS"
   },
   {
@@ -117,26 +147,6 @@
     "intensity": 4.5,
     "timestamp": "2026-04-28T19:13:15.642Z",
     "description": "M 4.5 - 131 km WNW of Neiafu, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgqz",
-    "type": "earthquake",
-    "lat": -5.9905,
-    "lng": 146.5918,
-    "intensity": 4.7,
-    "timestamp": "2026-04-28T16:32:06.338Z",
-    "description": "M 4.7 - 86 km ENE of Kainantu, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgqy",
-    "type": "earthquake",
-    "lat": -23.1275,
-    "lng": -175.2728,
-    "intensity": 4.9,
-    "timestamp": "2026-04-28T16:18:24.175Z",
-    "description": "M 4.9 - 200 km S of ‘Ohonua, Tonga",
     "source": "USGS"
   }
 ]
