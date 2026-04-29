@@ -1,5 +1,35 @@
 [
   {
+    "id": "us7000sgvx",
+    "type": "earthquake",
+    "lat": -47.8113,
+    "lng": 115.8857,
+    "intensity": 4.5,
+    "timestamp": "2026-04-29T06:34:18.672Z",
+    "description": "M 4.5 - western Indian-Antarctic Ridge",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sgvv",
+    "type": "earthquake",
+    "lat": 33.5412,
+    "lng": 81.9551,
+    "intensity": 4.8,
+    "timestamp": "2026-04-29T06:29:41.617Z",
+    "description": "M 4.8 - western Xizang",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sgvu",
+    "type": "earthquake",
+    "lat": -5.5896,
+    "lng": -79.0082,
+    "intensity": 4.8,
+    "timestamp": "2026-04-29T06:12:17.005Z",
+    "description": "M 4.8 - 10 km WNW of Huabal, Peru",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgv4",
     "type": "earthquake",
     "lat": -17.2359,
@@ -127,26 +157,6 @@
     "intensity": 4.8,
     "timestamp": "2026-04-28T10:07:09.901Z",
     "description": "M 4.8 - south of the Kermadec Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgm7",
-    "type": "earthquake",
-    "lat": 40.2442,
-    "lng": 142.6908,
-    "intensity": 4.9,
-    "timestamp": "2026-04-28T07:24:43.298Z",
-    "description": "M 4.9 - 75 km ENE of Noda, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sglz",
-    "type": "earthquake",
-    "lat": 51.3448,
-    "lng": 159.2004,
-    "intensity": 4.7,
-    "timestamp": "2026-04-28T06:23:52.879Z",
-    "description": "M 4.7 - 184 km SSE of Vilyuchinsk, Russia",
     "source": "USGS"
   }
 ]
