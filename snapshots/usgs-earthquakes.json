@@ -58,45 +58,5 @@
     "timestamp": "2026-04-29T20:38:48.633Z",
     "description": "M 4.6 - Southwest Indian Ridge",
     "source": "USGS"
-  },
-  {
-    "id": "us7000sh1g",
-    "type": "earthquake",
-    "lat": -44.6333,
-    "lng": 37.2902,
-    "intensity": 5.2,
-    "timestamp": "2026-04-29T16:41:45.200Z",
-    "description": "M 5.2 - Prince Edward Islands region",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sh1d",
-    "type": "earthquake",
-    "lat": -44.6347,
-    "lng": 37.2759,
-    "intensity": 5.1,
-    "timestamp": "2026-04-29T16:31:05.172Z",
-    "description": "M 5.1 - Prince Edward Islands region",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sh1c",
-    "type": "earthquake",
-    "lat": -44.5433,
-    "lng": 37.4117,
-    "intensity": 5,
-    "timestamp": "2026-04-29T16:27:36.033Z",
-    "description": "M 5.0 - Prince Edward Islands region",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sh18",
-    "type": "earthquake",
-    "lat": -44.652,
-    "lng": 37.4301,
-    "intensity": 5.1,
-    "timestamp": "2026-04-29T16:11:26.657Z",
-    "description": "M 5.1 - Prince Edward Islands region",
-    "source": "USGS"
   }
 ]
