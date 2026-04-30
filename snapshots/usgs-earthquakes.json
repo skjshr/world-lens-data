@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shd3",
+    "type": "earthquake",
+    "lat": -27.7862,
+    "lng": 73.8743,
+    "intensity": 4.8,
+    "timestamp": "2026-04-30T17:28:32.427Z",
+    "description": "M 4.8 - Mid-Indian Ridge",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sh8r",
     "type": "earthquake",
     "lat": -3.4749,
