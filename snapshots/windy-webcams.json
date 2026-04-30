@@ -220,17 +220,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -968,17 +957,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "JP",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -986,6 +964,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "JP",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1371,17 +1360,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "JP",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2486,17 +2464,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2570,6 +2537,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4829,17 +4807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "JP",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -5808,17 +5775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "JP",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -5826,6 +5782,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "JP",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6651,17 +6618,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "JP",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7579,17 +7535,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "JP",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -7597,6 +7542,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "JP",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7927,17 +7883,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9383,17 +9328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "JP",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -10516,17 +10450,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "JP",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -10534,6 +10457,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "JP",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10989,17 +10923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -11737,17 +11660,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "US",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -11755,6 +11667,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "US",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12140,17 +12063,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "US",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13255,17 +13167,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13339,6 +13240,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15598,17 +15510,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "US",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -16577,17 +16478,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "US",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -16595,6 +16485,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "US",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17420,17 +17321,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "US",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18348,17 +18238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "US",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -18366,6 +18245,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "US",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18696,17 +18586,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20152,17 +20031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "US",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -21285,17 +21153,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "US",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -21303,6 +21160,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "US",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21758,17 +21626,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -22506,17 +22363,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "GB",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -22524,6 +22370,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "GB",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22909,17 +22766,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "GB",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24024,17 +23870,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24108,6 +23943,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26367,17 +26213,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "GB",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -27346,17 +27181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "GB",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -27364,6 +27188,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "GB",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28189,17 +28024,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "GB",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29117,17 +28941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "GB",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -29135,6 +28948,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "GB",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29465,17 +29289,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30921,17 +30734,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "GB",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -32054,17 +31856,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "GB",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -32072,6 +31863,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "GB",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32527,17 +32329,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -33275,17 +33066,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "DE",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -33293,6 +33073,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "DE",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33678,17 +33469,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "DE",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34793,17 +34573,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34877,6 +34646,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37136,17 +36916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "DE",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -38115,17 +37884,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "DE",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -38133,6 +37891,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "DE",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38958,17 +38727,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "DE",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39886,17 +39644,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "DE",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -39904,6 +39651,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "DE",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40234,17 +39992,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41690,17 +41437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "DE",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -42823,17 +42559,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "DE",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -42841,6 +42566,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "DE",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43296,17 +43032,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -44044,17 +43769,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "FR",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -44062,6 +43776,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "FR",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44447,17 +44172,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "FR",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45562,17 +45276,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45646,6 +45349,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47905,17 +47619,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "FR",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -48884,17 +48587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "FR",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -48902,6 +48594,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "FR",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49727,17 +49430,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "FR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50655,17 +50347,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "FR",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -50673,6 +50354,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "FR",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51003,17 +50695,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52459,17 +52140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "FR",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -53592,17 +53262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "FR",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -53610,6 +53269,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "FR",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54065,17 +53735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -54813,17 +54472,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "CN",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -54831,6 +54479,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "CN",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55216,17 +54875,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "CN",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56331,17 +55979,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56415,6 +56052,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58674,17 +58322,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "CN",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -59653,17 +59290,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "CN",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -59671,6 +59297,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "CN",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60496,17 +60133,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "CN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61424,17 +61050,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "CN",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -61442,6 +61057,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "CN",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61772,17 +61398,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63228,17 +62843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "CN",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -64361,17 +63965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "CN",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -64379,6 +63972,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "CN",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64834,17 +64438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -65582,17 +65175,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "KR",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -65600,6 +65182,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "KR",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65985,17 +65578,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "KR",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67100,17 +66682,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67184,6 +66755,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69443,17 +69025,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "KR",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -70422,17 +69993,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "KR",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -70440,6 +70000,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "KR",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71265,17 +70836,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "KR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72193,17 +71753,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "KR",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -72211,6 +71760,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "KR",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72541,17 +72101,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73997,17 +73546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "KR",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -75130,17 +74668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "KR",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -75148,6 +74675,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "KR",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75603,17 +75141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -76351,17 +75878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "IN",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -76369,6 +75885,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "IN",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76754,17 +76281,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "IN",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77869,17 +77385,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -77953,6 +77458,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80212,17 +79728,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "IN",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -81191,17 +80696,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "IN",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -81209,6 +80703,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "IN",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82034,17 +81539,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "IN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82962,17 +82456,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "IN",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -82980,6 +82463,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "IN",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83310,17 +82804,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84766,17 +84249,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "IN",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -85899,17 +85371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "IN",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -85917,6 +85378,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "IN",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86372,17 +85844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -87120,17 +86581,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "BR",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -87138,6 +86588,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "BR",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87523,17 +86984,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "BR",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88638,17 +88088,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -88722,6 +88161,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90981,17 +90431,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "BR",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -91960,17 +91399,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "BR",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -91978,6 +91406,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "BR",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92803,17 +92242,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "BR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93731,17 +93159,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "BR",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -93749,6 +93166,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "BR",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94079,17 +93507,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95535,17 +94952,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "BR",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -96668,17 +96074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "BR",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -96686,6 +96081,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "BR",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97141,17 +96547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -97889,17 +97284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236334181",
-    "name": "Hamar › North-west: Stenfjellhytta",
-    "city": "Hamar",
-    "countryCode": "AU",
-    "lat": 60.94124,
-    "lng": 11.19187,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1419107132",
     "name": "Split: Livecam - Riva",
     "city": "Split",
@@ -97907,6 +97291,17 @@
     "lat": 43.50754,
     "lng": 16.43967,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236334181",
+    "name": "Hamar › North-west: Stenfjellhytta",
+    "city": "Hamar",
+    "countryCode": "AU",
+    "lat": 60.94124,
+    "lng": 11.19187,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236334181/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98292,17 +97687,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "AU",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99407,17 +98791,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99491,6 +98864,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101750,17 +101134,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1344675159",
-    "name": "Ares: Porto de Redes. Caamouco",
-    "city": "Ares",
-    "countryCode": "AU",
-    "lat": 43.42573,
-    "lng": -8.20166,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -102729,17 +102102,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562271770",
-    "name": "Stockholm › West: Tegelbacken S",
-    "city": "Stockholm",
-    "countryCode": "AU",
-    "lat": 59.32903,
-    "lng": 18.05873,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -102747,6 +102109,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562271770",
+    "name": "Stockholm › West: Tegelbacken S",
+    "city": "Stockholm",
+    "countryCode": "AU",
+    "lat": 59.32903,
+    "lng": 18.05873,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103572,17 +102945,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "AU",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104500,17 +103862,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1324654001",
-    "name": "Tromso › North: Tromsø",
-    "city": "Tromso",
-    "countryCode": "AU",
-    "lat": 69.67969,
-    "lng": 18.97081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -104518,6 +103869,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1324654001",
+    "name": "Tromso › North: Tromsø",
+    "city": "Tromso",
+    "countryCode": "AU",
+    "lat": 69.67969,
+    "lng": 18.97081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104848,17 +104210,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106304,17 +105655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "AU",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -107437,17 +106777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1306928257",
-    "name": "Geneva › South-east: HEPIA",
-    "city": "Geneva",
-    "countryCode": "AU",
-    "lat": 46.20973,
-    "lng": 6.13609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -107455,6 +106784,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1306928257",
+    "name": "Geneva › South-east: HEPIA",
+    "city": "Geneva",
+    "countryCode": "AU",
+    "lat": 46.20973,
+    "lng": 6.13609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
