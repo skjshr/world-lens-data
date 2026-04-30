@@ -2,22 +2,22 @@
   {
     "symbol": "US2Y",
     "name": "米 2 年国債",
-    "yield": 3.84,
-    "changeBps": 6,
-    "asOf": "2026-04-28T00:00:00.000Z"
+    "yield": 3.92,
+    "changeBps": 8,
+    "asOf": "2026-04-29T00:00:00.000Z"
   },
   {
     "symbol": "US10Y",
     "name": "米 10 年国債",
-    "yield": 4.36,
-    "changeBps": 1,
-    "asOf": "2026-04-28T00:00:00.000Z"
+    "yield": 4.42,
+    "changeBps": 6,
+    "asOf": "2026-04-29T00:00:00.000Z"
   },
   {
     "symbol": "US30Y",
     "name": "米 30 年国債",
-    "yield": 4.94,
-    "changeBps": 0,
-    "asOf": "2026-04-28T00:00:00.000Z"
+    "yield": 4.98,
+    "changeBps": 4,
+    "asOf": "2026-04-29T00:00:00.000Z"
   }
 ]
