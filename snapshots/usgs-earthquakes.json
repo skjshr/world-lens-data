@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000sh70",
+    "type": "earthquake",
+    "lat": -32.0637,
+    "lng": -178.0356,
+    "intensity": 4.9,
+    "timestamp": "2026-04-30T06:40:48.551Z",
+    "description": "M 4.9 - south of the Kermadec Islands",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sh55",
     "type": "earthquake",
     "lat": 8.9171,
@@ -87,36 +97,6 @@
     "intensity": 4.7,
     "timestamp": "2026-04-29T08:42:21.562Z",
     "description": "M 4.7 - 98 km WNW of Puerto, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgvx",
-    "type": "earthquake",
-    "lat": -47.8113,
-    "lng": 115.8857,
-    "intensity": 4.5,
-    "timestamp": "2026-04-29T06:34:18.672Z",
-    "description": "M 4.5 - western Indian-Antarctic Ridge",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgvv",
-    "type": "earthquake",
-    "lat": 33.5412,
-    "lng": 81.9551,
-    "intensity": 4.8,
-    "timestamp": "2026-04-29T06:29:41.617Z",
-    "description": "M 4.8 - western Xizang",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgvu",
-    "type": "earthquake",
-    "lat": -5.5896,
-    "lng": -79.0082,
-    "intensity": 4.8,
-    "timestamp": "2026-04-29T06:12:17.005Z",
-    "description": "M 4.8 - 10 km WNW of Huabal, Peru",
     "source": "USGS"
   }
 ]
