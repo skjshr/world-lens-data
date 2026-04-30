@@ -118,25 +118,5 @@
     "timestamp": "2026-04-29T06:12:17.005Z",
     "description": "M 4.8 - 10 km WNW of Huabal, Peru",
     "source": "USGS"
-  },
-  {
-    "id": "us7000sgv4",
-    "type": "earthquake",
-    "lat": -17.2359,
-    "lng": -173.7681,
-    "intensity": 4.5,
-    "timestamp": "2026-04-29T03:19:23.834Z",
-    "description": "M 4.5 - 141 km S of Hihifo, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgup",
-    "type": "earthquake",
-    "lat": -17.7842,
-    "lng": -174.8688,
-    "intensity": 4.9,
-    "timestamp": "2026-04-29T02:31:14.618Z",
-    "description": "M 4.9 - 134 km NW of Neiafu, Tonga",
-    "source": "USGS"
   }
 ]
