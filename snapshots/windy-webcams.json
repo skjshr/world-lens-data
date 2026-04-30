@@ -110,17 +110,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -590,17 +579,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1893,11 +1871,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "JP",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -2442,17 +2420,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "JP",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -2460,6 +2427,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "JP",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5346,17 +5324,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -5364,6 +5331,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7172,17 +7150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "JP",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -7190,6 +7157,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "JP",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7260,17 +7238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "JP",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -7304,17 +7271,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "JP",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -7322,6 +7278,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "JP",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8125,17 +8092,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "JP",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9053,6 +9009,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "JP",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -9922,17 +9889,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "JP",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -9940,6 +9896,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "JP",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10406,17 +10373,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "JP",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -10424,6 +10380,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "JP",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10615,13 +10582,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "JP",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10633,17 +10600,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "JP",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10670,6 +10626,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "JP",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -10681,13 +10648,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "JP",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10831,6 +10798,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "JP",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10945,17 +10923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -11425,17 +11392,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12728,11 +12684,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "US",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -13277,17 +13233,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "US",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -13295,6 +13240,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "US",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16181,17 +16137,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -16199,6 +16144,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18007,17 +17963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "US",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -18025,6 +17970,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "US",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18095,17 +18051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "US",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -18139,17 +18084,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "US",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -18157,6 +18091,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "US",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18960,17 +18905,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "US",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19888,6 +19822,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "US",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -20757,17 +20702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "US",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -20775,6 +20709,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "US",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21241,17 +21186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "US",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -21259,6 +21193,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "US",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21450,13 +21395,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "US",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21468,17 +21413,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "US",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21505,6 +21439,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "US",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -21516,13 +21461,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "US",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21666,6 +21611,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "US",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21780,17 +21736,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -22260,17 +22205,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23563,11 +23497,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "GB",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -24112,17 +24046,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "GB",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -24130,6 +24053,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "GB",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27016,17 +26950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -27034,6 +26957,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28842,17 +28776,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "GB",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -28860,6 +28783,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "GB",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28930,17 +28864,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "GB",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -28974,17 +28897,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "GB",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -28992,6 +28904,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "GB",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29795,17 +29718,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "GB",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30723,6 +30635,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "GB",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -31592,17 +31515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "GB",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -31610,6 +31522,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "GB",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32076,17 +31999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "GB",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -32094,6 +32006,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "GB",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32285,13 +32208,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "GB",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32303,17 +32226,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "GB",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32340,6 +32252,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "GB",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -32351,13 +32274,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "GB",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32501,6 +32424,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "GB",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32615,17 +32549,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -33095,17 +33018,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34398,11 +34310,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "DE",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -34947,17 +34859,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "DE",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -34965,6 +34866,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "DE",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37851,17 +37763,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -37869,6 +37770,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39677,17 +39589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "DE",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -39695,6 +39596,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "DE",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39765,17 +39677,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "DE",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -39809,17 +39710,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "DE",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -39827,6 +39717,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "DE",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40630,17 +40531,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "DE",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41558,6 +41448,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "DE",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -42427,17 +42328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "DE",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -42445,6 +42335,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "DE",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42911,17 +42812,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "DE",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -42929,6 +42819,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "DE",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43120,13 +43021,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "DE",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43138,17 +43039,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "DE",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43175,6 +43065,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "DE",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -43186,13 +43087,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "DE",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43336,6 +43237,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "DE",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43450,17 +43362,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -43930,17 +43831,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45233,11 +45123,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "FR",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -45782,17 +45672,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "FR",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -45800,6 +45679,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "FR",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48686,17 +48576,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -48704,6 +48583,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50512,17 +50402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "FR",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -50530,6 +50409,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "FR",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50600,17 +50490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "FR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -50644,17 +50523,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "FR",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -50662,6 +50530,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "FR",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51465,17 +51344,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "FR",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52393,6 +52261,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "FR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -53262,17 +53141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "FR",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -53280,6 +53148,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "FR",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53746,17 +53625,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "FR",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -53764,6 +53632,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "FR",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53955,13 +53834,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "FR",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53973,17 +53852,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "FR",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54010,6 +53878,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "FR",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -54021,13 +53900,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "FR",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54171,6 +54050,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "FR",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54285,17 +54175,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -54765,17 +54644,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56068,11 +55936,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "CN",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -56617,17 +56485,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "CN",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -56635,6 +56492,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "CN",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59521,17 +59389,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -59539,6 +59396,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61347,17 +61215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "CN",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -61365,6 +61222,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "CN",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61435,17 +61303,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "CN",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -61479,17 +61336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "CN",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -61497,6 +61343,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "CN",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62300,17 +62157,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "CN",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63228,6 +63074,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "CN",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -64097,17 +63954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "CN",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -64115,6 +63961,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "CN",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64581,17 +64438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "CN",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -64599,6 +64445,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "CN",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64790,13 +64647,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "CN",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64808,17 +64665,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "CN",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64845,6 +64691,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "CN",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -64856,13 +64713,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "CN",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65006,6 +64863,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "CN",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65120,17 +64988,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -65600,17 +65457,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66903,11 +66749,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "KR",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -67452,17 +67298,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "KR",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -67470,6 +67305,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "KR",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70356,17 +70202,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -70374,6 +70209,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72182,17 +72028,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "KR",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -72200,6 +72035,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "KR",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72270,17 +72116,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "KR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -72314,17 +72149,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "KR",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -72332,6 +72156,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "KR",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73135,17 +72970,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "KR",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74063,6 +73887,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "KR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -74932,17 +74767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "KR",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -74950,6 +74774,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "KR",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75416,17 +75251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "KR",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -75434,6 +75258,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "KR",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75625,13 +75460,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "KR",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75643,17 +75478,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "KR",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75680,6 +75504,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "KR",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -75691,13 +75526,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "KR",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75841,6 +75676,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "KR",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75955,17 +75801,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -76435,17 +76270,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77738,11 +77562,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "IN",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -78287,17 +78111,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "IN",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -78305,6 +78118,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "IN",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81191,17 +81015,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -81209,6 +81022,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83017,17 +82841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "IN",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -83035,6 +82848,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "IN",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83105,17 +82929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "IN",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -83149,17 +82962,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "IN",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -83167,6 +82969,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "IN",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83970,17 +83783,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "IN",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84898,6 +84700,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "IN",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -85767,17 +85580,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "IN",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -85785,6 +85587,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "IN",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86251,17 +86064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "IN",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -86269,6 +86071,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "IN",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86460,13 +86273,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "IN",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86478,17 +86291,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "IN",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86515,6 +86317,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "IN",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -86526,13 +86339,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "IN",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86676,6 +86489,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "IN",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86790,17 +86614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -87270,17 +87083,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "BR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88573,11 +88375,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "BR",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -89122,17 +88924,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "BR",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -89140,6 +88931,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "BR",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92026,17 +91828,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -92044,6 +91835,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93852,17 +93654,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "BR",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -93870,6 +93661,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "BR",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93940,17 +93742,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "BR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -93984,17 +93775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "BR",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -94002,6 +93782,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "BR",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94805,17 +94596,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "BR",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95733,6 +95513,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "BR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -96602,17 +96393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "BR",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -96620,6 +96400,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "BR",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97086,17 +96877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "BR",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -97104,6 +96884,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "BR",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97295,13 +97086,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "BR",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97313,17 +97104,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "BR",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97350,6 +97130,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "BR",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -97361,13 +97152,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "BR",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97511,6 +97302,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "BR",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97625,17 +97427,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -98105,17 +97896,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "AU",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99408,11 +99188,11 @@
   },
   {
     "id": "windy-1280694868",
-    "name": "Medulin: Osnovna škola",
+    "name": "Medulin › South: Luka Medulin",
     "city": "Medulin",
     "countryCode": "AU",
-    "lat": 44.8253,
-    "lng": 13.9321,
+    "lat": 44.81706,
+    "lng": 13.9339,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -99957,17 +99737,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232544627",
-    "name": "Nuremberg: Theresienstraße",
-    "city": "Nuremberg",
-    "countryCode": "AU",
-    "lat": 49.45602,
-    "lng": 11.07899,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -99975,6 +99744,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232544627",
+    "name": "Nuremberg: Theresienstraße",
+    "city": "Nuremberg",
+    "countryCode": "AU",
+    "lat": 49.45602,
+    "lng": 11.07899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544627/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102861,17 +102641,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1532983870",
-    "name": "Waitaki District › South: SH8 Lindis Pass",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -44.58633,
-    "lng": 169.64631,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -102879,6 +102648,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104687,17 +104467,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "AU",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -104705,6 +104474,17 @@
     "lat": 43.67137,
     "lng": 19.64616,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "AU",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104775,17 +104555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "AU",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -104819,17 +104588,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1336301850",
-    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
-    "city": "Inari",
-    "countryCode": "AU",
-    "lat": 68.90025,
-    "lng": 27.07731,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202493407",
     "name": "Procida: Mount Vesuvius - Naples",
     "city": "Procida",
@@ -104837,6 +104595,17 @@
     "lat": 40.84239,
     "lng": 14.25081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202493407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1336301850",
+    "name": "Inari: Tie 4 - Uruvaara - Utsjoelle",
+    "city": "Inari",
+    "countryCode": "AU",
+    "lat": 68.90025,
+    "lng": 27.07731,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1336301850/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105640,17 +105409,6 @@
     "lat": 37.6773,
     "lng": 22.12491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1397773742",
-    "name": "Baska Voda › South: Kip svetog Nikole - Main beach - Saint Nicholas’ Church",
-    "city": "Baska Voda",
-    "countryCode": "AU",
-    "lat": 43.3571,
-    "lng": 16.94794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1397773742/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106568,6 +106326,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "AU",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249042255",
     "name": "Bergun: Dorf",
     "city": "Bergun",
@@ -107437,17 +107206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428821468",
-    "name": "Den Helder › South-east: Meteo-Julianadorp",
-    "city": "Den Helder",
-    "countryCode": "AU",
-    "lat": 52.88734,
-    "lng": 4.7356,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -107455,6 +107213,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428821468",
+    "name": "Den Helder › South-east: Meteo-Julianadorp",
+    "city": "Den Helder",
+    "countryCode": "AU",
+    "lat": 52.88734,
+    "lng": 4.7356,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107921,17 +107690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "AU",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -107939,6 +107697,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "AU",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108130,13 +107899,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1404748932",
-    "name": "Biograd na Moru › South-west: Ulica Tina Ujevića - Obala Kralja Petra Krešimira IV",
-    "city": "Biograd na Moru",
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor",
+    "city": "Cajetina Municipality",
     "countryCode": "AU",
-    "lat": 43.93632,
-    "lng": 15.44343,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "lat": 43.72552,
+    "lng": 19.6978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108148,17 +107917,6 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
-    "city": "Cajetina Municipality",
-    "countryCode": "AU",
-    "lat": 43.72552,
-    "lng": 19.6978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108185,6 +107943,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225720055",
+    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
+    "city": "Little Mountain",
+    "countryCode": "AU",
+    "lat": 18.38848,
+    "lng": -64.51337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -108196,13 +107965,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1225720055",
-    "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
-    "city": "Little Mountain",
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
     "countryCode": "AU",
-    "lat": 18.38848,
-    "lng": -64.51337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108346,6 +108115,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608954944",
+    "name": "Ui-dong › West",
+    "city": "Ui-dong",
+    "countryCode": "AU",
+    "lat": 37.65803,
+    "lng": 126.9917,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608954944/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
