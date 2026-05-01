@@ -220,17 +220,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -2475,17 +2464,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2559,6 +2537,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3802,6 +3791,17 @@
     "lat": 39.7898,
     "lng": 19.92346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387397401/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477310006",
+    "name": "Cabarete: Villa Taina",
+    "city": "Cabarete",
+    "countryCode": "JP",
+    "lat": 19.74984,
+    "lng": -70.40995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6061,17 +6061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "JP",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -6079,6 +6068,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "JP",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6321,17 +6321,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "JP",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6666,17 +6655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "JP",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -6684,6 +6662,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "JP",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7821,6 +7810,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "JP",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -7872,17 +7872,6 @@
     "lat": 66.54534,
     "lng": 25.85359,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8415,17 +8404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "JP",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -8433,6 +8411,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "JP",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9163,17 +9152,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "JP",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -9181,6 +9159,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "JP",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10065,17 +10054,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "JP",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -10083,6 +10061,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "JP",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10098,17 +10087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "JP",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -10116,6 +10094,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "JP",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10468,17 +10457,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "JP",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11018,17 +10996,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13277,17 +13244,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13361,6 +13317,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14604,6 +14571,17 @@
     "lat": 39.7898,
     "lng": 19.92346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387397401/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477310006",
+    "name": "Cabarete: Villa Taina",
+    "city": "Cabarete",
+    "countryCode": "US",
+    "lat": 19.74984,
+    "lng": -70.40995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16863,17 +16841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "US",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -16881,6 +16848,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "US",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17123,17 +17101,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "US",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17468,17 +17435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "US",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -17486,6 +17442,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "US",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18623,6 +18590,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "US",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -18674,17 +18652,6 @@
     "lat": 66.54534,
     "lng": 25.85359,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19217,17 +19184,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "US",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -19235,6 +19191,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "US",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19965,17 +19932,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "US",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -19983,6 +19939,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "US",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20867,17 +20834,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "US",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -20885,6 +20841,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "US",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20900,17 +20867,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "US",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -20918,6 +20874,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "US",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21270,17 +21237,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "US",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21824,17 +21780,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -22216,17 +22161,6 @@
     "lat": 24.29834,
     "lng": 89.08002,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "GB",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24079,17 +24013,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24163,6 +24086,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24262,17 +24196,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25406,6 +25329,17 @@
     "lat": 39.7898,
     "lng": 19.92346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387397401/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477310006",
+    "name": "Cabarete: Villa Taina",
+    "city": "Cabarete",
+    "countryCode": "GB",
+    "lat": 19.74984,
+    "lng": -70.40995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27665,17 +27599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "GB",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -27683,6 +27606,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "GB",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27925,17 +27859,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "GB",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28270,17 +28193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "GB",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -28288,6 +28200,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "GB",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29425,6 +29348,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "GB",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -29476,17 +29410,6 @@
     "lat": 66.54534,
     "lng": 25.85359,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30019,17 +29942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "GB",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -30037,6 +29949,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "GB",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30213,17 +30136,6 @@
     "lat": 42.39738,
     "lng": 2.15399,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384995061",
-    "name": "Split: Webcam - Seaside Promenade",
-    "city": "Split",
-    "countryCode": "GB",
-    "lat": 43.50811,
-    "lng": 16.43434,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384995061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30767,17 +30679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "GB",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -30785,6 +30686,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "GB",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31669,17 +31581,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "GB",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -31687,6 +31588,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "GB",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31702,17 +31614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "GB",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -31720,6 +31621,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "GB",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32072,17 +31984,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "GB",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32626,17 +32527,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -33018,17 +32908,6 @@
     "lat": 24.29834,
     "lng": 89.08002,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "DE",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34881,17 +34760,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34965,6 +34833,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35064,17 +34943,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36208,6 +36076,17 @@
     "lat": 39.7898,
     "lng": 19.92346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387397401/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477310006",
+    "name": "Cabarete: Villa Taina",
+    "city": "Cabarete",
+    "countryCode": "DE",
+    "lat": 19.74984,
+    "lng": -70.40995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38467,17 +38346,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "DE",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -38485,6 +38353,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "DE",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38727,17 +38606,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "DE",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39072,17 +38940,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "DE",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -39090,6 +38947,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "DE",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40227,6 +40095,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "DE",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -40278,17 +40157,6 @@
     "lat": 66.54534,
     "lng": 25.85359,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40821,17 +40689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "DE",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -40839,6 +40696,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "DE",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41015,17 +40883,6 @@
     "lat": 42.39738,
     "lng": 2.15399,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384995061",
-    "name": "Split: Webcam - Seaside Promenade",
-    "city": "Split",
-    "countryCode": "DE",
-    "lat": 43.50811,
-    "lng": 16.43434,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384995061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41569,17 +41426,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "DE",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -41587,6 +41433,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "DE",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42471,17 +42328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "DE",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -42489,6 +42335,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "DE",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42504,17 +42361,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "DE",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -42522,6 +42368,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "DE",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42874,17 +42731,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "DE",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43428,17 +43274,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -43820,17 +43655,6 @@
     "lat": 24.29834,
     "lng": 89.08002,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "FR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45683,17 +45507,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45767,6 +45580,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45866,17 +45690,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47010,6 +46823,17 @@
     "lat": 39.7898,
     "lng": 19.92346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387397401/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477310006",
+    "name": "Cabarete: Villa Taina",
+    "city": "Cabarete",
+    "countryCode": "FR",
+    "lat": 19.74984,
+    "lng": -70.40995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49269,17 +49093,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "FR",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -49287,6 +49100,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "FR",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49529,17 +49353,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "FR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49874,17 +49687,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "FR",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -49892,6 +49694,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "FR",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51029,6 +50842,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "FR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -51080,17 +50904,6 @@
     "lat": 66.54534,
     "lng": 25.85359,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51623,17 +51436,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "FR",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -51641,6 +51443,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "FR",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51817,17 +51630,6 @@
     "lat": 42.39738,
     "lng": 2.15399,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384995061",
-    "name": "Split: Webcam - Seaside Promenade",
-    "city": "Split",
-    "countryCode": "FR",
-    "lat": 43.50811,
-    "lng": 16.43434,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384995061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52371,17 +52173,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "FR",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -52389,6 +52180,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "FR",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53273,17 +53075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "FR",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -53291,6 +53082,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "FR",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53306,17 +53108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "FR",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -53324,6 +53115,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "FR",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53676,17 +53478,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "FR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54230,17 +54021,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -54622,17 +54402,6 @@
     "lat": 24.29834,
     "lng": 89.08002,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "CN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56485,17 +56254,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56569,6 +56327,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56668,17 +56437,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57812,6 +57570,17 @@
     "lat": 39.7898,
     "lng": 19.92346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387397401/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477310006",
+    "name": "Cabarete: Villa Taina",
+    "city": "Cabarete",
+    "countryCode": "CN",
+    "lat": 19.74984,
+    "lng": -70.40995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60071,17 +59840,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "CN",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -60089,6 +59847,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "CN",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60331,17 +60100,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "CN",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60676,17 +60434,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "CN",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -60694,6 +60441,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "CN",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61831,6 +61589,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "CN",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -61882,17 +61651,6 @@
     "lat": 66.54534,
     "lng": 25.85359,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62425,17 +62183,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "CN",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -62443,6 +62190,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "CN",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62619,17 +62377,6 @@
     "lat": 42.39738,
     "lng": 2.15399,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384995061",
-    "name": "Split: Webcam - Seaside Promenade",
-    "city": "Split",
-    "countryCode": "CN",
-    "lat": 43.50811,
-    "lng": 16.43434,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384995061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63173,17 +62920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "CN",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -63191,6 +62927,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "CN",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64075,17 +63822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "CN",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -64093,6 +63829,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "CN",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64108,17 +63855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "CN",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -64126,6 +63862,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "CN",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64478,17 +64225,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "CN",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65032,17 +64768,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -65424,17 +65149,6 @@
     "lat": 24.29834,
     "lng": 89.08002,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "KR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67287,17 +67001,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67371,6 +67074,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67470,17 +67184,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68614,6 +68317,17 @@
     "lat": 39.7898,
     "lng": 19.92346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387397401/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477310006",
+    "name": "Cabarete: Villa Taina",
+    "city": "Cabarete",
+    "countryCode": "KR",
+    "lat": 19.74984,
+    "lng": -70.40995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70873,17 +70587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "KR",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -70891,6 +70594,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "KR",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71133,17 +70847,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "KR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71478,17 +71181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "KR",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -71496,6 +71188,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "KR",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72633,6 +72336,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "KR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -72684,17 +72398,6 @@
     "lat": 66.54534,
     "lng": 25.85359,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73227,17 +72930,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "KR",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -73245,6 +72937,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "KR",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73421,17 +73124,6 @@
     "lat": 42.39738,
     "lng": 2.15399,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384995061",
-    "name": "Split: Webcam - Seaside Promenade",
-    "city": "Split",
-    "countryCode": "KR",
-    "lat": 43.50811,
-    "lng": 16.43434,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384995061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73975,17 +73667,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "KR",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -73993,6 +73674,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "KR",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74877,17 +74569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "KR",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -74895,6 +74576,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "KR",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74910,17 +74602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "KR",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -74928,6 +74609,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "KR",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75280,17 +74972,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "KR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75834,17 +75515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -76226,17 +75896,6 @@
     "lat": 24.29834,
     "lng": 89.08002,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "IN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78089,17 +77748,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -78173,6 +77821,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78272,17 +77931,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79416,6 +79064,17 @@
     "lat": 39.7898,
     "lng": 19.92346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387397401/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477310006",
+    "name": "Cabarete: Villa Taina",
+    "city": "Cabarete",
+    "countryCode": "IN",
+    "lat": 19.74984,
+    "lng": -70.40995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81675,17 +81334,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "IN",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -81693,6 +81341,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "IN",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81935,17 +81594,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "IN",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82280,17 +81928,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "IN",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -82298,6 +81935,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "IN",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83435,6 +83083,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "IN",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -83486,17 +83145,6 @@
     "lat": 66.54534,
     "lng": 25.85359,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84029,17 +83677,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "IN",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -84047,6 +83684,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "IN",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84223,17 +83871,6 @@
     "lat": 42.39738,
     "lng": 2.15399,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384995061",
-    "name": "Split: Webcam - Seaside Promenade",
-    "city": "Split",
-    "countryCode": "IN",
-    "lat": 43.50811,
-    "lng": 16.43434,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384995061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84777,17 +84414,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "IN",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -84795,6 +84421,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "IN",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85679,17 +85316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "IN",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -85697,6 +85323,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "IN",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85712,17 +85349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "IN",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -85730,6 +85356,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "IN",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86082,17 +85719,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "IN",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86636,17 +86262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -87028,17 +86643,6 @@
     "lat": 24.29834,
     "lng": 89.08002,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "BR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88887,17 +88491,6 @@
     "lat": 47.20128,
     "lng": 9.34037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514961/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89085,17 +88678,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92499,17 +92081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "BR",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -92517,6 +92088,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "BR",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92759,17 +92341,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "BR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93104,17 +92675,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "BR",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -93122,6 +92682,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "BR",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94853,17 +94424,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "BR",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -94871,6 +94431,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "BR",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95047,17 +94618,6 @@
     "lat": 42.39738,
     "lng": 2.15399,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384995061",
-    "name": "Split: Webcam - Seaside Promenade",
-    "city": "Split",
-    "countryCode": "BR",
-    "lat": 43.50811,
-    "lng": 16.43434,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384995061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95601,17 +95161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "BR",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -95619,6 +95168,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "BR",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96503,17 +96063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "BR",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -96521,6 +96070,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "BR",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96536,17 +96096,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "BR",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -96554,6 +96103,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "BR",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96906,17 +96466,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "BR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97460,17 +97009,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -97852,17 +97390,6 @@
     "lat": 24.29834,
     "lng": 89.08002,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "AU",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99715,17 +99242,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99909,17 +99425,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103323,17 +102828,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407314",
-    "name": "Litomerice: Mírové náměstí",
-    "city": "Litomerice",
-    "countryCode": "AU",
-    "lat": 50.53375,
-    "lng": 14.13292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462285079",
     "name": "Hauteluce: Centre station - Espace Diamant - Les Saisies",
     "city": "Hauteluce",
@@ -103341,6 +102835,17 @@
     "lat": 45.75827,
     "lng": 6.53527,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462285079/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407314",
+    "name": "Litomerice: Mírové náměstí",
+    "city": "Litomerice",
+    "countryCode": "AU",
+    "lat": 50.53375,
+    "lng": 14.13292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103583,17 +103088,6 @@
     "lat": 62.55578,
     "lng": 6.89306,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310713362/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "AU",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103928,17 +103422,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229806176",
-    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
-    "city": "Enkhuizen",
-    "countryCode": "AU",
-    "lat": 52.70184,
-    "lng": 5.28998,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -103946,6 +103429,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229806176",
+    "name": "Enkhuizen › East: Oude Haven - Paktuinen",
+    "city": "Enkhuizen",
+    "countryCode": "AU",
+    "lat": 52.70184,
+    "lng": 5.28998,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229806176/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105677,17 +105171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1305537569",
-    "name": "Bardolino: Centro Nautico",
-    "city": "Bardolino",
-    "countryCode": "AU",
-    "lat": 45.5426,
-    "lng": 10.72341,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1511843094",
     "name": "Arraijan: 26 de Diciembre: Miraflores Locks - Panama Canal",
     "city": "Arraijan",
@@ -105695,6 +105178,17 @@
     "lat": 8.99657,
     "lng": -79.5917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511843094/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1305537569",
+    "name": "Bardolino: Centro Nautico",
+    "city": "Bardolino",
+    "countryCode": "AU",
+    "lat": 45.5426,
+    "lng": 10.72341,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1305537569/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105871,17 +105365,6 @@
     "lat": 42.39738,
     "lng": 2.15399,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260608835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384995061",
-    "name": "Split: Webcam - Seaside Promenade",
-    "city": "Split",
-    "countryCode": "AU",
-    "lat": 43.50811,
-    "lng": 16.43434,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384995061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106425,17 +105908,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "AU",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -106443,6 +105915,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "AU",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107327,17 +106810,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697033873",
-    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
-    "city": "Laax",
-    "countryCode": "AU",
-    "lat": 46.87317,
-    "lng": 9.17978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -107345,6 +106817,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697033873",
+    "name": "Laax: Station Vorabgletscher: Vorab Gletscher",
+    "city": "Laax",
+    "countryCode": "AU",
+    "lat": 46.87317,
+    "lng": 9.17978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107360,17 +106843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "AU",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349754613",
     "name": "Kagoshima: Sakura Island 3",
     "city": "Kagoshima",
@@ -107378,6 +106850,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "AU",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107730,17 +107213,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "AU",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
