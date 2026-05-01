@@ -1,5 +1,35 @@
 [
   {
+    "id": "us7000shgu",
+    "type": "earthquake",
+    "lat": 8.0204,
+    "lng": 91.7969,
+    "intensity": 4.8,
+    "timestamp": "2026-05-01T03:12:50.562Z",
+    "description": "M 4.8 - Nicobar Islands, India region",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000shg3",
+    "type": "earthquake",
+    "lat": -42.2007,
+    "lng": -18.4175,
+    "intensity": 5,
+    "timestamp": "2026-05-01T00:49:08.859Z",
+    "description": "M 5.0 - southern Mid-Atlantic Ridge",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000shfd",
+    "type": "earthquake",
+    "lat": -4.5167,
+    "lng": 153.0204,
+    "intensity": 4.8,
+    "timestamp": "2026-04-30T22:58:41.560Z",
+    "description": "M 4.8 - 85 km ESE of Kokopo, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shd3",
     "type": "earthquake",
     "lat": -27.7862,
