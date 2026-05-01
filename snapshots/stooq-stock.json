@@ -31,7 +31,7 @@
     "name": "Nikkei 225",
     "countryCode": "JP",
     "price": 59513.12,
-    "changePct": -0.23,
+    "changePct": 0,
     "currency": "JPY",
     "asOf": "2026-05-01T00:00:00.000Z"
   },
@@ -48,8 +48,8 @@
     "symbol": "FTSE",
     "name": "FTSE 100",
     "countryCode": "GB",
-    "price": 22408.87,
-    "changePct": -0.25,
+    "price": 22367.68,
+    "changePct": -0.18,
     "currency": "GBP",
     "asOf": "2026-05-01T00:00:00.000Z"
   },

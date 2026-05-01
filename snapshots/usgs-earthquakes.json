@@ -1,5 +1,15 @@
 [
   {
+    "id": "nn00916980",
+    "type": "earthquake",
+    "lat": 39.3066,
+    "lng": -119.0467,
+    "intensity": 4.89,
+    "timestamp": "2026-05-01T08:17:19.870Z",
+    "description": "M 4.9 - 19 km SE of Silver Springs, Nevada",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shhi",
     "type": "earthquake",
     "lat": -0.8358,
@@ -67,26 +77,6 @@
     "intensity": 5.7,
     "timestamp": "2026-04-30T13:27:01.741Z",
     "description": "M 5.7 - 234 km SE of Lorengau, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sh7l",
-    "type": "earthquake",
-    "lat": -18.2522,
-    "lng": -175.1974,
-    "intensity": 5,
-    "timestamp": "2026-04-30T09:07:09.663Z",
-    "description": "M 5.0 - 135 km WNW of Neiafu, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sh7j",
-    "type": "earthquake",
-    "lat": 40.6305,
-    "lng": 142.8855,
-    "intensity": 4.5,
-    "timestamp": "2026-04-30T08:43:19.055Z",
-    "description": "M 4.5 - 106 km ENE of Kuji, Japan",
     "source": "USGS"
   }
 ]
