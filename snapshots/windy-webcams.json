@@ -1881,17 +1881,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "JP",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -2625,17 +2614,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "JP",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4115,11 +4093,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "JP",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -5511,17 +5489,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "JP",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -5529,6 +5496,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "JP",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5907,6 +5885,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -5925,6 +5914,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "JP",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7744,6 +7744,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -7832,17 +7843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "JP",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -7876,17 +7876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "JP",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -7894,6 +7883,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "JP",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8393,17 +8393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "JP",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -8411,6 +8400,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "JP",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8932,17 +8932,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "JP",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -8950,6 +8939,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "JP",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9346,6 +9346,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "JP",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12683,17 +12694,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "US",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -13427,17 +13427,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "US",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14917,11 +14906,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "US",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -16313,17 +16302,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "US",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -16331,6 +16309,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "US",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16709,6 +16698,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -16727,6 +16727,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "US",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18546,6 +18557,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -18634,17 +18656,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "US",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -18678,17 +18689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "US",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -18696,6 +18696,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "US",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19195,17 +19206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "US",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -19213,6 +19213,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "US",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19734,17 +19745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "US",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -19752,6 +19752,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "US",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20148,6 +20159,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "US",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23485,17 +23507,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "GB",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -24229,17 +24240,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "GB",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25719,11 +25719,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "GB",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -27115,17 +27115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "GB",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -27133,6 +27122,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "GB",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27511,6 +27511,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -27529,6 +27540,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "GB",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29348,6 +29370,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -29436,17 +29469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "GB",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -29480,17 +29502,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "GB",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -29498,6 +29509,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "GB",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29997,17 +30019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "GB",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -30015,6 +30026,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "GB",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30536,17 +30558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "GB",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -30554,6 +30565,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "GB",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30950,6 +30972,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "GB",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34287,17 +34320,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "DE",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -35031,17 +35053,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "DE",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36521,11 +36532,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "DE",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -37917,17 +37928,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "DE",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -37935,6 +37935,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "DE",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38313,6 +38324,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -38331,6 +38353,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "DE",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40150,6 +40183,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -40238,17 +40282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "DE",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -40282,17 +40315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "DE",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -40300,6 +40322,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "DE",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40799,17 +40832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "DE",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -40817,6 +40839,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "DE",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41338,17 +41371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "DE",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -41356,6 +41378,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "DE",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41752,6 +41785,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "DE",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45089,17 +45133,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "FR",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -45833,17 +45866,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "FR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47323,11 +47345,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "FR",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -48719,17 +48741,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "FR",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -48737,6 +48748,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "FR",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49115,6 +49137,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -49133,6 +49166,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "FR",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50952,6 +50996,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -51040,17 +51095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "FR",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -51084,17 +51128,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "FR",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -51102,6 +51135,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "FR",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51601,17 +51645,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "FR",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -51619,6 +51652,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "FR",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52140,17 +52184,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "FR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -52158,6 +52191,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "FR",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52554,6 +52598,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "FR",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55891,17 +55946,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "CN",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -56635,17 +56679,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "CN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58125,11 +58158,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "CN",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -59521,17 +59554,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "CN",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -59539,6 +59561,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "CN",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59917,6 +59950,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -59935,6 +59979,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "CN",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61754,6 +61809,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -61842,17 +61908,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "CN",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -61886,17 +61941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "CN",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -61904,6 +61948,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "CN",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62403,17 +62458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "CN",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -62421,6 +62465,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "CN",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62942,17 +62997,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "CN",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -62960,6 +63004,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "CN",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63356,6 +63411,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "CN",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66693,17 +66759,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "KR",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -67437,17 +67492,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "KR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68927,11 +68971,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "KR",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -70323,17 +70367,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "KR",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -70341,6 +70374,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "KR",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70719,6 +70763,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -70737,6 +70792,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "KR",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72556,6 +72622,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -72644,17 +72721,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "KR",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -72688,17 +72754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "KR",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -72706,6 +72761,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "KR",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73205,17 +73271,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "KR",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -73223,6 +73278,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "KR",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73744,17 +73810,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "KR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -73762,6 +73817,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "KR",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74158,6 +74224,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "KR",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77495,17 +77572,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "IN",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -78239,17 +78305,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "IN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79729,11 +79784,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "IN",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -81125,17 +81180,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "IN",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -81143,6 +81187,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "IN",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81521,6 +81576,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -81539,6 +81605,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "IN",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83358,6 +83435,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -83446,17 +83534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "IN",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -83490,17 +83567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "IN",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -83508,6 +83574,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "IN",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84007,17 +84084,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "IN",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -84025,6 +84091,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "IN",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84546,17 +84623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "IN",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -84564,6 +84630,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "IN",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84960,6 +85037,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "IN",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88297,17 +88385,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "BR",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -89041,17 +89118,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "BR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90531,11 +90597,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "BR",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -91927,17 +91993,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "BR",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -91945,6 +92000,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "BR",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92323,6 +92389,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -92341,6 +92418,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "BR",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94160,6 +94248,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -94248,17 +94347,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "BR",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -94292,17 +94380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "BR",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -94310,6 +94387,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "BR",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94809,17 +94897,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "BR",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -94827,6 +94904,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "BR",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95348,17 +95436,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "BR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -95366,6 +95443,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "BR",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95762,6 +95850,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "BR",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99099,17 +99198,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "AU",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -99843,17 +99931,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "AU",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101333,11 +101410,11 @@
   },
   {
     "id": "windy-1200059572",
-    "name": "Cogne",
+    "name": "Cogne › South: Prato di Sant’Orso",
     "city": "Cogne",
     "countryCode": "AU",
-    "lat": 45.60839,
-    "lng": 7.35672,
+    "lat": 45.60845,
+    "lng": 7.35523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200059572/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -102729,17 +102806,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1133187026",
-    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
-    "city": "Schwarzenberg",
-    "countryCode": "AU",
-    "lat": 47.01252,
-    "lng": 8.16121,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -102747,6 +102813,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1133187026",
+    "name": "Schwarzenberg: Furtig: Schwarzenberg Arnen",
+    "city": "Schwarzenberg",
+    "countryCode": "AU",
+    "lat": 47.01252,
+    "lng": 8.16121,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1133187026/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103125,6 +103202,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -103143,6 +103231,17 @@
     "lat": -67.60182,
     "lng": 62.87396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1650355280/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531227716",
+    "name": "Lublin: Lubelskie, Rzeczpospolita Polska",
+    "city": "Lublin",
+    "countryCode": "AU",
+    "lat": 51.25082,
+    "lng": 22.59995,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531227716/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104962,6 +105061,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -105050,17 +105160,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "AU",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -105094,17 +105193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216452734",
-    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
-    "city": "Rovaniemi",
-    "countryCode": "AU",
-    "lat": 66.54534,
-    "lng": 25.85359,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1430166304",
     "name": "Promajna: Promajna Beach",
     "city": "Promajna",
@@ -105112,6 +105200,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216452734",
+    "name": "Rovaniemi: Tie 4 - Napapiiri - Sodankylään",
+    "city": "Rovaniemi",
+    "countryCode": "AU",
+    "lat": 66.54534,
+    "lng": 25.85359,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216452734/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105611,17 +105710,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1383622220",
-    "name": "Chicago: Panorama",
-    "city": "Chicago",
-    "countryCode": "AU",
-    "lat": 41.8913,
-    "lng": -87.59861,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898672",
     "name": "Alboraia: Patacona beach",
     "city": "Alboraia",
@@ -105629,6 +105717,17 @@
     "lat": 39.49351,
     "lng": -0.32476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898672/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1383622220",
+    "name": "Chicago: Panorama",
+    "city": "Chicago",
+    "countryCode": "AU",
+    "lat": 41.8913,
+    "lng": -87.59861,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383622220/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106150,17 +106249,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "AU",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -106168,6 +106256,17 @@
     "lat": 55.82516,
     "lng": -3.30545,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1329762542/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "AU",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106564,6 +106663,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "AU",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },

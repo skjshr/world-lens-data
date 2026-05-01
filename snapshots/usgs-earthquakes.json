@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shll",
+    "type": "earthquake",
+    "lat": -7.3789,
+    "lng": 128.3922,
+    "intensity": 4.8,
+    "timestamp": "2026-05-01T18:52:47.403Z",
+    "description": "M 4.8 - 198 km NE of Lospalos, Timor Leste",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shl7",
     "type": "earthquake",
     "lat": 42.8985,
