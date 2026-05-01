@@ -1,5 +1,25 @@
 [
   {
+    "id": "us7000shhi",
+    "type": "earthquake",
+    "lat": -0.8358,
+    "lng": 101.3895,
+    "intensity": 4.5,
+    "timestamp": "2026-05-01T05:17:26.022Z",
+    "description": "M 4.5 - 48 km ESE of Sijunjung, Indonesia",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000shh1",
+    "type": "earthquake",
+    "lat": 50.859,
+    "lng": 157.0891,
+    "intensity": 5.1,
+    "timestamp": "2026-05-01T04:03:16.561Z",
+    "description": "M 5.1 - 70 km ENE of Severo-Kuril’sk, Russia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shgu",
     "type": "earthquake",
     "lat": 8.0204,
@@ -67,16 +87,6 @@
     "intensity": 4.5,
     "timestamp": "2026-04-30T08:43:19.055Z",
     "description": "M 4.5 - 106 km ENE of Kuji, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sh70",
-    "type": "earthquake",
-    "lat": -32.0637,
-    "lng": -178.0356,
-    "intensity": 4.9,
-    "timestamp": "2026-04-30T06:40:48.551Z",
-    "description": "M 4.9 - south of the Kermadec Islands",
     "source": "USGS"
   }
 ]
