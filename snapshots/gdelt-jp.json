@@ -1,15 +1,483 @@
 [
   {
-    "id": "gdelt-20260502T201500Z-0",
-    "headline": "渡辺美里 ２１年ぶり  西武ドーム  １１ ・ ８に一夜限りの伝説復活 「 久しぶりに里帰りをしようかな 」/ 芸能 / デイリースポーツ online",
-    "sourceName": "daily.co.jp",
-    "sourceUrl": "https://www.daily.co.jp/gossip/2026/05/03/0020313795.shtml",
-    "publishedAt": "2026-05-02T20:15:00Z",
+    "id": "gdelt-20260502T223000Z-0",
+    "headline": " 【 駒田徳広 我が道3 】「 ゴロを打て 」 の指示で本塁打 えらく怒られブチ切れて家に帰る （ スポニチ ） ",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/001/087000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
     "countryCode": "JP",
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T201500Z-1",
+    "id": "gdelt-20260502T223000Z-1",
+    "headline": "ソフトバンク ・ 大津亮介 年またぎの8連勝 ！「 割り切って投げた 」 8安打浴びるも7回零封4勝目 （ スポニチ ） ",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/001/042000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T223000Z-2",
+    "headline": "A級戦犯の素顔は … 93歳の現代史家 ・ 秦郁彦さんが語る東京裁判",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260501/k00/00m/040/356000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T223000Z-3",
+    "headline": "読む政治 ： 9条2項 、 維持か削除か 安倍氏と維新の間で揺れる  高市改憲  ",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260502/k00/00m/010/233000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T223000Z-4",
+    "headline": "ロバーツ監督 自慢の強力打線沈黙の原因は 「 典型的なケース 」（ スポニチ ） ",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/102/123000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T223000Z-5",
+    "headline": "読む政治 ： 憲法改正 「 時は来た 」 スピーチ 高市氏が考慮した  迷惑  と本音",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260502/k00/00m/010/206000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T223000Z-6",
+    "headline": " 「 もっとうまく 」 甲子園で敵将から学ぶ 春の軟式交流試合",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260428/k00/00m/050/419000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T223000Z-7",
+    "headline": "ソフトバンク 32打席ぶり快音は打った瞬間分かる6号ソロ 山川穂高 「 自分のバッティングができました 」（ スポニチ ） ",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/001/065000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T223000Z-8",
+    "headline": "全国ランニング大会100撰に 「 ふくい桜マラソン 」 2年連続選出 、 福井県民のおもてなし高評価 | スポーツ | 福井のニュース",
+    "sourceName": "fukuishimbun.co.jp",
+    "sourceUrl": "https://www.fukuishimbun.co.jp/articles/-/2592025",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T223000Z-9",
+    "headline": "日本ハムドラフト3位の大塚瑠晏がプロ初本塁打 「 思ったより早く出た 。 自信になる 」（ スポニチ ） ",
+    "sourceName": "mainichi.jp",
+    "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/001/075000c",
+    "publishedAt": "2026-05-02T22:30:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-10",
+    "headline": "  伝統の一線  阪神対巨人 岡田彰布がWBCコーチ陣と解説 ABCテレビ 『 スーパーベースボール 』 | ORICON NEWS | 国内海外のニュース",
+    "sourceName": "373news.com",
+    "sourceUrl": "https://373news.com/news/national/oricon/detail/2451721/",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-11",
+    "headline": " 【 浜田剛史の目 】 距離を支配し互角の力を証明した中谷 11回尚弥の右アッパーなけば引き分けも - スポニチ Sponichi Annex 格闘技",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/battle/news/2026/05/03/kiji/20260503s00021000045000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-12",
+    "headline": "井岡 5回級制覇ならず … 対日本人初黒星 最後まで勝機を見いだせず世界戦3連敗 - スポニチ Sponichi Annex 格闘技",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/battle/news/2026/05/03/kiji/20260503s00021000051000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-13",
+    "headline": "イラン新提案 「 合意不可 」 トランプ氏が不満表明 攻撃再開選択肢と圧力 - スポニチ Sponichi Annex 社会",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/society/news/2026/05/03/kiji/20260503s00042000046000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-14",
+    "headline": "準備ばっちし浜松まつり3日開幕 誰もが楽しめる祭りへ手話通訳ボランティアが初凧サポート ： 中日新聞しずおかWeb",
+    "sourceName": "chunichi.co.jp",
+    "sourceUrl": "https://www.chunichi.co.jp:443/article/1246263",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-15",
+    "headline": "井上尚弥行きつけの焼き肉店 応援ミノった 極上勝利タン能 来店待っテール - スポニチ Sponichi Annex 芸能",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/entertainment/news/2026/05/03/kiji/20260503s00041000028000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-16",
+    "headline": "尚弥 大成功東京D超え8万8000人規模の国立開催へ ! 実現すればボクシング界初の  夢プラン  浮上 - スポニチ Sponichi Annex 格闘技",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/battle/news/2026/05/03/kiji/20260503s00021000032000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-17",
+    "headline": " 「 韓流コスメ 」 専攻コース 日本薬科大 、 文化 ・ 伝統幅広く : 暮らし ・ 話題 : 福島民友新聞社",
+    "sourceName": "minyu-net.com",
+    "sourceUrl": "https://www.minyu-net.com/newspack/detail/2026050301000087",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-18",
+    "headline": "明石家さんま 真矢さんの訃報公表が遅れた理由明かす 番組出演には感謝 「 物凄く縁があった 」 - スポニチ Sponichi Annex 芸能",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/entertainment/news/2026/02/28/kiji/20260228s00041000367000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-19",
+    "headline": "2026 / 5 / 3 【 三山春秋 】 生活習慣病予防に取り組み 、 高齢者 … | 上毛新聞電子版｜群馬県のニュース ・ スポーツ情報",
+    "sourceName": "jomo-news.co.jp",
+    "sourceUrl": "https://www.jomo-news.co.jp/articles/-/928079",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-20",
+    "headline": "相葉雅紀 、 Travis Japan七五三掛龍也  即興あざとい顔 ＆ ポーズ  にはタジタジ 「 こりゃ勝てねえわ 」 個人でテレビ初共演 | ORICON NEWS | 国内海外のニュース",
+    "sourceName": "373news.com",
+    "sourceUrl": "https://373news.com/news/national/oricon/detail/2452302/",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-21",
+    "headline": "中村雅俊の妻 ・ 淳子さん急逝 家族も深い悲しみ 「 現実を受け止めることができません 」 ｜ORICON NEWS｜Web東奥",
+    "sourceName": "toonippo.co.jp",
+    "sourceUrl": "https://www.toonippo.co.jp/articles/-/2265495",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-22",
+    "headline": "五十嵐淳子さんが急逝 73歳 夫 ・ 中村雅俊突然の別れに沈痛 「 妻を亡くすことなど考えたことがなくて 」 - スポニチ Sponichi Annex 芸能",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/entertainment/news/2026/05/03/kiji/20260503s00041000036000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-23",
+    "headline": "井上尚弥が最強 ! 中谷と  世紀の12ラウンド  32戦無敗対決制し 「 まだまだ伝説をつくっていける 」 - スポニチ Sponichi Annex 格闘技",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/battle/news/2026/05/03/kiji/20260503s00021000030000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-24",
+    "headline": "大沢あかね 、 テレビ初  メイクオフ 結婚17年 ・ 劇団ひとりとの意外な夫婦関係明かす｜ORICON NEWS｜Web東奥",
+    "sourceName": "toonippo.co.jp",
+    "sourceUrl": "https://www.toonippo.co.jp/articles/-/2265507",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-25",
+    "headline": "旧統一教会が合同結婚式 日本からも約430人参加 - スポニチ Sponichi Annex 社会",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/society/news/2026/05/03/kiji/20260503s00042000050000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-26",
+    "headline": "大橋会長 2年前から構想 … 東京D 「 ネリの次は中谷 」 好敵手確信 「 階級上げるほど強くなる 」 - スポニチ Sponichi Annex 格闘技",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/battle/news/2026/05/03/kiji/20260503s00021000035000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-27",
+    "headline": "エバース町田 夜中に気付いた 「 売れる芸人の法則 」 とは 「 どっちかは絶対 …」 持論に内村光良 ＆ 千鳥が爆笑 - スポニチ Sponichi Annex 芸能",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/entertainment/news/2026/05/03/kiji/20260503s00041000066000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-28",
+    "headline": "愛知県芸術劇場の裏側 、 全部見せます 3日までホール探検イベント ： 中日新聞Web",
+    "sourceName": "chunichi.co.jp",
+    "sourceUrl": "https://www.chunichi.co.jp:443/article/1246199",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-29",
+    "headline": " 「 女性が幸せにならなければ平和にはなりません 」 男女同権定めた憲法24条 、 起草者の思いと資料を次代に ： 中日新聞Web",
+    "sourceName": "chunichi.co.jp",
+    "sourceUrl": "https://www.chunichi.co.jp:443/article/1246265",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-30",
+    "headline": "49歳 ・ ほしのあき 、 美スタイル全開のノースリーブ ＆ ミニ丈ワンピ姿に反響 「 いくつになってもスタイル最高 」「 凄く可愛いです 」 ｜ORICON NEWS｜Web東奥",
+    "sourceName": "toonippo.co.jp",
+    "sourceUrl": "https://www.toonippo.co.jp/articles/-/2265511",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-31",
+    "headline": "尚弥 「 八重トレ 」 短縮 、 チーム外  合宿 … 団結力で勝利 サイズ警戒  対中谷  に時間を - スポニチ Sponichi Annex 格闘技",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/battle/news/2026/05/03/kiji/20260503s00021000037000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-32",
+    "headline": " 「 韓流コスメ 」 専攻コース 日本薬科大 、 文化 ・ 伝統幅広く｜全国のニュース｜Web東奥",
+    "sourceName": "toonippo.co.jp",
+    "sourceUrl": "https://www.toonippo.co.jp/articles/-/2265493",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-33",
+    "headline": "小日向文世 役者人生の転機になった 「 青りんご 」 舞台の魅力に気付かされ … 熟れて売れた47歳 - スポニチ Sponichi Annex 芸能",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/entertainment/news/2026/05/03/kiji/20260503s00041000023000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-34",
+    "headline": " 【 京王杯SC 】 ワールズエンド逃げ切りV 鮮やか津村 またテン乗りで  一発回答  今年重賞5勝目 - スポニチ Sponichi Annex ギャンブル",
+    "sourceName": "sponichi.co.jp",
+    "sourceUrl": "https://www.sponichi.co.jp/gamble/news/2026/05/03/kiji/20260502s00004000427000c.html",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T221500Z-37",
+    "headline": " 「 韓流コスメ 」 専攻コース 日本薬科大 、 文化 ・ 伝統幅広く | 上毛新聞電子版｜群馬県のニュース ・ スポーツ情報",
+    "sourceName": "jomo-news.co.jp",
+    "sourceUrl": "https://www.jomo-news.co.jp/articles/-/928159",
+    "publishedAt": "2026-05-02T22:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T220000Z-38",
+    "headline": "宇奈月から雪の大谷へ 「 アルペンＧＯ 」 直行便２年ぶり復活 観光局がツアーバス｜地域｜富山のニュース｜富山新聞",
+    "sourceName": "hokkoku.co.jp",
+    "sourceUrl": "https://www.hokkoku.co.jp/articles/-/2096015",
+    "publishedAt": "2026-05-02T22:00:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T220000Z-40",
+    "headline": "外国人による土地取得 地価が高騰する駅前通りに見た住民の 「 葛藤 」： 朝日新聞",
+    "sourceName": "asahi.com",
+    "sourceUrl": "https://www.asahi.com/articles/ASV4Z360CV4ZUTFK00NM.html",
+    "publishedAt": "2026-05-02T22:00:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T220000Z-41",
+    "headline": "ＧＷ５連休 、 ようこそ石川 物価高も 「 奮発 」「 工夫 」 金沢駅 、 入り込みピーク｜社会｜石川のニュース｜北國新聞",
+    "sourceName": "hokkoku.co.jp",
+    "sourceUrl": "https://www.hokkoku.co.jp/articles/-/2096081",
+    "publishedAt": "2026-05-02T22:00:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T220000Z-42",
+    "headline": "富山商 、 高岡一で決勝 ３日激突 氷見 、 高朋に快勝 県春季高校野球｜スポーツ｜富山のニュース｜富山新聞",
+    "sourceName": "hokkoku.co.jp",
+    "sourceUrl": "https://www.hokkoku.co.jp/articles/-/2096040",
+    "publishedAt": "2026-05-02T22:00:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T220000Z-43",
+    "headline": " 〈 羽ばたくトキ ・ ５ . ３１放鳥 〉「 のとっきー 」 着ぐるみ登場 県立図書館 ｜社会｜石川のニュース｜北國新聞",
+    "sourceName": "hokkoku.co.jp",
+    "sourceUrl": "https://www.hokkoku.co.jp/articles/-/2096066",
+    "publishedAt": "2026-05-02T22:00:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-44",
+    "headline": "鉄アレイでハーフ美女を撲殺した 「 粗暴男 」 のキレっぷりと残忍性 … 8年間マレーシアで逃亡生活｜日刊ゲンダイDIGITAL",
+    "sourceName": "nikkan-gendai.com",
+    "sourceUrl": "https://www.nikkan-gendai.com/articles/view/newsx/387252",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-45",
+    "headline": "鼻毛はお金になる ！ | 世界で一番帰りたくなる家",
+    "sourceName": "ameblo.jp",
+    "sourceUrl": "https://ameblo.jp/the-rest-of-mylife/entry-12964602196.html",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-46",
+    "headline": "りくりゅう人気で評価爆上がり 木原龍一の元パートナー高橋成美が秘めるポテンシャル｜日刊ゲンダイDIGITAL",
+    "sourceName": "nikkan-gendai.com",
+    "sourceUrl": "https://www.nikkan-gendai.com/articles/view/geino/387244",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-47",
+    "headline": "財務省が私大250校削減案 大都市圏でも … 最初に消える大学はどこだ ？ ｜日刊ゲンダイDIGITAL",
+    "sourceName": "nikkan-gendai.com",
+    "sourceUrl": "https://www.nikkan-gendai.com/articles/view/life/387251",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-48",
+    "headline": "都内オススメ子連れランチスポット | あさの☆ひかりオフィシャルブログ 「 ぶっちゃけていいスか !?」 Powered by Ameba",
+    "sourceName": "ameblo.jp",
+    "sourceUrl": "https://ameblo.jp/asanohikari-lab/entry-12964819575.html",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-49",
+    "headline": "五十嵐淳子さん逝去 夫 ・ 中村雅俊と 「 おしどり夫婦 」 の原点だった  デキ婚  と  銀座時代  ｜日刊ゲンダイDIGITAL",
+    "sourceName": "nikkan-gendai.com",
+    "sourceUrl": "https://www.nikkan-gendai.com/articles/view/geino/387264",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-50",
+    "headline": "◯何度も何度も断わりました | メリハリダイエットでご自愛ライフ♡",
+    "sourceName": "ameblo.jp",
+    "sourceUrl": "https://ameblo.jp/usagi-202309/entry-12964677195.html",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-51",
+    "headline": " （ 1 ） 薬が消える … 戦争がもたらす 「 薬飢饉 」 ｜日刊ゲンダイDIGITAL",
+    "sourceName": "nikkan-gendai.com",
+    "sourceUrl": "https://www.nikkan-gendai.com/articles/view/health/387122",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-52",
+    "headline": " 【 円安対策 】 1ドル160円 … 今からできるハワイ旅行の節約術 | 子連れハワイと 、 マイルのある暮らし",
+    "sourceName": "ameblo.jp",
+    "sourceUrl": "https://ameblo.jp/hawii-hawaii/entry-12964743771.html",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-53",
+    "headline": "アクセサリーボックスを自作して 、 金の高騰にびっくりする | たんぽぽケーキの台所 レシピや節約 、 生活 、 お金の事など徒然なるままに",
+    "sourceName": "ameblo.jp",
+    "sourceUrl": "https://ameblo.jp/tanpopocake/entry-12964631918.html",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-54",
+    "headline": "滑り込みハワイ ！！！！ | ハワイ旅行の計画と思い出",
+    "sourceName": "ameblo.jp",
+    "sourceUrl": "https://ameblo.jp/sakura-meria/entry-12940872224.html",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T214500Z-55",
+    "headline": "高市陣営 「 誹謗中傷 」 動画疑惑が拡大か ？ 衆院選で野党候補を次々ディスり 、「 自分もやられたかも 」 の声続出｜日刊ゲンダイDIGITAL",
+    "sourceName": "nikkan-gendai.com",
+    "sourceUrl": "https://www.nikkan-gendai.com/articles/view/news/387249",
+    "publishedAt": "2026-05-02T21:45:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T201500Z-56",
     "headline": "ロバート キャンベルが読み解く 、 アメリカ議会でのチャールズ国王スピーチの 「 一滴の毒 」 ",
     "sourceName": "joqr.co.jp",
     "sourceUrl": "https://www.joqr.co.jp/qr/article/174484/",
@@ -18,7 +486,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T201500Z-2",
+    "id": "gdelt-20260502T201500Z-57",
     "headline": "SUPER EIGHT安田章大が広げる音楽の 「 輪 」 後輩たちと  音で語り合う  総合プロデュースフェス開催 / 芸能 / デイリースポーツ online",
     "sourceName": "daily.co.jp",
     "sourceUrl": "https://www.daily.co.jp/gossip/2026/05/03/0020313792.shtml",
@@ -27,7 +495,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T201500Z-3",
+    "id": "gdelt-20260502T201500Z-58",
     "headline": "元CAの芸人CRAZY COCO 「 死に対する当事者意識を持って生き方が変わった 」 ",
     "sourceName": "joqr.co.jp",
     "sourceUrl": "https://www.joqr.co.jp/qr/article/174412/",
@@ -36,7 +504,16 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T194500Z-4",
+    "id": "gdelt-20260502T201500Z-59",
+    "headline": "渡辺美里 ２１年ぶり  西武ドーム  １１ ・ ８に一夜限りの伝説復活 「 久しぶりに里帰りをしようかな 」/ 芸能 / デイリースポーツ online",
+    "sourceName": "daily.co.jp",
+    "sourceUrl": "https://www.daily.co.jp/gossip/2026/05/03/0020313795.shtml",
+    "publishedAt": "2026-05-02T20:15:00Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "gdelt-20260502T194500Z-60",
     "headline": " 「 子どもと夢を ！」 玖珠町２会場で５日に日本童話祭 ジャンボこいのぼりのくぐり抜けなど多彩な催し - 大分のニュースなら 大分合同新聞プレミアムオンライン Gate",
     "sourceName": "oita-press.co.jp",
     "sourceUrl": "https://www.oita-press.co.jp/1010000000/2026/05/03/JDC2026042402276",
@@ -45,7 +522,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T194500Z-5",
+    "id": "gdelt-20260502T194500Z-61",
     "headline": "国旗損壊罪に反対の岩屋氏 「 表現の自由侵す恐れ 」 SNS 、 発言への賛否交錯 - 大分のニュースなら 大分合同新聞プレミアムオンライン Gate",
     "sourceName": "oita-press.co.jp",
     "sourceUrl": "https://www.oita-press.co.jp/1010000000/2026/05/03/JDC2026050102035",
@@ -54,7 +531,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-6",
+    "id": "gdelt-20260502T193000Z-62",
     "headline": "STARTO 新感覚フェス 安田章大の呼びかけで集結 事務所の名曲26曲披露 （ スポニチ ） ",
     "sourceName": "mainichi.jp",
     "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/006/085000c",
@@ -63,7 +540,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-7",
+    "id": "gdelt-20260502T193000Z-63",
     "headline": "中条あやみ 「 推しの芸人 」 を告白 人気コンビも 「 悲しいことに見なくなってしまった 」 - スポニチ Sponichi Annex 芸能",
     "sourceName": "sponichi.co.jp",
     "sourceUrl": "https://www.sponichi.co.jp/entertainment/news/2026/05/03/kiji/20260503s00041000029000c.html",
@@ -72,7 +549,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-8",
+    "id": "gdelt-20260502T193000Z-64",
     "headline": "社説 ： 公布80年の憲法論議 主権者として向き合おう",
     "sourceName": "mainichi.jp",
     "sourceUrl": "https://mainichi.jp/articles/20260503/ddm/005/070/104000c",
@@ -81,7 +558,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-9",
+    "id": "gdelt-20260502T193000Z-65",
     "headline": " 「 豊臣兄弟 」 きょう大河異例の同日東西パレード ！ 仲野 ＆ 池松は博多どんたく→松下 ＆ 迫田は浜松まつり参加 - スポニチ Sponichi Annex 芸能",
     "sourceName": "sponichi.co.jp",
     "sourceUrl": "https://www.sponichi.co.jp/entertainment/news/2026/05/03/kiji/20260502s00041000077000c.html",
@@ -90,7 +567,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-10",
+    "id": "gdelt-20260502T193000Z-66",
     "headline": "余録 ：「 5月5日は男子の節句で女子の節句でない … ",
     "sourceName": "mainichi.jp",
     "sourceUrl": "https://mainichi.jp/articles/20260503/ddm/001/070/113000c",
@@ -99,7 +576,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-11",
+    "id": "gdelt-20260502T193000Z-67",
     "headline": "長崎の星から気候変動へ 猿橋賞の今田由紀子東京大准教授",
     "sourceName": "nikkei.com",
     "sourceUrl": "https://www.nikkei.com/article/DGXZQOSG273W40X20C26A4000000/",
@@ -108,7 +585,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-12",
+    "id": "gdelt-20260502T193000Z-68",
     "headline": "霊長類やマウスも 「 つわり 」 に悩む ？ 発生の仕組み解明へ 、 北大など",
     "sourceName": "nikkei.com",
     "sourceUrl": "https://www.nikkei.com/article/DGXZQOSG243WA0U6A420C2000000/",
@@ -117,7 +594,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-13",
+    "id": "gdelt-20260502T193000Z-69",
     "headline": "井上尚弥 インスタでファンに感謝 「 皆んなの応援が力に 」 決意も 「 まだまだ強くなって戻って来ます 」 - スポニチ Sponichi Annex 格闘技",
     "sourceName": "sponichi.co.jp",
     "sourceUrl": "https://www.sponichi.co.jp/battle/news/2026/05/03/kiji/20260503s00021000055000c.html",
@@ -126,7 +603,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-14",
+    "id": "gdelt-20260502T193000Z-70",
     "headline": " 【 リーグワン 】 BL東京  王者の強さ発揮  でPO進出決定 ! 大ケガから復帰ナイカブラが2T （ スポニチ ） ",
     "sourceName": "mainichi.jp",
     "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/004/013000c",
@@ -135,7 +612,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-15",
+    "id": "gdelt-20260502T193000Z-71",
     "headline": " 「 豊臣兄弟 」 きょう大河異例の同日東西パレード ！ 仲野 ＆ 池松は博多どんたく→松下 ＆ 迫田は浜松まつり参加 （ スポニチ ） ",
     "sourceName": "mainichi.jp",
     "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/006/008000c",
@@ -144,7 +621,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T193000Z-16",
+    "id": "gdelt-20260502T193000Z-72",
     "headline": "新潟 3日讃岐戦 ホームデビューを見据えるDF加藤 「 守備が連動してはまれば 、 いい攻撃につなげられる 」（ スポニチ ） ",
     "sourceName": "mainichi.jp",
     "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/002/004000c",
@@ -153,7 +630,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T191500Z-17",
+    "id": "gdelt-20260502T191500Z-73",
     "headline": "俺 「 東北では 、 新鮮なイカを入れたイカの味噌汁があるらしい 」 メシマズ嫁 「 へ～ 」 →翌日の夕食に ... : かぞくちゃんねる",
     "sourceName": "kazokuchannel.doorblog.jp",
     "sourceUrl": "https://kazokuchannel.doorblog.jp/archives/63176039.html",
@@ -162,7 +639,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T191500Z-18",
+    "id": "gdelt-20260502T191500Z-74",
     "headline": "宇都宮ブレックス激戦制して4連勝 ベテラン遠藤が存在感 、 要所で3ポイント2本沈める 琉球戦｜県内主要 , スポーツ｜下野新聞デジタルニュース｜宇都宮ブレックス特集｜下野新聞デジタル",
     "sourceName": "shimotsuke.co.jp",
     "sourceUrl": "https://www.shimotsuke.co.jp/articles/-/1338825",
@@ -171,7 +648,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T191500Z-19",
+    "id": "gdelt-20260502T191500Z-75",
     "headline": "井上尚弥 、 中谷潤人は 「 気持ちの強いファイター 」 頂上決戦制し 「 少し休ませてください 」 ｜山形新聞",
     "sourceName": "yamagata-np.jp",
     "sourceUrl": "https://www.yamagata-np.jp/oricon/print.php?id=2452627",
@@ -180,7 +657,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T191500Z-20",
+    "id": "gdelt-20260502T191500Z-76",
     "headline": "父親のウワキについて問い詰めてしまった 。 詳しく聞いてもはぐらかすばかりで ... : かぞくちゃんねる",
     "sourceName": "kazokuchannel.doorblog.jp",
     "sourceUrl": "https://kazokuchannel.doorblog.jp/archives/63176035.html",
@@ -189,7 +666,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T191500Z-21",
+    "id": "gdelt-20260502T191500Z-77",
     "headline": "勝利引き寄せたエドワーズの勝負勘 3P成功もキャリア最多 ブレックスの強さ象徴するビッグマン｜県内主要 , スポーツ｜下野新聞デジタルニュース｜宇都宮ブレックス特集｜下野新聞デジタル",
     "sourceName": "shimotsuke.co.jp",
     "sourceUrl": "https://www.shimotsuke.co.jp/articles/-/1338824",
@@ -198,7 +675,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T190000Z-22",
+    "id": "gdelt-20260502T190000Z-78",
     "headline": "香取慎吾 ＆ やす子 、 芸歴差30年以上  初タッグ決定 テレビ企画の可能性探る 【 コメントあり 】 | ORICON NEWS | 国内海外のニュース",
     "sourceName": "373news.com",
     "sourceUrl": "http://373news.com/news/national/oricon/detail/2452290/",
@@ -207,7 +684,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T190000Z-23",
+    "id": "gdelt-20260502T190000Z-79",
     "headline": " 【 ターミネーターと恋しちゃったら 】 宮舘涼太  エータ  の前にイケメン恋敵が登場 次回 、 全機能停止  の緊急事態が発生 | ORICON NEWS | 国内海外のニュース",
     "sourceName": "373news.com",
     "sourceUrl": "http://373news.com/news/national/oricon/detail/2452468/",
@@ -216,7 +693,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T180000Z-24",
+    "id": "gdelt-20260502T180000Z-80",
     "headline": "ASCII . jp ： AMD Ryzen 9×RTX 5080が7万円オフ｜パソコンショップSEVENの24時間セールが本日限定で開催",
     "sourceName": "ascii.jp",
     "sourceUrl": "https://ascii.jp/elem/000/004/399/4399476/",
@@ -225,7 +702,7 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T174500Z-25",
+    "id": "gdelt-20260502T174500Z-81",
     "headline": "全勝対決で強さ見せつけた井上尚弥 「 今夜勝つのは僕です 」 実行 ボクシング世界戦28連勝",
     "sourceName": "sankei.com",
     "sourceUrl": "https://www.sankei.com/article/20260502-L2UNAQL4TZO5POBOFB4E7NRPSA/",
@@ -234,488 +711,11 @@
     "lang": "ja"
   },
   {
-    "id": "gdelt-20260502T174500Z-26",
+    "id": "gdelt-20260502T174500Z-82",
     "headline": "中谷潤人 、 攻め手足りず 「 うまさ感じた 」 絶対王者 ・ 井上尚弥の遠い背中 ボクシング世界戦",
     "sourceName": "sankei.com",
     "sourceUrl": "https://www.sankei.com/article/20260503-R2PMGUACTBNETKF4O25IBWT34M/",
     "publishedAt": "2026-05-02T17:45:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T174500Z-27",
-    "headline": "大差判定で初防衛の井上拓真 、「 レジェンド 」 相手に挑戦心忘れず ボクシング世界戦",
-    "sourceName": "sankei.com",
-    "sourceUrl": "https://www.sankei.com/article/20260502-AMXDZWP23BIBDN25NXFRJBZYP4/",
-    "publishedAt": "2026-05-02T17:45:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T173000Z-28",
-    "headline": "菊間千乃氏 、『 Nキャス 』 でテレビ復帰 緊急手術で約2週間お休み 「 お腹に力を入れると痛いんですけど …」 元気な姿見せる ： 紀伊民報AGARA｜和歌山県のニュースサイト",
-    "sourceName": "agara.co.jp",
-    "sourceUrl": "https://www.agara.co.jp/article/631348",
-    "publishedAt": "2026-05-02T17:30:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T173000Z-29",
-    "headline": "大野雄大が100勝目 、 中日では川上憲伸以来の快挙 「 ドラゴンズファンに届けられてよかった 」： 中日新聞Web",
-    "sourceName": "chunichi.co.jp",
-    "sourceUrl": "https://www.chunichi.co.jp:443/article/1246200",
-    "publishedAt": "2026-05-02T17:30:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T173000Z-30",
-    "headline": "ベトナム訪問 （ ２ ） | 総理の一日",
-    "sourceName": "kantei.go.jp",
-    "sourceUrl": "https://www.kantei.go.jp/jp/105/actions/202605/02vietnam2.html",
-    "publishedAt": "2026-05-02T17:30:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T173000Z-31",
-    "headline": "ベトナム訪問 （ ３ ） | 総理の一日",
-    "sourceName": "kantei.go.jp",
-    "sourceUrl": "https://www.kantei.go.jp/jp/105/actions/202605/02vietnam3.html",
-    "publishedAt": "2026-05-02T17:30:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T173000Z-32",
-    "headline": " 『 タツキ先生は甘すぎる ！』 Hulu全3話配信決定 タツキ先生 （ 町田啓太 ） が子どもたちと心通わすまで ： 紀伊民報AGARA｜和歌山県のニュースサイト",
-    "sourceName": "agara.co.jp",
-    "sourceUrl": "https://www.agara.co.jp/article/631343",
-    "publishedAt": "2026-05-02T17:30:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T173000Z-33",
-    "headline": "アジサイの花の色 | MRKなんでも記録 … DIYとガジェット … そしてワンコ",
-    "sourceName": "ameblo.jp",
-    "sourceUrl": "https://ameblo.jp/r2okarain2/entry-12962903321.html",
-    "publishedAt": "2026-05-02T17:30:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T171500Z-35",
-    "headline": " 〈 ガルガンチュア音楽祭 〉 書道に合わせ即興演奏 作曲家４人 「 ひらめき大会 」 赤羽ホールで能登に思い寄せ｜生活 ・ 文化｜石川のニュース｜北國新聞",
-    "sourceName": "hokkoku.co.jp",
-    "sourceUrl": "https://www.hokkoku.co.jp/articles/-/2095922",
-    "publishedAt": "2026-05-02T17:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T171500Z-36",
-    "headline": "メジャー  1号  現地取材 印象深い投手の一発 （ スポニチ ） ",
-    "sourceName": "mainichi.jp",
-    "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/102/056000c",
-    "publishedAt": "2026-05-02T17:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T171500Z-37",
-    "headline": "阪神 ・ ドリス 史上最年長38歳で100S 「 おじさんなので 、 しっかり寝て明日の準備するだけ 」（ スポニチ ） ",
-    "sourceName": "mainichi.jp",
-    "sourceUrl": "https://mainichi.jp/articles/20260503/spp/sp0/001/060000c",
-    "publishedAt": "2026-05-02T17:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T170000Z-38",
-    "headline": "京口紘人氏が指摘 井上尚弥が勝利を確実にする右アッパーを出した理由 「 序盤に真吾トレーナーが …」 - スポニチ Sponichi Annex 格闘技",
-    "sourceName": "sponichi.co.jp",
-    "sourceUrl": "https://www.sponichi.co.jp/battle/news/2026/05/02/kiji/20260502s00021000448000c.html",
-    "publishedAt": "2026-05-02T17:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T164500Z-39",
-    "headline": "香取慎吾 ＆ やす子 、 芸歴差30年以上  初タッグ決定 テレビ企画の可能性探る 【 コメントあり 】 ",
-    "sourceName": "the-miyanichi.co.jp",
-    "sourceUrl": "https://www.the-miyanichi.co.jp/oricon/747140.html",
-    "publishedAt": "2026-05-02T16:45:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T164500Z-40",
-    "headline": " ［ 社説 ］ 憲法改正は丁寧で建設的な議論を - 日本経済新聞",
-    "sourceName": "nikkei.com",
-    "sourceUrl": "https://www.nikkei.com/article/DGXZQODK0143W0R00C26A5000000/",
-    "publishedAt": "2026-05-02T16:45:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T164500Z-41",
-    "headline": "井上尚弥 、 中谷潤人は 「 気持ちの強いファイター 」 頂上決戦制し 「 少し休ませてください 」 ",
-    "sourceName": "the-miyanichi.co.jp",
-    "sourceUrl": "https://www.the-miyanichi.co.jp/oricon/747122.html",
-    "publishedAt": "2026-05-02T16:45:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T164500Z-42",
-    "headline": " 【 井上尚弥VS中谷潤人 】 無敗同士の2人による頂上決戦がついに決着 判定で決まる",
-    "sourceName": "the-miyanichi.co.jp",
-    "sourceUrl": "https://www.the-miyanichi.co.jp/oricon/747116.html",
-    "publishedAt": "2026-05-02T16:45:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T163000Z-44",
-    "headline": "岩手日報ONLINE",
-    "sourceName": "iwate-np.co.jp",
-    "sourceUrl": "https://www.iwate-np.co.jp/article/oricon/2452290",
-    "publishedAt": "2026-05-02T16:30:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T163000Z-45",
-    "headline": "憲法記念日の各党談話 - 日本経済新聞",
-    "sourceName": "nikkei.com",
-    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUA021NG0S6A500C2000000/",
-    "publishedAt": "2026-05-02T16:30:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-49",
-    "headline": " 【 エンタメ総合 】 菊間千乃氏 、『 Nキャス 』 でテレビ復帰 緊急手術で約2週間お休み 「 お腹に力を入れると痛いんですけど …」 元気な姿見せる",
-    "sourceName": "ibarakinews.jp",
-    "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=2452617&elem=oricon",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-50",
-    "headline": " 【 映画 】【 横浜国際映画祭 】 SUPER EIGHT丸山隆平 、 コンペ部門の審査員に まさかの代表であいさつ 「 俺 、 1人だけなんや ！」 ",
-    "sourceName": "ibarakinews.jp",
-    "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=2452607&elem=oricon",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-51",
-    "headline": " 【 その他 】【 井上尚弥VS中谷潤人 】 無敗同士の2人による頂上決戦がついに決着 判定で決まる",
-    "sourceName": "ibarakinews.jp",
-    "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=2452613&elem=oricon",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-52",
-    "headline": " 【 音楽 】 新体制 ・ ENHYPEN 、 ワールドツアー開幕 NI - KI 「 きょうが明日の力になれば 」 ",
-    "sourceName": "ibarakinews.jp",
-    "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=2452377&elem=oricon",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-53",
-    "headline": " 【 その他 】 井上尚弥 、 中谷潤人は 「 気持ちの強いファイター 」 頂上決戦制し 「 少し休ませてください 」 ",
-    "sourceName": "ibarakinews.jp",
-    "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=2452627&elem=oricon",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-54",
-    "headline": "香取慎吾 ＆ やす子 、 芸歴差30年以上  初タッグ決定 テレビ企画の可能性探る 【 コメントあり 】 ｜秋田魁新報電子版",
-    "sourceName": "sakigake.jp",
-    "sourceUrl": "https://www.sakigake.jp/news/article/20260503OR0001/",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-56",
-    "headline": " 【 エンタメ総合 】 香取慎吾 ＆ やす子 、 芸歴差30年以上  初タッグ決定 テレビ企画の可能性探る 【 コメントあり 】 ",
-    "sourceName": "ibarakinews.jp",
-    "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=2452290&elem=oricon",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-58",
-    "headline": " 【 横浜国際映画祭 】 SUPER EIGHT丸山隆平 、 コンペ部門の審査員に まさかの代表であいさつ 「 俺 、 1人だけなんや ！」 ｜秋田魁新報電子版",
-    "sourceName": "sakigake.jp",
-    "sourceUrl": "https://www.sakigake.jp/news/article/20260502OR0134/",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-59",
-    "headline": " 【 エンタメ総合 】【 ターミネーターと恋しちゃったら 】 宮舘涼太  エータ  の前にイケメン恋敵が登場 次回 、 全機能停止  の緊急事態が発生",
-    "sourceName": "ibarakinews.jp",
-    "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=2452468&elem=oricon",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T161500Z-60",
-    "headline": " 【 エンタメ総合 】『 タツキ先生は甘すぎる ！』 Hulu全3話配信決定 タツキ先生 （ 町田啓太 ） が子どもたちと心通わすまで",
-    "sourceName": "ibarakinews.jp",
-    "sourceUrl": "https://ibarakinews.jp/news/newsdetail.php?f_jun=2452563&elem=oricon",
-    "publishedAt": "2026-05-02T16:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-62",
-    "headline": "香取慎吾 ＆ やす子 、 芸歴差30年以上  初タッグ決定 テレビ企画の可能性探る 【 コメントあり 】: オリコンニュース : 福島民友新聞社",
-    "sourceName": "minyu-net.com",
-    "sourceUrl": "https://www.minyu-net.com/release/oricon/detail/2452290",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-63",
-    "headline": "死闘敗戦の中谷潤人は眼窩底骨折の疑いで検査へ 井上尚弥に判定負け 「 さすがチャンピオン 、 うまさがあった 」 １１回 、 強打で左目上を負傷 / ファイト / デイリースポーツ online",
-    "sourceName": "daily.co.jp",
-    "sourceUrl": "https://www.daily.co.jp/ring/2026/05/02/0020313521.shtml",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-64",
-    "headline": "日曜在宅医 （ 5月3日 、 佐賀県内の病院情報 ） | 暮らし ・ 文化 | 佐賀県のニュース",
-    "sourceName": "saga-s.co.jp",
-    "sourceUrl": "https://www.saga-s.co.jp/articles/-/1701631",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-65",
-    "headline": "ＴＶから消えてた芸人→千鳥番組がオファーも 、 まさかの出演ＮＧ 衝撃理由をスタッフが説明→千鳥 「 無理 ！？ ええーっ ！？」/ 芸能 / デイリースポーツ online",
-    "sourceName": "daily.co.jp",
-    "sourceUrl": "https://www.daily.co.jp/gossip/2026/05/02/0020312876.shtml",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-66",
-    "headline": "ゴールデンウイーク本格スタート 吉野ケ里歴史公園など佐賀県内にぎわう 家族連れら笑顔満開 | 行政 ・ 社会 | 佐賀県のニュース",
-    "sourceName": "saga-s.co.jp",
-    "sourceUrl": "https://www.saga-s.co.jp/articles/-/1701619",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-67",
-    "headline": "放送内容｜発見 ！ 九州スピリット｜KBC九州朝日放送",
-    "sourceName": "kbc.co.jp",
-    "sourceUrl": "https://kbc.co.jp/kyushu_spirit/detail.php?cdid=45883",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-68",
-    "headline": " 【 逃走中 】 ラストあ然 突然まさか裏切者いると通告され→終了 ネットも騒然→美人アイドルの名前が浮上 「 絶対 」「 怪しすぎる 」/ 芸能 / デイリースポーツ online",
-    "sourceName": "daily.co.jp",
-    "sourceUrl": "https://www.daily.co.jp/gossip/2026/05/03/0020313828.shtml",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-69",
-    "headline": "詐欺電話防止へ特設ブース ニセ電話詐欺が多発で鳥栖市役所が当面毎週月曜に | まちの話題 | 佐賀県のニュース",
-    "sourceName": "saga-s.co.jp",
-    "sourceUrl": "https://www.saga-s.co.jp/articles/-/1701620",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-70",
-    "headline": "＜サガン鳥栖＞首位 ・ 宮崎にPK戦の末に競り勝つ FW鈴木大馳が同点ゴール 暫定で西B組3位 J2 ・ J3百年構想リーグ第14節 鳥栖1 － 1 （ PK6 － 5 ） 宮崎 | スポーツ | 佐賀県のニュース",
-    "sourceName": "saga-s.co.jp",
-    "sourceUrl": "https://www.saga-s.co.jp/articles/-/1701639",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-71",
-    "headline": "＜佐賀バルーナーズ＞主導権譲らず快勝 秋田ノーザンハピネッツを85 - 72 バスケB1リーグ第36節第1日 | スポーツ | 佐賀県のニュース",
-    "sourceName": "saga-s.co.jp",
-    "sourceUrl": "https://www.saga-s.co.jp/articles/-/1701641",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-72",
-    "headline": "北村匠海が最優秀男優賞 ！ 横浜国際映画祭コンペ 宮沢りえ 「 大切にワンシーンワンシーン紡いで作った 。 心をすまして集中して 」/ 芸能 / デイリースポーツ online",
-    "sourceName": "daily.co.jp",
-    "sourceUrl": "https://www.daily.co.jp/gossip/2026/05/02/0020313515.shtml",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-73",
-    "headline": "激闘制した井上尚弥 海外メディアも絶賛並ぶ ＥＳＰＮ 「 クリーンで完璧なパフォーマンス 」 リング誌 「 見事 」 その他 「 ＰＦＰの偉人 」「 その地位を確固たるものに 」 とも / ファイト / デイリースポーツ online",
-    "sourceName": "daily.co.jp",
-    "sourceUrl": "https://www.daily.co.jp/ring/2026/05/02/0020313662.shtml",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T160000Z-74",
-    "headline": "佐賀の伝承芸能 ・ 面浮立で使われる 「 浮立面 」 の手彫り実演 5月3日まで 、 佐賀空港 | まちの話題 | 佐賀県のニュース",
-    "sourceName": "saga-s.co.jp",
-    "sourceUrl": "https://www.saga-s.co.jp/articles/-/1701601",
-    "publishedAt": "2026-05-02T16:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T154500Z-75",
-    "headline": "台湾の頼総統 、 エスワティニに 「 国王専用機 」 で到着 「 中国の妨害 」 で4月に一時取りやめ",
-    "sourceName": "sankei.com",
-    "sourceUrl": "https://www.sankei.com/article/20260502-ELF3ZUNXHNPC7IS3WRVG7IPTXQ/",
-    "publishedAt": "2026-05-02T15:45:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-78",
-    "headline": "hideトリビュートライブで本人愛用ギターも登場 ！ 松岡充 、 J 、 PATAら豪華セッション （ ライブレポート / 写真39枚 ） ",
-    "sourceName": "natalie.mu",
-    "sourceUrl": "https://natalie.mu/music/news/670708",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "XX",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-79",
-    "headline": "Web東海新報｜８年ぶり まちに祭り絵巻 「 盛町五年祭 」 にぎやかに 県文化財指定後初の挙行 伝統継承の思い強く きょうまで （ 別写真あり ） ",
-    "sourceName": "tohkaishimpo.com",
-    "sourceUrl": "https://tohkaishimpo.com/2026/05/03/515552/",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-80",
-    "headline": "Web東海新報｜春の高校野球沿岸地区予選 ／ 高田と大船渡が県切符 あす 、 六校連合が釜石と対戦",
-    "sourceName": "tohkaishimpo.com",
-    "sourceUrl": "https://tohkaishimpo.com/2026/05/03/515541/",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-81",
-    "headline": "井上尚弥 「 必ずスーパーバンタムでチャンピオンになる選手 」 激闘繰り広げた中谷潤人について語る （ スポニチ ） ",
-    "sourceName": "mainichi.jp",
-    "sourceUrl": "https://mainichi.jp/articles/20260502/spp/sp0/003/403000c",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-82",
-    "headline": "最高の36分間 ！ 井上尚弥が中谷潤人との  世紀の一戦  制す ネット感動 「 充実した時間でした 」（ スポニチ ） ",
-    "sourceName": "mainichi.jp",
-    "sourceUrl": "https://mainichi.jp/articles/20260502/spp/sp0/003/400000c",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-83",
-    "headline": "中谷潤人 、 尚弥を称賛 「 さすがチャンピオン 。 うまさがあった 」 序盤から駆け引き 「 楽しみながら 」（ スポニチ ） ",
-    "sourceName": "mainichi.jp",
-    "sourceUrl": "https://mainichi.jp/articles/20260502/spp/sp0/003/401000c",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-84",
-    "headline": "井上拓真 「 決まればしっかり倒すだけ 」  レジェンド  井岡一翔に判定勝利 ！ 那須川天心との再戦に言及 （ スポニチ ） ",
-    "sourceName": "mainichi.jp",
-    "sourceUrl": "https://mainichi.jp/articles/20260502/spp/sp0/003/404000c",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-85",
-    "headline": "１８歳プロスペクト 「 長疾風 」 がＰＫ戦一番手で決めた ！ 前節の借り返し 、 指揮官も 「 超良かったよ ！」 高知ユナイテッド５ ／ ２大阪戦",
-    "sourceName": "kochinews.co.jp",
-    "sourceUrl": "https://www.kochinews.co.jp/article/detail/997592",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-86",
-    "headline": "武居由樹 試合前のスパーで足を負傷していた … 八重樫トレーナー激白 「 全てが中途半端になってしまった 」（ スポニチ ） ",
-    "sourceName": "mainichi.jp",
-    "sourceUrl": "https://mainichi.jp/articles/20260502/spp/sp0/003/398000c",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T151500Z-87",
-    "headline": "井上尚弥 「 今は僕の中では白紙です 」 試合後会見で次戦について言及 中谷潤人に判定勝利 ！（ スポニチ ） ",
-    "sourceName": "mainichi.jp",
-    "sourceUrl": "https://mainichi.jp/articles/20260502/spp/sp0/003/402000c",
-    "publishedAt": "2026-05-02T15:15:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T150000Z-88",
-    "headline": "巧みな守備から有効打 井上尚 、 深まる探究心 ― ボクシング世界戦 ： 時事ドットコム",
-    "sourceName": "jiji.com",
-    "sourceUrl": "https://www.jiji.com/jc/article?k=2026050200461&g=spo",
-    "publishedAt": "2026-05-02T15:00:00Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "gdelt-20260502T150000Z-89",
-    "headline": "新FOIP表明 、 ベトナムを選んだ高市首相 「 法の支配 」 の浸透課題 [ 高市早苗首相 自民党総裁 ]： 朝日新聞",
-    "sourceName": "asahi.com",
-    "sourceUrl": "https://www.asahi.com/articles/ASV5241HXV52UTFK006M.html",
-    "publishedAt": "2026-05-02T15:00:00Z",
     "countryCode": "JP",
     "lang": "ja"
   }

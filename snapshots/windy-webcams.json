@@ -231,17 +231,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -1826,17 +1815,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "JP",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -2475,17 +2453,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2559,6 +2526,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2658,17 +2636,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "JP",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4994,17 +4961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "JP",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -5012,6 +4968,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "JP",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5060,17 +5027,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "JP",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -5078,6 +5034,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "JP",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6919,17 +6886,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "JP",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -6937,6 +6893,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "JP",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7865,17 +7832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -8081,17 +8037,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "JP",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8712,17 +8657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "JP",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -8730,6 +8664,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "JP",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9273,17 +9218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "JP",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -9735,17 +9669,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "JP",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -9753,6 +9676,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "JP",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10505,17 +10439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "JP",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -10523,6 +10446,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "JP",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10743,6 +10677,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "JP",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10978,17 +10923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -12573,17 +12507,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "US",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -13222,17 +13145,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13306,6 +13218,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13405,17 +13328,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "US",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15741,17 +15653,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "US",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -15759,6 +15660,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "US",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15807,17 +15719,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "US",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -15825,6 +15726,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "US",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17666,17 +17578,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "US",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -17684,6 +17585,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "US",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18612,17 +18524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -18828,17 +18729,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "US",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19459,17 +19349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "US",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -19477,6 +19356,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "US",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20020,17 +19910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "US",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -20482,17 +20361,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "US",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -20500,6 +20368,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "US",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21252,17 +21131,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "US",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -21270,6 +21138,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "US",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21490,6 +21369,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "US",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21725,17 +21615,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -23320,17 +23199,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "GB",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -23969,17 +23837,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24053,6 +23910,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24152,17 +24020,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26488,17 +26345,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "GB",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -26506,6 +26352,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "GB",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26554,17 +26411,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "GB",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26572,6 +26418,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "GB",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28413,17 +28270,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "GB",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -28431,6 +28277,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "GB",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29359,17 +29216,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -29575,17 +29421,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "GB",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30206,17 +30041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "GB",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -30224,6 +30048,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "GB",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30767,17 +30602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "GB",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -31229,17 +31053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "GB",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -31247,6 +31060,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "GB",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31999,17 +31823,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "GB",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -32017,6 +31830,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "GB",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32237,6 +32061,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "GB",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32472,17 +32307,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -34067,17 +33891,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "DE",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -34716,17 +34529,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34800,6 +34602,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34899,17 +34712,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37235,17 +37037,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "DE",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -37253,6 +37044,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "DE",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37301,17 +37103,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "DE",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37319,6 +37110,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "DE",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39160,17 +38962,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "DE",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -39178,6 +38969,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "DE",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40106,17 +39908,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -40322,17 +40113,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "DE",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40953,17 +40733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "DE",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -40971,6 +40740,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "DE",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41514,17 +41294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "DE",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -41976,17 +41745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "DE",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -41994,6 +41752,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "DE",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42746,17 +42515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "DE",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -42764,6 +42522,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "DE",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42984,6 +42753,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "DE",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43219,17 +42999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -44814,17 +44583,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "FR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -45463,17 +45221,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45547,6 +45294,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45646,17 +45404,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47982,17 +47729,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "FR",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -48000,6 +47736,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "FR",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48048,17 +47795,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "FR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -48066,6 +47802,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "FR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49907,17 +49654,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "FR",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -49925,6 +49661,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "FR",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50853,17 +50600,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -51069,17 +50805,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "FR",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51700,17 +51425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "FR",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -51718,6 +51432,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "FR",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52261,17 +51986,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "FR",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -52723,17 +52437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "FR",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -52741,6 +52444,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "FR",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53493,17 +53207,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "FR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -53511,6 +53214,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "FR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53731,6 +53445,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "FR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53966,17 +53691,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -55561,17 +55275,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "CN",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -56210,17 +55913,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56294,6 +55986,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56393,17 +56096,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58729,17 +58421,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "CN",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -58747,6 +58428,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "CN",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58795,17 +58487,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "CN",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -58813,6 +58494,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "CN",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60654,17 +60346,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "CN",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -60672,6 +60353,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "CN",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61600,17 +61292,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -61816,17 +61497,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "CN",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62447,17 +62117,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "CN",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -62465,6 +62124,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "CN",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63008,17 +62678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "CN",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -63470,17 +63129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "CN",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -63488,6 +63136,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "CN",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64240,17 +63899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "CN",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -64258,6 +63906,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "CN",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64478,6 +64137,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "CN",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64713,17 +64383,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -66308,17 +65967,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "KR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -66957,17 +66605,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67041,6 +66678,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67140,17 +66788,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69476,17 +69113,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "KR",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -69494,6 +69120,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "KR",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69542,17 +69179,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "KR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -69560,6 +69186,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "KR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71401,17 +71038,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "KR",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -71419,6 +71045,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "KR",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72347,17 +71984,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -72563,17 +72189,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "KR",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73194,17 +72809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "KR",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -73212,6 +72816,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "KR",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73755,17 +73370,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "KR",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -74217,17 +73821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "KR",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -74235,6 +73828,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "KR",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74987,17 +74591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "KR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -75005,6 +74598,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "KR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75225,6 +74829,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "KR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75460,17 +75075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -77055,17 +76659,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "IN",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -77704,17 +77297,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -77788,6 +77370,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77887,17 +77480,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80223,17 +79805,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "IN",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -80241,6 +79812,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "IN",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80289,17 +79871,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "IN",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -80307,6 +79878,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "IN",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82148,17 +81730,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "IN",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -82166,6 +81737,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "IN",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83094,17 +82676,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -83310,17 +82881,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "IN",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83941,17 +83501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "IN",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -83959,6 +83508,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "IN",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84502,17 +84062,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "IN",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -84964,17 +84513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "IN",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -84982,6 +84520,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "IN",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85734,17 +85283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "IN",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -85752,6 +85290,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "IN",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85972,6 +85521,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "IN",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86207,17 +85767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -87802,17 +87351,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "BR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -88451,17 +87989,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -88535,6 +88062,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88634,17 +88172,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90970,17 +90497,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "BR",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -90988,6 +90504,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "BR",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91036,17 +90563,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "BR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -91054,6 +90570,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "BR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92895,17 +92422,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "BR",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -92913,6 +92429,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "BR",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93841,17 +93368,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -94057,17 +93573,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "BR",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94688,17 +94193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "BR",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -94706,6 +94200,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "BR",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95249,17 +94754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "BR",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -95711,17 +95205,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "BR",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -95729,6 +95212,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "BR",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96481,17 +95975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "BR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -96499,6 +95982,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "BR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96719,6 +96213,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "BR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96954,17 +96459,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -98549,17 +98043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "AU",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -99198,17 +98681,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99282,6 +98754,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99381,17 +98864,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101717,17 +101189,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "AU",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -101735,6 +101196,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "AU",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101783,17 +101255,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "AU",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -101801,6 +101262,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "AU",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103642,17 +103114,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515318",
-    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
-    "city": "Urnasch",
-    "countryCode": "AU",
-    "lat": 47.24959,
-    "lng": 9.34435,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1403781260",
     "name": "Les Sables-d'Olonne",
     "city": "Les Sables-d'Olonne",
@@ -103660,6 +103121,17 @@
     "lat": 46.49457,
     "lng": -1.79172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515318",
+    "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
+    "city": "Urnasch",
+    "countryCode": "AU",
+    "lat": 47.24959,
+    "lng": 9.34435,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515318/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104588,17 +104060,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -104804,17 +104265,6 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1334396756",
-    "name": "Follonica › South-west: GV LNI - Webcam",
-    "city": "Follonica",
-    "countryCode": "AU",
-    "lat": 42.93975,
-    "lng": 10.71422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105435,17 +104885,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "AU",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -105453,6 +104892,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "AU",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105996,17 +105446,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1656329114",
-    "name": "Formazza: Riale",
-    "city": "Formazza",
-    "countryCode": "AU",
-    "lat": 46.423,
-    "lng": 8.41657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -106458,17 +105897,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "AU",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -106476,6 +105904,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "AU",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107228,17 +106667,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "AU",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -107246,6 +106674,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "AU",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107466,6 +106905,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "AU",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
