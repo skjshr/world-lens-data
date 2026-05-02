@@ -616,6 +616,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "JP",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -1162,17 +1173,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2574,17 +2574,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "JP",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -2592,6 +2581,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "JP",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5093,17 +5093,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "JP",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -5111,6 +5100,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "JP",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5874,17 +5874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "JP",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -5892,6 +5881,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "JP",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7095,17 +7095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "JP",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -7113,6 +7102,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "JP",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7821,17 +7821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "JP",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -7843,6 +7832,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "JP",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -7850,6 +7850,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "JP",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9075,17 +9086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "JP",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -9093,6 +9093,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "JP",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9108,17 +9119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "JP",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -9126,6 +9126,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "JP",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11407,6 +11418,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "US",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -11953,17 +11975,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13365,17 +13376,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "US",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -13383,6 +13383,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "US",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15884,17 +15895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "US",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -15902,6 +15902,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "US",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16665,17 +16676,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "US",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -16683,6 +16683,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "US",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17886,17 +17897,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "US",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -17904,6 +17904,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "US",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18612,17 +18623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "US",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -18634,6 +18634,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "US",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -18641,6 +18652,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "US",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19866,17 +19888,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "US",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -19884,6 +19895,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "US",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19899,17 +19921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "US",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -19917,6 +19928,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "US",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22198,6 +22220,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "GB",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -22744,17 +22777,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24156,17 +24178,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "GB",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -24174,6 +24185,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "GB",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26675,17 +26697,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "GB",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -26693,6 +26704,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "GB",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27456,17 +27478,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "GB",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -27474,6 +27485,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "GB",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28677,17 +28699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "GB",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -28695,6 +28706,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "GB",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29403,17 +29425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "GB",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -29425,6 +29436,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "GB",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -29432,6 +29454,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "GB",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30657,17 +30690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "GB",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -30675,6 +30697,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "GB",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30690,17 +30723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "GB",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -30708,6 +30730,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "GB",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32989,6 +33022,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "DE",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -33535,17 +33579,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34947,17 +34980,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "DE",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -34965,6 +34987,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "DE",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37466,17 +37499,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "DE",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -37484,6 +37506,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "DE",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38247,17 +38280,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "DE",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -38265,6 +38287,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "DE",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39468,17 +39501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "DE",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -39486,6 +39508,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "DE",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40194,17 +40227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "DE",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -40216,6 +40238,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "DE",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -40223,6 +40256,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "DE",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41448,17 +41492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "DE",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -41466,6 +41499,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "DE",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41481,17 +41525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "DE",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -41499,6 +41532,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "DE",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43780,6 +43824,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "FR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -44326,17 +44381,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45738,17 +45782,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "FR",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -45756,6 +45789,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "FR",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48257,17 +48301,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "FR",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -48275,6 +48308,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "FR",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49038,17 +49082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "FR",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -49056,6 +49089,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "FR",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50259,17 +50303,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "FR",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -50277,6 +50310,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "FR",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50985,17 +51029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "FR",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -51007,6 +51040,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "FR",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -51014,6 +51058,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "FR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52239,17 +52294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "FR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -52257,6 +52301,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "FR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52272,17 +52327,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "FR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -52290,6 +52334,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "FR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54571,6 +54626,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "CN",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -55117,17 +55183,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56529,17 +56584,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "CN",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -56547,6 +56591,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "CN",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59048,17 +59103,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "CN",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -59066,6 +59110,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "CN",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59829,17 +59884,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "CN",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -59847,6 +59891,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "CN",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61050,17 +61105,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "CN",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -61068,6 +61112,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "CN",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61776,17 +61831,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "CN",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -61798,6 +61842,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "CN",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -61805,6 +61860,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "CN",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63030,17 +63096,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "CN",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -63048,6 +63103,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "CN",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63063,17 +63129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "CN",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -63081,6 +63136,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "CN",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65362,6 +65428,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "KR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -65908,17 +65985,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67320,17 +67386,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "KR",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -67338,6 +67393,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "KR",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69839,17 +69905,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "KR",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -69857,6 +69912,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "KR",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70620,17 +70686,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "KR",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -70638,6 +70693,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "KR",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71841,17 +71907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "KR",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -71859,6 +71914,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "KR",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72567,17 +72633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "KR",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -72589,6 +72644,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "KR",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -72596,6 +72662,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "KR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73821,17 +73898,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "KR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -73839,6 +73905,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "KR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73854,17 +73931,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "KR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -73872,6 +73938,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "KR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76153,6 +76230,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "IN",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -76699,17 +76787,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78111,17 +78188,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "IN",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -78129,6 +78195,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "IN",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80630,17 +80707,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "IN",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -80648,6 +80714,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "IN",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81411,17 +81488,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "IN",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -81429,6 +81495,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "IN",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82632,17 +82709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "IN",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -82650,6 +82716,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "IN",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83358,17 +83435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "IN",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -83380,6 +83446,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "IN",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -83387,6 +83464,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "IN",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84612,17 +84700,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "IN",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -84630,6 +84707,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "IN",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84645,17 +84733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "IN",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -84663,6 +84740,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "IN",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86944,6 +87032,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "BR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -87490,17 +87589,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88902,17 +88990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "BR",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -88920,6 +88997,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "BR",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91421,17 +91509,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "BR",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -91439,6 +91516,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "BR",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92202,17 +92290,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "BR",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -92220,6 +92297,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "BR",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93423,17 +93511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "BR",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -93441,6 +93518,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "BR",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94149,17 +94237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "BR",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -94171,6 +94248,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "BR",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -94178,6 +94266,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "BR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95403,17 +95502,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "BR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -95421,6 +95509,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "BR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95436,17 +95535,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "BR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -95454,6 +95542,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "BR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97735,6 +97834,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "AU",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -98281,17 +98391,6 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99693,17 +99792,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531225795",
-    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
-    "city": "Zakopane",
-    "countryCode": "AU",
-    "lat": 49.29899,
-    "lng": 19.94885,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1344544249",
     "name": "Marathia › North-west: Paralia Kourouta",
     "city": "Marathia",
@@ -99711,6 +99799,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531225795",
+    "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
+    "city": "Zakopane",
+    "countryCode": "AU",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102212,17 +102311,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "AU",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -102230,6 +102318,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "AU",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102993,17 +103092,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1470388309",
-    "name": "Vienna › North: Satzberg",
-    "city": "Vienna",
-    "countryCode": "AU",
-    "lat": 48.1947,
-    "lng": 16.26715,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1384062006",
     "name": "Trondheim: Bymarka Ski hut",
     "city": "Trondheim",
@@ -103011,6 +103099,17 @@
     "lat": 63.41725,
     "lng": 10.26128,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1470388309",
+    "name": "Vienna › North: Satzberg",
+    "city": "Vienna",
+    "countryCode": "AU",
+    "lat": 48.1947,
+    "lng": 16.26715,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1470388309/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104214,17 +104313,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
-    "city": "Ljubovija Municipality",
-    "countryCode": "AU",
-    "lat": 43.67137,
-    "lng": 19.64616,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1457905330",
     "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
     "city": "La Oliva",
@@ -104232,6 +104320,17 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1390661695",
+    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "city": "Ljubovija Municipality",
+    "countryCode": "AU",
+    "lat": 43.67137,
+    "lng": 19.64616,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390661695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104940,17 +105039,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039326",
-    "name": "Zurich: Unterstrass: Zürich West",
-    "city": "Zurich",
-    "countryCode": "AU",
-    "lat": 47.3823,
-    "lng": 8.54024,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -104962,6 +105050,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697039326",
+    "name": "Zurich: Unterstrass: Zürich West",
+    "city": "Zurich",
+    "countryCode": "AU",
+    "lat": 47.3823,
+    "lng": 8.54024,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039326/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1550521486",
     "name": "Livigno: Lombardy, Italy",
     "city": "Livigno",
@@ -104969,6 +105068,17 @@
     "lat": 46.54248,
     "lng": 10.13818,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "AU",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106194,17 +106304,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "AU",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -106212,6 +106311,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "AU",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106227,17 +106337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "AU",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234534511",
     "name": "Mutzenich: Monschau - WetterCam 1",
     "city": "Mutzenich",
@@ -106245,6 +106344,17 @@
     "lat": 50.56397,
     "lng": 6.21148,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "AU",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
