@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shsr",
+    "type": "earthquake",
+    "lat": -18.2088,
+    "lng": -175.3583,
+    "intensity": 4.9,
+    "timestamp": "2026-05-02T11:30:49.471Z",
+    "description": "M 4.9 - 153 km WNW of Neiafu, Tonga",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shsi",
     "type": "earthquake",
     "lat": -59.3027,
