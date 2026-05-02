@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shqp",
+    "type": "earthquake",
+    "lat": -21.7539,
+    "lng": -68.7738,
+    "intensity": 4.6,
+    "timestamp": "2026-05-02T06:22:42.852Z",
+    "description": "M 4.6 - 79 km N of Calama, Chile",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shps",
     "type": "earthquake",
     "lat": -30.0095,
