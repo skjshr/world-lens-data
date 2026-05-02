@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shps",
+    "type": "earthquake",
+    "lat": -30.0095,
+    "lng": -66.5123,
+    "intensity": 5,
+    "timestamp": "2026-05-02T05:04:56.485Z",
+    "description": "M 5.0 - 43 km NNW of Chamical, Argentina",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shpb",
     "type": "earthquake",
     "lat": -24.3288,
@@ -87,16 +97,6 @@
     "intensity": 5.17,
     "timestamp": "2026-05-01T08:17:19.870Z",
     "description": "M 5.2 - 19 km SE of Silver Springs, Nevada",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shhi",
-    "type": "earthquake",
-    "lat": -0.8358,
-    "lng": 101.3895,
-    "intensity": 4.5,
-    "timestamp": "2026-05-01T05:17:26.022Z",
-    "description": "M 4.5 - 48 km ESE of Sijunjung, Indonesia",
     "source": "USGS"
   }
 ]
