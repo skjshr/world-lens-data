@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shrs",
+    "type": "earthquake",
+    "lat": 31.117,
+    "lng": 138.502,
+    "intensity": 4.6,
+    "timestamp": "2026-05-02T08:36:33.795Z",
+    "description": "M 4.6 - Izu Islands, Japan region",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shqp",
     "type": "earthquake",
     "lat": -21.7539,
@@ -87,26 +97,6 @@
     "intensity": 5.1,
     "timestamp": "2026-05-01T11:04:39.548Z",
     "description": "M 5.1 - South Sandwich Islands region",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shiq",
-    "type": "earthquake",
-    "lat": -1.5344,
-    "lng": 134.2944,
-    "intensity": 4.9,
-    "timestamp": "2026-05-01T09:24:24.221Z",
-    "description": "M 4.9 - 14 km ESE of Ransiki, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "nn00916980",
-    "type": "earthquake",
-    "lat": 39.3066,
-    "lng": -119.0467,
-    "intensity": 5.17,
-    "timestamp": "2026-05-01T08:17:19.870Z",
-    "description": "M 5.2 - 19 km SE of Silver Springs, Nevada",
     "source": "USGS"
   }
 ]
