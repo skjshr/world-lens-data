@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000si0r",
+    "type": "earthquake",
+    "lat": 3.7804,
+    "lng": 126.7819,
+    "intensity": 4.5,
+    "timestamp": "2026-05-03T20:54:57.763Z",
+    "description": "M 4.5 - 231 km SE of Sarangani, Philippines",
+    "source": "USGS"
+  },
+  {
     "id": "us7000si08",
     "type": "earthquake",
     "lat": 54.1902,
@@ -87,16 +97,6 @@
     "intensity": 4.9,
     "timestamp": "2026-05-03T04:40:23.019Z",
     "description": "M 4.9 - 51 km SSE of Kokopo, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shut",
-    "type": "earthquake",
-    "lat": -37.5613,
-    "lng": 178.2023,
-    "intensity": 5.1,
-    "timestamp": "2026-05-02T21:19:13.344Z",
-    "description": "M 5.1 - 9 km WNW of Hicks Bay, New Zealand",
     "source": "USGS"
   }
 ]
