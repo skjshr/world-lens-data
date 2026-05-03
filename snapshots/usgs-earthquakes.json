@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000si03",
+    "type": "earthquake",
+    "lat": 41.33,
+    "lng": 84.0021,
+    "intensity": 4.6,
+    "timestamp": "2026-05-03T18:39:57.943Z",
+    "description": "M 4.6 - 99 km ESE of Kuqa, China",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shzi",
     "type": "earthquake",
     "lat": 1.1392,

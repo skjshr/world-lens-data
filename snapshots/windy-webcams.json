@@ -968,17 +968,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "JP",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -3696,17 +3685,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "JP",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -3714,6 +3692,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "JP",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5126,17 +5115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "JP",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -5144,6 +5122,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "JP",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5192,17 +5181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "JP",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -5210,6 +5188,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "JP",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5907,17 +5896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "JP",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -5925,6 +5903,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "JP",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6838,6 +6827,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "JP",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8701,17 +8701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "JP",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -8719,6 +8708,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "JP",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9372,17 +9372,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "JP",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -9394,8 +9383,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "JP",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "JP",
     "lat": 43.79116,
@@ -9493,17 +9493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "JP",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -9511,6 +9500,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "JP",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9955,6 +9955,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "JP",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -9973,17 +9984,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "JP",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10439,17 +10439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "JP",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -10457,6 +10446,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "JP",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10798,6 +10798,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "JP",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "JP",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11770,17 +11792,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "US",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -14498,17 +14509,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "US",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -14516,6 +14516,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "US",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15928,17 +15939,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "US",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -15946,6 +15946,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "US",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15994,17 +16005,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "US",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -16012,6 +16012,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "US",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16709,17 +16720,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "US",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -16727,6 +16727,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "US",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17640,6 +17651,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "US",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19503,17 +19525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "US",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -19521,6 +19532,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "US",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20174,17 +20196,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "US",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -20196,8 +20207,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "US",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "US",
     "lat": 43.79116,
@@ -20295,17 +20317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "US",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -20313,6 +20324,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "US",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20757,6 +20779,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "US",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -20775,17 +20808,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "US",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21241,17 +21263,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "US",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -21259,6 +21270,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "US",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21600,6 +21622,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "US",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "US",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22572,17 +22616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "GB",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -25300,17 +25333,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "GB",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -25318,6 +25340,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "GB",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26730,17 +26763,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "GB",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -26748,6 +26770,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "GB",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26796,17 +26829,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "GB",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -26814,6 +26836,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "GB",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27511,17 +27544,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "GB",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -27529,6 +27551,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "GB",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28442,6 +28475,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "GB",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30305,17 +30349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "GB",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -30323,6 +30356,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "GB",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30976,17 +31020,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "GB",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -30998,8 +31031,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "GB",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "GB",
     "lat": 43.79116,
@@ -31097,17 +31141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "GB",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -31115,6 +31148,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "GB",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31559,6 +31603,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "GB",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -31577,17 +31632,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "GB",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32043,17 +32087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "GB",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -32061,6 +32094,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "GB",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32402,6 +32446,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "GB",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "GB",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33374,17 +33440,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "DE",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -36102,17 +36157,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "DE",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -36120,6 +36164,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "DE",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37532,17 +37587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "DE",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -37550,6 +37594,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "DE",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37598,17 +37653,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "DE",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -37616,6 +37660,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "DE",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38313,17 +38368,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "DE",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -38331,6 +38375,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "DE",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39244,6 +39299,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "DE",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41107,17 +41173,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "DE",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -41125,6 +41180,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "DE",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41778,17 +41844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "DE",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -41800,8 +41855,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "DE",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "DE",
     "lat": 43.79116,
@@ -41899,17 +41965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "DE",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -41917,6 +41972,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "DE",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42361,6 +42427,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "DE",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -42379,17 +42456,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "DE",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42845,17 +42911,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "DE",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -42863,6 +42918,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "DE",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43204,6 +43270,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "DE",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "DE",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44176,17 +44264,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "FR",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -46904,17 +46981,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "FR",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -46922,6 +46988,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "FR",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48334,17 +48411,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "FR",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -48352,6 +48418,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "FR",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48400,17 +48477,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "FR",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -48418,6 +48484,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "FR",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49115,17 +49192,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "FR",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -49133,6 +49199,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "FR",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50046,6 +50123,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "FR",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51909,17 +51997,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "FR",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -51927,6 +52004,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "FR",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52580,17 +52668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "FR",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -52602,8 +52679,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "FR",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "FR",
     "lat": 43.79116,
@@ -52701,17 +52789,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "FR",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -52719,6 +52796,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "FR",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53163,6 +53251,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "FR",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -53181,17 +53280,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "FR",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53647,17 +53735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "FR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -53665,6 +53742,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "FR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54006,6 +54094,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "FR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "FR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54978,17 +55088,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "CN",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -57706,17 +57805,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "CN",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -57724,6 +57812,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "CN",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59136,17 +59235,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "CN",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -59154,6 +59242,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "CN",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59202,17 +59301,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "CN",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -59220,6 +59308,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "CN",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59917,17 +60016,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "CN",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -59935,6 +60023,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "CN",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60848,6 +60947,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "CN",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62711,17 +62821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "CN",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -62729,6 +62828,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "CN",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63382,17 +63492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "CN",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -63404,8 +63503,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "CN",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "CN",
     "lat": 43.79116,
@@ -63503,17 +63613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "CN",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -63521,6 +63620,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "CN",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63965,6 +64075,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "CN",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -63983,17 +64104,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "CN",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64449,17 +64559,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "CN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -64467,6 +64566,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "CN",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64808,6 +64918,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "CN",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "CN",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65780,17 +65912,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "KR",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -68508,17 +68629,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "KR",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -68526,6 +68636,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "KR",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69938,17 +70059,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "KR",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -69956,6 +70066,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "KR",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70004,17 +70125,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "KR",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -70022,6 +70132,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "KR",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70719,17 +70840,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "KR",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -70737,6 +70847,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "KR",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71650,6 +71771,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "KR",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73513,17 +73645,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "KR",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -73531,6 +73652,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "KR",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74184,17 +74316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "KR",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -74206,8 +74327,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "KR",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "KR",
     "lat": 43.79116,
@@ -74305,17 +74437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "KR",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -74323,6 +74444,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "KR",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74767,6 +74899,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "KR",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -74785,17 +74928,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "KR",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75251,17 +75383,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "KR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -75269,6 +75390,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "KR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75610,6 +75742,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "KR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "KR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76582,17 +76736,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "IN",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -79310,17 +79453,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "IN",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -79328,6 +79460,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "IN",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80740,17 +80883,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "IN",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -80758,6 +80890,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "IN",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80806,17 +80949,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "IN",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -80824,6 +80956,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "IN",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81521,17 +81664,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "IN",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -81539,6 +81671,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "IN",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82452,6 +82595,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "IN",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84315,17 +84469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "IN",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -84333,6 +84476,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "IN",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84986,17 +85140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "IN",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -85008,8 +85151,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "IN",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "IN",
     "lat": 43.79116,
@@ -85107,17 +85261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "IN",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -85125,6 +85268,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "IN",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85569,6 +85723,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "IN",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -85587,17 +85752,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "IN",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86053,17 +86207,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "IN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -86071,6 +86214,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "IN",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86412,6 +86566,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "IN",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "IN",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87384,17 +87560,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "BR",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -90112,17 +90277,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "BR",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -90130,6 +90284,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "BR",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91542,17 +91707,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "BR",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -91560,6 +91714,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "BR",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91608,17 +91773,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "BR",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -91626,6 +91780,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "BR",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92323,17 +92488,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "BR",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -92341,6 +92495,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "BR",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93254,6 +93419,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "BR",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95117,17 +95293,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "BR",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -95135,6 +95300,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "BR",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95788,17 +95964,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "BR",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -95810,8 +95975,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "BR",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "BR",
     "lat": 43.79116,
@@ -95909,17 +96085,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "BR",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -95927,6 +96092,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "BR",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96371,6 +96547,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "BR",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -96389,17 +96576,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "BR",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96855,17 +97031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "BR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -96873,6 +97038,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "BR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97214,6 +97390,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "BR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "BR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98186,17 +98384,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1419107132",
-    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
-    "city": "Split",
-    "countryCode": "AU",
-    "lat": 43.50754,
-    "lng": 16.43967,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1419107132/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1236334181",
     "name": "Hamar › North-west: Stenfjellhytta",
     "city": "Hamar",
@@ -100914,17 +101101,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280907006",
-    "name": "Koscielisko: Czerwone Wierchy i Giewont",
-    "city": "Koscielisko",
-    "countryCode": "AU",
-    "lat": 49.29412,
-    "lng": 19.90345,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -100932,6 +101108,17 @@
     "lat": 32.63781,
     "lng": -16.85065,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1287730610/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280907006",
+    "name": "Koscielisko: Czerwone Wierchy i Giewont",
+    "city": "Koscielisko",
+    "countryCode": "AU",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280907006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102344,17 +102531,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349363864",
-    "name": "Sorvagur › North-east: Vagar airport",
-    "city": "Sorvagur",
-    "countryCode": "AU",
-    "lat": 62.06656,
-    "lng": -7.28257,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -102362,6 +102538,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349363864",
+    "name": "Sorvagur › North-east: Vagar airport",
+    "city": "Sorvagur",
+    "countryCode": "AU",
+    "lat": 62.06656,
+    "lng": -7.28257,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102410,17 +102597,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1181289389",
-    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
-    "city": "Lenzerheide",
-    "countryCode": "AU",
-    "lat": 46.737,
-    "lng": 9.54951,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -102428,6 +102604,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1181289389",
+    "name": "Lenzerheide: Wassersportcenter SSCLV, Heidsee - Valbella",
+    "city": "Lenzerheide",
+    "countryCode": "AU",
+    "lat": 46.737,
+    "lng": 9.54951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181289389/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103125,17 +103312,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1460602673",
-    "name": "Shinjuku",
-    "city": "Shinjuku",
-    "countryCode": "AU",
-    "lat": 35.69221,
-    "lng": 139.70227,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -103143,6 +103319,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1460602673",
+    "name": "Shinjuku",
+    "city": "Shinjuku",
+    "countryCode": "AU",
+    "lat": 35.69221,
+    "lng": 139.70227,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460602673/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104056,6 +104243,17 @@
     "lat": 47.26059,
     "lng": 8.20506,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247257677",
+    "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
+    "city": "Aurigeno",
+    "countryCode": "AU",
+    "lat": 46.22933,
+    "lng": 8.71441,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105919,17 +106117,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "AU",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -105937,6 +106124,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "AU",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106590,17 +106788,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "AU",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -106612,8 +106799,19 @@
     "category": "city"
   },
   {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "AU",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1291731087",
-    "name": "Grimaldi: Rivierwebcam La Mortola",
+    "name": "Grimaldi › South-west: Roquebrune-Cap-Martin",
     "city": "Grimaldi",
     "countryCode": "AU",
     "lat": 43.79116,
@@ -106711,17 +106909,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1164028525",
-    "name": "Furna: Fideris",
-    "city": "Furna",
-    "countryCode": "AU",
-    "lat": 46.93854,
-    "lng": 9.67552,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -106729,6 +106916,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1164028525",
+    "name": "Furna: Fideris",
+    "city": "Furna",
+    "countryCode": "AU",
+    "lat": 46.93854,
+    "lng": 9.67552,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1164028525/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107173,6 +107371,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1391000135",
+    "name": "Benidorm: Poniente - Puig Campana",
+    "city": "Benidorm",
+    "countryCode": "AU",
+    "lat": 38.53907,
+    "lng": -0.13252,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199821060",
     "name": "Sondrio › South-west: Piazza Garibaldi Giuseppe - Teatro sociale",
     "city": "Sondrio",
@@ -107191,17 +107400,6 @@
     "lat": 47.58203,
     "lng": 9.11985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1391000135",
-    "name": "Benidorm: Poniente - Puig Campana",
-    "city": "Benidorm",
-    "countryCode": "AU",
-    "lat": 38.53907,
-    "lng": -0.13252,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107657,17 +107855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "AU",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -107675,6 +107862,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "AU",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108016,6 +108214,28 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "AU",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "AU",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
