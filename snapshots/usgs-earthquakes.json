@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shzi",
+    "type": "earthquake",
+    "lat": 1.1392,
+    "lng": 126.7249,
+    "intensity": 4.6,
+    "timestamp": "2026-05-03T16:51:55.609Z",
+    "description": "M 4.6 - 82 km WNW of Ternate, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shze",
     "type": "earthquake",
     "lat": -18.5355,
@@ -67,6 +77,16 @@
     "intensity": 5.1,
     "timestamp": "2026-05-02T21:19:13.344Z",
     "description": "M 5.1 - 9 km WNW of Hicks Bay, New Zealand",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000shup",
+    "type": "earthquake",
+    "lat": -14.9512,
+    "lng": -175.5656,
+    "intensity": 4.7,
+    "timestamp": "2026-05-02T20:29:54.406Z",
+    "description": "M 4.7 - 196 km SSE of Mata-Utu, Wallis and Futuna",
     "source": "USGS"
   },
   {
