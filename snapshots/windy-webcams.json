@@ -121,17 +121,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -4279,17 +4268,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "JP",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -4297,6 +4275,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "JP",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5049,17 +5038,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "JP",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -5067,6 +5045,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "JP",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5149,11 +5138,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "JP",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -6006,17 +5995,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "JP",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -6024,6 +6002,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "JP",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7007,17 +6996,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "JP",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -7025,6 +7003,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "JP",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7084,17 +7073,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "JP",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -7102,6 +7080,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "JP",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7348,17 +7337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "JP",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -7366,6 +7344,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "JP",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7755,17 +7744,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "JP",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -7773,6 +7751,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "JP",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7887,17 +7876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "JP",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -7905,6 +7883,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "JP",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7920,13 +7909,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "JP",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7942,13 +7931,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "JP",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9240,17 +9229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "JP",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -9295,17 +9273,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "JP",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -9313,6 +9280,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "JP",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10252,17 +10230,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "JP",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -10270,6 +10237,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "JP",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10798,6 +10776,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "JP",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "JP",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "JP",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10923,17 +10934,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -15081,17 +15081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "US",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -15099,6 +15088,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "US",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15851,17 +15851,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "US",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -15869,6 +15858,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "US",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15951,11 +15951,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "US",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -16808,17 +16808,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "US",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -16826,6 +16815,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "US",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17809,17 +17809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "US",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -17827,6 +17816,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "US",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17886,17 +17886,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "US",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -17904,6 +17893,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "US",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18150,17 +18150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "US",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -18168,6 +18157,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "US",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18557,17 +18557,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "US",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -18575,6 +18564,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "US",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18689,17 +18689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "US",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -18707,6 +18696,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "US",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18722,13 +18722,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "US",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18744,13 +18744,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "US",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20042,17 +20042,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "US",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -20097,17 +20086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "US",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -20115,6 +20093,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "US",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21054,17 +21043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "US",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -21072,6 +21050,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "US",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21600,6 +21589,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "US",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "US",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "US",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21725,17 +21747,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -25883,17 +25894,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "GB",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -25901,6 +25901,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "GB",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26653,17 +26664,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "GB",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -26671,6 +26671,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "GB",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26753,11 +26764,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "GB",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -27610,17 +27621,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "GB",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -27628,6 +27628,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "GB",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28611,17 +28622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "GB",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -28629,6 +28629,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "GB",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28688,17 +28699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "GB",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -28706,6 +28706,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "GB",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28952,17 +28963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "GB",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -28970,6 +28970,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "GB",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29359,17 +29370,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "GB",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -29377,6 +29377,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "GB",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29491,17 +29502,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "GB",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -29509,6 +29509,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "GB",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29524,13 +29535,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "GB",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29546,13 +29557,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "GB",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30844,17 +30855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "GB",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -30899,17 +30899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "GB",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -30917,6 +30906,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "GB",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31856,17 +31856,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "GB",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -31874,6 +31863,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "GB",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32402,6 +32402,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "GB",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "GB",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "GB",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32527,17 +32560,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -36685,17 +36707,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "DE",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -36703,6 +36714,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "DE",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37455,17 +37477,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "DE",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -37473,6 +37484,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "DE",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37555,11 +37577,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "DE",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -38412,17 +38434,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "DE",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -38430,6 +38441,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "DE",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39413,17 +39435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "DE",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -39431,6 +39442,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "DE",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39490,17 +39512,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "DE",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -39508,6 +39519,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "DE",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39754,17 +39776,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "DE",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -39772,6 +39783,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "DE",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40161,17 +40183,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "DE",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -40179,6 +40190,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "DE",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40293,17 +40315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "DE",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -40311,6 +40322,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "DE",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40326,13 +40348,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "DE",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40348,13 +40370,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "DE",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41646,17 +41668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "DE",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -41701,17 +41712,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "DE",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -41719,6 +41719,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "DE",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42658,17 +42669,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "DE",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -42676,6 +42676,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "DE",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43204,6 +43215,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "DE",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "DE",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "DE",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43329,17 +43373,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -47487,17 +47520,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "FR",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -47505,6 +47527,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "FR",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48257,17 +48290,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "FR",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -48275,6 +48297,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "FR",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48357,11 +48390,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "FR",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -49214,17 +49247,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "FR",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -49232,6 +49254,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "FR",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50215,17 +50248,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "FR",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -50233,6 +50255,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "FR",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50292,17 +50325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "FR",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -50310,6 +50332,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "FR",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50556,17 +50589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "FR",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -50574,6 +50596,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "FR",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50963,17 +50996,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "FR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -50981,6 +51003,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "FR",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51095,17 +51128,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "FR",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -51113,6 +51135,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "FR",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51128,13 +51161,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "FR",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51150,13 +51183,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "FR",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52448,17 +52481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "FR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -52503,17 +52525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "FR",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -52521,6 +52532,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "FR",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53460,17 +53482,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "FR",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -53478,6 +53489,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "FR",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54006,6 +54028,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "FR",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "FR",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "FR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54131,17 +54186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -58289,17 +58333,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "CN",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -58307,6 +58340,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "CN",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59059,17 +59103,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "CN",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -59077,6 +59110,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "CN",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59159,11 +59203,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "CN",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -60016,17 +60060,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "CN",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -60034,6 +60067,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "CN",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61017,17 +61061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "CN",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -61035,6 +61068,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "CN",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61094,17 +61138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "CN",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -61112,6 +61145,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "CN",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61358,17 +61402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "CN",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -61376,6 +61409,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "CN",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61765,17 +61809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "CN",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -61783,6 +61816,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "CN",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61897,17 +61941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "CN",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -61915,6 +61948,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "CN",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61930,13 +61974,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "CN",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61952,13 +61996,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "CN",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63250,17 +63294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "CN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -63305,17 +63338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "CN",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -63323,6 +63345,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "CN",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64262,17 +64295,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "CN",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -64280,6 +64302,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "CN",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64808,6 +64841,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "CN",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "CN",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "CN",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64933,17 +64999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -69091,17 +69146,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "KR",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -69109,6 +69153,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "KR",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69861,17 +69916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "KR",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -69879,6 +69923,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "KR",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69961,11 +70016,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "KR",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -70818,17 +70873,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "KR",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -70836,6 +70880,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "KR",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71819,17 +71874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "KR",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -71837,6 +71881,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "KR",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71896,17 +71951,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "KR",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -71914,6 +71958,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "KR",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72160,17 +72215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "KR",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -72178,6 +72222,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "KR",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72567,17 +72622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "KR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -72585,6 +72629,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "KR",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72699,17 +72754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "KR",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -72717,6 +72761,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "KR",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72732,13 +72787,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "KR",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72754,13 +72809,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "KR",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74052,17 +74107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "KR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -74107,17 +74151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "KR",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -74125,6 +74158,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "KR",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75064,17 +75108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "KR",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -75082,6 +75115,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "KR",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75610,6 +75654,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "KR",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "KR",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "KR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75735,17 +75812,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -79893,17 +79959,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "IN",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -79911,6 +79966,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "IN",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80663,17 +80729,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "IN",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -80681,6 +80736,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "IN",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80763,11 +80829,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "IN",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -81620,17 +81686,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "IN",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -81638,6 +81693,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "IN",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82621,17 +82687,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "IN",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -82639,6 +82694,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "IN",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82698,17 +82764,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "IN",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -82716,6 +82771,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "IN",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82962,17 +83028,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "IN",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -82980,6 +83035,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "IN",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83369,17 +83435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "IN",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -83387,6 +83442,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "IN",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83501,17 +83567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "IN",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -83519,6 +83574,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "IN",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83534,13 +83600,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "IN",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83556,13 +83622,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "IN",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84854,17 +84920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "IN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -84909,17 +84964,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "IN",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -84927,6 +84971,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "IN",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85866,17 +85921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "IN",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -85884,6 +85928,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "IN",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86412,6 +86467,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "IN",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "IN",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "IN",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86537,17 +86625,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -90695,17 +90772,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "BR",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -90713,6 +90779,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "BR",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91465,17 +91542,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "BR",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -91483,6 +91549,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "BR",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91565,11 +91642,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "BR",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -92422,17 +92499,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "BR",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -92440,6 +92506,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "BR",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93423,17 +93500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "BR",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -93441,6 +93507,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "BR",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93500,17 +93577,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "BR",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -93518,6 +93584,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "BR",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93764,17 +93841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "BR",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -93782,6 +93848,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "BR",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94171,17 +94248,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "BR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -94189,6 +94255,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "BR",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94303,17 +94380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "BR",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -94321,6 +94387,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "BR",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94336,13 +94413,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "BR",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94358,13 +94435,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "BR",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95656,17 +95733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "BR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -95711,17 +95777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "BR",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -95729,6 +95784,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "BR",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96668,17 +96734,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "BR",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -96686,6 +96741,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "BR",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97214,6 +97280,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "BR",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "BR",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "BR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97339,17 +97438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -101497,17 +101585,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349709017",
-    "name": "Annaberg-Buchholz › North: Marktplatz",
-    "city": "Annaberg-Buchholz",
-    "countryCode": "AU",
-    "lat": 50.57975,
-    "lng": 13.00232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1505780894",
     "name": "Sainte-Marie: Île de la Reunion - Réunion",
     "city": "Sainte-Marie",
@@ -101515,6 +101592,17 @@
     "lat": -21.00329,
     "lng": 55.48997,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349709017",
+    "name": "Annaberg-Buchholz › North: Marktplatz",
+    "city": "Annaberg-Buchholz",
+    "countryCode": "AU",
+    "lat": 50.57975,
+    "lng": 13.00232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349709017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102267,17 +102355,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1202907488",
-    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
-    "city": "Flasch",
-    "countryCode": "AU",
-    "lat": 47.02774,
-    "lng": 9.51391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -102285,6 +102362,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202907488",
+    "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
+    "city": "Flasch",
+    "countryCode": "AU",
+    "lat": 47.02774,
+    "lng": 9.51391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202907488/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102367,11 +102455,11 @@
   },
   {
     "id": "windy-1620810630",
-    "name": "Ayia Napa",
-    "city": "Ayia Napa",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "unknown",
     "countryCode": "AU",
-    "lat": 34.97863,
-    "lng": 33.9402,
+    "lat": 34.97899,
+    "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -103224,17 +103312,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515283",
-    "name": "Silenen: Golzern",
-    "city": "Silenen",
-    "countryCode": "AU",
-    "lat": 46.77551,
-    "lng": 8.73538,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1366934728",
     "name": "Vyronas › North: Atena",
     "city": "unknown",
@@ -103242,6 +103319,17 @@
     "lat": 37.9613,
     "lng": 23.7613,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1366934728/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515283",
+    "name": "Silenen: Golzern",
+    "city": "Silenen",
+    "countryCode": "AU",
+    "lat": 46.77551,
+    "lng": 8.73538,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515283/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104225,17 +104313,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "AU",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -104243,6 +104320,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "AU",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104302,17 +104390,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1210879036",
-    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
-    "city": "Rerik",
-    "countryCode": "AU",
-    "lat": 54.1133,
-    "lng": 11.63054,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -104320,6 +104397,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1210879036",
+    "name": "Rerik: Camping Ostsee - Campingpark Rerik",
+    "city": "Rerik",
+    "countryCode": "AU",
+    "lat": 54.1133,
+    "lng": 11.63054,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210879036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104566,17 +104654,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1632557523",
-    "name": "Rieti › West: Monte Terminillo",
-    "city": "Rieti",
-    "countryCode": "AU",
-    "lat": 42.45409,
-    "lng": 12.98699,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -104584,6 +104661,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "AU",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104973,17 +105061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "AU",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -104991,6 +105068,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252916501",
+    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
+    "city": "Rimini",
+    "countryCode": "AU",
+    "lat": 44.0383,
+    "lng": 12.56537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105105,17 +105193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "AU",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -105123,6 +105200,17 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1393697860",
+    "name": "Subiaco: Monte Livata",
+    "city": "Subiaco",
+    "countryCode": "AU",
+    "lat": 41.93748,
+    "lng": 13.15092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105138,13 +105226,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1310966361",
-    "name": "Goslar: Schuhhof",
-    "city": "Goslar",
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
     "countryCode": "AU",
-    "lat": 51.90589,
-    "lng": 10.42814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105160,13 +105248,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
+    "id": "windy-1310966361",
+    "name": "Goslar: Schuhhof",
+    "city": "Goslar",
     "countryCode": "AU",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "lat": 51.90589,
+    "lng": 10.42814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1310966361/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106458,17 +106546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "AU",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1548443898",
     "name": "Yosemite Lodge › East: Half Dome",
     "city": "Yosemite Lodge",
@@ -106513,17 +106590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof",
-    "city": "Berg im Drautal",
-    "countryCode": "AU",
-    "lat": 46.74862,
-    "lng": 13.14557,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -106531,6 +106597,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof",
+    "city": "Berg im Drautal",
+    "countryCode": "AU",
+    "lat": 46.74862,
+    "lng": 13.14557,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107470,17 +107547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250250079",
-    "name": "Gouda › North: Town Hall cam",
-    "city": "Gouda",
-    "countryCode": "AU",
-    "lat": 52.01091,
-    "lng": 4.71069,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -107488,6 +107554,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250250079",
+    "name": "Gouda › North: Town Hall cam",
+    "city": "Gouda",
+    "countryCode": "AU",
+    "lat": 52.01091,
+    "lng": 4.71069,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250250079/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108016,6 +108093,39 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "AU",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "AU",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "AU",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
