@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shwv",
+    "type": "earthquake",
+    "lat": -4.794,
+    "lng": 152.3696,
+    "intensity": 4.9,
+    "timestamp": "2026-05-03T04:40:23.019Z",
+    "description": "M 4.9 - 51 km SSE of Kokopo, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shut",
     "type": "earthquake",
     "lat": -37.5613,
@@ -87,26 +97,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-02T06:22:42.852Z",
     "description": "M 4.6 - 79 km N of Calama, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shps",
-    "type": "earthquake",
-    "lat": -30.0095,
-    "lng": -66.5123,
-    "intensity": 5,
-    "timestamp": "2026-05-02T05:04:56.485Z",
-    "description": "M 5.0 - 43 km NNW of Chamical, Argentina",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shpb",
-    "type": "earthquake",
-    "lat": -24.3288,
-    "lng": -67.4096,
-    "intensity": 4.5,
-    "timestamp": "2026-05-02T03:57:00.734Z",
-    "description": "M 4.5 - 111 km W of San Antonio de los Cobres, Argentina",
     "source": "USGS"
   }
 ]
