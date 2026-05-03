@@ -88,25 +88,5 @@
     "timestamp": "2026-05-02T10:27:07.609Z",
     "description": "M 5.2 - 217 km W of Tual, Indonesia",
     "source": "USGS"
-  },
-  {
-    "id": "us7000shs2",
-    "type": "earthquake",
-    "lat": 34.107,
-    "lng": 135.4857,
-    "intensity": 5.7,
-    "timestamp": "2026-05-02T09:28:40.989Z",
-    "description": "M 5.7 - 17 km SW of Kōya, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shrs",
-    "type": "earthquake",
-    "lat": 31.117,
-    "lng": 138.502,
-    "intensity": 4.6,
-    "timestamp": "2026-05-02T08:36:33.795Z",
-    "description": "M 4.6 - Izu Islands, Japan region",
-    "source": "USGS"
   }
 ]
