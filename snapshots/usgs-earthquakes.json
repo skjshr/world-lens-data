@@ -1,5 +1,25 @@
 [
   {
+    "id": "us7000shze",
+    "type": "earthquake",
+    "lat": -18.5355,
+    "lng": -175.7821,
+    "intensity": 5,
+    "timestamp": "2026-05-03T16:36:14.963Z",
+    "description": "M 5.0 - 190 km W of Neiafu, Tonga",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000shza",
+    "type": "earthquake",
+    "lat": 24.9201,
+    "lng": 123.2744,
+    "intensity": 4.9,
+    "timestamp": "2026-05-03T16:18:53.661Z",
+    "description": "M 4.9 - 57 km NNE of Yonakuni, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shy4",
     "type": "earthquake",
     "lat": 42.2525,
@@ -57,16 +77,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-02T19:50:46.409Z",
     "description": "M 4.6 - south of Australia",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shxy",
-    "type": "earthquake",
-    "lat": 16.6585,
-    "lng": -48.016,
-    "intensity": 4.6,
-    "timestamp": "2026-05-02T16:12:19.181Z",
-    "description": "M 4.6 - North Atlantic Ocean",
     "source": "USGS"
   }
 ]
