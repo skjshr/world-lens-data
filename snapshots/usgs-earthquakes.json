@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000svc4",
+    "type": "earthquake",
+    "lat": -3.5014,
+    "lng": -80.5487,
+    "intensity": 5,
+    "timestamp": "2026-05-05T15:58:27.768Z",
+    "description": "M 5.0 - 13 km NW of Tumbes, Peru",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000svbv",
+    "type": "earthquake",
+    "lat": -35.235,
+    "lng": 78.6258,
+    "intensity": 5.1,
+    "timestamp": "2026-05-05T15:09:37.607Z",
+    "description": "M 5.1 - Mid-Indian Ridge",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sie8",
     "type": "earthquake",
     "lat": -36.6416,
@@ -54,7 +74,7 @@
     "type": "earthquake",
     "lat": 38.4568,
     "lng": -116.5006,
-    "intensity": 4.53,
+    "intensity": 4.47,
     "timestamp": "2026-05-05T02:39:52.449Z",
     "description": "M 4.5 - 77 km NE of Tonopah, Nevada",
     "source": "USGS"
@@ -110,6 +130,16 @@
     "source": "USGS"
   },
   {
+    "id": "us7000si8q",
+    "type": "earthquake",
+    "lat": 28.3387,
+    "lng": 54.2889,
+    "intensity": 4.5,
+    "timestamp": "2026-05-04T20:39:33.215Z",
+    "description": "M 4.5 - 51 km SSW of Dārāb, Iran",
+    "source": "USGS"
+  },
+  {
     "id": "us7000si80",
     "type": "earthquake",
     "lat": 52.1273,
@@ -127,26 +157,6 @@
     "intensity": 4.8,
     "timestamp": "2026-05-04T16:47:47.610Z",
     "description": "M 4.8 - 86 km N of Noşratābād, Iran",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si51",
-    "type": "earthquake",
-    "lat": 16.6223,
-    "lng": -97.9846,
-    "intensity": 5.7,
-    "timestamp": "2026-05-04T15:19:26.467Z",
-    "description": "M 5.7 - 2 km SE of Zocoteaca de León, Mexico",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si54",
-    "type": "earthquake",
-    "lat": 29.4655,
-    "lng": 102.1502,
-    "intensity": 4.8,
-    "timestamp": "2026-05-04T15:03:00.744Z",
-    "description": "M 4.8 - 62 km SSE of Kangding, China",
     "source": "USGS"
   }
 ]
