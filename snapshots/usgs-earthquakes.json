@@ -1,5 +1,25 @@
 [
   {
+    "id": "us7000sidy",
+    "type": "earthquake",
+    "lat": -36.6406,
+    "lng": 177.3335,
+    "intensity": 4.9,
+    "timestamp": "2026-05-05T08:43:45.408Z",
+    "description": "M 4.9 - 136 km NW of Hicks Bay, New Zealand",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sidq",
+    "type": "earthquake",
+    "lat": -36.7452,
+    "lng": 177.2617,
+    "intensity": 5.8,
+    "timestamp": "2026-05-05T08:00:43.579Z",
+    "description": "M 5.8 - 127 km ENE of Pauanui, New Zealand",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sicu",
     "type": "earthquake",
     "lat": -10.1135,
@@ -137,16 +157,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-04T10:02:29.077Z",
     "description": "M 4.6 - Kuril Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si3t",
-    "type": "earthquake",
-    "lat": -27.0136,
-    "lng": -71.1957,
-    "intensity": 4.9,
-    "timestamp": "2026-05-04T08:22:02.570Z",
-    "description": "M 4.9 - 94 km WNW of Copiapó, Chile",
     "source": "USGS"
   }
 ]
