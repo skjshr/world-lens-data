@@ -20,6 +20,16 @@
     "source": "USGS"
   },
   {
+    "id": "us7000siex",
+    "type": "earthquake",
+    "lat": -6.5523,
+    "lng": 130.0678,
+    "intensity": 4.5,
+    "timestamp": "2026-05-05T13:46:53.373Z",
+    "description": "M 4.5 - Banda Sea",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sie8",
     "type": "earthquake",
     "lat": -36.6416,
@@ -147,16 +157,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-04T19:14:27.450Z",
     "description": "M 4.5 - 226 km ESE of Attu Station, Alaska",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si6f",
-    "type": "earthquake",
-    "lat": 30.6809,
-    "lng": 60.0077,
-    "intensity": 4.8,
-    "timestamp": "2026-05-04T16:47:47.610Z",
-    "description": "M 4.8 - 86 km N of Noşratābād, Iran",
     "source": "USGS"
   }
 ]

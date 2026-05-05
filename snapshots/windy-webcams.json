@@ -121,6 +121,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -194,6 +205,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "JP",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -590,6 +612,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "JP",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1023,17 +1056,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "JP",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -1041,6 +1063,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "JP",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2101,17 +2134,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -2618,17 +2640,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -2636,17 +2647,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "JP",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4048,17 +4048,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "JP",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -4066,6 +4055,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "JP",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4440,17 +4440,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "JP",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5027,17 +5016,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "JP",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -5045,6 +5023,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "JP",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5104,17 +5093,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "JP",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -5122,6 +5100,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "JP",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5441,17 +5430,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7480,17 +7458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "JP",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -7498,6 +7465,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "JP",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7755,17 +7733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "JP",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -7773,6 +7740,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "JP",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7795,17 +7773,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "JP",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9394,17 +9361,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "JP",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -9412,6 +9368,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "JP",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9526,6 +9493,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "JP",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -9544,17 +9522,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "JP",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10142,17 +10109,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "JP",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -10160,6 +10116,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "JP",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10352,11 +10319,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "JP",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -10842,6 +10809,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "JP",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10967,6 +10945,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -11040,6 +11029,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "US",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11436,6 +11436,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "US",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11869,17 +11880,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "US",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -11887,6 +11887,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "US",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12947,17 +12958,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -13464,17 +13464,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13482,17 +13471,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "US",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14894,17 +14872,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "US",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -14912,6 +14879,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "US",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15286,17 +15264,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "US",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15873,17 +15840,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "US",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -15891,6 +15847,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "US",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15950,17 +15917,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "US",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -15968,6 +15924,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "US",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16287,17 +16254,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18326,17 +18282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "US",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -18344,6 +18289,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "US",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18601,17 +18557,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "US",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -18619,6 +18564,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "US",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18641,17 +18597,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "US",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20240,17 +20185,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "US",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -20258,6 +20192,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "US",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20372,6 +20317,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "US",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -20390,17 +20346,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "US",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20988,17 +20933,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "US",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -21006,6 +20940,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "US",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21198,11 +21143,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "US",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -21688,6 +21633,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "US",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21813,6 +21769,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -21886,6 +21853,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "GB",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22282,6 +22260,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "GB",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22715,17 +22704,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "GB",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -22733,6 +22711,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "GB",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23793,17 +23782,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -24310,17 +24288,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24328,17 +24295,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "GB",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25740,17 +25696,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "GB",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -25758,6 +25703,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "GB",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26132,17 +26088,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "GB",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26719,17 +26664,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "GB",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26737,6 +26671,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "GB",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26796,17 +26741,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "GB",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -26814,6 +26748,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "GB",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27133,17 +27078,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29172,17 +29106,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "GB",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -29190,6 +29113,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "GB",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29447,17 +29381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "GB",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -29465,6 +29388,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "GB",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29487,17 +29421,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "GB",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31086,17 +31009,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "GB",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -31104,6 +31016,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "GB",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31218,6 +31141,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "GB",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -31236,17 +31170,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "GB",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31834,17 +31757,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "GB",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -31852,6 +31764,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "GB",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32044,11 +31967,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "GB",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -32534,6 +32457,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "GB",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32659,6 +32593,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -32732,6 +32677,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "DE",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33128,6 +33084,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "DE",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33561,17 +33528,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "DE",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -33579,6 +33535,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "DE",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34639,17 +34606,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -35156,17 +35112,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -35174,17 +35119,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "DE",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36586,17 +36520,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "DE",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -36604,6 +36527,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "DE",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36978,17 +36912,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "DE",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37565,17 +37488,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "DE",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37583,6 +37495,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "DE",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37642,17 +37565,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "DE",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -37660,6 +37572,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "DE",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37979,17 +37902,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40018,17 +39930,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "DE",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -40036,6 +39937,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "DE",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40293,17 +40205,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "DE",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -40311,6 +40212,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "DE",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40333,17 +40245,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "DE",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41932,17 +41833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "DE",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -41950,6 +41840,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "DE",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42064,6 +41965,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "DE",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -42082,17 +41994,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "DE",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42680,17 +42581,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "DE",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -42698,6 +42588,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "DE",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42890,11 +42791,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "DE",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -43380,6 +43281,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "DE",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43505,6 +43417,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -43578,6 +43501,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "FR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43974,6 +43908,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "FR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44407,17 +44352,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "FR",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -44425,6 +44359,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "FR",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45485,17 +45430,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -46002,17 +45936,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -46020,17 +45943,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "FR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47432,17 +47344,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "FR",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -47450,6 +47351,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "FR",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47824,17 +47736,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "FR",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48411,17 +48312,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "FR",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -48429,6 +48319,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "FR",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48488,17 +48389,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "FR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -48506,6 +48396,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "FR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48825,17 +48726,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50864,17 +50754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "FR",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -50882,6 +50761,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "FR",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51139,17 +51029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "FR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -51157,6 +51036,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "FR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51179,17 +51069,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "FR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52778,17 +52657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "FR",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -52796,6 +52664,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "FR",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52910,6 +52789,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "FR",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -52928,17 +52818,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "FR",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53526,17 +53405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "FR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -53544,6 +53412,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "FR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53736,11 +53615,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "FR",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -54226,6 +54105,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "FR",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54351,6 +54241,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -54424,6 +54325,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "CN",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54820,6 +54732,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "CN",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55253,17 +55176,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "CN",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -55271,6 +55183,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "CN",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56331,17 +56254,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -56848,17 +56760,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -56866,17 +56767,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "CN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58278,17 +58168,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "CN",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -58296,6 +58175,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "CN",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58670,17 +58560,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "CN",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59257,17 +59136,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "CN",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -59275,6 +59143,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "CN",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59334,17 +59213,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "CN",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -59352,6 +59220,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "CN",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59671,17 +59550,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61710,17 +61578,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "CN",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -61728,6 +61585,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "CN",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61985,17 +61853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "CN",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -62003,6 +61860,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "CN",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62025,17 +61893,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "CN",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63624,17 +63481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "CN",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -63642,6 +63488,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "CN",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63756,6 +63613,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "CN",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -63774,17 +63642,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "CN",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64372,17 +64229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "CN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -64390,6 +64236,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "CN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64582,11 +64439,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "CN",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -65072,6 +64929,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "CN",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65197,6 +65065,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -65270,6 +65149,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "KR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65666,6 +65556,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "KR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66099,17 +66000,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "KR",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -66117,6 +66007,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "KR",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67177,17 +67078,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -67694,17 +67584,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -67712,17 +67591,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "KR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69124,17 +68992,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "KR",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -69142,6 +68999,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "KR",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69516,17 +69384,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "KR",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70103,17 +69960,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "KR",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -70121,6 +69967,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "KR",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70180,17 +70037,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "KR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -70198,6 +70044,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "KR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70517,17 +70374,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72556,17 +72402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "KR",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -72574,6 +72409,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "KR",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72831,17 +72677,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "KR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -72849,6 +72684,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "KR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72871,17 +72717,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "KR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74470,17 +74305,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "KR",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -74488,6 +74312,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "KR",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74602,6 +74437,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "KR",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -74620,17 +74466,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "KR",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75218,17 +75053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "KR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -75236,6 +75060,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "KR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75428,11 +75263,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "KR",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -75918,6 +75753,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "KR",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76043,6 +75889,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -76116,6 +75973,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "IN",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76512,6 +76380,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "IN",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76945,17 +76824,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "IN",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -76963,6 +76831,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "IN",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78023,17 +77902,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -78540,17 +78408,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -78558,17 +78415,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "IN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79970,17 +79816,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "IN",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -79988,6 +79823,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "IN",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80362,17 +80208,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "IN",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80949,17 +80784,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "IN",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -80967,6 +80791,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "IN",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81026,17 +80861,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "IN",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -81044,6 +80868,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "IN",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81363,17 +81198,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83402,17 +83226,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "IN",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -83420,6 +83233,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "IN",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83677,17 +83501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "IN",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -83695,6 +83508,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "IN",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83717,17 +83541,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "IN",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85316,17 +85129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "IN",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -85334,6 +85136,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "IN",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85448,6 +85261,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "IN",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -85466,17 +85290,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "IN",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86064,17 +85877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "IN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -86082,6 +85884,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "IN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86274,11 +86087,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "IN",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -86764,6 +86577,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "IN",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86889,6 +86713,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -86962,6 +86797,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "BR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87358,6 +87204,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "BR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87791,17 +87648,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "BR",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -87809,6 +87655,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "BR",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88869,17 +88726,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -89386,17 +89232,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -89404,17 +89239,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "BR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90816,17 +90640,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "BR",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -90834,6 +90647,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "BR",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91208,17 +91032,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "BR",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91795,17 +91608,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "BR",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -91813,6 +91615,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "BR",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91872,17 +91685,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "BR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -91890,6 +91692,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "BR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92209,17 +92022,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94248,17 +94050,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "BR",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -94266,6 +94057,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "BR",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94523,17 +94325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "BR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -94541,6 +94332,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "BR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94563,17 +94365,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "BR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96162,17 +95953,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "BR",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -96180,6 +95960,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "BR",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96294,6 +96085,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "BR",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -96312,17 +96114,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "BR",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96910,17 +96701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "BR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -96928,6 +96708,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "BR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97120,11 +96911,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "BR",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -97610,6 +97401,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "BR",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97735,6 +97537,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -97808,6 +97621,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "AU",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98204,6 +98028,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "AU",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98637,17 +98472,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1022924078",
-    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
-    "city": "Grindelwald",
-    "countryCode": "AU",
-    "lat": 46.62033,
-    "lng": 8.02527,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -98655,6 +98479,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1022924078",
+    "name": "Grindelwald › North-east: Grindelwald - Dorf - Wetterhorn",
+    "city": "Grindelwald",
+    "countryCode": "AU",
+    "lat": 46.62033,
+    "lng": 8.02527,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1022924078/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99715,17 +99550,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -100232,17 +100056,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -100250,17 +100063,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "AU",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101662,17 +101464,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1433811475",
-    "name": "Hobart › East: Wellington Park",
-    "city": "Hobart",
-    "countryCode": "AU",
-    "lat": -42.89545,
-    "lng": 147.23845,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -101680,6 +101471,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1433811475",
+    "name": "Hobart › East: Wellington Park",
+    "city": "Hobart",
+    "countryCode": "AU",
+    "lat": -42.89545,
+    "lng": 147.23845,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1433811475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102054,17 +101856,6 @@
     "lat": 35.50965,
     "lng": 24.03068,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1480513720",
-    "name": "Val Thorens: Auvergne-Rhône-Alpes, France",
-    "city": "Val Thorens",
-    "countryCode": "AU",
-    "lat": 45.29799,
-    "lng": 6.58127,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480513720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102641,17 +102432,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "AU",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -102659,6 +102439,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "AU",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102718,17 +102509,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "AU",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1513980669",
     "name": "Marathias › North-east: Marathonisi View",
     "city": "Marathias",
@@ -102736,6 +102516,17 @@
     "lat": 37.67185,
     "lng": 20.84968,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "AU",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103055,17 +102846,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105094,17 +104874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1121084333",
-    "name": "La Neuveville: Lake Biel",
-    "city": "La Neuveville",
-    "countryCode": "AU",
-    "lat": 47.06371,
-    "lng": 7.09222,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793903647",
     "name": "Vlasim › North: Jana Masaryka - Komenského",
     "city": "Vlasim",
@@ -105112,6 +104881,17 @@
     "lat": 49.70306,
     "lng": 14.89693,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793903647/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1121084333",
+    "name": "La Neuveville: Lake Biel",
+    "city": "La Neuveville",
+    "countryCode": "AU",
+    "lat": 47.06371,
+    "lng": 7.09222,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1121084333/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105369,17 +105149,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "AU",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -105387,6 +105156,17 @@
     "lat": 45.74916,
     "lng": 5.83157,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "AU",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105409,17 +105189,6 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "AU",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107008,17 +106777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "AU",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -107026,6 +106784,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "AU",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107140,6 +106909,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1658331508",
+    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
+    "city": "Toulouse",
+    "countryCode": "AU",
+    "lat": 43.60383,
+    "lng": 1.43216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -107158,17 +106938,6 @@
     "lat": 43.47631,
     "lng": 6.18308,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208957822/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1658331508",
-    "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
-    "city": "Toulouse",
-    "countryCode": "AU",
-    "lat": 43.60383,
-    "lng": 1.43216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107756,17 +107525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "AU",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -107774,6 +107532,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "AU",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107966,11 +107735,11 @@
   },
   {
     "id": "windy-1215701217",
-    "name": "Vysoke Myto",
+    "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
     "countryCode": "AU",
-    "lat": 49.95166,
-    "lng": 16.16346,
+    "lat": 49.95349,
+    "lng": 16.16153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -108456,6 +108225,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309247619",
+    "name": "Damp: Yachthafen Webcam Ostsee Resort",
+    "city": "Damp",
+    "countryCode": "AU",
+    "lat": 54.58365,
+    "lng": 10.02588,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
