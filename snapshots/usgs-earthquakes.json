@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000sie8",
+    "type": "earthquake",
+    "lat": -36.6416,
+    "lng": 177.2415,
+    "intensity": 4.5,
+    "timestamp": "2026-05-05T09:37:39.829Z",
+    "description": "M 4.5 - 129 km ENE of Pauanui, New Zealand",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sidy",
     "type": "earthquake",
     "lat": -36.6406,
@@ -147,16 +157,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-04T13:50:44.282Z",
     "description": "M 4.5 - 58 km WSW of Masachapa, Nicaragua",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si47",
-    "type": "earthquake",
-    "lat": 46.7345,
-    "lng": 152.867,
-    "intensity": 4.6,
-    "timestamp": "2026-05-04T10:02:29.077Z",
-    "description": "M 4.6 - Kuril Islands",
     "source": "USGS"
   }
 ]
