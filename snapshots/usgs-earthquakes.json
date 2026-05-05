@@ -10,6 +10,16 @@
     "source": "USGS"
   },
   {
+    "id": "us6000svbx",
+    "type": "earthquake",
+    "lat": -7.5791,
+    "lng": 129.8196,
+    "intensity": 4.5,
+    "timestamp": "2026-05-05T15:38:03.274Z",
+    "description": "M 4.5 - Kepulauan Babar, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svbv",
     "type": "earthquake",
     "lat": -35.235,
@@ -147,16 +157,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-04T20:39:33.215Z",
     "description": "M 4.5 - 51 km SSW of Dārāb, Iran",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si80",
-    "type": "earthquake",
-    "lat": 52.1273,
-    "lng": 176.2987,
-    "intensity": 4.5,
-    "timestamp": "2026-05-04T19:14:27.450Z",
-    "description": "M 4.5 - 226 km ESE of Attu Station, Alaska",
     "source": "USGS"
   }
 ]
