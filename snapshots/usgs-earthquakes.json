@@ -138,25 +138,5 @@
     "timestamp": "2026-05-05T23:10:51.950Z",
     "description": "M 4.6 - 45 km NE of Kinablangan, Philippines",
     "source": "USGS"
-  },
-  {
-    "id": "us6000svfd",
-    "type": "earthquake",
-    "lat": -55.8158,
-    "lng": -27.5173,
-    "intensity": 4.9,
-    "timestamp": "2026-05-05T21:01:46.391Z",
-    "description": "M 4.9 - South Sandwich Islands region",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svfc",
-    "type": "earthquake",
-    "lat": 34.1806,
-    "lng": 45.7647,
-    "intensity": 4.9,
-    "timestamp": "2026-05-05T20:53:20.849Z",
-    "description": "M 4.9 - 32 km SSW of Sarpol-e Z̄ahāb, Iran",
-    "source": "USGS"
   }
 ]
