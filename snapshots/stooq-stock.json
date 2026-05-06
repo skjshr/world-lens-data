@@ -39,8 +39,8 @@
     "symbol": "HSI",
     "name": "Hang Seng",
     "countryCode": "HK",
-    "price": 26104.42,
-    "changePct": 0.79,
+    "price": 26150.79,
+    "changePct": 0.18,
     "currency": "HKD",
     "asOf": "2026-05-06T00:00:00.000Z"
   },
@@ -48,18 +48,18 @@
     "symbol": "FTSE",
     "name": "FTSE 100",
     "countryCode": "GB",
-    "price": 22443.81,
-    "changePct": 0,
+    "price": 22639.6,
+    "changePct": 0.87,
     "currency": "GBP",
-    "asOf": "2026-05-05T00:00:00.000Z"
+    "asOf": "2026-05-06T00:00:00.000Z"
   },
   {
     "symbol": "DAX",
     "name": "DAX",
     "countryCode": "DE",
-    "price": 24401.7,
-    "changePct": 0,
+    "price": 24699.5,
+    "changePct": 1.22,
     "currency": "EUR",
-    "asOf": "2026-05-05T00:00:00.000Z"
+    "asOf": "2026-05-06T00:00:00.000Z"
   }
 ]
