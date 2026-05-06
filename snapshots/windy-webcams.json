@@ -924,17 +924,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "JP",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -1848,17 +1837,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "JP",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -2057,17 +2035,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "JP",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -2075,6 +2042,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "JP",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4532,17 +4510,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "JP",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -4550,6 +4517,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "JP",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4994,17 +4972,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "JP",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -5012,6 +4979,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "JP",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6545,17 +6523,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "JP",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -6563,6 +6530,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "JP",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7007,17 +6985,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "JP",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -7025,6 +6992,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "JP",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7744,6 +7722,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -7755,17 +7744,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "JP",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -7773,6 +7751,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "JP",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7821,17 +7810,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "JP",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -7839,6 +7817,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "JP",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9108,17 +9097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "JP",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -9126,6 +9104,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "JP",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9269,17 +9258,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "JP",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9625,17 +9603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "JP",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -9643,6 +9610,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "JP",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9735,17 +9713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "JP",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -9753,6 +9720,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "JP",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10809,6 +10787,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "JP",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11737,17 +11726,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "US",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -12661,17 +12639,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "US",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -12870,17 +12837,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "US",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -12888,6 +12844,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "US",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15345,17 +15312,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "US",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -15363,6 +15319,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "US",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15807,17 +15774,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "US",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -15825,6 +15781,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "US",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17358,17 +17325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "US",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -17376,6 +17332,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "US",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17820,17 +17787,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "US",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -17838,6 +17794,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "US",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18557,6 +18524,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -18568,17 +18546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "US",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -18586,6 +18553,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "US",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18634,17 +18612,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "US",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -18652,6 +18619,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "US",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19921,17 +19899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "US",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -19939,6 +19906,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "US",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20082,17 +20060,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "US",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20438,17 +20405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "US",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -20456,6 +20412,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "US",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20548,17 +20515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "US",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -20566,6 +20522,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "US",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21622,6 +21589,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "US",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22550,17 +22528,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "GB",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -23474,17 +23441,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "GB",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -23683,17 +23639,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "GB",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -23701,6 +23646,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "GB",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26158,17 +26114,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "GB",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -26176,6 +26121,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "GB",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26620,17 +26576,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "GB",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26638,6 +26583,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "GB",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28171,17 +28127,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "GB",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -28189,6 +28134,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "GB",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28633,17 +28589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "GB",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -28651,6 +28596,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "GB",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29370,6 +29326,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -29381,17 +29348,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "GB",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -29399,6 +29355,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "GB",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29447,17 +29414,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "GB",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -29465,6 +29421,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "GB",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30734,17 +30701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "GB",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -30752,6 +30708,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "GB",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30895,17 +30862,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "GB",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31251,17 +31207,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "GB",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -31269,6 +31214,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "GB",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31361,17 +31317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "GB",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -31379,6 +31324,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "GB",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32435,6 +32391,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "GB",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33363,17 +33330,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "DE",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -34287,17 +34243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "DE",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -34496,17 +34441,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "DE",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -34514,6 +34448,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "DE",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36971,17 +36916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "DE",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -36989,6 +36923,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "DE",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37433,17 +37378,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "DE",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37451,6 +37385,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "DE",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38984,17 +38929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "DE",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -39002,6 +38936,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "DE",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39446,17 +39391,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "DE",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -39464,6 +39398,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "DE",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40183,6 +40128,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -40194,17 +40150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "DE",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -40212,6 +40157,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "DE",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40260,17 +40216,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "DE",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -40278,6 +40223,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "DE",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41547,17 +41503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "DE",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -41565,6 +41510,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "DE",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41708,17 +41664,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "DE",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42064,17 +42009,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "DE",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -42082,6 +42016,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "DE",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42174,17 +42119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "DE",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -42192,6 +42126,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "DE",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43248,6 +43193,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "DE",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44176,17 +44132,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "FR",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -45100,17 +45045,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "FR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -45309,17 +45243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "FR",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -45327,6 +45250,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "FR",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47784,17 +47718,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "FR",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -47802,6 +47725,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "FR",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48246,17 +48180,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "FR",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -48264,6 +48187,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "FR",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49797,17 +49731,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "FR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -49815,6 +49738,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "FR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50259,17 +50193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "FR",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -50277,6 +50200,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "FR",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50996,6 +50930,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -51007,17 +50952,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "FR",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -51025,6 +50959,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "FR",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51073,17 +51018,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "FR",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -51091,6 +51025,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "FR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52360,17 +52305,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "FR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -52378,6 +52312,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "FR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52521,17 +52466,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "FR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52877,17 +52811,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "FR",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -52895,6 +52818,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "FR",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52987,17 +52921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "FR",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -53005,6 +52928,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "FR",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54061,6 +53995,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "FR",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54989,17 +54934,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "CN",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -55913,17 +55847,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "CN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -56122,17 +56045,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "CN",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -56140,6 +56052,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "CN",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58597,17 +58520,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "CN",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -58615,6 +58527,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "CN",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59059,17 +58982,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "CN",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -59077,6 +58989,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "CN",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60610,17 +60533,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "CN",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -60628,6 +60540,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "CN",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61072,17 +60995,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "CN",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -61090,6 +61002,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "CN",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61809,6 +61732,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -61820,17 +61754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "CN",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -61838,6 +61761,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "CN",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61886,17 +61820,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "CN",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -61904,6 +61827,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "CN",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63173,17 +63107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "CN",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -63191,6 +63114,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "CN",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63334,17 +63268,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "CN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63690,17 +63613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "CN",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -63708,6 +63620,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "CN",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63800,17 +63723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "CN",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -63818,6 +63730,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "CN",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64874,6 +64797,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "CN",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65802,17 +65736,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "KR",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -66726,17 +66649,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "KR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -66935,17 +66847,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "KR",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -66953,6 +66854,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "KR",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69410,17 +69322,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "KR",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -69428,6 +69329,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "KR",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69872,17 +69784,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "KR",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -69890,6 +69791,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "KR",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71423,17 +71335,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "KR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -71441,6 +71342,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "KR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71885,17 +71797,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "KR",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -71903,6 +71804,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "KR",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72622,6 +72534,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -72633,17 +72556,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "KR",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -72651,6 +72563,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "KR",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72699,17 +72622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "KR",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -72717,6 +72629,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "KR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73986,17 +73909,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "KR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -74004,6 +73916,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "KR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74147,17 +74070,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "KR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74503,17 +74415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "KR",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -74521,6 +74422,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "KR",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74613,17 +74525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "KR",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -74631,6 +74532,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "KR",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75687,6 +75599,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "KR",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76615,17 +76538,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "IN",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -77539,17 +77451,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "IN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -77748,17 +77649,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "IN",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -77766,6 +77656,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "IN",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80223,17 +80124,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "IN",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -80241,6 +80131,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "IN",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80685,17 +80586,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "IN",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -80703,6 +80593,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "IN",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82236,17 +82137,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "IN",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -82254,6 +82144,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "IN",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82698,17 +82599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "IN",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -82716,6 +82606,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "IN",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83435,6 +83336,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -83446,17 +83358,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "IN",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -83464,6 +83365,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "IN",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83512,17 +83424,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "IN",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -83530,6 +83431,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "IN",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84799,17 +84711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "IN",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -84817,6 +84718,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "IN",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84960,17 +84872,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "IN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85316,17 +85217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "IN",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -85334,6 +85224,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "IN",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85426,17 +85327,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "IN",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -85444,6 +85334,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "IN",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86500,6 +86401,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "IN",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87428,17 +87340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "BR",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -88352,17 +88253,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "BR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -88561,17 +88451,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "BR",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -88579,6 +88458,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "BR",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91036,17 +90926,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "BR",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -91054,6 +90933,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "BR",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91498,17 +91388,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "BR",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -91516,6 +91395,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "BR",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93049,17 +92939,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "BR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -93067,6 +92946,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "BR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93511,17 +93401,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "BR",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -93529,6 +93408,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "BR",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94248,6 +94138,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -94259,17 +94160,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "BR",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -94277,6 +94167,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "BR",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94325,17 +94226,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "BR",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -94343,6 +94233,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "BR",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95612,17 +95513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "BR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -95630,6 +95520,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "BR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95773,17 +95674,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "BR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96129,17 +96019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "BR",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -96147,6 +96026,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "BR",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96239,17 +96129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "BR",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -96257,6 +96136,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "BR",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97313,6 +97203,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "BR",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98241,17 +98142,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183402927",
-    "name": "Denver: Live Downtown - weather camera",
-    "city": "Denver",
-    "countryCode": "AU",
-    "lat": 39.73719,
-    "lng": -104.96372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697035112",
     "name": "Bern: Bellevue Palace Bern",
     "city": "Bern",
@@ -99165,17 +99055,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "AU",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -99374,17 +99253,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1113821046",
-    "name": "Nesslau: Stein: Toggenburg Alpakas",
-    "city": "Nesslau",
-    "countryCode": "AU",
-    "lat": 47.19671,
-    "lng": 9.22371,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248885715",
     "name": "Iseo › North-east: Lake Iseo",
     "city": "Iseo",
@@ -99392,6 +99260,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1113821046",
+    "name": "Nesslau: Stein: Toggenburg Alpakas",
+    "city": "Nesslau",
+    "countryCode": "AU",
+    "lat": 47.19671,
+    "lng": 9.22371,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1113821046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101849,17 +101728,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1266593099",
-    "name": "Hornsund: Fiord",
-    "city": "Hornsund",
-    "countryCode": "AU",
-    "lat": 77.00241,
-    "lng": 15.5484,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1531252514",
     "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
     "city": "Olawa",
@@ -101867,6 +101735,17 @@
     "lat": 50.9466,
     "lng": 17.2926,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1266593099",
+    "name": "Hornsund: Fiord",
+    "city": "Hornsund",
+    "countryCode": "AU",
+    "lat": 77.00241,
+    "lng": 15.5484,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102311,17 +102190,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246543759",
-    "name": "Landshut › North: Landshuter Altstadt",
-    "city": "Landshut",
-    "countryCode": "AU",
-    "lat": 48.5369,
-    "lng": 12.15224,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -102329,6 +102197,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246543759",
+    "name": "Landshut › North: Landshuter Altstadt",
+    "city": "Landshut",
+    "countryCode": "AU",
+    "lat": 48.5369,
+    "lng": 12.15224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246543759/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103862,17 +103741,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "AU",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -103880,6 +103748,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "AU",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104324,17 +104203,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456339",
-    "name": "Dadae-dong",
-    "city": "Dadae-dong",
-    "countryCode": "AU",
-    "lat": 35.04768,
-    "lng": 128.96695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334265756",
     "name": "La Reina › South: Aerodromo Tobalaba - Eulogio Sanchez",
     "city": "La Reina",
@@ -104342,6 +104210,17 @@
     "lat": -33.45502,
     "lng": -70.54815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334265756/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456339",
+    "name": "Dadae-dong",
+    "city": "Dadae-dong",
+    "countryCode": "AU",
+    "lat": 35.04768,
+    "lng": 128.96695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456339/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105061,6 +104940,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -105072,17 +104962,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1170888461",
-    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
-    "city": "Capoliveri",
-    "countryCode": "AU",
-    "lat": 42.7599,
-    "lng": 10.29988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -105090,6 +104969,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1170888461",
+    "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
+    "city": "Capoliveri",
+    "countryCode": "AU",
+    "lat": 42.7599,
+    "lng": 10.29988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105138,17 +105028,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216285061",
-    "name": "Bekescsaba: Szent István tér",
-    "city": "Bekescsaba",
-    "countryCode": "AU",
-    "lat": 46.67959,
-    "lng": 21.09826,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -105156,6 +105035,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216285061",
+    "name": "Bekescsaba: Szent István tér",
+    "city": "Bekescsaba",
+    "countryCode": "AU",
+    "lat": 46.67959,
+    "lng": 21.09826,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216285061/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106425,17 +106315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "AU",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -106443,6 +106322,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "AU",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106586,17 +106476,6 @@
     "lat": 46.86113,
     "lng": 9.54172,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "AU",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106942,17 +106821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1649868005",
-    "name": "Indian Shores › West",
-    "city": "Indian Shores",
-    "countryCode": "AU",
-    "lat": 27.8628,
-    "lng": -82.84844,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -106960,6 +106828,17 @@
     "lat": 47.91812,
     "lng": 13.80261,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1649868005",
+    "name": "Indian Shores › West",
+    "city": "Indian Shores",
+    "countryCode": "AU",
+    "lat": 27.8628,
+    "lng": -82.84844,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107052,17 +106931,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "AU",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -107070,6 +106938,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "AU",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108126,6 +108005,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793900809",
+    "name": "Weymouth › North-east: Weymouth Beach",
+    "city": "Weymouth",
+    "countryCode": "AU",
+    "lat": 50.60924,
+    "lng": -2.45282,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
