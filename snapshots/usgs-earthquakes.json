@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000svi6",
+    "type": "earthquake",
+    "lat": 29.8578,
+    "lng": 70.0991,
+    "intensity": 4.9,
+    "timestamp": "2026-05-06T04:06:08.205Z",
+    "description": "M 4.9 - 42 km NW of Dajal, Pakistan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000svhx",
+    "type": "earthquake",
+    "lat": 29.2625,
+    "lng": 142.5455,
+    "intensity": 4.8,
+    "timestamp": "2026-05-06T03:03:49.136Z",
+    "description": "M 4.8 - Izu Islands, Japan region",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svh0",
     "type": "earthquake",
     "lat": -4.6061,
@@ -117,46 +137,6 @@
     "intensity": 5.8,
     "timestamp": "2026-05-05T06:44:51.479Z",
     "description": "M 5.8 - 76 km S of Tambolaka, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sibr",
-    "type": "earthquake",
-    "lat": 25.2767,
-    "lng": 96.4552,
-    "intensity": 4.5,
-    "timestamp": "2026-05-05T04:10:49.268Z",
-    "description": "M 4.5 - 95 km W of Myitkyina, Burma (Myanmar)",
-    "source": "USGS"
-  },
-  {
-    "id": "nn00917635",
-    "type": "earthquake",
-    "lat": 38.4568,
-    "lng": -116.5006,
-    "intensity": 4.47,
-    "timestamp": "2026-05-05T02:39:52.449Z",
-    "description": "M 4.5 - 77 km NE of Tonopah, Nevada",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000siat",
-    "type": "earthquake",
-    "lat": -6.4335,
-    "lng": 130.1627,
-    "intensity": 5.3,
-    "timestamp": "2026-05-05T02:38:49.853Z",
-    "description": "M 5.3 - Banda Sea",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000siar",
-    "type": "earthquake",
-    "lat": 53.6488,
-    "lng": -165.5555,
-    "intensity": 4.7,
-    "timestamp": "2026-05-05T02:38:47.990Z",
-    "description": "M 4.7 - 55 km SSE of Akutan, Alaska",
     "source": "USGS"
   }
 ]
