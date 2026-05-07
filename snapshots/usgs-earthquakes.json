@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000svzd",
+    "type": "earthquake",
+    "lat": 7.4738,
+    "lng": -34.6353,
+    "intensity": 4.7,
+    "timestamp": "2026-05-07T16:54:03.840Z",
+    "description": "M 4.7 - central Mid-Atlantic Ridge",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svwn",
     "type": "earthquake",
     "lat": -17.9613,
