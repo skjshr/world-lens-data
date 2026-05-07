@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000svvf",
+    "type": "earthquake",
+    "lat": 29.2335,
+    "lng": 129.4091,
+    "intensity": 4.7,
+    "timestamp": "2026-05-07T06:39:18.133Z",
+    "description": "M 4.7 - 88 km NNW of Tatsugō, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svu7",
     "type": "earthquake",
     "lat": -5.7445,
