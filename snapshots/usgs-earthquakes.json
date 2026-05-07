@@ -68,25 +68,5 @@
     "timestamp": "2026-05-06T19:19:17.896Z",
     "description": "M 5.0 - South Sandwich Islands region",
     "source": "USGS"
-  },
-  {
-    "id": "us6000svp9",
-    "type": "earthquake",
-    "lat": 7.6333,
-    "lng": 126.7818,
-    "intensity": 5.5,
-    "timestamp": "2026-05-06T15:35:46.736Z",
-    "description": "M 5.5 - 25 km ENE of Baganga, Philippines",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svp7",
-    "type": "earthquake",
-    "lat": 28.9344,
-    "lng": 95.9538,
-    "intensity": 4.5,
-    "timestamp": "2026-05-06T15:17:34.286Z",
-    "description": "M 4.5 - 111 km NNW of Hayuliang, India",
-    "source": "USGS"
   }
 ]

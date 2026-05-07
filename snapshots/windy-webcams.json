@@ -121,6 +121,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -1155,17 +1166,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -1591,17 +1591,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "JP",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2178,17 +2167,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -2684,17 +2662,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -2817,11 +2784,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "JP",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -3762,6 +3729,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "JP",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -4297,6 +4275,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "JP",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5137,6 +5126,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "JP",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -5291,17 +5291,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "JP",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -5309,6 +5298,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "JP",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5485,17 +5485,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5925,17 +5914,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "JP",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6512,17 +6490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "JP",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -6530,6 +6497,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "JP",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6622,17 +6600,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "JP",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -6640,6 +6607,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "JP",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7414,17 +7392,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "JP",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -7432,6 +7399,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "JP",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7766,17 +7744,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230040189",
-    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
-    "city": "Duino Aurisina",
-    "countryCode": "JP",
-    "lat": 45.74117,
-    "lng": 13.66974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1398894675",
     "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
     "city": "Bergen",
@@ -7784,6 +7751,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040189",
+    "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
+    "city": "Duino Aurisina",
+    "countryCode": "JP",
+    "lat": 45.74117,
+    "lng": 13.66974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7806,17 +7784,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "JP",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8866,17 +8833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "JP",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -8884,6 +8840,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "JP",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8943,17 +8910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "JP",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -8961,6 +8917,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "JP",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9163,17 +9130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "JP",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -9181,6 +9137,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "JP",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9863,17 +9830,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "JP",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10864,28 +10820,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "JP",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "JP",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11011,6 +10945,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -12045,17 +11990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -12481,17 +12415,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "US",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13068,17 +12991,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -13574,17 +13486,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13707,11 +13608,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "US",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -14652,6 +14553,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "US",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -15187,6 +15099,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "US",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16027,6 +15950,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "US",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -16181,17 +16115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "US",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -16199,6 +16122,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "US",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16375,17 +16309,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16815,17 +16738,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "US",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17402,17 +17314,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "US",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -17420,6 +17321,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "US",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18304,17 +18216,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "US",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -18322,6 +18223,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "US",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18696,17 +18608,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "US",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19756,17 +19657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "US",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -19774,6 +19664,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "US",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19833,17 +19734,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "US",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -19851,6 +19741,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "US",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20053,17 +19954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "US",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -20071,6 +19961,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "US",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20753,17 +20654,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "US",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21754,28 +21644,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "US",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "US",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21901,6 +21769,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -22935,17 +22814,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -23371,17 +23239,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "GB",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23958,17 +23815,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -24464,17 +24310,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24597,11 +24432,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "GB",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -25542,6 +25377,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "GB",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -26077,6 +25923,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "GB",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26917,6 +26774,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "GB",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -27071,17 +26939,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "GB",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -27089,6 +26946,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "GB",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27265,17 +27133,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27705,17 +27562,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "GB",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28292,17 +28138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "GB",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -28310,6 +28145,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "GB",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29194,17 +29040,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "GB",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -29212,6 +29047,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "GB",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29586,17 +29432,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "GB",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30646,17 +30481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "GB",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -30664,6 +30488,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "GB",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30723,17 +30558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "GB",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -30741,6 +30565,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "GB",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30943,17 +30778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "GB",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -30961,6 +30785,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "GB",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31643,17 +31478,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "GB",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32644,28 +32468,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "GB",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "GB",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32791,6 +32593,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -33825,17 +33638,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -34261,17 +34063,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "DE",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34848,17 +34639,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -35354,17 +35134,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -35487,11 +35256,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "DE",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -36432,6 +36201,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "DE",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -36967,6 +36747,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "DE",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37807,6 +37598,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "DE",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -37961,17 +37763,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "DE",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -37979,6 +37770,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "DE",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38155,17 +37957,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38595,17 +38386,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "DE",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39182,17 +38962,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "DE",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -39200,6 +38969,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "DE",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40084,17 +39864,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "DE",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -40102,6 +39871,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "DE",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40476,17 +40256,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "DE",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41536,17 +41305,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "DE",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -41554,6 +41312,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "DE",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41613,17 +41382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "DE",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -41631,6 +41389,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "DE",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41833,17 +41602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "DE",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -41851,6 +41609,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "DE",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42533,17 +42302,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "DE",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43534,28 +43292,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "DE",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "DE",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43681,6 +43417,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -44715,17 +44462,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -45151,17 +44887,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "FR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45738,17 +45463,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -46244,17 +45958,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -46377,11 +46080,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "FR",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -47322,6 +47025,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "FR",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -47857,6 +47571,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "FR",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48697,6 +48422,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "FR",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -48851,17 +48587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "FR",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -48869,6 +48594,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "FR",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49045,17 +48781,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49485,17 +49210,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "FR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50072,17 +49786,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "FR",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -50090,6 +49793,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "FR",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50974,17 +50688,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "FR",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -50992,6 +50695,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "FR",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51366,17 +51080,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "FR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52426,17 +52129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "FR",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -52444,6 +52136,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "FR",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52503,17 +52206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "FR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -52521,6 +52213,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "FR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52723,17 +52426,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "FR",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -52741,6 +52433,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "FR",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53423,17 +53126,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "FR",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54424,28 +54116,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "FR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "FR",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54571,6 +54241,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -55605,17 +55286,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -56041,17 +55711,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "CN",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56628,17 +56287,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -57134,17 +56782,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -57267,11 +56904,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "CN",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -58212,6 +57849,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "CN",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -58747,6 +58395,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "CN",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59587,6 +59246,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "CN",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -59741,17 +59411,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "CN",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -59759,6 +59418,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "CN",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59935,17 +59605,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60375,17 +60034,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "CN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60962,17 +60610,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "CN",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -60980,6 +60617,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "CN",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61864,17 +61512,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "CN",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -61882,6 +61519,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "CN",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62256,17 +61904,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "CN",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63316,17 +62953,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "CN",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -63334,6 +62960,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "CN",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63393,17 +63030,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "CN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -63411,6 +63037,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "CN",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63613,17 +63250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "CN",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -63631,6 +63257,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "CN",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64313,17 +63950,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "CN",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65314,28 +64940,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "CN",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "CN",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65461,6 +65065,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -66495,17 +66110,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -66931,17 +66535,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "KR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67518,17 +67111,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -68024,17 +67606,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -68157,11 +67728,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "KR",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -69102,6 +68673,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "KR",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -69637,6 +69219,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "KR",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70477,6 +70070,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "KR",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -70631,17 +70235,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "KR",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -70649,6 +70242,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "KR",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70825,17 +70429,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71265,17 +70858,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "KR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71852,17 +71434,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "KR",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -71870,6 +71441,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "KR",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72754,17 +72336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "KR",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -72772,6 +72343,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "KR",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73146,17 +72728,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "KR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74206,17 +73777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "KR",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -74224,6 +73784,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "KR",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74283,17 +73854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "KR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -74301,6 +73861,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "KR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74503,17 +74074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "KR",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -74521,6 +74081,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "KR",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75203,17 +74774,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "KR",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76204,28 +75764,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "KR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "KR",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76351,6 +75889,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -77385,17 +76934,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -77821,17 +77359,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "IN",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78408,17 +77935,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -78914,17 +78430,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -79047,11 +78552,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "IN",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -79992,6 +79497,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "IN",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -80527,6 +80043,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "IN",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81367,6 +80894,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "IN",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -81521,17 +81059,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "IN",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -81539,6 +81066,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "IN",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81715,17 +81253,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82155,17 +81682,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "IN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82742,17 +82258,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "IN",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -82760,6 +82265,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "IN",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83644,17 +83160,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "IN",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -83662,6 +83167,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "IN",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84036,17 +83552,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "IN",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85096,17 +84601,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "IN",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -85114,6 +84608,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "IN",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85173,17 +84678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "IN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -85191,6 +84685,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "IN",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85393,17 +84898,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "IN",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -85411,6 +84905,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "IN",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86093,17 +85598,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "IN",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87094,28 +86588,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "IN",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "IN",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87241,6 +86713,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -88275,17 +87758,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -88711,17 +88183,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "BR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89298,17 +88759,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -89804,17 +89254,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -89937,11 +89376,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "BR",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -90882,6 +90321,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "BR",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -91417,6 +90867,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "BR",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92257,6 +91718,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "BR",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -92411,17 +91883,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "BR",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -92429,6 +91890,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "BR",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92605,17 +92077,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93045,17 +92506,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "BR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93632,17 +93082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "BR",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -93650,6 +93089,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "BR",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94534,17 +93984,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "BR",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -94552,6 +93991,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "BR",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94926,17 +94376,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "BR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95986,17 +95425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "BR",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -96004,6 +95432,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "BR",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96063,17 +95502,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "BR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -96081,6 +95509,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "BR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96283,17 +95722,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "BR",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -96301,6 +95729,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "BR",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96983,17 +96422,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "BR",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97984,28 +97412,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "BR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "BR",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98131,6 +97537,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -99165,17 +98582,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -99601,17 +99007,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "AU",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100188,17 +99583,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -100694,17 +100078,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -100827,11 +100200,11 @@
   },
   {
     "id": "windy-1460798679",
-    "name": "Hakodate: 函館市 - 北海道, 日本",
+    "name": "Hakodate › North-east: Midori no Shima - Port of Hakodate - Hakodate Bay",
     "city": "Hakodate",
     "countryCode": "AU",
-    "lat": 41.77442,
-    "lng": 140.73787,
+    "lat": 41.75215,
+    "lng": 140.70614,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1460798679/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -101772,6 +101145,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "AU",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1287730610",
     "name": "Canico: Cristo Rei, Madeira",
     "city": "Canico",
@@ -102307,6 +101691,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553980",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "AU",
+    "lat": 45.29083,
+    "lng": 23.68999,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553980/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103147,6 +102542,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "AU",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1076244529",
     "name": "Brunni: Alpthal",
     "city": "Brunni",
@@ -103301,17 +102707,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
-    "city": "Sanremo",
-    "countryCode": "AU",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1383594004",
     "name": "Gliwice: Aeroclub 2",
     "city": "Gliwice",
@@ -103319,6 +102714,17 @@
     "lat": 50.27139,
     "lng": 18.67472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1383594004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo › East: Mono Sea Beach Sanremo - Porto di Sanremo Portosole",
+    "city": "Sanremo",
+    "countryCode": "AU",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103495,17 +102901,6 @@
     "lat": 46.82284,
     "lng": 9.29517,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103935,17 +103330,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "AU",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104522,17 +103906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1200396675",
-    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
-    "city": "Le Bonhomme",
-    "countryCode": "AU",
-    "lat": 48.1457,
-    "lng": 7.0776,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -104540,6 +103913,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200396675",
+    "name": "Le Bonhomme: Webcam du Lac Blanc 900 - Massif des Vosges - alsace",
+    "city": "Le Bonhomme",
+    "countryCode": "AU",
+    "lat": 48.1457,
+    "lng": 7.0776,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200396675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105424,17 +104808,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215902258",
-    "name": "Bassersdorf",
-    "city": "Bassersdorf",
-    "countryCode": "AU",
-    "lat": 47.44719,
-    "lng": 8.62002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503580",
     "name": "Nai Yang: Phuket Lotuslodge in Thailand 2",
     "city": "unknown",
@@ -105442,6 +104815,17 @@
     "lat": 8.07662,
     "lng": 98.30132,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503580/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215902258",
+    "name": "Bassersdorf",
+    "city": "Bassersdorf",
+    "countryCode": "AU",
+    "lat": 47.44719,
+    "lng": 8.62002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215902258/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105816,17 +105200,6 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "AU",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106876,17 +106249,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1246340077",
-    "name": "Grenchen › South: Untergrenchenberg",
-    "city": "Grenchen",
-    "countryCode": "AU",
-    "lat": 47.2213,
-    "lng": 7.38043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -106894,6 +106256,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246340077",
+    "name": "Grenchen › South: Untergrenchenberg",
+    "city": "Grenchen",
+    "countryCode": "AU",
+    "lat": 47.2213,
+    "lng": 7.38043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246340077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106953,17 +106326,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "AU",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -106971,6 +106333,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "AU",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107173,17 +106546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "AU",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -107191,6 +106553,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "AU",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107873,17 +107246,6 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1420818867",
-    "name": "Stavrakia › North: Stavrakion - Crete, Greece",
-    "city": "Stavrakia",
-    "countryCode": "AU",
-    "lat": 35.25336,
-    "lng": 25.06278,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108874,28 +108236,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "AU",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "AU",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
