@@ -1,12 +1,22 @@
 [
   {
+    "id": "us6000svu7",
+    "type": "earthquake",
+    "lat": -5.7445,
+    "lng": 154.2368,
+    "intensity": 5.1,
+    "timestamp": "2026-05-07T01:23:05.220Z",
+    "description": "M 5.1 - 151 km WNW of Panguna, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svsx",
     "type": "earthquake",
-    "lat": -2.2513,
-    "lng": -79.1407,
+    "lat": -2.2614,
+    "lng": -79.181,
     "intensity": 4.6,
-    "timestamp": "2026-05-06T22:06:49.638Z",
-    "description": "M 4.6 - 29 km NE of La Troncal, Ecuador",
+    "timestamp": "2026-05-06T22:06:49.692Z",
+    "description": "M 4.6 - 25 km NE of La Troncal, Ecuador",
     "source": "USGS"
   },
   {
@@ -107,26 +117,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-06T08:19:31.360Z",
     "description": "M 4.6 - 74 km WSW of Coquimbo, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svi6",
-    "type": "earthquake",
-    "lat": 29.8578,
-    "lng": 70.0991,
-    "intensity": 4.9,
-    "timestamp": "2026-05-06T04:06:08.205Z",
-    "description": "M 4.9 - 42 km NW of Dajal, Pakistan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svhx",
-    "type": "earthquake",
-    "lat": 29.2625,
-    "lng": 142.5455,
-    "intensity": 4.8,
-    "timestamp": "2026-05-06T03:03:49.136Z",
-    "description": "M 4.8 - Izu Islands, Japan region",
     "source": "USGS"
   }
 ]
