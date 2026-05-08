@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sw5q",
+    "type": "earthquake",
+    "lat": -43.51,
+    "lng": 91.4835,
+    "intensity": 5.4,
+    "timestamp": "2026-05-08T07:17:43.284Z",
+    "description": "M 5.4 - southeast Indian Ridge",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sw44",
     "type": "earthquake",
     "lat": 6.5836,
@@ -60,6 +70,16 @@
     "source": "USGS"
   },
   {
+    "id": "us6000svwk",
+    "type": "earthquake",
+    "lat": 51.8366,
+    "lng": 158.6642,
+    "intensity": 4.5,
+    "timestamp": "2026-05-07T11:32:01.976Z",
+    "description": "M 4.5 - 123 km S of Vilyuchinsk, Russia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svw1",
     "type": "earthquake",
     "lat": -27.3997,
@@ -77,16 +97,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-07T08:13:51.397Z",
     "description": "M 4.7 - 98 km SW of Puerto Madero, Mexico",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svvf",
-    "type": "earthquake",
-    "lat": 29.2335,
-    "lng": 129.4091,
-    "intensity": 4.7,
-    "timestamp": "2026-05-07T06:39:18.133Z",
-    "description": "M 4.7 - 88 km NNW of Tatsugō, Japan",
     "source": "USGS"
   }
 ]
