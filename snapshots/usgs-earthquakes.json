@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swbu",
+    "type": "earthquake",
+    "lat": 51.0534,
+    "lng": 179.4162,
+    "intensity": 4.7,
+    "timestamp": "2026-05-08T20:03:25.803Z",
+    "description": "M 4.7 - 289 km WSW of Adak, Alaska",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swai",
     "type": "earthquake",
     "lat": -15.1037,
