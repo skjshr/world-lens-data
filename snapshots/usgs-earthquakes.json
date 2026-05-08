@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sw44",
+    "type": "earthquake",
+    "lat": 6.5836,
+    "lng": -82.2847,
+    "intensity": 4.8,
+    "timestamp": "2026-05-08T03:39:30.083Z",
+    "description": "M 4.8 - 163 km SW of Río Grande, Panama",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sw3f",
+    "type": "earthquake",
+    "lat": -23.7788,
+    "lng": -66.5836,
+    "intensity": 4.8,
+    "timestamp": "2026-05-08T01:29:17.864Z",
+    "description": "M 4.8 - 55 km NNW of San Antonio de los Cobres, Argentina",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sw2r",
     "type": "earthquake",
     "lat": 37.6229,
