@@ -1,12 +1,22 @@
 [
   {
-    "id": "atter6en",
+    "id": "nc75357576",
     "type": "earthquake",
-    "lat": 50.972,
-    "lng": 179.149,
-    "intensity": 5.3,
-    "timestamp": "2026-05-09T04:42:23.000Z",
-    "description": "M 5.3 - Rat Islands, Aleutian Islands, Alaska",
+    "lat": 41.4916648864746,
+    "lng": -125.45532989502,
+    "intensity": 4.85,
+    "timestamp": "2026-05-09T04:57:58.090Z",
+    "description": "M 4.9 - 108 km WSW of Crescent City, CA",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000swf4",
+    "type": "earthquake",
+    "lat": 51.0818,
+    "lng": 179.349,
+    "intensity": 5.8,
+    "timestamp": "2026-05-09T04:42:23.298Z",
+    "description": "M 5.8 - 292 km WSW of Adak, Alaska",
     "source": "USGS"
   },
   {
