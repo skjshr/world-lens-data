@@ -68,25 +68,5 @@
     "timestamp": "2026-05-08T20:03:25.803Z",
     "description": "M 4.7 - 289 km WSW of Adak, Alaska",
     "source": "USGS"
-  },
-  {
-    "id": "us6000swai",
-    "type": "earthquake",
-    "lat": -15.1037,
-    "lng": -75.8215,
-    "intensity": 4.8,
-    "timestamp": "2026-05-08T17:14:38.393Z",
-    "description": "M 4.8 - 76 km WNW of San Juan, Peru",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swak",
-    "type": "earthquake",
-    "lat": 39.9216,
-    "lng": 143.2621,
-    "intensity": 4.6,
-    "timestamp": "2026-05-08T17:10:18.808Z",
-    "description": "M 4.6 - 117 km ENE of Miyako, Japan",
-    "source": "USGS"
   }
 ]
