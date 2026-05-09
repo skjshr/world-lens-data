@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swg6",
+    "type": "earthquake",
+    "lat": -2.9287,
+    "lng": 147.7678,
+    "intensity": 5,
+    "timestamp": "2026-05-09T09:12:13.117Z",
+    "description": "M 5.0 - 113 km SSE of Lorengau, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "nc75357576",
     "type": "earthquake",
     "lat": 41.4916648864746,
