@@ -1,5 +1,15 @@
 [
   {
+    "id": "atter6en",
+    "type": "earthquake",
+    "lat": 50.972,
+    "lng": 179.149,
+    "intensity": 5.3,
+    "timestamp": "2026-05-09T04:42:23.000Z",
+    "description": "M 5.3 - Rat Islands, Aleutian Islands, Alaska",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swe0",
     "type": "earthquake",
     "lat": -2.1622,
@@ -107,26 +117,6 @@
     "intensity": 5.9,
     "timestamp": "2026-05-08T07:17:43.055Z",
     "description": "M 5.9 - southeast Indian Ridge",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sw44",
-    "type": "earthquake",
-    "lat": 6.5836,
-    "lng": -82.2847,
-    "intensity": 4.8,
-    "timestamp": "2026-05-08T03:39:30.083Z",
-    "description": "M 4.8 - 163 km SW of Río Grande, Panama",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sw3f",
-    "type": "earthquake",
-    "lat": -23.7788,
-    "lng": -66.5836,
-    "intensity": 4.8,
-    "timestamp": "2026-05-08T01:29:17.864Z",
-    "description": "M 4.8 - 55 km NNW of San Antonio de los Cobres, Argentina",
     "source": "USGS"
   }
 ]
