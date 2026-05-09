@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swi4",
+    "type": "earthquake",
+    "lat": -38.8053,
+    "lng": 175.1941,
+    "intensity": 4.9,
+    "timestamp": "2026-05-09T21:52:46.536Z",
+    "description": "M 4.9 - 57 km WNW of Turangi, New Zealand",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swhy",
     "type": "earthquake",
     "lat": -26.8393,
