@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swq9",
+    "type": "earthquake",
+    "lat": 38.5344,
+    "lng": -27.5038,
+    "intensity": 4.6,
+    "timestamp": "2026-05-10T12:21:22.589Z",
+    "description": "M 4.6 - 22 km SW of Santa Bárbara, Portugal",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swni",
     "type": "earthquake",
     "lat": -37.7665,
