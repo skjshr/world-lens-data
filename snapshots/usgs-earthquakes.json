@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000swni",
+    "type": "earthquake",
+    "lat": -37.7665,
+    "lng": -73.3233,
+    "intensity": 4.7,
+    "timestamp": "2026-05-10T08:03:57.027Z",
+    "description": "M 4.7 - 7 km ENE of Cañete, Chile",
+    "source": "USGS"
+  },
+  {
+    "id": "ci41461608",
+    "type": "earthquake",
+    "lat": 32.9690017700195,
+    "lng": -115.56950378418,
+    "intensity": 4.66486919122063,
+    "timestamp": "2026-05-10T07:10:21.330Z",
+    "description": "M 4.7 - 4 km WSW of Brawley, CA",
+    "source": "USGS"
+  },
+  {
     "id": "ci41460512",
     "type": "earthquake",
     "lat": 32.9901657104492,
