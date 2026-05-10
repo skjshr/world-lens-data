@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swq8",
+    "type": "earthquake",
+    "lat": 1.2342,
+    "lng": 120.5431,
+    "intensity": 4.7,
+    "timestamp": "2026-05-10T12:24:34.277Z",
+    "description": "M 4.7 - 248 km NNE of Palu, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swq9",
     "type": "earthquake",
     "lat": 38.5344,
