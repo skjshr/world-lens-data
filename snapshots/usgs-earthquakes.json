@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swss",
+    "type": "earthquake",
+    "lat": 17.8567,
+    "lng": 145.6782,
+    "intensity": 4.6,
+    "timestamp": "2026-05-10T21:08:18.305Z",
+    "description": "M 4.6 - 292 km N of Saipan, Northern Mariana Islands",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swsg",
     "type": "earthquake",
     "lat": 36.7079,
@@ -127,16 +137,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-10T01:50:13.905Z",
     "description": "M 4.6 - 78 km SSE of Pondaguitan, Philippines",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swi4",
-    "type": "earthquake",
-    "lat": -38.8053,
-    "lng": 175.1941,
-    "intensity": 4.9,
-    "timestamp": "2026-05-09T21:52:46.536Z",
-    "description": "M 4.9 - 57 km WNW of Turangi, New Zealand",
     "source": "USGS"
   }
 ]
