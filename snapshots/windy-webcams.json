@@ -2090,6 +2090,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "JP",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -2387,17 +2398,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "JP",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -2405,6 +2405,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "JP",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2988,17 +2999,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "JP",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6215,17 +6215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "JP",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -6952,17 +6941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "JP",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -6970,6 +6948,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "JP",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8811,17 +8800,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "JP",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -8833,13 +8811,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "JP",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8851,6 +8829,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "JP",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9152,17 +9141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "JP",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -9170,6 +9148,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "JP",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9291,17 +9280,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "JP",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9614,17 +9592,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "JP",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -9632,6 +9599,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "JP",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9658,6 +9636,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "JP",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -9676,17 +9665,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "JP",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9790,17 +9768,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "JP",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -9808,6 +9775,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "JP",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10351,6 +10329,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -10494,17 +10483,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "JP",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -10512,6 +10490,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "JP",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12947,6 +12936,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "US",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -13244,17 +13244,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "US",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -13262,6 +13251,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "US",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13845,17 +13845,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "US",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17072,17 +17061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "US",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -17809,17 +17787,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "US",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -17827,6 +17794,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "US",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19668,17 +19646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "US",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -19690,13 +19657,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "US",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19708,6 +19675,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "US",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20009,17 +19987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "US",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -20027,6 +19994,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "US",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20148,17 +20126,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "US",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20471,17 +20438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "US",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -20489,6 +20445,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "US",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20515,6 +20482,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "US",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -20533,17 +20511,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "US",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20647,17 +20614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "US",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -20665,6 +20621,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "US",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21362,17 +21329,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "US",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -21380,6 +21336,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "US",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23815,6 +23782,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "GB",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -24112,17 +24090,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "GB",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -24130,6 +24097,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "GB",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24713,17 +24691,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "GB",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27940,17 +27907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "GB",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -28677,17 +28633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "GB",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -28695,6 +28640,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "GB",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30536,17 +30492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "GB",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -30558,13 +30503,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "GB",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30576,6 +30521,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "GB",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30877,17 +30833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "GB",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -30895,6 +30840,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "GB",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31016,17 +30972,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "GB",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31339,17 +31284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "GB",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -31357,6 +31291,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "GB",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31383,6 +31328,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "GB",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -31401,17 +31357,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "GB",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31515,17 +31460,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "GB",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -31533,6 +31467,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "GB",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32230,17 +32175,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "GB",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -32248,6 +32182,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "GB",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34683,6 +34628,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "DE",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -34980,17 +34936,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "DE",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -34998,6 +34943,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "DE",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35581,17 +35537,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "DE",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38808,17 +38753,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "DE",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -39545,17 +39479,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "DE",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -39563,6 +39486,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "DE",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41404,17 +41338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "DE",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -41426,13 +41349,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "DE",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41444,6 +41367,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "DE",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41745,17 +41679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "DE",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -41763,6 +41686,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "DE",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41884,17 +41818,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "DE",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42207,17 +42130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "DE",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -42225,6 +42137,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "DE",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42251,6 +42174,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "DE",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -42269,17 +42203,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "DE",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42383,17 +42306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "DE",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -42401,6 +42313,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "DE",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43098,17 +43021,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "DE",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -43116,6 +43028,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "DE",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45551,6 +45474,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "FR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -45848,17 +45782,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "FR",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -45866,6 +45789,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "FR",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46449,17 +46383,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "FR",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49676,17 +49599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "FR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -50413,17 +50325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "FR",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -50431,6 +50332,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "FR",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52272,17 +52184,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "FR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -52294,13 +52195,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "FR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52312,6 +52213,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "FR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52613,17 +52525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "FR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -52631,6 +52532,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "FR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52752,17 +52664,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "FR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53075,17 +52976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "FR",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -53093,6 +52983,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "FR",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53119,6 +53020,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "FR",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -53137,17 +53049,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "FR",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53251,17 +53152,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "FR",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -53269,6 +53159,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "FR",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53966,17 +53867,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "FR",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -53984,6 +53874,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "FR",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56419,6 +56320,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "CN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -56716,17 +56628,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "CN",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -56734,6 +56635,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "CN",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57317,17 +57229,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "CN",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60544,17 +60445,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "CN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -61281,17 +61171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "CN",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -61299,6 +61178,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "CN",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63140,17 +63030,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "CN",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -63162,13 +63041,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "CN",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63180,6 +63059,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "CN",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63481,17 +63371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "CN",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -63499,6 +63378,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "CN",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63620,17 +63510,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "CN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63943,17 +63822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "CN",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -63961,6 +63829,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "CN",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63987,6 +63866,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "CN",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -64005,17 +63895,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "CN",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64119,17 +63998,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "CN",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -64137,6 +64005,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "CN",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64834,17 +64713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "CN",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -64852,6 +64720,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "CN",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67287,6 +67166,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "KR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -67584,17 +67474,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "KR",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -67602,6 +67481,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "KR",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68185,17 +68075,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "KR",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71412,17 +71291,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "KR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -72149,17 +72017,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "KR",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -72167,6 +72024,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "KR",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74008,17 +73876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "KR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -74030,13 +73887,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "KR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74048,6 +73905,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "KR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74349,17 +74217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "KR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -74367,6 +74224,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "KR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74488,17 +74356,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "KR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74811,17 +74668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "KR",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -74829,6 +74675,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "KR",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74855,6 +74712,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "KR",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -74873,17 +74741,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "KR",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74987,17 +74844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "KR",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -75005,6 +74851,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "KR",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75702,17 +75559,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "KR",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -75720,6 +75566,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "KR",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78155,6 +78012,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "IN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -78452,17 +78320,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "IN",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -78470,6 +78327,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "IN",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79053,17 +78921,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "IN",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82280,17 +82137,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "IN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -83017,17 +82863,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "IN",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -83035,6 +82870,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "IN",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84876,17 +84722,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "IN",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -84898,13 +84733,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "IN",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84916,6 +84751,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "IN",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85217,17 +85063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "IN",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -85235,6 +85070,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "IN",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85356,17 +85202,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "IN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85679,17 +85514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "IN",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -85697,6 +85521,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "IN",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85723,6 +85558,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "IN",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -85741,17 +85587,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "IN",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85855,17 +85690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "IN",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -85873,6 +85697,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "IN",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86570,17 +86405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "IN",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -86588,6 +86412,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "IN",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89023,6 +88858,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "BR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -89320,17 +89166,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "BR",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -89338,6 +89173,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "BR",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89921,17 +89767,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "BR",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93148,17 +92983,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "BR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -93885,17 +93709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "BR",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -93903,6 +93716,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "BR",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95744,17 +95568,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "BR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -95766,13 +95579,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "BR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95784,6 +95597,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "BR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96085,17 +95909,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "BR",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -96103,6 +95916,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "BR",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96224,17 +96048,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "BR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96547,17 +96360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "BR",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -96565,6 +96367,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "BR",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96591,6 +96404,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "BR",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -96609,17 +96433,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "BR",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96723,17 +96536,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "BR",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -96741,6 +96543,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "BR",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97438,17 +97251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "BR",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -97456,6 +97258,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "BR",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99891,6 +99704,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "AU",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -100188,17 +100012,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514934",
-    "name": "Lauterbrunnen › South: Lauterbunnen",
-    "city": "Lauterbrunnen",
-    "countryCode": "AU",
-    "lat": 46.59388,
-    "lng": 7.91346,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1202665810",
     "name": "Metz: Place d'Armes 2",
     "city": "Metz",
@@ -100206,6 +100019,17 @@
     "lat": 49.11968,
     "lng": 6.17631,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202665810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514934",
+    "name": "Lauterbrunnen › South: Lauterbunnen",
+    "city": "Lauterbrunnen",
+    "countryCode": "AU",
+    "lat": 46.59388,
+    "lng": 7.91346,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514934/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100789,17 +100613,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1239271528",
-    "name": "Bregaglia: Maloja webcam",
-    "city": "Bregaglia",
-    "countryCode": "AU",
-    "lat": 46.40533,
-    "lng": 9.69525,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104016,17 +103829,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "AU",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -104753,17 +104555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "AU",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -104771,6 +104562,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "AU",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106612,17 +106414,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "AU",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -106634,13 +106425,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
     "countryCode": "AU",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106652,6 +106443,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "AU",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106953,17 +106755,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1317446296",
-    "name": "Sandvika: Blommenholm",
-    "city": "Sandvika",
-    "countryCode": "AU",
-    "lat": 59.89205,
-    "lng": 10.54752,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -106971,6 +106762,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1317446296",
+    "name": "Sandvika: Blommenholm",
+    "city": "Sandvika",
+    "countryCode": "AU",
+    "lat": 59.89205,
+    "lng": 10.54752,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1317446296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107092,17 +106894,6 @@
     "lat": 48.20035,
     "lng": 7.97881,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1511110034/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "AU",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107415,17 +107206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "AU",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -107433,6 +107213,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "AU",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107459,6 +107250,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1231187829",
+    "name": "Tossa de Mar",
+    "city": "Tossa de Mar",
+    "countryCode": "AU",
+    "lat": 41.71918,
+    "lng": 2.93232,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1184843943",
     "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
     "city": "Gmunden",
@@ -107477,17 +107279,6 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1231187829",
-    "name": "Tossa de Mar",
-    "city": "Tossa de Mar",
-    "countryCode": "AU",
-    "lat": 41.71918,
-    "lng": 2.93232,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231187829/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107591,17 +107382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1077361484",
-    "name": "Burg im Leimental: Leimentaler Wetterstation",
-    "city": "Burg im Leimental",
-    "countryCode": "AU",
-    "lat": 47.45988,
-    "lng": 7.43945,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -107609,6 +107389,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1077361484",
+    "name": "Burg im Leimental: Leimentaler Wetterstation",
+    "city": "Burg im Leimental",
+    "countryCode": "AU",
+    "lat": 47.45988,
+    "lng": 7.43945,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1077361484/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108306,17 +108097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "AU",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -108324,6 +108104,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "AU",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },

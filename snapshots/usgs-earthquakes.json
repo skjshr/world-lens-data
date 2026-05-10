@@ -32,11 +32,11 @@
   {
     "id": "ci41461608",
     "type": "earthquake",
-    "lat": 32.9690017700195,
-    "lng": -115.56950378418,
+    "lat": 32.9713333333333,
+    "lng": -115.562333333333,
     "intensity": 4.66486919122063,
-    "timestamp": "2026-05-10T07:10:21.330Z",
-    "description": "M 4.7 - 4 km WSW of Brawley, CA",
+    "timestamp": "2026-05-10T07:10:21.250Z",
+    "description": "M 4.7 - 3 km WSW of Brawley, CA",
     "source": "USGS"
   },
   {
@@ -117,16 +117,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-09T16:18:52.053Z",
     "description": "M 4.6 - 44 km WNW of Ishigaki, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swh0",
-    "type": "earthquake",
-    "lat": -58.024,
-    "lng": -25.6886,
-    "intensity": 5.1,
-    "timestamp": "2026-05-09T14:22:52.509Z",
-    "description": "M 5.1 - South Sandwich Islands region",
     "source": "USGS"
   }
 ]
