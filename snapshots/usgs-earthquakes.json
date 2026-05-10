@@ -30,6 +30,16 @@
     "source": "USGS"
   },
   {
+    "id": "us6000swjc",
+    "type": "earthquake",
+    "lat": 5.6691,
+    "lng": 126.3518,
+    "intensity": 4.6,
+    "timestamp": "2026-05-10T01:50:13.905Z",
+    "description": "M 4.6 - 78 km SSE of Pondaguitan, Philippines",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swi4",
     "type": "earthquake",
     "lat": -38.8053,
@@ -87,26 +97,6 @@
     "intensity": 5,
     "timestamp": "2026-05-09T09:12:13.117Z",
     "description": "M 5.0 - 113 km SSE of Lorengau, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "nc75357576",
-    "type": "earthquake",
-    "lat": 41.5016666666667,
-    "lng": -125.300166666667,
-    "intensity": 4.85,
-    "timestamp": "2026-05-09T04:58:00.140Z",
-    "description": "M 4.9 - 96 km WSW of Crescent City, CA",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swf4",
-    "type": "earthquake",
-    "lat": 51.0818,
-    "lng": 179.349,
-    "intensity": 5.8,
-    "timestamp": "2026-05-09T04:42:23.298Z",
-    "description": "M 5.8 - 292 km WSW of Adak, Alaska",
     "source": "USGS"
   }
 ]
