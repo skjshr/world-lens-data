@@ -616,17 +616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "JP",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -1331,17 +1320,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "JP",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -1991,17 +1969,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "JP",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -2409,17 +2376,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "JP",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -2427,6 +2383,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "JP",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2581,6 +2548,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6930,17 +6908,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "JP",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -6948,6 +6915,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "JP",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9009,17 +8987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "JP",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -9027,6 +8994,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "JP",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9042,17 +9020,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "JP",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -9060,6 +9027,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "JP",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10527,17 +10505,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "JP",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -10545,6 +10512,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "JP",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10754,17 +10732,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "JP",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11418,17 +11385,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "US",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -12133,17 +12089,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "US",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -12793,17 +12738,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "US",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -13211,17 +13145,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "US",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -13229,6 +13152,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "US",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13383,6 +13317,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17732,17 +17677,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "US",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -17750,6 +17684,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "US",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19811,17 +19756,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "US",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -19829,6 +19763,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "US",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19844,17 +19789,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "US",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -19862,6 +19796,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "US",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21329,17 +21274,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "US",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -21347,6 +21281,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "US",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21556,17 +21501,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "US",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22220,17 +22154,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "GB",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -22935,17 +22858,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "GB",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -23595,17 +23507,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "GB",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -24013,17 +23914,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "GB",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -24031,6 +23921,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "GB",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24185,6 +24086,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28534,17 +28446,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "GB",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -28552,6 +28453,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "GB",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30613,17 +30525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "GB",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -30631,6 +30532,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "GB",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30646,17 +30558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "GB",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -30664,6 +30565,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "GB",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32131,17 +32043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "GB",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -32149,6 +32050,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "GB",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32358,17 +32270,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "GB",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33022,17 +32923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "DE",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -33737,17 +33627,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "DE",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -34397,17 +34276,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "DE",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -34815,17 +34683,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "DE",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -34833,6 +34690,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "DE",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34987,6 +34855,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39336,17 +39215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "DE",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -39354,6 +39222,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "DE",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41415,17 +41294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "DE",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -41433,6 +41301,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "DE",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41448,17 +41327,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "DE",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -41466,6 +41334,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "DE",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42933,17 +42812,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "DE",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -42951,6 +42819,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "DE",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43160,17 +43039,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "DE",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43824,17 +43692,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "FR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -44539,17 +44396,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "FR",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -45199,17 +45045,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "FR",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -45617,17 +45452,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "FR",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -45635,6 +45459,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "FR",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45789,6 +45624,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50138,17 +49984,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "FR",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -50156,6 +49991,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "FR",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52217,17 +52063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "FR",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -52235,6 +52070,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "FR",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52250,17 +52096,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "FR",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -52268,6 +52103,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "FR",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53735,17 +53581,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "FR",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -53753,6 +53588,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "FR",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53962,17 +53808,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "FR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54626,17 +54461,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "CN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -55341,17 +55165,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "CN",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -56001,17 +55814,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "CN",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -56419,17 +56221,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "CN",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -56437,6 +56228,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "CN",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56591,6 +56393,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60940,17 +60753,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "CN",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -60958,6 +60760,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "CN",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63019,17 +62832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "CN",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -63037,6 +62839,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "CN",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63052,17 +62865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "CN",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -63070,6 +62872,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "CN",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64537,17 +64350,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "CN",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -64555,6 +64357,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "CN",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64764,17 +64577,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "CN",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65428,17 +65230,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "KR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -66143,17 +65934,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "KR",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -66803,17 +66583,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "KR",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -67221,17 +66990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "KR",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -67239,6 +66997,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "KR",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67393,6 +67162,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71742,17 +71522,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "KR",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -71760,6 +71529,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "KR",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73821,17 +73601,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "KR",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -73839,6 +73608,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "KR",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73854,17 +73634,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "KR",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -73872,6 +73641,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "KR",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75339,17 +75119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "KR",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -75357,6 +75126,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "KR",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75566,17 +75346,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "KR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76230,17 +75999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "IN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -76945,17 +76703,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "IN",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -77605,17 +77352,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "IN",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -78023,17 +77759,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "IN",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -78041,6 +77766,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "IN",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78195,6 +77931,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82544,17 +82291,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "IN",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -82562,6 +82298,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "IN",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84623,17 +84370,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "IN",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -84641,6 +84377,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "IN",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84656,17 +84403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "IN",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -84674,6 +84410,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "IN",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86141,17 +85888,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "IN",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -86159,6 +85895,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "IN",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86368,17 +86115,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "IN",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87032,17 +86768,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "BR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -87747,17 +87472,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "BR",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -88407,17 +88121,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "BR",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -88825,17 +88528,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "BR",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -88843,6 +88535,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "BR",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88997,6 +88700,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93346,17 +93060,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "BR",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -93364,6 +93067,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "BR",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95425,17 +95139,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "BR",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -95443,6 +95146,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "BR",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95458,17 +95172,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "BR",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -95476,6 +95179,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "BR",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96943,17 +96657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "BR",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -96961,6 +96664,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "BR",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97170,17 +96884,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "BR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97834,17 +97537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "AU",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -98549,17 +98241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160200",
-    "name": "Koniz › North-east: Berne - Bantiger TV Tower - Grauholz",
-    "city": "Koniz",
-    "countryCode": "AU",
-    "lat": 46.93301,
-    "lng": 7.43091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160200/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1126539413",
     "name": "Beatenberg: Chalet Birkli",
     "city": "Beatenberg",
@@ -99209,17 +98890,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966910",
-    "name": "London: Parliament Square",
-    "city": "London",
-    "countryCode": "AU",
-    "lat": 51.5011,
-    "lng": -0.12628,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966910/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1271674330",
     "name": "Olten: Alte Brücke",
     "city": "Olten",
@@ -99627,17 +99297,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396449861",
-    "name": "Granby: Lake - Colorado",
-    "city": "Granby",
-    "countryCode": "AU",
-    "lat": 40.14178,
-    "lng": -105.86104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545635591",
     "name": "Reykjavik: Harbour - Miðbakki",
     "city": "Reykjavik",
@@ -99645,6 +99304,17 @@
     "lat": 64.14941,
     "lng": -21.93975,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545635591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396449861",
+    "name": "Granby: Lake - Colorado",
+    "city": "Granby",
+    "countryCode": "AU",
+    "lat": 40.14178,
+    "lng": -105.86104,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396449861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99799,6 +99469,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104148,17 +103829,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456735558",
-    "name": "Primorsko › North-east: Primorsko North Beach",
-    "city": "Primorsko",
-    "countryCode": "AU",
-    "lat": 42.27081,
-    "lng": 27.75725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1523278076",
     "name": "Malcesine: Monte Baldo - Veneto, Italy",
     "city": "Malcesine",
@@ -104166,6 +103836,17 @@
     "lat": 45.77215,
     "lng": 10.86502,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456735558",
+    "name": "Primorsko › North-east: Primorsko North Beach",
+    "city": "Primorsko",
+    "countryCode": "AU",
+    "lat": 42.27081,
+    "lng": 27.75725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106227,17 +105908,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341397636",
-    "name": "Amaliada: Palouki",
-    "city": "Amaliada",
-    "countryCode": "AU",
-    "lat": 37.75749,
-    "lng": 21.30652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -106245,6 +105915,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341397636",
+    "name": "Amaliada: Palouki",
+    "city": "Amaliada",
+    "countryCode": "AU",
+    "lat": 37.75749,
+    "lng": 21.30652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106260,17 +105941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346249982",
-    "name": "Olsker › North-west: Vang",
-    "city": "Olsker",
-    "countryCode": "AU",
-    "lat": 55.24659,
-    "lng": 14.73988,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -106278,6 +105948,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346249982",
+    "name": "Olsker › North-west: Vang",
+    "city": "Olsker",
+    "countryCode": "AU",
+    "lat": 55.24659,
+    "lng": 14.73988,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107745,17 +107426,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1343921413",
-    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
-    "city": "Dalwhinnie",
-    "countryCode": "AU",
-    "lat": 56.86902,
-    "lng": -4.25611,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -107763,6 +107433,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343921413",
+    "name": "Dalwhinnie › North: A9 Drumochter north view live traffic weather camera",
+    "city": "Dalwhinnie",
+    "countryCode": "AU",
+    "lat": 56.86902,
+    "lng": -4.25611,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107972,17 +107653,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "AU",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
