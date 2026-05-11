@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swyj",
+    "type": "earthquake",
+    "lat": -31.7052,
+    "lng": -70.5124,
+    "intensity": 4.8,
+    "timestamp": "2026-05-11T17:14:44.573Z",
+    "description": "M 4.8 - 43 km E of Salamanca, Chile",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swvm",
     "type": "earthquake",
     "lat": -9.2967,

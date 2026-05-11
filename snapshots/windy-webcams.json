@@ -56,7 +56,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "JP",
     "lat": 40.36156,
@@ -748,17 +748,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "JP",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -821,17 +810,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "JP",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1173,17 +1151,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2178,17 +2145,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -2629,17 +2585,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "JP",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -2684,17 +2629,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -2702,17 +2636,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "JP",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4554,17 +4477,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "JP",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -4572,6 +4484,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "JP",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5478,17 +5401,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -5709,17 +5621,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "JP",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -5727,6 +5628,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "JP",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5852,17 +5764,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "JP",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -5903,17 +5804,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "JP",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6611,17 +6501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "JP",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -6629,6 +6508,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "JP",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7623,17 +7513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -7998,11 +7877,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "JP",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -9174,17 +9053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "JP",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -9192,6 +9060,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "JP",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9218,17 +9097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "JP",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -9236,6 +9104,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "JP",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9779,17 +9658,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "JP",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -9797,6 +9665,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "JP",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10208,17 +10087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "JP",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -10226,6 +10094,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "JP",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10406,17 +10285,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -10424,6 +10292,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10703,17 +10582,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "JP",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -10721,6 +10589,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "JP",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10886,6 +10765,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "JP",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11001,7 +10891,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "US",
     "lat": 40.36156,
@@ -11693,17 +11583,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "US",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -11766,17 +11645,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "US",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12118,17 +11986,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13123,17 +12980,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -13574,17 +13420,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "US",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -13629,17 +13464,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13647,17 +13471,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "US",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15499,17 +15312,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "US",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -15517,6 +15319,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "US",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16423,17 +16236,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -16654,17 +16456,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "US",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -16672,6 +16463,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "US",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16797,17 +16599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "US",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -16848,17 +16639,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "US",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17556,17 +17336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "US",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -17574,6 +17343,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "US",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18568,17 +18348,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -18943,11 +18712,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "US",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -20119,17 +19888,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "US",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -20137,6 +19895,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "US",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20163,17 +19932,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "US",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -20181,6 +19939,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "US",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20724,17 +20493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "US",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -20742,6 +20500,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "US",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21153,17 +20922,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "US",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -21171,6 +20929,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "US",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21351,17 +21120,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -21369,6 +21127,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21648,17 +21417,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "US",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -21666,6 +21424,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "US",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21831,6 +21600,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "US",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21946,7 +21726,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "GB",
     "lat": 40.36156,
@@ -22638,17 +22418,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "GB",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -22711,17 +22480,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "GB",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23063,17 +22821,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24068,17 +23815,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -24519,17 +24255,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "GB",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -24574,17 +24299,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24592,17 +24306,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "GB",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26444,17 +26147,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "GB",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -26462,6 +26154,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "GB",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27368,17 +27071,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -27599,17 +27291,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "GB",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -27617,6 +27298,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "GB",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27742,17 +27434,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "GB",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -27793,17 +27474,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "GB",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28501,17 +28171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "GB",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -28519,6 +28178,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "GB",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29513,17 +29183,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -29888,11 +29547,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "GB",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -31064,17 +30723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "GB",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -31082,6 +30730,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "GB",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31108,17 +30767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "GB",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -31126,6 +30774,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "GB",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31669,17 +31328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "GB",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -31687,6 +31335,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "GB",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32098,17 +31757,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "GB",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -32116,6 +31764,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "GB",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32296,17 +31955,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -32314,6 +31962,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32593,17 +32252,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "GB",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -32611,6 +32259,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "GB",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32776,6 +32435,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "GB",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32891,7 +32561,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "DE",
     "lat": 40.36156,
@@ -33583,17 +33253,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "DE",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -33656,17 +33315,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "DE",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34008,17 +33656,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35013,17 +34650,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -35464,17 +35090,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "DE",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -35519,17 +35134,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -35537,17 +35141,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "DE",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37389,17 +36982,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "DE",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -37407,6 +36989,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "DE",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38313,17 +37906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -38544,17 +38126,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "DE",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -38562,6 +38133,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "DE",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38687,17 +38269,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "DE",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -38738,17 +38309,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "DE",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39446,17 +39006,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "DE",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -39464,6 +39013,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "DE",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40458,17 +40018,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -40833,11 +40382,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "DE",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -42009,17 +41558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "DE",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -42027,6 +41565,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "DE",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42053,17 +41602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "DE",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -42071,6 +41609,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "DE",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42614,17 +42163,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "DE",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -42632,6 +42170,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "DE",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43043,17 +42592,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "DE",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -43061,6 +42599,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "DE",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43241,17 +42790,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -43259,6 +42797,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43538,17 +43087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "DE",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -43556,6 +43094,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "DE",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43721,6 +43270,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "DE",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43836,7 +43396,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "FR",
     "lat": 40.36156,
@@ -44528,17 +44088,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "FR",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -44601,17 +44150,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "FR",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44953,17 +44491,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45958,17 +45485,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -46409,17 +45925,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "FR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -46464,17 +45969,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -46482,17 +45976,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "FR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48334,17 +47817,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "FR",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -48352,6 +47824,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "FR",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49258,17 +48741,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -49489,17 +48961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "FR",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -49507,6 +48968,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "FR",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49632,17 +49104,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "FR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -49683,17 +49144,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "FR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50391,17 +49841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "FR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -50409,6 +49848,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "FR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51403,17 +50853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -51778,11 +51217,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "FR",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -52954,17 +52393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "FR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -52972,6 +52400,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "FR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52998,17 +52437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "FR",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -53016,6 +52444,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "FR",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53559,17 +52998,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "FR",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -53577,6 +53005,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "FR",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53988,17 +53427,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "FR",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -54006,6 +53434,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "FR",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54186,17 +53625,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -54204,6 +53632,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54483,17 +53922,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "FR",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -54501,6 +53929,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "FR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54666,6 +54105,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "FR",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54781,7 +54231,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "CN",
     "lat": 40.36156,
@@ -55473,17 +54923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "CN",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -55546,17 +54985,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "CN",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55898,17 +55326,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56903,17 +56320,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -57354,17 +56760,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "CN",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -57409,17 +56804,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -57427,17 +56811,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "CN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59279,17 +58652,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "CN",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -59297,6 +58659,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "CN",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60203,17 +59576,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -60434,17 +59796,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "CN",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -60452,6 +59803,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "CN",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60577,17 +59939,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "CN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -60628,17 +59979,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "CN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61336,17 +60676,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "CN",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -61354,6 +60683,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "CN",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62348,17 +61688,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -62723,11 +62052,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "CN",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -63899,17 +63228,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "CN",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -63917,6 +63235,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "CN",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63943,17 +63272,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "CN",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -63961,6 +63279,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "CN",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64504,17 +63833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "CN",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -64522,6 +63840,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "CN",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64933,17 +64262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "CN",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -64951,6 +64269,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "CN",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65131,17 +64460,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -65149,6 +64467,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65428,17 +64757,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "CN",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -65446,6 +64764,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "CN",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65611,6 +64940,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "CN",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65726,7 +65066,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "KR",
     "lat": 40.36156,
@@ -66418,17 +65758,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "KR",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -66491,17 +65820,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "KR",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66843,17 +66161,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67848,17 +67155,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -68299,17 +67595,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "KR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -68354,17 +67639,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -68372,17 +67646,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "KR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70224,17 +69487,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "KR",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -70242,6 +69494,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "KR",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71148,17 +70411,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -71379,17 +70631,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "KR",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -71397,6 +70638,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "KR",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71522,17 +70774,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "KR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -71573,17 +70814,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "KR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72281,17 +71511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "KR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -72299,6 +71518,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "KR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73293,17 +72523,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -73668,11 +72887,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "KR",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -74844,17 +74063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "KR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -74862,6 +74070,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "KR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74888,17 +74107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "KR",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -74906,6 +74114,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "KR",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75449,17 +74668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "KR",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -75467,6 +74675,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "KR",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75878,17 +75097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "KR",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -75896,6 +75104,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "KR",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76076,17 +75295,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -76094,6 +75302,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76373,17 +75592,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "KR",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -76391,6 +75599,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "KR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76556,6 +75775,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "KR",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76671,7 +75901,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "IN",
     "lat": 40.36156,
@@ -77363,17 +76593,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "IN",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -77436,17 +76655,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "IN",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77788,17 +76996,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78793,17 +77990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -79244,17 +78430,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "IN",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -79299,17 +78474,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -79317,17 +78481,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "IN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81169,17 +80322,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "IN",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -81187,6 +80329,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "IN",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82093,17 +81246,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -82324,17 +81466,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "IN",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -82342,6 +81473,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "IN",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82467,17 +81609,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "IN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -82518,17 +81649,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "IN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83226,17 +82346,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "IN",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -83244,6 +82353,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "IN",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84238,17 +83358,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -84613,11 +83722,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "IN",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -85789,17 +84898,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "IN",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -85807,6 +84905,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "IN",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85833,17 +84942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "IN",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -85851,6 +84949,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "IN",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86394,17 +85503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "IN",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -86412,6 +85510,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "IN",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86823,17 +85932,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "IN",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -86841,6 +85939,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "IN",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87021,17 +86130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -87039,6 +86137,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87318,17 +86427,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "IN",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -87336,6 +86434,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "IN",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87501,6 +86610,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "IN",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87616,7 +86736,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "BR",
     "lat": 40.36156,
@@ -88308,17 +87428,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "BR",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -88381,17 +87490,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "BR",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88733,17 +87831,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89738,17 +88825,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -90189,17 +89265,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "BR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -90244,17 +89309,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -90262,17 +89316,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "BR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92114,17 +91157,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "BR",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -92132,6 +91164,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "BR",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93038,17 +92081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -93269,17 +92301,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "BR",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -93287,6 +92308,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "BR",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93412,17 +92444,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "BR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -93463,17 +92484,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "BR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94171,17 +93181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "BR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -94189,6 +93188,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "BR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95183,17 +94193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -95558,11 +94557,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "BR",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -96734,17 +95733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "BR",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -96752,6 +95740,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "BR",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96778,17 +95777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "BR",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -96796,6 +95784,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "BR",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97339,17 +96338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "BR",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -97357,6 +96345,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "BR",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97768,17 +96767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "BR",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -97786,6 +96774,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "BR",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97966,17 +96965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -97984,6 +96972,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98263,17 +97262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "BR",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -98281,6 +97269,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "BR",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98446,6 +97445,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "BR",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98561,7 +97571,7 @@
   },
   {
     "id": "windy-1272223531",
-    "name": "Navarredonda de Gredos: Bar el Cruce",
+    "name": "Navarredonda de Gredos › South: Bar el Cruce",
     "city": "Navarredonda de Gredos",
     "countryCode": "AU",
     "lat": 40.36156,
@@ -99253,17 +98263,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369336627",
-    "name": "Skarsvag: Nordkapp",
-    "city": "Skarsvag",
-    "countryCode": "AU",
-    "lat": 71.16892,
-    "lng": 25.78217,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369336627/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1049027676",
     "name": "Aarau: Stadt",
     "city": "Aarau",
@@ -99326,17 +98325,6 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230305127",
-    "name": "Agios Dimitrios: Troodos",
-    "city": "Agios Dimitrios",
-    "countryCode": "AU",
-    "lat": 34.92985,
-    "lng": 32.87587,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230305127/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99678,17 +98666,6 @@
     "lat": 27.10853,
     "lng": 33.83062,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171048192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100683,17 +99660,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -101134,17 +100100,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "AU",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547038112",
     "name": "Jackson: Spotted Horse Ranch on Hoback River",
     "city": "Jackson",
@@ -101189,17 +100144,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -101207,17 +100151,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "AU",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103059,17 +101992,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1208682005",
-    "name": "Caussols: Côte d'Azur",
-    "city": "Caussols",
-    "countryCode": "AU",
-    "lat": 43.75188,
-    "lng": 6.92422,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346151015",
     "name": "Vienna",
     "city": "Vienna",
@@ -103077,6 +101999,17 @@
     "lat": 48.20849,
     "lng": 16.37208,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346151015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1208682005",
+    "name": "Caussols: Côte d'Azur",
+    "city": "Caussols",
+    "countryCode": "AU",
+    "lat": 43.75188,
+    "lng": 6.92422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208682005/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103983,17 +102916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -104214,17 +103136,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1264068136",
-    "name": "Mustair: Webcam VAL",
-    "city": "Mustair",
-    "countryCode": "AU",
-    "lat": 46.62643,
-    "lng": 10.447,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -104232,6 +103143,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1264068136",
+    "name": "Mustair: Webcam VAL",
+    "city": "Mustair",
+    "countryCode": "AU",
+    "lat": 46.62643,
+    "lng": 10.447,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1264068136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104357,17 +103279,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "AU",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -104408,17 +103319,6 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "AU",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105116,17 +104016,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "AU",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -105134,6 +104023,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "AU",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106128,17 +105028,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -106503,11 +105392,11 @@
   },
   {
     "id": "windy-1321532630",
-    "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
+    "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
     "countryCode": "AU",
-    "lat": 61.53562,
-    "lng": 9.65389,
+    "lat": 61.53552,
+    "lng": 9.65592,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321532630/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -107679,17 +106568,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1472382702",
-    "name": "Hong Kong › North-east: Peak Tower",
-    "city": "Hong Kong",
-    "countryCode": "AU",
-    "lat": 22.27095,
-    "lng": 114.15031,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -107697,6 +106575,17 @@
     "lat": 48.17653,
     "lng": 16.35431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1472382702",
+    "name": "Hong Kong › North-east: Peak Tower",
+    "city": "Hong Kong",
+    "countryCode": "AU",
+    "lat": 22.27095,
+    "lng": 114.15031,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107723,17 +106612,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "AU",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -107741,6 +106619,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "AU",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108284,17 +107173,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "AU",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -108302,6 +107180,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "AU",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108713,17 +107602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697039117",
-    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
-    "city": "Grindelwald",
-    "countryCode": "AU",
-    "lat": 46.64944,
-    "lng": 7.9913,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -108731,6 +107609,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697039117",
+    "name": "Grindelwald: Tschuggen - Eiger - Wetterhorn - Jungfrau Region - Mönch - Schreckhorn - Gross Fiescherhorn - Silberhorn",
+    "city": "Grindelwald",
+    "countryCode": "AU",
+    "lat": 46.64944,
+    "lng": 7.9913,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697039117/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108911,17 +107800,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1546480555",
-    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -44.57301,
-    "lng": 167.78161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -108929,6 +107807,17 @@
     "lat": 36.6009,
     "lng": -118.06158,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1546480555",
+    "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -44.57301,
+    "lng": 167.78161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -109208,17 +108097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1325328786",
-    "name": "Ed: Ed station",
-    "city": "Ed",
-    "countryCode": "AU",
-    "lat": 58.91032,
-    "lng": 11.93115,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444205757",
     "name": "Gamlestolen › North-west: › North-West",
     "city": "Gamlestolen",
@@ -109226,6 +108104,17 @@
     "lat": 61.03466,
     "lng": 9.68739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444205757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1325328786",
+    "name": "Ed: Ed station",
+    "city": "Ed",
+    "countryCode": "AU",
+    "lat": 58.91032,
+    "lng": 11.93115,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1325328786/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -109391,6 +108280,17 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "AU",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
