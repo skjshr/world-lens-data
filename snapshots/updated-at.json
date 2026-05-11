@@ -1,8 +1,20 @@
 {
-  "startedAt": "2026-05-11T07:51:08.860Z",
-  "finishedAt": "2026-05-11T07:51:12.768Z",
+  "startedAt": "2026-05-11T07:53:46.463Z",
+  "finishedAt": "2026-05-11T07:56:22.467Z",
   "targets": [
-    "world-bank"
+    "gdelt",
+    "rss",
+    "open-meteo",
+    "fred",
+    "fred-forex",
+    "fred-commodities",
+    "fred-rates",
+    "stooq",
+    "lbma",
+    "usgs",
+    "wikipedia",
+    "wikipedia-onthisday",
+    "windy"
   ],
-  "mode": "weekly"
+  "mode": "hourly"
 }

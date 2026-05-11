@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swuu",
+    "type": "earthquake",
+    "lat": -23.046,
+    "lng": -68.633,
+    "intensity": 4.6,
+    "timestamp": "2026-05-11T05:35:52.128Z",
+    "description": "M 4.6 - 46 km WSW of San Pedro de Atacama, Chile",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swtz",
     "type": "earthquake",
     "lat": 27.3989,
@@ -127,16 +137,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-10T08:03:57.027Z",
     "description": "M 4.7 - 7 km ENE of Cañete, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "ci41461608",
-    "type": "earthquake",
-    "lat": 32.9713333333333,
-    "lng": -115.562333333333,
-    "intensity": 4.66486919122063,
-    "timestamp": "2026-05-10T07:10:21.250Z",
-    "description": "M 4.7 - 3 km WSW of Brawley, CA",
     "source": "USGS"
   }
 ]
