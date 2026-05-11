@@ -1,11 +1,41 @@
 [
   {
+    "id": "us6000swtz",
+    "type": "earthquake",
+    "lat": 27.3989,
+    "lng": 129.4593,
+    "intensity": 5,
+    "timestamp": "2026-05-11T01:41:17.815Z",
+    "description": "M 5.0 - 60 km ESE of Isen, Japan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000swtm",
+    "type": "earthquake",
+    "lat": 39.8116,
+    "lng": 143.6317,
+    "intensity": 4.9,
+    "timestamp": "2026-05-11T00:21:40.314Z",
+    "description": "M 4.9 - 146 km E of Miyako, Japan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000swte",
+    "type": "earthquake",
+    "lat": -23.4697,
+    "lng": -179.8206,
+    "intensity": 5,
+    "timestamp": "2026-05-10T23:20:55.111Z",
+    "description": "M 5.0 - south of the Fiji Islands",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swtd",
     "type": "earthquake",
-    "lat": -23.4465,
-    "lng": -179.9788,
+    "lat": -23.3618,
+    "lng": -179.9969,
     "intensity": 5.1,
-    "timestamp": "2026-05-10T23:15:41.857Z",
+    "timestamp": "2026-05-10T23:15:43.825Z",
     "description": "M 5.1 - south of the Fiji Islands",
     "source": "USGS"
   },
@@ -107,46 +137,6 @@
     "intensity": 4.66486919122063,
     "timestamp": "2026-05-10T07:10:21.250Z",
     "description": "M 4.7 - 3 km WSW of Brawley, CA",
-    "source": "USGS"
-  },
-  {
-    "id": "ci41460512",
-    "type": "earthquake",
-    "lat": 32.9778333333333,
-    "lng": -115.549833333333,
-    "intensity": 4.48112858848809,
-    "timestamp": "2026-05-10T03:39:29.810Z",
-    "description": "M 4.5 - 2 km W of Brawley, CA",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swk8",
-    "type": "earthquake",
-    "lat": -7.0242,
-    "lng": 132.0136,
-    "intensity": 5,
-    "timestamp": "2026-05-10T02:42:23.775Z",
-    "description": "M 5.0 - 174 km SSW of Tual, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swk0",
-    "type": "earthquake",
-    "lat": -37.7219,
-    "lng": -73.1062,
-    "intensity": 5.5,
-    "timestamp": "2026-05-10T02:34:07.249Z",
-    "description": "M 5.5 - 27 km ENE of Cañete, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swjc",
-    "type": "earthquake",
-    "lat": 5.6691,
-    "lng": 126.3518,
-    "intensity": 4.6,
-    "timestamp": "2026-05-10T01:50:13.905Z",
-    "description": "M 4.6 - 78 km SSE of Pondaguitan, Philippines",
     "source": "USGS"
   }
 ]
