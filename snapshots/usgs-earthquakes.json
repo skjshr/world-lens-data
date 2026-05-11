@@ -80,6 +80,16 @@
     "source": "USGS"
   },
   {
+    "id": "us6000swv6",
+    "type": "earthquake",
+    "lat": -8.8937,
+    "lng": 157.997,
+    "intensity": 4.9,
+    "timestamp": "2026-05-10T20:16:45.329Z",
+    "description": "M 4.9 - 154 km SE of Gizo, Solomon Islands",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sws5",
     "type": "earthquake",
     "lat": 20.495,
@@ -87,36 +97,6 @@
     "intensity": 5,
     "timestamp": "2026-05-10T19:36:36.864Z",
     "description": "M 5.0 - 74 km W of Yenangyaung, Burma (Myanmar)",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swr8",
-    "type": "earthquake",
-    "lat": -16.8014,
-    "lng": -173.4234,
-    "intensity": 5.3,
-    "timestamp": "2026-05-10T16:41:43.464Z",
-    "description": "M 5.3 - 101 km SSE of Hihifo, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swr6",
-    "type": "earthquake",
-    "lat": -5.3168,
-    "lng": 145.5539,
-    "intensity": 5.2,
-    "timestamp": "2026-05-10T16:34:33.326Z",
-    "description": "M 5.2 - 27 km WSW of Madang, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swr0",
-    "type": "earthquake",
-    "lat": 0.6495,
-    "lng": 126.0166,
-    "intensity": 4.5,
-    "timestamp": "2026-05-10T15:53:24.021Z",
-    "description": "M 4.5 - 132 km SE of Bitung, Indonesia",
     "source": "USGS"
   }
 ]
