@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swvm",
+    "type": "earthquake",
+    "lat": -9.2967,
+    "lng": 159.1915,
+    "intensity": 5.2,
+    "timestamp": "2026-05-11T09:48:51.604Z",
+    "description": "M 5.2 - 72 km NW of Malango, Solomon Islands",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swuu",
     "type": "earthquake",
     "lat": -23.046,
@@ -127,16 +137,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-10T12:21:22.589Z",
     "description": "M 4.6 - 22 km SW of Santa Bárbara, Portugal",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swni",
-    "type": "earthquake",
-    "lat": -37.7665,
-    "lng": -73.3233,
-    "intensity": 4.7,
-    "timestamp": "2026-05-10T08:03:57.027Z",
-    "description": "M 4.7 - 7 km ENE of Cañete, Chile",
     "source": "USGS"
   }
 ]
