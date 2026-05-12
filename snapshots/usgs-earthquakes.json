@@ -58,25 +58,5 @@
     "timestamp": "2026-05-11T00:21:40.314Z",
     "description": "M 4.9 - 146 km E of Miyako, Japan",
     "source": "USGS"
-  },
-  {
-    "id": "us6000swte",
-    "type": "earthquake",
-    "lat": -23.4697,
-    "lng": -179.8206,
-    "intensity": 5,
-    "timestamp": "2026-05-10T23:20:55.111Z",
-    "description": "M 5.0 - south of the Fiji Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swtd",
-    "type": "earthquake",
-    "lat": -23.3618,
-    "lng": -179.9969,
-    "intensity": 5.1,
-    "timestamp": "2026-05-10T23:15:43.825Z",
-    "description": "M 5.1 - south of the Fiji Islands",
-    "source": "USGS"
   }
 ]
