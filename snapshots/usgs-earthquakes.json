@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sx2s",
+    "type": "earthquake",
+    "lat": -10.2288,
+    "lng": 161.21,
+    "intensity": 5,
+    "timestamp": "2026-05-12T03:45:42.646Z",
+    "description": "M 5.0 - 81 km WNW of Kirakira, Solomon Islands",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sx1u",
+    "type": "earthquake",
+    "lat": -25.6176,
+    "lng": -71.3511,
+    "intensity": 4.5,
+    "timestamp": "2026-05-11T23:16:35.604Z",
+    "description": "M 4.5 - 90 km WSW of Taltal, Chile",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sx06",
     "type": "earthquake",
     "lat": 13.0978,
@@ -37,26 +57,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-11T05:35:52.128Z",
     "description": "M 4.6 - 46 km WSW of San Pedro de Atacama, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swtz",
-    "type": "earthquake",
-    "lat": 27.3989,
-    "lng": 129.4593,
-    "intensity": 5,
-    "timestamp": "2026-05-11T01:41:17.815Z",
-    "description": "M 5.0 - 60 km ESE of Isen, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swtm",
-    "type": "earthquake",
-    "lat": 39.8116,
-    "lng": 143.6317,
-    "intensity": 4.9,
-    "timestamp": "2026-05-11T00:21:40.314Z",
-    "description": "M 4.9 - 146 km E of Miyako, Japan",
     "source": "USGS"
   }
 ]
