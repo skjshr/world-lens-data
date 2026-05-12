@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sx3v",
+    "type": "earthquake",
+    "lat": 4.8333,
+    "lng": 127.5121,
+    "intensity": 5,
+    "timestamp": "2026-05-12T08:53:56.666Z",
+    "description": "M 5.0 - 224 km SE of Pondaguitan, Philippines",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sx3h",
+    "type": "earthquake",
+    "lat": 23.2629,
+    "lng": 121.4893,
+    "intensity": 5.1,
+    "timestamp": "2026-05-12T06:53:32.598Z",
+    "description": "M 5.1 - 79 km S of Hualien City, Taiwan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sx3g",
     "type": "earthquake",
     "lat": 52.3443,
