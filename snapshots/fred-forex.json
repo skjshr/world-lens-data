@@ -1,50 +1,10 @@
 [
   {
-    "pair": "USD/JPY",
-    "base": "USD",
-    "quote": "JPY",
-    "rate": 156.64,
-    "changePct": 0.1,
-    "asOf": "2026-05-08T00:00:00.000Z"
-  },
-  {
     "pair": "EUR/USD",
     "base": "EUR",
     "quote": "USD",
     "rate": 1.1773,
     "changePct": 0.08,
-    "asOf": "2026-05-08T00:00:00.000Z"
-  },
-  {
-    "pair": "GBP/USD",
-    "base": "GBP",
-    "quote": "USD",
-    "rate": 1.3625,
-    "changePct": 0.1,
-    "asOf": "2026-05-08T00:00:00.000Z"
-  },
-  {
-    "pair": "USD/CNY",
-    "base": "USD",
-    "quote": "CNY",
-    "rate": 6.8005,
-    "changePct": -0.01,
-    "asOf": "2026-05-08T00:00:00.000Z"
-  },
-  {
-    "pair": "USD/CAD",
-    "base": "USD",
-    "quote": "CAD",
-    "rate": 1.3679,
-    "changePct": 0.32,
-    "asOf": "2026-05-08T00:00:00.000Z"
-  },
-  {
-    "pair": "USD/KRW",
-    "base": "USD",
-    "quote": "KRW",
-    "rate": 1461.06,
-    "changePct": 0.5,
     "asOf": "2026-05-08T00:00:00.000Z"
   }
 ]

@@ -16,23 +16,5 @@
     "changePct": 0.19,
     "currency": "USD",
     "asOf": "2026-05-11T00:00:00.000Z"
-  },
-  {
-    "symbol": "IXIC",
-    "name": "NASDAQ Composite",
-    "countryCode": "US",
-    "price": 26274.13,
-    "changePct": 0.1,
-    "currency": "USD",
-    "asOf": "2026-05-11T00:00:00.000Z"
-  },
-  {
-    "symbol": "N225",
-    "name": "Nikkei 225",
-    "countryCode": "JP",
-    "price": 62742.57,
-    "changePct": 0.52,
-    "currency": "JPY",
-    "asOf": "2026-05-12T00:00:00.000Z"
   }
 ]
