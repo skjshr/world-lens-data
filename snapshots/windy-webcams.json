@@ -121,17 +121,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -205,17 +194,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2706,6 +2684,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "JP",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -3747,6 +3736,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "JP",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4895,17 +4895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "JP",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -5133,17 +5122,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "JP",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5676,17 +5654,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "JP",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -5694,6 +5661,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "JP",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5826,17 +5804,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "JP",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6732,17 +6699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "JP",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -6750,6 +6706,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "JP",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7095,17 +7062,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "JP",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -7113,6 +7069,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "JP",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7260,17 +7227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "JP",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -7278,6 +7234,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "JP",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8239,6 +8206,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "JP",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -8833,17 +8811,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "JP",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -8866,17 +8833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "JP",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -8884,6 +8840,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "JP",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8911,7 +8878,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "JP",
     "lat": 28.49344,
@@ -9790,17 +9757,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "JP",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -9808,6 +9764,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "JP",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10428,6 +10395,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -10501,6 +10479,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "JP",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11000,17 +10989,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -11084,17 +11062,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13585,6 +13552,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "US",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -14626,6 +14604,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "US",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15774,17 +15763,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "US",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -16012,17 +15990,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "US",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16555,17 +16522,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "US",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -16573,6 +16529,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "US",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16705,17 +16672,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "US",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17611,17 +17567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "US",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -17629,6 +17574,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "US",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17974,17 +17930,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "US",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -17992,6 +17937,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "US",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18139,17 +18095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "US",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -18157,6 +18102,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "US",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19118,6 +19074,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "US",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -19712,17 +19679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "US",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -19745,17 +19701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "US",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -19763,6 +19708,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "US",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19790,7 +19746,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "US",
     "lat": 28.49344,
@@ -20669,17 +20625,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "US",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -20687,6 +20632,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "US",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21307,6 +21263,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -21380,6 +21347,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "US",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21879,17 +21857,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -21963,17 +21930,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24464,6 +24420,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "GB",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -25505,6 +25472,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "GB",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26653,17 +26631,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "GB",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -26891,17 +26858,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "GB",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27434,17 +27390,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "GB",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -27452,6 +27397,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "GB",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27584,17 +27540,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "GB",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28490,17 +28435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "GB",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -28508,6 +28442,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "GB",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28853,17 +28798,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "GB",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -28871,6 +28805,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "GB",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29018,17 +28963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "GB",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -29036,6 +28970,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "GB",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29997,6 +29942,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "GB",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -30591,17 +30547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "GB",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -30624,17 +30569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "GB",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -30642,6 +30576,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "GB",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30669,7 +30614,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "GB",
     "lat": 28.49344,
@@ -31548,17 +31493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "GB",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -31566,6 +31500,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "GB",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32186,6 +32131,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -32259,6 +32215,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "GB",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32758,17 +32725,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -32842,17 +32798,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35343,6 +35288,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "DE",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -36384,6 +36340,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "DE",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37532,17 +37499,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "DE",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -37770,17 +37726,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "DE",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38313,17 +38258,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "DE",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -38331,6 +38265,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "DE",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38463,17 +38408,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "DE",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39369,17 +39303,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "DE",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -39387,6 +39310,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "DE",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39732,17 +39666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "DE",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -39750,6 +39673,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "DE",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39897,17 +39831,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "DE",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -39915,6 +39838,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "DE",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40876,6 +40810,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "DE",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -41470,17 +41415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "DE",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -41503,17 +41437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "DE",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -41521,6 +41444,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "DE",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41548,7 +41482,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "DE",
     "lat": 28.49344,
@@ -42427,17 +42361,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "DE",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -42445,6 +42368,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "DE",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43065,6 +42999,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -43138,6 +43083,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "DE",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43637,17 +43593,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -43721,17 +43666,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46222,6 +46156,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "FR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -47263,6 +47208,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "FR",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48411,17 +48367,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "FR",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -48649,17 +48594,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "FR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49192,17 +49126,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "FR",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -49210,6 +49133,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "FR",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49342,17 +49276,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "FR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50248,17 +50171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "FR",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -50266,6 +50178,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "FR",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50611,17 +50534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "FR",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -50629,6 +50541,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "FR",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50776,17 +50699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "FR",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -50794,6 +50706,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "FR",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51755,6 +51678,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "FR",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -52349,17 +52283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "FR",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -52382,17 +52305,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "FR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -52400,6 +52312,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "FR",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52427,7 +52350,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "FR",
     "lat": 28.49344,
@@ -53306,17 +53229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "FR",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -53324,6 +53236,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "FR",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53944,6 +53867,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -54017,6 +53951,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "FR",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54516,17 +54461,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -54600,17 +54534,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57101,6 +57024,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "CN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -58142,6 +58076,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "CN",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59290,17 +59235,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "CN",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -59528,17 +59462,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "CN",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60071,17 +59994,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "CN",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -60089,6 +60001,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "CN",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60221,17 +60144,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "CN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61127,17 +61039,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "CN",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -61145,6 +61046,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "CN",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61490,17 +61402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "CN",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -61508,6 +61409,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "CN",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61655,17 +61567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "CN",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -61673,6 +61574,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "CN",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62634,6 +62546,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "CN",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -63228,17 +63151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "CN",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -63261,17 +63173,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "CN",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -63279,6 +63180,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "CN",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63306,7 +63218,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "CN",
     "lat": 28.49344,
@@ -64185,17 +64097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "CN",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -64203,6 +64104,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "CN",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64823,6 +64735,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -64896,6 +64819,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "CN",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65395,17 +65329,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -65479,17 +65402,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67980,6 +67892,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "KR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -69021,6 +68944,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "KR",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70169,17 +70103,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "KR",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -70407,17 +70330,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "KR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70950,17 +70862,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "KR",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -70968,6 +70869,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "KR",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71100,17 +71012,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "KR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72006,17 +71907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "KR",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -72024,6 +71914,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "KR",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72369,17 +72270,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "KR",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -72387,6 +72277,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "KR",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72534,17 +72435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "KR",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -72552,6 +72442,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "KR",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73513,6 +73414,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "KR",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -74107,17 +74019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "KR",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -74140,17 +74041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "KR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -74158,6 +74048,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "KR",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74185,7 +74086,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "KR",
     "lat": 28.49344,
@@ -75064,17 +74965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "KR",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -75082,6 +74972,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "KR",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75702,6 +75603,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -75775,6 +75687,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "KR",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76274,17 +76197,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -76358,17 +76270,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78859,6 +78760,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "IN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -79900,6 +79812,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "IN",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81048,17 +80971,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "IN",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -81286,17 +81198,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "IN",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81829,17 +81730,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "IN",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -81847,6 +81737,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "IN",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81979,17 +81880,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "IN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82885,17 +82775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "IN",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -82903,6 +82782,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "IN",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83248,17 +83138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "IN",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -83266,6 +83145,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "IN",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83413,17 +83303,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "IN",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -83431,6 +83310,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "IN",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84392,6 +84282,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "IN",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -84986,17 +84887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "IN",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -85019,17 +84909,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "IN",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -85037,6 +84916,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "IN",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85064,7 +84954,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "IN",
     "lat": 28.49344,
@@ -85943,17 +85833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "IN",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -85961,6 +85840,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "IN",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86581,6 +86471,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -86654,6 +86555,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "IN",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87153,17 +87065,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -87237,17 +87138,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "BR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89738,6 +89628,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "BR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -90779,6 +90680,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "BR",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91927,17 +91839,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "BR",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -92165,17 +92066,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "BR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92708,17 +92598,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "BR",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -92726,6 +92605,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "BR",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92858,17 +92748,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "BR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93764,17 +93643,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "BR",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -93782,6 +93650,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "BR",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94127,17 +94006,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "BR",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -94145,6 +94013,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "BR",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94292,17 +94171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "BR",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -94310,6 +94178,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "BR",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95271,6 +95150,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "BR",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -95865,17 +95755,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "BR",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -95898,17 +95777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "BR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -95916,6 +95784,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "BR",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95943,7 +95822,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "BR",
     "lat": 28.49344,
@@ -96822,17 +96701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "BR",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -96840,6 +96708,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "BR",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97460,6 +97339,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -97533,6 +97423,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "BR",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98032,17 +97933,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -98116,17 +98006,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "AU",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100617,6 +100496,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "AU",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -101658,6 +101548,17 @@
     "lat": 45.53431,
     "lng": 8.07906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1411492045/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1577553797",
+    "name": "Novaci: Rânca",
+    "city": "Novaci",
+    "countryCode": "AU",
+    "lat": 45.29199,
+    "lng": 23.68859,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1577553797/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102806,17 +102707,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1568798025",
-    "name": "Prato Nevoso: Piemonte, Italia - Panorama",
-    "city": "Prato Nevoso",
-    "countryCode": "AU",
-    "lat": 44.25694,
-    "lng": 7.78038,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1568798025/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1274941928",
     "name": "Tarragona: Catalunya, Spain",
     "city": "Tarragona",
@@ -103044,17 +102934,6 @@
     "lat": 40.35273,
     "lng": 17.36409,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "AU",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103587,17 +103466,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1139839271",
-    "name": "Quarten: Walensee",
-    "city": "Quarten",
-    "countryCode": "AU",
-    "lat": 47.10846,
-    "lng": 9.23367,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1312293890",
     "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
@@ -103605,6 +103473,17 @@
     "lat": 45.6672,
     "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1139839271",
+    "name": "Quarten: Walensee",
+    "city": "Quarten",
+    "countryCode": "AU",
+    "lat": 47.10846,
+    "lng": 9.23367,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1139839271/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103737,17 +103616,6 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "AU",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104643,17 +104511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1387648808",
-    "name": "Mossbank › North-west: Lunna House",
-    "city": "Mossbank",
-    "countryCode": "AU",
-    "lat": 60.40396,
-    "lng": -1.11756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -104661,6 +104518,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1387648808",
+    "name": "Mossbank › North-west: Lunna House",
+    "city": "Mossbank",
+    "countryCode": "AU",
+    "lat": 60.40396,
+    "lng": -1.11756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387648808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105006,17 +104874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1457905330",
-    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
-    "city": "La Oliva",
-    "countryCode": "AU",
-    "lat": 28.68175,
-    "lng": -14.00964,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -105024,6 +104881,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1457905330",
+    "name": "La Oliva › South-west: Castillo del Tostón - El Cotillo",
+    "city": "La Oliva",
+    "countryCode": "AU",
+    "lat": 28.68175,
+    "lng": -14.00964,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105171,17 +105039,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1321282809",
-    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
-    "city": "Davos",
-    "countryCode": "AU",
-    "lat": 46.7977,
-    "lng": 9.82721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225124398",
     "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
@@ -105189,6 +105046,17 @@
     "lat": 45.64854,
     "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1321282809",
+    "name": "Davos: Platz - Tourismus- und Sportzentrum, Kirche/Tinzenhorn",
+    "city": "Davos",
+    "countryCode": "AU",
+    "lat": 46.7977,
+    "lng": 9.82721,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1321282809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106150,6 +106018,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "AU",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1222498680",
     "name": "Salla: Tie 950 - Sallatunturi - Sallaan",
     "city": "Salla",
@@ -106744,17 +106623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "AU",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -106777,17 +106645,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "AU",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -106795,6 +106652,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "AU",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106822,7 +106690,7 @@
   },
   {
     "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "name": "Puerto del Rosario › South: Estadio Municipal de Los Pozos - Isla de Fuerteventura",
     "city": "Puerto del Rosario",
     "countryCode": "AU",
     "lat": 28.49344,
@@ -107701,17 +107569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
-    "countryCode": "AU",
-    "lat": 65.87045,
-    "lng": 13.20994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1644848004",
     "name": "Providenciales › South-east: Villa Esencia Beach",
     "city": "Providenciales",
@@ -107719,6 +107576,17 @@
     "lat": 21.78834,
     "lng": -72.15314,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1644848004/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309604777",
+    "name": "Mosjoen: Kulstaddalen",
+    "city": "Mosjoen",
+    "countryCode": "AU",
+    "lat": 65.87045,
+    "lng": 13.20994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108339,6 +108207,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -108412,6 +108291,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1233032228",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
+    "city": "Cajetina Municipality",
+    "countryCode": "AU",
+    "lat": 43.72654,
+    "lng": 19.69956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
