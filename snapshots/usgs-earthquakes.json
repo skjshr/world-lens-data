@@ -1,5 +1,35 @@
 [
   {
+    "id": "us6000sxdu",
+    "type": "earthquake",
+    "lat": 13.1585,
+    "lng": -87.8136,
+    "intensity": 4.5,
+    "timestamp": "2026-05-13T09:21:48.563Z",
+    "description": "M 4.5 - 17 km SSE of Conchagua, El Salvador",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sxdf",
+    "type": "earthquake",
+    "lat": -55.3924,
+    "lng": -28.2611,
+    "intensity": 5.1,
+    "timestamp": "2026-05-13T08:12:59.760Z",
+    "description": "M 5.1 - South Sandwich Islands region",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sxd9",
+    "type": "earthquake",
+    "lat": -30.153,
+    "lng": -179.4729,
+    "intensity": 4.6,
+    "timestamp": "2026-05-13T07:29:39.992Z",
+    "description": "M 4.6 - Kermadec Islands region",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxd4",
     "type": "earthquake",
     "lat": -55.3734,
@@ -97,16 +127,6 @@
     "intensity": 4.8,
     "timestamp": "2026-05-12T14:55:15.727Z",
     "description": "M 4.8 - 10 km ENE of Xunchang, China",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sx3v",
-    "type": "earthquake",
-    "lat": 4.8333,
-    "lng": 127.5121,
-    "intensity": 5,
-    "timestamp": "2026-05-12T08:53:56.666Z",
-    "description": "M 5.0 - 224 km SE of Pondaguitan, Philippines",
     "source": "USGS"
   }
 ]
