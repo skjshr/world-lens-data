@@ -880,17 +880,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "JP",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -898,6 +887,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "JP",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1661,17 +1661,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "JP",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -1679,6 +1668,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "JP",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2156,6 +2156,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -2607,28 +2618,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "JP",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "JP",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -2651,6 +2640,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -2658,17 +2658,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "JP",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2926,17 +2915,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "JP",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -2944,6 +2922,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "JP",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5456,6 +5445,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -5617,17 +5617,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "JP",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5859,6 +5848,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6189,6 +6189,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "JP",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7733,6 +7744,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -7821,17 +7843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "JP",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -7839,6 +7850,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "JP",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9328,17 +9350,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "JP",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -9346,6 +9357,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "JP",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10737,7 +10759,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "JP",
     "lat": 43.3178,
@@ -11649,17 +11671,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "US",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -11667,6 +11678,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "US",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12430,17 +12452,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "US",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -12448,6 +12459,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "US",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12925,6 +12947,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -13376,28 +13409,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "US",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "US",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -13420,6 +13431,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13427,17 +13449,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "US",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13695,17 +13706,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "US",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -13713,6 +13713,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "US",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16225,6 +16236,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -16386,17 +16408,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "US",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16628,6 +16639,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16958,6 +16980,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "US",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18502,6 +18535,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -18590,17 +18634,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "US",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -18608,6 +18641,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "US",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20097,17 +20141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "US",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -20115,6 +20148,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "US",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21506,7 +21550,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "US",
     "lat": 43.3178,
@@ -22418,17 +22462,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "GB",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -22436,6 +22469,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "GB",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23199,17 +23243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "GB",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -23217,6 +23250,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "GB",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23694,6 +23738,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -24145,28 +24200,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "GB",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "GB",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -24189,6 +24222,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24196,17 +24240,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "GB",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24464,17 +24497,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "GB",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -24482,6 +24504,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "GB",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26994,6 +27027,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -27155,17 +27199,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "GB",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27397,6 +27430,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27727,6 +27771,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "GB",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29271,6 +29326,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -29359,17 +29425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "GB",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -29377,6 +29432,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "GB",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30866,17 +30932,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "GB",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -30884,6 +30939,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "GB",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32275,7 +32341,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "GB",
     "lat": 43.3178,
@@ -33187,17 +33253,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "DE",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -33205,6 +33260,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "DE",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33968,17 +34034,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "DE",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -33986,6 +34041,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "DE",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34463,6 +34529,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -34914,28 +34991,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "DE",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "DE",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -34958,6 +35013,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -34965,17 +35031,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "DE",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35233,17 +35288,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "DE",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -35251,6 +35295,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "DE",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37763,6 +37818,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -37924,17 +37990,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "DE",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38166,6 +38221,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38496,6 +38562,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "DE",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40040,6 +40117,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -40128,17 +40216,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "DE",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -40146,6 +40223,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "DE",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41635,17 +41723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "DE",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -41653,6 +41730,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "DE",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43044,7 +43132,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "DE",
     "lat": 43.3178,
@@ -43956,17 +44044,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "FR",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -43974,6 +44051,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "FR",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44737,17 +44825,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "FR",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -44755,6 +44832,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "FR",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45232,6 +45320,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -45683,28 +45782,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "FR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "FR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -45727,6 +45804,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -45734,17 +45822,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "FR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46002,17 +46079,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "FR",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -46020,6 +46086,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "FR",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48532,6 +48609,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -48693,17 +48781,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "FR",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48935,6 +49012,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49265,6 +49353,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "FR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50809,6 +50908,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -50897,17 +51007,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "FR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -50915,6 +51014,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "FR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52404,17 +52514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "FR",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -52422,6 +52521,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "FR",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53813,7 +53923,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "FR",
     "lat": 43.3178,
@@ -54725,17 +54835,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "CN",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -54743,6 +54842,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "CN",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55506,17 +55616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "CN",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -55524,6 +55623,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "CN",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56001,6 +56111,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -56452,28 +56573,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "CN",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "CN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -56496,6 +56595,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -56503,17 +56613,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "CN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56771,17 +56870,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "CN",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -56789,6 +56877,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "CN",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59301,6 +59400,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -59462,17 +59572,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "CN",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59704,6 +59803,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60034,6 +60144,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "CN",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61578,6 +61699,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -61666,17 +61798,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "CN",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -61684,6 +61805,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "CN",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63173,17 +63305,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "CN",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -63191,6 +63312,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "CN",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64582,7 +64714,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "CN",
     "lat": 43.3178,
@@ -65494,17 +65626,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "KR",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -65512,6 +65633,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "KR",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66275,17 +66407,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "KR",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -66293,6 +66414,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "KR",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66770,6 +66902,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -67221,28 +67364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "KR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "KR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -67265,6 +67386,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -67272,17 +67404,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "KR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67540,17 +67661,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "KR",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -67558,6 +67668,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "KR",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70070,6 +70191,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -70231,17 +70363,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "KR",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70473,6 +70594,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70803,6 +70935,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "KR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72347,6 +72490,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -72435,17 +72589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "KR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -72453,6 +72596,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "KR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73942,17 +74096,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "KR",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -73960,6 +74103,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "KR",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75351,7 +75505,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "KR",
     "lat": 43.3178,
@@ -76263,17 +76417,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "IN",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -76281,6 +76424,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "IN",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77044,17 +77198,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "IN",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -77062,6 +77205,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "IN",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77539,6 +77693,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -77990,28 +78155,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "IN",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "IN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -78034,6 +78177,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -78041,17 +78195,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "IN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78309,17 +78452,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "IN",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -78327,6 +78459,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "IN",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80839,6 +80982,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -81000,17 +81154,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "IN",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81242,6 +81385,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81572,6 +81726,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "IN",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83116,6 +83281,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -83204,17 +83380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "IN",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -83222,6 +83387,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "IN",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84711,17 +84887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "IN",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -84729,6 +84894,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "IN",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86120,7 +86296,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "IN",
     "lat": 43.3178,
@@ -87032,17 +87208,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "BR",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -87050,6 +87215,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "BR",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87813,17 +87989,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "BR",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -87831,6 +87996,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "BR",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88308,6 +88484,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -88759,28 +88946,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "BR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "BR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -88803,6 +88968,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -88810,17 +88986,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "BR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89078,17 +89243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "BR",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -89096,6 +89250,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "BR",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91608,6 +91773,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -91769,17 +91945,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "BR",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92011,6 +92176,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92341,6 +92517,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "BR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93885,6 +94072,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -93973,17 +94171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "BR",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -93991,6 +94178,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "BR",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95480,17 +95678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "BR",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -95498,6 +95685,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "BR",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96889,7 +97087,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "BR",
     "lat": 43.3178,
@@ -97801,17 +97999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196582275",
-    "name": "Ernen › West: Schinnerstrasse 96",
-    "city": "Ernen",
-    "countryCode": "AU",
-    "lat": 46.40808,
-    "lng": 8.15821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1363622353",
     "name": "Einsiedeln: Klosterplatz",
     "city": "Einsiedeln",
@@ -97819,6 +98006,17 @@
     "lat": 47.12663,
     "lng": 8.7504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1363622353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1196582275",
+    "name": "Ernen › West: Schinnerstrasse 96",
+    "city": "Ernen",
+    "countryCode": "AU",
+    "lat": 46.40808,
+    "lng": 8.15821,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196582275/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98582,17 +98780,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1109590185",
-    "name": "Melchsee-Frutt",
-    "city": "Melchsee-Frutt",
-    "countryCode": "AU",
-    "lat": 46.77335,
-    "lng": 8.26974,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1431719319",
     "name": "Primosten › South-west: Mala Raduča",
     "city": "Primosten",
@@ -98600,6 +98787,17 @@
     "lat": 43.58635,
     "lng": 15.92251,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1431719319/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1109590185",
+    "name": "Melchsee-Frutt",
+    "city": "Melchsee-Frutt",
+    "countryCode": "AU",
+    "lat": 46.77335,
+    "lng": 8.26974,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1109590185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99077,6 +99275,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -99528,28 +99737,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "AU",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "AU",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -99572,6 +99759,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -99579,17 +99777,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "AU",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99847,17 +100034,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697037056",
-    "name": "Delemont: Gare",
-    "city": "Delemont",
-    "countryCode": "AU",
-    "lat": 47.36224,
-    "lng": 7.34979,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1508413562",
     "name": "London: Piccadilly Circus",
     "city": "London",
@@ -99865,6 +100041,17 @@
     "lat": 51.5096,
     "lng": -0.13484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1508413562/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697037056",
+    "name": "Delemont: Gare",
+    "city": "Delemont",
+    "countryCode": "AU",
+    "lat": 47.36224,
+    "lng": 7.34979,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697037056/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102377,6 +102564,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -102538,17 +102736,6 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216892440",
-    "name": "Storuman › North-west: Square",
-    "city": "Storuman",
-    "countryCode": "AU",
-    "lat": 65.09554,
-    "lng": 17.11719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102780,6 +102967,17 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103110,6 +103308,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "AU",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104654,6 +104863,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1145273348",
     "name": "Ecuvillens: Aérodrome Régional Fribourg - Ouest - West",
     "city": "Ecuvillens",
@@ -104742,17 +104962,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1550521486",
-    "name": "Livigno: Lombardy, Italy",
-    "city": "Livigno",
-    "countryCode": "AU",
-    "lat": 46.54248,
-    "lng": 10.13818,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697036278",
     "name": "Naut Aran: Baqueira-Beret",
     "city": "Naut Aran",
@@ -104760,6 +104969,17 @@
     "lat": 42.69944,
     "lng": 0.94583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697036278/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1550521486",
+    "name": "Livigno: Lombardy, Italy",
+    "city": "Livigno",
+    "countryCode": "AU",
+    "lat": 46.54248,
+    "lng": 10.13818,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1550521486/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106249,17 +106469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1562831720",
-    "name": "Rochehaut › South: Frahan",
-    "city": "Rochehaut",
-    "countryCode": "AU",
-    "lat": 49.8399,
-    "lng": 5.00416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1378034625",
     "name": "Strzegom: Rynek",
     "city": "Strzegom",
@@ -106267,6 +106476,17 @@
     "lat": 50.96023,
     "lng": 16.34476,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378034625/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1562831720",
+    "name": "Rochehaut › South: Frahan",
+    "city": "Rochehaut",
+    "countryCode": "AU",
+    "lat": 49.8399,
+    "lng": 5.00416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107658,7 +107878,7 @@
   },
   {
     "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "name": "San Sebastián › North-west: Beach of La Concha - Puerto deportivo - Puerto de San Sebastián - bay of La Concha",
     "city": "San Sebastián",
     "countryCode": "AU",
     "lat": 43.3178,
