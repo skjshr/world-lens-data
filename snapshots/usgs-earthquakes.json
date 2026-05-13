@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sxef",
+    "type": "earthquake",
+    "lat": 23.9567,
+    "lng": 121.6574,
+    "intensity": 4.7,
+    "timestamp": "2026-05-13T10:43:29.759Z",
+    "description": "M 4.7 - 5 km ESE of Hualien City, Taiwan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxdu",
     "type": "earthquake",
     "lat": 13.1585,
