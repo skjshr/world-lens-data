@@ -33,17 +33,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "JP",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -2508,17 +2497,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -2592,17 +2570,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "JP",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2966,17 +2933,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3586,17 +3542,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "JP",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -3813,6 +3758,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "JP",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5390,6 +5346,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -5749,6 +5716,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "JP",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6160,6 +6138,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "JP",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -6303,17 +6292,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "JP",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -6321,6 +6299,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "JP",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6941,17 +6930,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "JP",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -7205,17 +7183,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "JP",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -7223,6 +7190,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "JP",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7260,17 +7238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "JP",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -7278,6 +7245,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "JP",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8004,6 +7982,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "JP",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10659,17 +10648,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "JP",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -10677,6 +10655,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "JP",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10732,6 +10721,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "JP",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10769,17 +10769,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "US",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -13244,17 +13233,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -13328,17 +13306,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "US",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13702,17 +13669,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14322,17 +14278,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "US",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -14549,6 +14494,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "US",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16126,6 +16082,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -16485,6 +16452,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "US",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16896,6 +16874,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "US",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -17039,17 +17028,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "US",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -17057,6 +17035,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "US",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17677,17 +17666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "US",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -17941,17 +17919,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "US",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -17959,6 +17926,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "US",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17996,17 +17974,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "US",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -18014,6 +17981,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "US",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18740,6 +18718,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "US",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21395,17 +21384,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "US",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -21413,6 +21391,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "US",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21468,6 +21457,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "US",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21505,17 +21505,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "GB",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -23980,17 +23969,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -24064,17 +24042,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "GB",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24438,17 +24405,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25058,17 +25014,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "GB",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -25285,6 +25230,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "GB",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26862,6 +26818,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -27221,6 +27188,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "GB",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27632,6 +27610,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "GB",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -27775,17 +27764,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "GB",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -27793,6 +27771,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "GB",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28413,17 +28402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "GB",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -28677,17 +28655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "GB",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -28695,6 +28662,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "GB",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28732,17 +28710,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "GB",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -28750,6 +28717,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "GB",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29476,6 +29454,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "GB",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32131,17 +32120,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "GB",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -32149,6 +32127,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "GB",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32204,6 +32193,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "GB",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32241,17 +32241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "DE",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -34716,17 +34705,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -34800,17 +34778,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "DE",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35174,17 +35141,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35794,17 +35750,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "DE",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -36021,6 +35966,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "DE",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37598,6 +37554,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -37957,6 +37924,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "DE",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38368,6 +38346,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "DE",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -38511,17 +38500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "DE",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -38529,6 +38507,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "DE",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39149,17 +39138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "DE",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -39413,17 +39391,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "DE",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -39431,6 +39398,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "DE",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39468,17 +39446,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "DE",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -39486,6 +39453,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "DE",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40212,6 +40190,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "DE",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42867,17 +42856,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "DE",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -42885,6 +42863,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "DE",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42940,6 +42929,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "DE",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42977,17 +42977,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "FR",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -45452,17 +45441,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -45536,17 +45514,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "FR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45910,17 +45877,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46530,17 +46486,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "FR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -46757,6 +46702,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "FR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48334,6 +48290,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -48693,6 +48660,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "FR",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49104,6 +49082,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "FR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -49247,17 +49236,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "FR",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -49265,6 +49243,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "FR",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49885,17 +49874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "FR",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -50149,17 +50127,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "FR",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -50167,6 +50134,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "FR",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50204,17 +50182,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "FR",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -50222,6 +50189,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "FR",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50948,6 +50926,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "FR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53603,17 +53592,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "FR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -53621,6 +53599,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "FR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53676,6 +53665,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "FR",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53713,17 +53713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "CN",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -56188,17 +56177,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -56272,17 +56250,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "CN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56646,17 +56613,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57266,17 +57222,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "CN",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -57493,6 +57438,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "CN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59070,6 +59026,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -59429,6 +59396,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "CN",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59840,6 +59818,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "CN",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -59983,17 +59972,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "CN",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -60001,6 +59979,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "CN",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60621,17 +60610,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "CN",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -60885,17 +60863,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "CN",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -60903,6 +60870,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "CN",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60940,17 +60918,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "CN",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -60958,6 +60925,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "CN",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61684,6 +61662,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "CN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64339,17 +64328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "CN",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -64357,6 +64335,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "CN",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64412,6 +64401,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "CN",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64449,17 +64449,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "KR",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -66924,17 +66913,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -67008,17 +66986,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "KR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67382,17 +67349,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68002,17 +67958,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "KR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -68229,6 +68174,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "KR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69806,6 +69762,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -70165,6 +70132,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "KR",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70576,6 +70554,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "KR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -70719,17 +70708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "KR",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -70737,6 +70715,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "KR",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71357,17 +71346,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "KR",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -71621,17 +71599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "KR",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -71639,6 +71606,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "KR",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71676,17 +71654,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "KR",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -71694,6 +71661,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "KR",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72420,6 +72398,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "KR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75075,17 +75064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "KR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -75093,6 +75071,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "KR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75148,6 +75137,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "KR",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75185,17 +75185,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "IN",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -77660,17 +77649,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -77744,17 +77722,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "IN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78118,17 +78085,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78738,17 +78694,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "IN",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -78965,6 +78910,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "IN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80542,6 +80498,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -80901,6 +80868,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "IN",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81312,6 +81290,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "IN",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -81455,17 +81444,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "IN",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -81473,6 +81451,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "IN",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82093,17 +82082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "IN",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -82357,17 +82335,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "IN",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -82375,6 +82342,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "IN",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82412,17 +82390,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "IN",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -82430,6 +82397,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "IN",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83156,6 +83134,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "IN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85811,17 +85800,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "IN",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -85829,6 +85807,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "IN",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85884,6 +85873,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "IN",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85921,17 +85921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "BR",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -88396,17 +88385,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -88480,17 +88458,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "BR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88854,17 +88821,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89474,17 +89430,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "BR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -89701,6 +89646,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "BR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91278,6 +91234,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -91637,6 +91604,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "BR",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92048,6 +92026,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "BR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -92191,17 +92180,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "BR",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -92209,6 +92187,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "BR",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92829,17 +92818,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "BR",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -93093,17 +93071,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "BR",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -93111,6 +93078,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "BR",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93148,17 +93126,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "BR",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -93166,6 +93133,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "BR",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93892,6 +93870,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "BR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96547,17 +96536,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "BR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -96565,6 +96543,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "BR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96620,6 +96609,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "BR",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96657,17 +96657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1196843016",
-    "name": "Rovaniemi › North-west: Maakuntakatu - Koskikatu",
-    "city": "Rovaniemi",
-    "countryCode": "AU",
-    "lat": 66.50243,
-    "lng": 25.73104,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1196843016/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1392640242",
     "name": "Kliny › South-west: Klíny Ski & Sports Area",
     "city": "Kliny",
@@ -99132,17 +99121,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -99216,17 +99194,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "AU",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99590,17 +99557,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100210,17 +100166,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "AU",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -100437,6 +100382,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "AU",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102014,6 +101970,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -102373,6 +102340,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Trondheim: Bymarka Ski hut",
+    "city": "Trondheim",
+    "countryCode": "AU",
+    "lat": 63.41725,
+    "lng": 10.26128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102784,6 +102762,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "AU",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232544622",
     "name": "Munich: Hauptbahnhof",
     "city": "Munich",
@@ -102927,17 +102916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1221520467",
-    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
-    "city": "East Devon",
-    "countryCode": "AU",
-    "lat": 50.6154,
-    "lng": -3.41289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -102945,6 +102923,17 @@
     "lat": 46.09148,
     "lng": 12.50218,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1461679210/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1221520467",
+    "name": "East Devon: The Exmouth Seafront Beach Webcam - Live Streaming Interactive Webcam",
+    "city": "East Devon",
+    "countryCode": "AU",
+    "lat": 50.6154,
+    "lng": -3.41289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221520467/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103565,17 +103554,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
-    "countryCode": "AU",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456735558",
     "name": "Primorsko › North-east: Primorsko North Beach",
     "city": "Primorsko",
@@ -103829,17 +103807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250435470",
-    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
-    "city": "Freising",
-    "countryCode": "AU",
-    "lat": 48.40093,
-    "lng": 11.74391,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394463516",
     "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
     "city": "Puy-Saint-Vincent",
@@ -103847,6 +103814,17 @@
     "lat": 44.89306,
     "lng": 6.61778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1250435470",
+    "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
+    "city": "Freising",
+    "countryCode": "AU",
+    "lat": 48.40093,
+    "lng": 11.74391,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103884,17 +103862,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1213347873",
-    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
-    "city": "Vaasa",
-    "countryCode": "AU",
-    "lat": 63.10227,
-    "lng": 21.64177,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -103902,6 +103869,17 @@
     "lat": 44.18735,
     "lng": 7.15732,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1213347873",
+    "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
+    "city": "Vaasa",
+    "countryCode": "AU",
+    "lat": 63.10227,
+    "lng": 21.64177,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1213347873/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104628,6 +104606,17 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "AU",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107283,17 +107272,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "AU",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -107301,6 +107279,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "AU",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107356,6 +107345,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "AU",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
