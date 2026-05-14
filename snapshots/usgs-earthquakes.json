@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sxmm",
+    "type": "earthquake",
+    "lat": -58.3477,
+    "lng": -25.63,
+    "intensity": 5.1,
+    "timestamp": "2026-05-14T09:55:47.289Z",
+    "description": "M 5.1 - South Sandwich Islands region",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxm9",
     "type": "earthquake",
     "lat": 30.176,
@@ -97,26 +107,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-13T12:50:34.441Z",
     "description": "M 4.5 - 72 km NE of Hihifo, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxef",
-    "type": "earthquake",
-    "lat": 23.9567,
-    "lng": 121.6574,
-    "intensity": 4.7,
-    "timestamp": "2026-05-13T10:43:29.759Z",
-    "description": "M 4.7 - 5 km ESE of Hualien City, Taiwan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxdu",
-    "type": "earthquake",
-    "lat": 13.1585,
-    "lng": -87.8136,
-    "intensity": 4.5,
-    "timestamp": "2026-05-13T09:21:48.563Z",
-    "description": "M 4.5 - 17 km SSE of Conchagua, El Salvador",
     "source": "USGS"
   }
 ]
