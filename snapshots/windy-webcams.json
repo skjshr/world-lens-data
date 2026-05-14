@@ -132,6 +132,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -2464,6 +2475,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -2889,6 +2911,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "JP",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4213,17 +4246,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -4231,6 +4253,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6556,17 +6589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "JP",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -6574,6 +6596,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "JP",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6798,17 +6831,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "JP",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -6816,6 +6838,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "JP",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7282,17 +7315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "JP",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -7300,6 +7322,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "JP",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7447,17 +7480,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "JP",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -7465,6 +7487,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "JP",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7520,6 +7553,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "JP",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7590,17 +7634,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "JP",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -7608,6 +7641,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "JP",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8239,17 +8283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "JP",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -8257,6 +8290,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "JP",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8305,17 +8349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "JP",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -8349,17 +8382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "JP",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -8367,6 +8389,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "JP",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9130,17 +9163,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "JP",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -9148,6 +9170,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "JP",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9401,6 +9434,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "JP",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9691,17 +9735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "JP",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -9709,6 +9742,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "JP",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9768,17 +9812,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "JP",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -9786,6 +9819,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "JP",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9823,17 +9867,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "JP",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -9841,6 +9874,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "JP",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10362,6 +10406,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -10699,6 +10754,17 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "JP",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10901,6 +10967,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -13233,6 +13310,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -13658,6 +13746,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "US",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14982,17 +15081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -15000,6 +15088,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17325,17 +17424,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "US",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -17343,6 +17431,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "US",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17567,17 +17666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "US",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -17585,6 +17673,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "US",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18051,17 +18150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "US",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -18069,6 +18157,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "US",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18216,17 +18315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "US",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -18234,6 +18322,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "US",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18289,6 +18388,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "US",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18359,17 +18469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "US",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -18377,6 +18476,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "US",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19008,17 +19118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "US",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -19026,6 +19125,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "US",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19074,17 +19184,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "US",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -19118,17 +19217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "US",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -19136,6 +19224,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "US",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19899,17 +19998,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "US",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -19917,6 +20005,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "US",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20170,6 +20269,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "US",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20460,17 +20570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "US",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -20478,6 +20577,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "US",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20537,17 +20647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "US",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -20555,6 +20654,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "US",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20592,17 +20702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "US",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -20610,6 +20709,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "US",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21131,6 +21241,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -21468,6 +21589,17 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "US",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21670,6 +21802,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -24002,6 +24145,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -24427,6 +24581,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "GB",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25751,17 +25916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -25769,6 +25923,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28094,17 +28259,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "GB",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -28112,6 +28266,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "GB",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28336,17 +28501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "GB",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -28354,6 +28508,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "GB",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28820,17 +28985,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "GB",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -28838,6 +28992,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "GB",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28985,17 +29150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "GB",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -29003,6 +29157,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "GB",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29058,6 +29223,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "GB",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29128,17 +29304,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "GB",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -29146,6 +29311,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "GB",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29777,17 +29953,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "GB",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -29795,6 +29960,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "GB",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29843,17 +30019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "GB",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -29887,17 +30052,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "GB",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -29905,6 +30059,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "GB",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30668,17 +30833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "GB",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -30686,6 +30840,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "GB",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30939,6 +31104,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "GB",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31229,17 +31405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "GB",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -31247,6 +31412,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "GB",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31306,17 +31482,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "GB",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -31324,6 +31489,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "GB",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31361,17 +31537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "GB",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -31379,6 +31544,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "GB",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31900,6 +32076,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -32237,6 +32424,17 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "GB",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32439,6 +32637,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -34771,6 +34980,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -35196,6 +35416,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "DE",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36520,17 +36751,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -36538,6 +36758,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38863,17 +39094,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "DE",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -38881,6 +39101,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "DE",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39105,17 +39336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "DE",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -39123,6 +39343,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "DE",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39589,17 +39820,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "DE",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -39607,6 +39827,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "DE",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39754,17 +39985,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "DE",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -39772,6 +39992,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "DE",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39827,6 +40058,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "DE",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39897,17 +40139,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "DE",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -39915,6 +40146,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "DE",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40546,17 +40788,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "DE",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -40564,6 +40795,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "DE",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40612,17 +40854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "DE",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -40656,17 +40887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "DE",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -40674,6 +40894,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "DE",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41437,17 +41668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "DE",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -41455,6 +41675,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "DE",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41708,6 +41939,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "DE",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41998,17 +42240,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "DE",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -42016,6 +42247,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "DE",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42075,17 +42317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "DE",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -42093,6 +42324,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "DE",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42130,17 +42372,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "DE",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -42148,6 +42379,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "DE",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42669,6 +42911,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -43006,6 +43259,17 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "DE",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43208,6 +43472,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -45540,6 +45815,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -45965,6 +46251,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "FR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47289,17 +47586,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -47307,6 +47593,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49632,17 +49929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "FR",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -49650,6 +49936,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "FR",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49874,17 +50171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "FR",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -49892,6 +50178,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "FR",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50358,17 +50655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "FR",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -50376,6 +50662,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "FR",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50523,17 +50820,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "FR",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -50541,6 +50827,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "FR",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50596,6 +50893,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "FR",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50666,17 +50974,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "FR",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -50684,6 +50981,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "FR",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51315,17 +51623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "FR",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -51333,6 +51630,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "FR",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51381,17 +51689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "FR",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -51425,17 +51722,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "FR",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -51443,6 +51729,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "FR",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52206,17 +52503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "FR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -52224,6 +52510,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "FR",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52477,6 +52774,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "FR",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52767,17 +53075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "FR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -52785,6 +53082,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "FR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52844,17 +53152,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "FR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -52862,6 +53159,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "FR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52899,17 +53207,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "FR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -52917,6 +53214,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "FR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53438,6 +53746,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -53779,6 +54098,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "FR",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1271448978",
     "name": "Leontari › North: Κάντζα Παλλήνης",
     "city": "unknown",
@@ -53841,17 +54171,6 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "FR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53988,6 +54307,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -56320,6 +56650,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -56745,6 +57086,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "CN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58069,17 +58421,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -58087,6 +58428,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60412,17 +60764,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "CN",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -60430,6 +60771,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "CN",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60654,17 +61006,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "CN",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -60672,6 +61013,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "CN",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61138,17 +61490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "CN",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -61156,6 +61497,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "CN",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61303,17 +61655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "CN",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -61321,6 +61662,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "CN",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61376,6 +61728,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "CN",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61446,17 +61809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "CN",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -61464,6 +61816,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "CN",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62095,17 +62458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "CN",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -62113,6 +62465,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "CN",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62161,17 +62524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "CN",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -62205,17 +62557,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "CN",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -62223,6 +62564,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "CN",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62986,17 +63338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "CN",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -63004,6 +63345,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "CN",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63257,6 +63609,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "CN",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63547,17 +63910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "CN",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -63565,6 +63917,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "CN",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63624,17 +63987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "CN",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -63642,6 +63994,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "CN",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63679,17 +64042,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "CN",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -63697,6 +64049,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "CN",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64218,6 +64581,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -64559,6 +64933,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "CN",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1271448978",
     "name": "Leontari › North: Κάντζα Παλλήνης",
     "city": "unknown",
@@ -64621,17 +65006,6 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "CN",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64768,6 +65142,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -67100,6 +67485,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -67525,6 +67921,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "KR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68849,17 +69256,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -68867,6 +69263,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71192,17 +71599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "KR",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -71210,6 +71606,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "KR",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71434,17 +71841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "KR",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -71452,6 +71848,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "KR",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71918,17 +72325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "KR",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -71936,6 +72332,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "KR",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72083,17 +72490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "KR",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -72101,6 +72497,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "KR",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72156,6 +72563,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "KR",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72226,17 +72644,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "KR",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -72244,6 +72651,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "KR",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72875,17 +73293,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "KR",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -72893,6 +73300,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "KR",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72941,17 +73359,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "KR",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -72985,17 +73392,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "KR",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -73003,6 +73399,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "KR",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73766,17 +74173,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "KR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -73784,6 +74180,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "KR",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74037,6 +74444,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "KR",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74327,17 +74745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "KR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -74345,6 +74752,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "KR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74404,17 +74822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "KR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -74422,6 +74829,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "KR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74459,17 +74877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "KR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -74477,6 +74884,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "KR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74998,6 +75416,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -75339,6 +75768,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "KR",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1271448978",
     "name": "Leontari › North: Κάντζα Παλλήνης",
     "city": "unknown",
@@ -75401,17 +75841,6 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "KR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75548,6 +75977,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -77880,6 +78320,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -78305,6 +78756,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "IN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79629,17 +80091,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -79647,6 +80098,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81972,17 +82434,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "IN",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -81990,6 +82441,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "IN",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82214,17 +82676,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "IN",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -82232,6 +82683,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "IN",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82698,17 +83160,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "IN",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -82716,6 +83167,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "IN",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82863,17 +83325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "IN",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -82881,6 +83332,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "IN",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82936,6 +83398,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "IN",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83006,17 +83479,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "IN",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -83024,6 +83486,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "IN",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83655,17 +84128,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "IN",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -83673,6 +84135,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "IN",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83721,17 +84194,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "IN",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -83765,17 +84227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "IN",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -83783,6 +84234,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "IN",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84546,17 +85008,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "IN",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -84564,6 +85015,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "IN",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84817,6 +85279,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "IN",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85107,17 +85580,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "IN",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -85125,6 +85587,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "IN",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85184,17 +85657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "IN",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -85202,6 +85664,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "IN",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85239,17 +85712,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "IN",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -85257,6 +85719,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "IN",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85778,6 +86251,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -86119,6 +86603,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "IN",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1271448978",
     "name": "Leontari › North: Κάντζα Παλλήνης",
     "city": "unknown",
@@ -86181,17 +86676,6 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "IN",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86328,6 +86812,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -88660,6 +89155,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -89085,6 +89591,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "BR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90409,17 +90926,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -90427,6 +90933,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92752,17 +93269,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "BR",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -92770,6 +93276,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "BR",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92994,17 +93511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "BR",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -93012,6 +93518,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "BR",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93478,17 +93995,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "BR",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -93496,6 +94002,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "BR",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93643,17 +94160,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "BR",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -93661,6 +94167,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "BR",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93716,6 +94233,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "BR",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93786,17 +94314,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "BR",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -93804,6 +94321,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "BR",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94435,17 +94963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "BR",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -94453,6 +94970,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "BR",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94501,17 +95029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "BR",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -94545,17 +95062,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "BR",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -94563,6 +95069,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "BR",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95326,17 +95843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "BR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -95344,6 +95850,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "BR",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95597,6 +96114,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "BR",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95887,17 +96415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "BR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -95905,6 +96422,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "BR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95964,17 +96492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "BR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -95982,6 +96499,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "BR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96019,17 +96547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "BR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -96037,6 +96554,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "BR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96558,6 +97086,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -96899,6 +97438,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "BR",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1271448978",
     "name": "Leontari › North: Κάντζα Παλλήνης",
     "city": "unknown",
@@ -96961,17 +97511,6 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "BR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97108,6 +97647,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -99440,6 +99990,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -99865,6 +100426,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "AU",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101189,17 +101761,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273421",
-    "name": "Agder › East: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 58.78329,
-    "lng": 7.33314,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1501797718",
     "name": "Glowe: Cape Arkona",
     "city": "Glowe",
@@ -101207,6 +101768,17 @@
     "lat": 54.57007,
     "lng": 13.46605,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1501797718/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273421",
+    "name": "Agder › East: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 58.78329,
+    "lng": 7.33314,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273421/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103532,17 +104104,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1081756841",
-    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
-    "city": "Landquart",
-    "countryCode": "AU",
-    "lat": 46.94699,
-    "lng": 9.56808,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -103550,6 +104111,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1081756841",
+    "name": "Landquart: Chimmispitz - Haldensteiner Calanda - Calandahütte SAC - Calanda",
+    "city": "Landquart",
+    "countryCode": "AU",
+    "lat": 46.94699,
+    "lng": 9.56808,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081756841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103774,17 +104346,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1017053828",
-    "name": "Nesslau: Toggenburg Alpakas 2",
-    "city": "Nesslau",
-    "countryCode": "AU",
-    "lat": 47.19763,
-    "lng": 9.21295,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -103792,6 +104353,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1017053828",
+    "name": "Nesslau: Toggenburg Alpakas 2",
+    "city": "Nesslau",
+    "countryCode": "AU",
+    "lat": 47.19763,
+    "lng": 9.21295,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1017053828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104258,17 +104830,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1480180301",
-    "name": "Sorsele: Västerbotten, Sweden",
-    "city": "Sorsele",
-    "countryCode": "AU",
-    "lat": 65.53313,
-    "lng": 17.53707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793898374",
     "name": "Novara › North: San Gaudenzio",
     "city": "Novara",
@@ -104276,6 +104837,17 @@
     "lat": 45.4469,
     "lng": 8.6216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1480180301",
+    "name": "Sorsele: Västerbotten, Sweden",
+    "city": "Sorsele",
+    "countryCode": "AU",
+    "lat": 65.53313,
+    "lng": 17.53707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104423,17 +104995,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "AU",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1504022331",
     "name": "Punta Marina Terme › North-east: Bagno Baloo",
     "city": "Punta Marina Terme",
@@ -104441,6 +105002,17 @@
     "lat": 44.45357,
     "lng": 12.29125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "AU",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104496,6 +105068,17 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1559207795",
+    "name": "Hradec Kralove › North: Nový Hradec Králové",
+    "city": "Hradec Kralove",
+    "countryCode": "AU",
+    "lat": 50.17876,
+    "lng": 15.83994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104566,17 +105149,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1590784331",
-    "name": "Chalupy › South-west: Chałupy Zatoka",
-    "city": "Chalupy",
-    "countryCode": "AU",
-    "lat": 54.75943,
-    "lng": 18.50494,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1387434609",
     "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
@@ -104584,6 +105156,17 @@
     "lat": 43.53807,
     "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1590784331",
+    "name": "Chalupy › South-west: Chałupy Zatoka",
+    "city": "Chalupy",
+    "countryCode": "AU",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1590784331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105215,17 +105798,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1299427619",
-    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
-    "city": "Balze",
-    "countryCode": "AU",
-    "lat": 43.79322,
-    "lng": 12.09939,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -105233,6 +105805,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1299427619",
+    "name": "Balze: Eremo di Sant'Alberico Fratel Michele di Gesù Loc. Capanne VERGHERETO (FC) ITALY",
+    "city": "Balze",
+    "countryCode": "AU",
+    "lat": 43.79322,
+    "lng": 12.09939,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299427619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105281,17 +105864,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1379691005",
-    "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
-    "city": "Sopot",
-    "countryCode": "AU",
-    "lat": 54.4449,
-    "lng": 18.56821,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1414851234",
     "name": "Vingujini: The Sands At Chale Island",
     "city": "Vingujini",
@@ -105325,17 +105897,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1334517004",
-    "name": "Murcia: Avenida Libertad",
-    "city": "Murcia",
-    "countryCode": "AU",
-    "lat": 37.98991,
-    "lng": -1.13334,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500891720",
     "name": "Basel: Martinskirche - Peterskirche - Middle Bridge, Basel - Basel Minster - Pfalz - Universität Basel - Spalentor - Rhine Promenade - Wettsteinbrücke",
     "city": "Basel",
@@ -105343,6 +105904,17 @@
     "lat": 47.55811,
     "lng": 7.58783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500891720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334517004",
+    "name": "Murcia: Avenida Libertad",
+    "city": "Murcia",
+    "countryCode": "AU",
+    "lat": 37.98991,
+    "lng": -1.13334,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334517004/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106106,17 +106678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "AU",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471649256",
     "name": "L'Ile-Rousse: L'Ile Rousse",
     "city": "L'Ile-Rousse",
@@ -106124,6 +106685,17 @@
     "lat": 42.64104,
     "lng": 8.93671,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "AU",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106377,6 +106949,17 @@
     "lat": 50.10466,
     "lng": 13.72755,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579385444",
+    "name": "Alejandro Korn › North-west",
+    "city": "Alejandro Korn",
+    "countryCode": "AU",
+    "lat": -35.00534,
+    "lng": -58.3626,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106667,17 +107250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "AU",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1591348629",
     "name": "Malaga › South-west: Plaza Jardín de San Antonio - Playa la Malagueta - Malagueta sign",
     "city": "Malaga",
@@ -106685,6 +107257,17 @@
     "lat": 36.72028,
     "lng": -4.40522,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1591348629/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "AU",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106744,17 +107327,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "AU",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1350084015",
     "name": "Zakopane: Gubalowki",
     "city": "Zakopane",
@@ -106762,6 +107334,17 @@
     "lat": 49.29295,
     "lng": 19.94544,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "AU",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106799,17 +107382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "AU",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1659380949",
     "name": "Pingtung City › West: Kao-Ping Hsi Bridge",
     "city": "Pingtung City",
@@ -106817,6 +107389,17 @@
     "lat": 22.6497,
     "lng": 120.44594,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1659380949/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "AU",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107338,6 +107921,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -107679,6 +108273,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "AU",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1271448978",
     "name": "Leontari › North: Κάντζα Παλλήνης",
     "city": "unknown",
@@ -107741,17 +108346,6 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "AU",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
