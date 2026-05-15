@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sxwq",
+    "type": "earthquake",
+    "lat": 38.9127,
+    "lng": 142.2498,
+    "intensity": 6.7,
+    "timestamp": "2026-05-15T11:22:01.649Z",
+    "description": "M 6.7 - 49 km ESE of Ōfunato, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxu9",
     "type": "earthquake",
     "lat": -2.9915,
