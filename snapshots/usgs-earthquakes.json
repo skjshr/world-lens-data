@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sxu9",
+    "type": "earthquake",
+    "lat": -2.9915,
+    "lng": 147.7607,
+    "intensity": 5.4,
+    "timestamp": "2026-05-15T01:13:58.659Z",
+    "description": "M 5.4 - 119 km SSE of Lorengau, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxtg",
     "type": "earthquake",
     "lat": -55.4449,
@@ -57,46 +67,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-14T07:47:44.952Z",
     "description": "M 4.7 - 28 km NNW of Bardsīr, Iran",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxky",
-    "type": "earthquake",
-    "lat": 0.5784,
-    "lng": 126.2296,
-    "intensity": 4.7,
-    "timestamp": "2026-05-14T02:59:47.627Z",
-    "description": "M 4.7 - 130 km W of Ternate, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxkm",
-    "type": "earthquake",
-    "lat": -24.2997,
-    "lng": -66.9979,
-    "intensity": 4.7,
-    "timestamp": "2026-05-14T02:46:38.356Z",
-    "description": "M 4.7 - 69 km W of San Antonio de los Cobres, Argentina",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxke",
-    "type": "earthquake",
-    "lat": 51.9997,
-    "lng": -30.7976,
-    "intensity": 4.5,
-    "timestamp": "2026-05-14T01:33:25.558Z",
-    "description": "M 4.5 - northern Mid-Atlantic Ridge",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxka",
-    "type": "earthquake",
-    "lat": 5.0578,
-    "lng": 36.842,
-    "intensity": 4.7,
-    "timestamp": "2026-05-14T00:14:01.393Z",
-    "description": "M 4.7 - 41 km ENE of Turmi, Ethiopia",
     "source": "USGS"
   }
 ]
