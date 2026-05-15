@@ -1826,17 +1826,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "JP",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -1936,17 +1925,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "JP",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -1954,6 +1932,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "JP",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2108,6 +2097,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2317,6 +2317,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "JP",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2607,6 +2618,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -2614,17 +2636,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "JP",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3719,7 +3730,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "JP",
     "lat": 58.59761,
@@ -3780,17 +3791,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "JP",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4378,17 +4378,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "JP",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -4396,6 +4385,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "JP",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4928,17 +4928,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "JP",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -4946,6 +4935,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "JP",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5643,17 +5643,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "JP",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -5661,6 +5650,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "JP",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6468,17 +6468,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "JP",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -6486,6 +6475,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "JP",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6534,17 +6534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "JP",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -6552,6 +6541,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "JP",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7480,6 +7480,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -7641,6 +7652,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7916,17 +7938,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "JP",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9977,6 +9988,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "JP",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -10648,17 +10670,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "JP",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -10666,6 +10677,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "JP",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12573,17 +12595,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "US",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -12683,17 +12694,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "US",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -12701,6 +12701,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "US",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12855,6 +12866,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13064,6 +13086,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "US",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13354,6 +13387,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13361,17 +13405,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "US",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14466,7 +14499,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "US",
     "lat": 58.59761,
@@ -14527,17 +14560,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "US",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15125,17 +15147,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "US",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -15143,6 +15154,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "US",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15675,17 +15697,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "US",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -15693,6 +15704,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "US",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16390,17 +16412,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "US",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -16408,6 +16419,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "US",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17215,17 +17237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "US",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -17233,6 +17244,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "US",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17281,17 +17303,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "US",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -17299,6 +17310,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "US",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18227,6 +18249,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -18388,6 +18421,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18663,17 +18707,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "US",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20724,6 +20757,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "US",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -21395,17 +21439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "US",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -21413,6 +21446,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "US",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23320,17 +23364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "GB",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -23430,17 +23463,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "GB",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -23448,6 +23470,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "GB",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23602,6 +23635,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23811,6 +23855,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "GB",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24101,6 +24156,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24108,17 +24174,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "GB",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25213,7 +25268,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "GB",
     "lat": 58.59761,
@@ -25274,17 +25329,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "GB",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25872,17 +25916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "GB",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -25890,6 +25923,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "GB",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26422,17 +26466,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "GB",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -26440,6 +26473,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "GB",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27137,17 +27181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "GB",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -27155,6 +27188,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "GB",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27962,17 +28006,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "GB",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -27980,6 +28013,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "GB",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28028,17 +28072,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "GB",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -28046,6 +28079,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "GB",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28974,6 +29018,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -29135,6 +29190,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29410,17 +29476,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "GB",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31471,6 +31526,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "GB",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -32142,17 +32208,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "GB",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -32160,6 +32215,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "GB",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34067,17 +34133,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "DE",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -34177,17 +34232,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "DE",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -34195,6 +34239,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "DE",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34349,6 +34404,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34558,6 +34624,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "DE",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34848,6 +34925,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -34855,17 +34943,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "DE",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35960,7 +36037,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "DE",
     "lat": 58.59761,
@@ -36021,17 +36098,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "DE",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36619,17 +36685,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "DE",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -36637,6 +36692,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "DE",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37169,17 +37235,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "DE",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -37187,6 +37242,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "DE",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37884,17 +37950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "DE",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -37902,6 +37957,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "DE",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38709,17 +38775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "DE",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -38727,6 +38782,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "DE",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38775,17 +38841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "DE",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -38793,6 +38848,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "DE",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39721,6 +39787,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -39882,6 +39959,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40157,17 +40245,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "DE",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42218,6 +42295,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "DE",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -42889,17 +42977,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "DE",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -42907,6 +42984,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "DE",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44814,17 +44902,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "FR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -44924,17 +45001,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "FR",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -44942,6 +45008,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "FR",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45096,6 +45173,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45305,6 +45393,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "FR",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45595,6 +45694,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -45602,17 +45712,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "FR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46707,7 +46806,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "FR",
     "lat": 58.59761,
@@ -46768,17 +46867,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "FR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47366,17 +47454,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "FR",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -47384,6 +47461,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "FR",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47916,17 +48004,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "FR",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -47934,6 +48011,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "FR",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48631,17 +48719,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "FR",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -48649,6 +48726,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "FR",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49456,17 +49544,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "FR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -49474,6 +49551,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "FR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49522,17 +49610,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "FR",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -49540,6 +49617,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "FR",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50468,6 +50556,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -50629,6 +50728,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50904,17 +51014,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "FR",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52965,6 +53064,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "FR",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -53636,17 +53746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "FR",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -53654,6 +53753,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "FR",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55561,17 +55671,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "CN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -55671,17 +55770,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "CN",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -55689,6 +55777,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "CN",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55843,6 +55942,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56052,6 +56162,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "CN",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56342,6 +56463,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -56349,17 +56481,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "CN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57454,7 +57575,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "CN",
     "lat": 58.59761,
@@ -57515,17 +57636,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "CN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58113,17 +58223,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "CN",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -58131,6 +58230,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "CN",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58663,17 +58773,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "CN",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -58681,6 +58780,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "CN",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59378,17 +59488,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "CN",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -59396,6 +59495,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "CN",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60203,17 +60313,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "CN",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -60221,6 +60320,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "CN",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60269,17 +60379,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "CN",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -60287,6 +60386,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "CN",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61215,6 +61325,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -61376,6 +61497,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61651,17 +61783,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "CN",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63712,6 +63833,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "CN",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -64383,17 +64515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "CN",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -64401,6 +64522,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "CN",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66308,17 +66440,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "KR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -66418,17 +66539,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "KR",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -66436,6 +66546,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "KR",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66590,6 +66711,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66799,6 +66931,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "KR",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67089,6 +67232,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -67096,17 +67250,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "KR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68201,7 +68344,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "KR",
     "lat": 58.59761,
@@ -68262,17 +68405,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "KR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68860,17 +68992,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "KR",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -68878,6 +68999,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "KR",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69410,17 +69542,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "KR",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -69428,6 +69549,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "KR",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70125,17 +70257,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "KR",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -70143,6 +70264,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "KR",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70950,17 +71082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "KR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -70968,6 +71089,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "KR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71016,17 +71148,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "KR",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -71034,6 +71155,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "KR",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71962,6 +72094,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -72123,6 +72266,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72398,17 +72552,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "KR",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74459,6 +74602,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "KR",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -75130,17 +75284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "KR",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -75148,6 +75291,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "KR",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77055,17 +77209,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "IN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -77165,17 +77308,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "IN",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -77183,6 +77315,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "IN",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77337,6 +77480,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77546,6 +77700,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "IN",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77836,6 +78001,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -77843,17 +78019,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "IN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78948,7 +79113,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "IN",
     "lat": 58.59761,
@@ -79009,17 +79174,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "IN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79607,17 +79761,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "IN",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -79625,6 +79768,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "IN",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80157,17 +80311,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "IN",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -80175,6 +80318,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "IN",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80872,17 +81026,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "IN",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -80890,6 +81033,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "IN",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81697,17 +81851,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "IN",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -81715,6 +81858,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "IN",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81763,17 +81917,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "IN",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -81781,6 +81924,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "IN",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82709,6 +82863,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -82870,6 +83035,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83145,17 +83321,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "IN",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85206,6 +85371,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "IN",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -85877,17 +86053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "IN",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -85895,6 +86060,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "IN",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87802,17 +87978,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "BR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -87912,17 +88077,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "BR",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -87930,6 +88084,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "BR",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88084,6 +88249,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88293,6 +88469,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "BR",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88583,6 +88770,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -88590,17 +88788,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "BR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89695,7 +89882,7 @@
   },
   {
     "id": "windy-1227083759",
-    "name": "Fjallbacka: Sweden",
+    "name": "Fjallbacka › North: Fjällbacka brygga - Fjällbacka kyrka",
     "city": "Fjallbacka",
     "countryCode": "BR",
     "lat": 58.59761,
@@ -89756,17 +89943,6 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "BR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90354,17 +90530,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "BR",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -90372,6 +90537,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "BR",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90904,17 +91080,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "BR",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -90922,6 +91087,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "BR",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91619,17 +91795,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "BR",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -91637,6 +91802,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "BR",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92444,17 +92620,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "BR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -92462,6 +92627,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "BR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92510,17 +92686,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "BR",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -92528,6 +92693,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "BR",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93456,6 +93632,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -93617,6 +93804,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93892,17 +94090,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "BR",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95953,6 +96140,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "BR",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -96624,17 +96822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "BR",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -96642,6 +96829,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "BR",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98549,17 +98747,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "AU",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -98659,17 +98846,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240237991",
-    "name": "Niagara Falls: Hotel Cam at Sheraton",
-    "city": "Niagara Falls",
-    "countryCode": "AU",
-    "lat": 43.09093,
-    "lng": -79.07292,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1524996977",
     "name": "Tasiilaq › North-east: The Red House",
     "city": "Tasiilaq",
@@ -98677,6 +98853,17 @@
     "lat": 65.61044,
     "lng": -37.62426,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524996977/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240237991",
+    "name": "Niagara Falls: Hotel Cam at Sheraton",
+    "city": "Niagara Falls",
+    "countryCode": "AU",
+    "lat": 43.09093,
+    "lng": -79.07292,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240237991/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98831,6 +99018,17 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99040,6 +99238,17 @@
     "lat": 43.50806,
     "lng": 16.38838,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192026762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1270759331",
+    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
+    "city": "Kunje",
+    "countryCode": "AU",
+    "lat": 42.00446,
+    "lng": 19.15161,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99330,6 +99539,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -99337,17 +99557,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "AU",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100507,17 +100716,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "AU",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -101101,17 +101299,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297187400",
-    "name": "Chania: Πλατεια Δικαστηριων",
-    "city": "Chania",
-    "countryCode": "AU",
-    "lat": 35.50965,
-    "lng": 24.03068,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1400590857",
     "name": "Funchal › South: Monte",
     "city": "unknown",
@@ -101119,6 +101306,17 @@
     "lat": 32.67899,
     "lng": -16.90169,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400590857/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297187400",
+    "name": "Chania: Πλατεια Δικαστηριων",
+    "city": "Chania",
+    "countryCode": "AU",
+    "lat": 35.50965,
+    "lng": 24.03068,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297187400/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101651,17 +101849,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "AU",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -101669,6 +101856,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "AU",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102366,17 +102564,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1456874522",
-    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
-    "city": "Vladivostok",
-    "countryCode": "AU",
-    "lat": 43.1121,
-    "lng": 131.87948,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -102384,6 +102571,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1456874522",
+    "name": "Vladivostok › South-east: Pos'etskaya Vladi",
+    "city": "Vladivostok",
+    "countryCode": "AU",
+    "lat": 43.1121,
+    "lng": 131.87948,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103191,17 +103389,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "AU",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -103209,6 +103396,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "AU",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103257,17 +103455,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "AU",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -103275,6 +103462,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "AU",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104203,6 +104401,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -104364,6 +104573,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104639,17 +104859,6 @@
     "lat": 49.39796,
     "lng": 17.67683,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262043635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1474133008",
-    "name": "West Clare Municipal District: Ennistimon › North: Brandon Bay",
-    "city": "West Clare Municipal District",
-    "countryCode": "AU",
-    "lat": 52.93087,
-    "lng": -9.34646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1474133008/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106700,6 +106909,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1346691615",
+    "name": "Zaragoza › North: Puente de Santiago",
+    "city": "Zaragoza",
+    "countryCode": "AU",
+    "lat": 41.65761,
+    "lng": -0.88142,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -107371,17 +107591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1385571616",
-    "name": "Susice › North: Empírová kašna - náměstí Svobody",
-    "city": "Susice",
-    "countryCode": "AU",
-    "lat": 49.2304,
-    "lng": 13.51987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1619856885",
     "name": "Levanto",
     "city": "Levanto",
@@ -107389,6 +107598,17 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice › North: Empírová kašna - náměstí Svobody",
+    "city": "Susice",
+    "countryCode": "AU",
+    "lat": 49.2304,
+    "lng": 13.51987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107466,17 +107686,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1270759331",
-    "name": "Kunje: Busat › North-west: Uvala maslina - Utjeha - Adriatic Sea",
-    "city": "Kunje",
-    "countryCode": "",
-    "lat": 42.00446,
-    "lng": 19.15161,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1270759331/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
