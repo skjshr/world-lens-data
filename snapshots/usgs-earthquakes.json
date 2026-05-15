@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sxz1",
+    "type": "earthquake",
+    "lat": -17.732,
+    "lng": -70.0593,
+    "intensity": 4.9,
+    "timestamp": "2026-05-15T15:45:18.856Z",
+    "description": "M 4.9 - 11 km WNW of Palca, Peru",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxwq",
     "type": "earthquake",
     "lat": 38.9127,
@@ -57,16 +67,6 @@
     "intensity": 6.2,
     "timestamp": "2026-05-14T17:53:14.710Z",
     "description": "M 6.2 - 271 km WSW of Tual, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxnw",
-    "type": "earthquake",
-    "lat": 25.1362,
-    "lng": 141.443,
-    "intensity": 5.2,
-    "timestamp": "2026-05-14T15:34:06.382Z",
-    "description": "M 5.2 - Volcano Islands, Japan region",
     "source": "USGS"
   }
 ]
