@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sy7u",
+    "type": "earthquake",
+    "lat": -17.7887,
+    "lng": 169.1278,
+    "intensity": 5.2,
+    "timestamp": "2026-05-16T14:07:55.193Z",
+    "description": "M 5.2 - 86 km E of Port-Vila, Vanuatu",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sy7l",
+    "type": "earthquake",
+    "lat": -17.8503,
+    "lng": 169.1937,
+    "intensity": 5.3,
+    "timestamp": "2026-05-16T12:59:30.959Z",
+    "description": "M 5.3 - 94 km E of Port-Vila, Vanuatu",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sy76",
     "type": "earthquake",
     "lat": 6.8241,
