@@ -1023,17 +1023,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "JP",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -1041,6 +1030,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "JP",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3795,17 +3795,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "JP",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -4829,17 +4818,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "JP",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -4847,6 +4825,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "JP",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5808,6 +5797,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -6061,17 +6061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "JP",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -6079,6 +6068,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "JP",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7630,6 +7630,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9933,17 +9944,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "JP",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -9951,6 +9951,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "JP",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10648,17 +10659,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "JP",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -10666,6 +10666,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "JP",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11792,17 +11803,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "US",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -11810,6 +11810,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "US",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14564,17 +14575,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "US",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -15598,17 +15598,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "US",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -15616,6 +15605,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "US",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16577,6 +16577,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -16830,17 +16841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "US",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -16848,6 +16848,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "US",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18399,6 +18410,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20702,17 +20724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "US",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -20720,6 +20731,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "US",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21417,17 +21439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "US",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -21435,6 +21446,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "US",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22561,17 +22583,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "GB",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -22579,6 +22590,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "GB",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25333,17 +25355,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "GB",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -26367,17 +26378,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "GB",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26385,6 +26385,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "GB",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27346,6 +27357,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -27599,17 +27621,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "GB",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -27617,6 +27628,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "GB",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29168,6 +29190,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31471,17 +31504,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "GB",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -31489,6 +31511,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "GB",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32186,17 +32219,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "GB",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -32204,6 +32226,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "GB",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33330,17 +33363,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "DE",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -33348,6 +33370,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "DE",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36102,17 +36135,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "DE",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -37136,17 +37158,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "DE",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37154,6 +37165,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "DE",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38115,6 +38137,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -38368,17 +38401,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "DE",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -38386,6 +38408,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "DE",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39937,6 +39970,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42240,17 +42284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "DE",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -42258,6 +42291,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "DE",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42955,17 +42999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "DE",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -42973,6 +43006,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "DE",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44099,17 +44143,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "FR",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -44117,6 +44150,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "FR",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46871,17 +46915,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "FR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -47905,17 +47938,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "FR",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -47923,6 +47945,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "FR",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48884,6 +48917,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -49137,17 +49181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "FR",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -49155,6 +49188,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "FR",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50706,6 +50750,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53009,17 +53064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "FR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -53027,6 +53071,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "FR",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53724,17 +53779,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "FR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -53742,6 +53786,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "FR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54868,17 +54923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "CN",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -54886,6 +54930,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "CN",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57640,17 +57695,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "CN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -58674,17 +58718,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "CN",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -58692,6 +58725,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "CN",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59653,6 +59697,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -59906,17 +59961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "CN",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -59924,6 +59968,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "CN",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61475,6 +61530,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63778,17 +63844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "CN",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -63796,6 +63851,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "CN",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64493,17 +64559,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "CN",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -64511,6 +64566,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "CN",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65637,17 +65703,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "KR",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -65655,6 +65710,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "KR",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68409,17 +68475,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "KR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -69443,17 +69498,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "KR",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -69461,6 +69505,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "KR",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70422,6 +70477,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -70675,17 +70741,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "KR",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -70693,6 +70748,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "KR",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72244,6 +72310,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74547,17 +74624,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "KR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -74565,6 +74631,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "KR",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75262,17 +75339,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "KR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -75280,6 +75346,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "KR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76406,17 +76483,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "IN",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -76424,6 +76490,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "IN",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79178,17 +79255,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "IN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -80212,17 +80278,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "IN",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -80230,6 +80285,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "IN",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81191,6 +81257,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -81444,17 +81521,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "IN",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -81462,6 +81528,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "IN",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83013,6 +83090,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85316,17 +85404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "IN",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -85334,6 +85411,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "IN",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86031,17 +86119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "IN",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -86049,6 +86126,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "IN",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87175,17 +87263,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "BR",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -87193,6 +87270,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "BR",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89947,17 +90035,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "BR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -90981,17 +91058,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "BR",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -90999,6 +91065,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "BR",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91960,6 +92037,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -92213,17 +92301,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "BR",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -92231,6 +92308,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "BR",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93782,6 +93870,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96085,17 +96184,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "BR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -96103,6 +96191,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "BR",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96800,17 +96899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "BR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -96818,6 +96906,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "BR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97944,17 +98043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332931140",
-    "name": "Enontekio › North: Saana - Kilpisjärvi",
-    "city": "Enontekio",
-    "countryCode": "AU",
-    "lat": 69.01711,
-    "lng": 20.87385,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1622904818",
     "name": "Oukaimeden › South-east: Observatoire Trappist",
     "city": "Oukaimeden",
@@ -97962,6 +98050,17 @@
     "lat": 31.20611,
     "lng": -7.86658,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1622904818/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332931140",
+    "name": "Enontekio › North: Saana - Kilpisjärvi",
+    "city": "Enontekio",
+    "countryCode": "AU",
+    "lat": 69.01711,
+    "lng": 20.87385,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332931140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100716,17 +100815,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "AU",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -101750,17 +101838,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "AU",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -101768,6 +101845,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "AU",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102729,6 +102817,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -102982,17 +103081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186402124",
-    "name": "Speyerdorf: Speyer Cathedral",
-    "city": "Speyerdorf",
-    "countryCode": "AU",
-    "lat": 49.31747,
-    "lng": 8.43769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357984557",
     "name": "Stari Grad Urban Municipality: Belgrade Live - Trg republike",
     "city": "Stari Grad Urban Municipality",
@@ -103000,6 +103088,17 @@
     "lat": 44.81611,
     "lng": 20.46107,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357984557/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186402124",
+    "name": "Speyerdorf: Speyer Cathedral",
+    "city": "Speyerdorf",
+    "countryCode": "AU",
+    "lat": 49.31747,
+    "lng": 8.43769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186402124/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104551,6 +104650,17 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106854,17 +106964,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "AU",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -106872,6 +106971,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "AU",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107569,17 +107679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "AU",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1278244720",
     "name": "Jerusalem: Old City",
     "city": "Jerusalem",
@@ -107587,6 +107686,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "AU",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
