@@ -605,17 +605,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "JP",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -2684,17 +2673,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "JP",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -3674,17 +3652,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "JP",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -4642,17 +4609,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "JP",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -4660,6 +4616,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "JP",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5731,6 +5698,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -6215,17 +6193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "JP",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -6347,17 +6314,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "JP",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -6365,6 +6321,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "JP",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7227,17 +7194,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "JP",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -7337,17 +7293,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "JP",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -7355,6 +7300,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "JP",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7920,17 +7876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "JP",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -8004,17 +7949,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "JP",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8547,17 +8481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "JP",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -8569,13 +8492,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "JP",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8862,6 +8785,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "JP",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9790,17 +9724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "JP",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -9808,6 +9731,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "JP",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9944,17 +9878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "JP",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -9962,6 +9885,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "JP",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10659,17 +10593,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "JP",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -10721,6 +10644,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11330,17 +11264,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "US",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -13409,17 +13332,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "US",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -14399,17 +14311,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "US",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -15367,17 +15268,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "US",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -15385,6 +15275,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "US",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16456,6 +16357,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -16940,17 +16852,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "US",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -17072,17 +16973,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "US",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -17090,6 +16980,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "US",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17952,17 +17853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "US",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -18062,17 +17952,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "US",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -18080,6 +17959,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "US",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18645,17 +18535,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "US",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -18729,17 +18608,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "US",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19272,17 +19140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "US",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -19294,13 +19151,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "US",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19587,6 +19444,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "US",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20515,17 +20383,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "US",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -20533,6 +20390,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "US",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20669,17 +20537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "US",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -20687,6 +20544,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "US",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21384,17 +21252,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "US",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -21446,6 +21303,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22055,17 +21923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "GB",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -24134,17 +23991,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -25124,17 +24970,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "GB",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -26092,17 +25927,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "GB",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -26110,6 +25934,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "GB",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27181,6 +27016,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -27665,17 +27511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "GB",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -27797,17 +27632,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "GB",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -27815,6 +27639,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "GB",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28677,17 +28512,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "GB",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -28787,17 +28611,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "GB",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -28805,6 +28618,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "GB",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29370,17 +29194,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "GB",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -29454,17 +29267,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "GB",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29997,17 +29799,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "GB",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -30019,13 +29810,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "GB",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30312,6 +30103,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "GB",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31240,17 +31042,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "GB",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -31258,6 +31049,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "GB",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31394,17 +31196,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "GB",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -31412,6 +31203,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "GB",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32109,17 +31911,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "GB",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -32171,6 +31962,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32780,17 +32582,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "DE",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -34859,17 +34650,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -35849,17 +35629,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "DE",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -36817,17 +36586,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "DE",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -36835,6 +36593,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "DE",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37906,6 +37675,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -38390,17 +38170,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "DE",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -38522,17 +38291,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "DE",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -38540,6 +38298,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "DE",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39402,17 +39171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "DE",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -39512,17 +39270,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "DE",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -39530,6 +39277,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "DE",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40095,17 +39853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "DE",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -40179,17 +39926,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "DE",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40722,17 +40458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "DE",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -40744,13 +40469,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "DE",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41037,6 +40762,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "DE",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41965,17 +41701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "DE",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -41983,6 +41708,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "DE",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42119,17 +41855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "DE",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -42137,6 +41862,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "DE",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42834,17 +42570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "DE",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -42896,6 +42621,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43505,17 +43241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "FR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -45584,17 +45309,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -46574,17 +46288,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "FR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -47542,17 +47245,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "FR",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -47560,6 +47252,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "FR",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48631,6 +48334,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -49115,17 +48829,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "FR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -49247,17 +48950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "FR",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -49265,6 +48957,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "FR",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50127,17 +49830,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "FR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -50237,17 +49929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "FR",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -50255,6 +49936,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "FR",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50820,17 +50512,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "FR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -50904,17 +50585,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "FR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51447,17 +51117,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "FR",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -51469,13 +51128,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "FR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51762,6 +51421,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "FR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52690,17 +52360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "FR",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -52708,6 +52367,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "FR",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52844,17 +52514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "FR",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -52862,6 +52521,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "FR",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53559,17 +53229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "FR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -53621,6 +53280,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54230,17 +53900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "CN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -56309,17 +55968,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -57299,17 +56947,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "CN",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -58267,17 +57904,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "CN",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -58285,6 +57911,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "CN",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59356,6 +58993,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -59840,17 +59488,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "CN",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -59972,17 +59609,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "CN",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -59990,6 +59616,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "CN",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60852,17 +60489,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "CN",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -60962,17 +60588,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "CN",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -60980,6 +60595,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "CN",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61545,17 +61171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "CN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -61629,17 +61244,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "CN",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62172,17 +61776,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "CN",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -62194,13 +61787,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "CN",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62487,6 +62080,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "CN",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63415,17 +63019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "CN",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -63433,6 +63026,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "CN",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63569,17 +63173,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "CN",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -63587,6 +63180,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "CN",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64284,17 +63888,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "CN",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -64346,6 +63939,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64955,17 +64559,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "KR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -67034,17 +66627,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -68024,17 +67606,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "KR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -68992,17 +68563,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "KR",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -69010,6 +68570,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "KR",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70081,6 +69652,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -70565,17 +70147,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "KR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -70697,17 +70268,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "KR",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -70715,6 +70275,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "KR",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71577,17 +71148,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "KR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -71687,17 +71247,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "KR",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -71705,6 +71254,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "KR",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72270,17 +71830,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "KR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -72354,17 +71903,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "KR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72897,17 +72435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "KR",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -72919,13 +72446,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "KR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73212,6 +72739,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "KR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74140,17 +73678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "KR",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -74158,6 +73685,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "KR",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74294,17 +73832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "KR",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -74312,6 +73839,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "KR",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75009,17 +74547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "KR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -75071,6 +74598,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75680,17 +75218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "IN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -77759,17 +77286,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -78749,17 +78265,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "IN",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -79717,17 +79222,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "IN",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -79735,6 +79229,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "IN",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80806,6 +80311,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -81290,17 +80806,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "IN",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -81422,17 +80927,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "IN",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -81440,6 +80934,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "IN",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82302,17 +81807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "IN",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -82412,17 +81906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "IN",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -82430,6 +81913,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "IN",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82995,17 +82489,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "IN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -83079,17 +82562,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "IN",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83622,17 +83094,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "IN",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -83644,13 +83105,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "IN",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83937,6 +83398,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "IN",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84865,17 +84337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "IN",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -84883,6 +84344,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "IN",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85019,17 +84491,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "IN",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -85037,6 +84498,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "IN",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85734,17 +85206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "IN",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -85796,6 +85257,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86405,17 +85877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "BR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -88484,17 +87945,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -89474,17 +88924,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "BR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -90442,17 +89881,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "BR",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -90460,6 +89888,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "BR",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91531,6 +90970,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -92015,17 +91465,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "BR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -92147,17 +91586,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "BR",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -92165,6 +91593,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "BR",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93027,17 +92466,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "BR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -93137,17 +92565,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "BR",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -93155,6 +92572,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "BR",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93720,17 +93148,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "BR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -93804,17 +93221,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "BR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94347,17 +93753,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "BR",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -94369,13 +93764,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "BR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94662,6 +94057,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "BR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95590,17 +94996,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "BR",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -95608,6 +95003,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "BR",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95744,17 +95150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "BR",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -95762,6 +95157,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "BR",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96459,17 +95865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "BR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -96521,6 +95916,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97130,17 +96536,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "AU",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -99209,17 +98604,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -100199,17 +99583,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "AU",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1280907006",
     "name": "Koscielisko: Czerwone Wierchy i Giewont",
     "city": "Koscielisko",
@@ -101167,17 +100540,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1341499778",
-    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
-    "city": "Dagebüll",
-    "countryCode": "AU",
-    "lat": 54.73052,
-    "lng": 8.68717,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -101185,6 +100547,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1341499778",
+    "name": "Dagebüll: Pegelturm auf der Dagebüller Mole",
+    "city": "Dagebüll",
+    "countryCode": "AU",
+    "lat": 54.73052,
+    "lng": 8.68717,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341499778/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102256,6 +101629,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -102740,17 +102124,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "AU",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1241198071",
     "name": "Trutnov › North-west: Krakonošovo nám",
     "city": "Trutnov",
@@ -102872,17 +102245,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "AU",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -102890,6 +102252,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "AU",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103752,17 +103125,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "AU",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1487933492",
     "name": "Sarajevo: Trg Bosne i Hercegovine",
     "city": "Sarajevo",
@@ -103862,17 +103224,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1212217494",
-    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
-    "city": "Muonio",
-    "countryCode": "AU",
-    "lat": 67.86093,
-    "lng": 24.12451,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1237910249",
     "name": "Zermatt: Blick auf das Matterhorn vom Balkon des Hotel Ambiance",
     "city": "Zermatt",
@@ -103880,6 +103231,17 @@
     "lat": 46.0195,
     "lng": 7.74673,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237910249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1212217494",
+    "name": "Muonio: Tie 79 - Äkäsjärvi - Muonioon",
+    "city": "Muonio",
+    "countryCode": "AU",
+    "lat": 67.86093,
+    "lng": 24.12451,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212217494/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104445,17 +103807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "AU",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -104529,17 +103880,6 @@
     "lat": 50.69898,
     "lng": 15.73465,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235117487/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "AU",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105072,17 +104412,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "AU",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -105094,13 +104423,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
     "countryCode": "AU",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105387,6 +104716,17 @@
     "lat": 46.89788,
     "lng": 11.4317,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793872003/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "AU",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106315,17 +105655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384960952",
-    "name": "Pordenone › North: Corso Vittorio Emanuele II",
-    "city": "Pordenone",
-    "countryCode": "AU",
-    "lat": 45.95451,
-    "lng": 12.66014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481310",
     "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
     "city": "Limone Piemonte",
@@ -106333,6 +105662,17 @@
     "lat": 44.19849,
     "lng": 7.58523,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384960952",
+    "name": "Pordenone › North: Corso Vittorio Emanuele II",
+    "city": "Pordenone",
+    "countryCode": "AU",
+    "lat": 45.95451,
+    "lng": 12.66014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384960952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106469,17 +105809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1353235460",
-    "name": "Weinfelden: Stelzenhof",
-    "city": "Weinfelden",
-    "countryCode": "AU",
-    "lat": 47.58203,
-    "lng": 9.11985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346691615",
     "name": "Zaragoza › North: Puente de Santiago",
     "city": "Zaragoza",
@@ -106487,6 +105816,17 @@
     "lat": 41.65761,
     "lng": -0.88142,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346691615/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1353235460",
+    "name": "Weinfelden: Stelzenhof",
+    "city": "Weinfelden",
+    "countryCode": "AU",
+    "lat": 47.58203,
+    "lng": 9.11985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1353235460/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107184,17 +106524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "AU",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499191860",
     "name": "Hessi Jerbi: Djerba Kite Lagoon",
     "city": "Hessi Jerbi",
@@ -107246,6 +106575,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1628711875",
+    "name": "North Slope: Toolik Lake",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 68.62792,
+    "lng": -149.59788,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1628711875/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
