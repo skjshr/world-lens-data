@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sy9z",
+    "type": "earthquake",
+    "lat": 13.0317,
+    "lng": 93.7365,
+    "intensity": 4.7,
+    "timestamp": "2026-05-16T21:16:17.475Z",
+    "description": "M 4.7 - 184 km NE of Bamboo Flat, India",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sy90",
     "type": "earthquake",
     "lat": -17.8726,
@@ -137,16 +147,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-15T22:20:25.566Z",
     "description": "M 4.5 - 212 km E of Levuka, Fiji",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sy3u",
-    "type": "earthquake",
-    "lat": -17.8372,
-    "lng": -178.6268,
-    "intensity": 4.7,
-    "timestamp": "2026-05-15T21:15:25.536Z",
-    "description": "M 4.7 - 219 km E of Levuka, Fiji",
     "source": "USGS"
   }
 ]
