@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sy5x",
+    "type": "earthquake",
+    "lat": -31.9282,
+    "lng": -178.203,
+    "intensity": 5,
+    "timestamp": "2026-05-16T06:48:55.360Z",
+    "description": "M 5.0 - Kermadec Islands region",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sy5s",
+    "type": "earthquake",
+    "lat": -15.5201,
+    "lng": -175.0816,
+    "intensity": 4.6,
+    "timestamp": "2026-05-16T06:29:07.587Z",
+    "description": "M 4.6 - 145 km WNW of Hihifo, Tonga",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sy50",
     "type": "earthquake",
     "lat": -21.8473,
@@ -37,6 +57,16 @@
     "intensity": 4.7,
     "timestamp": "2026-05-15T21:15:25.536Z",
     "description": "M 4.7 - 219 km E of Levuka, Fiji",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sy5n",
+    "type": "earthquake",
+    "lat": -17.9867,
+    "lng": 169.176,
+    "intensity": 4.6,
+    "timestamp": "2026-05-15T18:28:04.147Z",
+    "description": "M 4.6 - 95 km ESE of Port-Vila, Vanuatu",
     "source": "USGS"
   },
   {
