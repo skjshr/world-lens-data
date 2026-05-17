@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000syd2",
+    "type": "earthquake",
+    "lat": 11.0493,
+    "lng": 95.1108,
+    "intensity": 4.6,
+    "timestamp": "2026-05-17T09:38:20.685Z",
+    "description": "M 4.6 - 266 km ESE of Port Blair, India",
+    "source": "USGS"
+  },
+  {
     "id": "us6000syc2",
     "type": "earthquake",
     "lat": 50.8432,
