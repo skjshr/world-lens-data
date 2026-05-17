@@ -1,5 +1,35 @@
 [
   {
+    "id": "us6000sybb",
+    "type": "earthquake",
+    "lat": -39.6956,
+    "lng": 178.891,
+    "intensity": 4.5,
+    "timestamp": "2026-05-17T03:20:37.916Z",
+    "description": "M 4.5 - 132 km SSE of Wainui, New Zealand",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000syb1",
+    "type": "earthquake",
+    "lat": -23.6354,
+    "lng": -67.7526,
+    "intensity": 4.5,
+    "timestamp": "2026-05-17T01:35:32.854Z",
+    "description": "M 4.5 - 92 km SSE of San Pedro de Atacama, Chile",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000syak",
+    "type": "earthquake",
+    "lat": 39.9621,
+    "lng": 142.9476,
+    "intensity": 4.7,
+    "timestamp": "2026-05-17T00:07:28.770Z",
+    "description": "M 4.7 - 93 km ENE of Miyako, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sy9z",
     "type": "earthquake",
     "lat": 13.0317,
@@ -117,26 +147,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-16T06:29:07.587Z",
     "description": "M 4.6 - 145 km WNW of Hihifo, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sy50",
-    "type": "earthquake",
-    "lat": -21.8473,
-    "lng": -68.4323,
-    "intensity": 4.8,
-    "timestamp": "2026-05-16T01:59:43.392Z",
-    "description": "M 4.8 - 71 km SSW of Ollagüe, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sy4v",
-    "type": "earthquake",
-    "lat": -32.555,
-    "lng": -178.5946,
-    "intensity": 4.6,
-    "timestamp": "2026-05-16T01:22:16.192Z",
-    "description": "M 4.6 - south of the Kermadec Islands",
     "source": "USGS"
   }
 ]
