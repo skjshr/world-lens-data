@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sydj",
+    "type": "earthquake",
+    "lat": -18.4975,
+    "lng": -175.8068,
+    "intensity": 4.5,
+    "timestamp": "2026-05-17T13:16:28.929Z",
+    "description": "M 4.5 - 193 km W of Neiafu, Tonga",
+    "source": "USGS"
+  },
+  {
     "id": "us6000syd2",
     "type": "earthquake",
     "lat": 11.0493,
@@ -127,16 +137,6 @@
     "intensity": 5.2,
     "timestamp": "2026-05-16T14:07:54.649Z",
     "description": "M 5.2 - 94 km E of Port-Vila, Vanuatu",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sy7l",
-    "type": "earthquake",
-    "lat": -17.8503,
-    "lng": 169.1937,
-    "intensity": 5.3,
-    "timestamp": "2026-05-16T12:59:30.959Z",
-    "description": "M 5.3 - 94 km E of Port-Vila, Vanuatu",
     "source": "USGS"
   }
 ]
