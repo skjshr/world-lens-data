@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sye4",
+    "type": "earthquake",
+    "lat": 24.457,
+    "lng": 109.2182,
+    "intensity": 5,
+    "timestamp": "2026-05-17T16:21:06.387Z",
+    "description": "M 5.0 - 24 km NW of Liuzhou, China",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sydv",
+    "type": "earthquake",
+    "lat": -7.2738,
+    "lng": 106.6539,
+    "intensity": 4.5,
+    "timestamp": "2026-05-17T15:14:59.792Z",
+    "description": "M 4.5 - 33 km SSE of Pelabuhanratu, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sydk",
     "type": "earthquake",
     "lat": -23.4056,

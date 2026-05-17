@@ -176,6 +176,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "JP",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -1441,17 +1452,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "JP",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -1459,6 +1459,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "JP",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1717,7 +1728,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "JP",
     "lat": 46.65354,
@@ -2097,17 +2108,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2592,17 +2592,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4610,7 +4599,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "JP",
     "lat": 46.89002,
@@ -5039,7 +5028,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "JP",
     "lat": 46.62704,
@@ -5122,6 +5111,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "JP",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5522,17 +5522,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "JP",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -5540,6 +5529,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "JP",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6886,17 +6886,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "JP",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -6904,6 +6893,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "JP",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7678,17 +7678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "JP",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -7696,6 +7685,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "JP",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7964,6 +7964,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "JP",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -8063,17 +8074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "JP",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -8081,6 +8081,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "JP",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8712,17 +8723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "JP",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -8730,6 +8730,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "JP",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9218,17 +9229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "JP",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -9236,6 +9236,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "JP",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9669,17 +9680,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "JP",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -9687,6 +9687,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "JP",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10659,17 +10670,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "JP",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -10677,6 +10677,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "JP",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10743,28 +10754,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "JP",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "JP",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10945,6 +10934,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "US",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -12210,17 +12210,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "US",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -12228,6 +12217,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "US",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12486,7 +12486,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "US",
     "lat": 46.65354,
@@ -12866,17 +12866,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13361,17 +13350,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15379,7 +15357,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "US",
     "lat": 46.89002,
@@ -15808,7 +15786,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "US",
     "lat": 46.62704,
@@ -15891,6 +15869,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "US",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16291,17 +16280,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "US",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -16309,6 +16287,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "US",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17655,17 +17644,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "US",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -17673,6 +17651,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "US",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18447,17 +18436,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "US",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -18465,6 +18443,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "US",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18733,6 +18722,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "US",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -18832,17 +18832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "US",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -18850,6 +18839,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "US",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19481,17 +19481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "US",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -19499,6 +19488,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "US",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19987,17 +19987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "US",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -20005,6 +19994,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "US",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20438,17 +20438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "US",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -20456,6 +20445,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "US",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21428,17 +21428,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "US",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -21446,6 +21435,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "US",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21512,28 +21512,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "US",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "US",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21714,6 +21692,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "GB",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -22979,17 +22968,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "GB",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -22997,6 +22975,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "GB",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23255,7 +23244,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "GB",
     "lat": 46.65354,
@@ -23635,17 +23624,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24130,17 +24108,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26148,7 +26115,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "GB",
     "lat": 46.89002,
@@ -26577,7 +26544,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "GB",
     "lat": 46.62704,
@@ -26660,6 +26627,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "GB",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27060,17 +27038,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "GB",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -27078,6 +27045,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "GB",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28424,17 +28402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "GB",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -28442,6 +28409,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "GB",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29216,17 +29194,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "GB",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -29234,6 +29201,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "GB",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29502,6 +29480,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "GB",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -29601,17 +29590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "GB",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -29619,6 +29597,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "GB",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30250,17 +30239,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "GB",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -30268,6 +30246,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "GB",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30756,17 +30745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "GB",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -30774,6 +30752,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "GB",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31207,17 +31196,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "GB",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -31225,6 +31203,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "GB",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32197,17 +32186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "GB",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -32215,6 +32193,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "GB",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32281,28 +32270,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "GB",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "GB",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32483,6 +32450,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "DE",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -33748,17 +33726,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "DE",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -33766,6 +33733,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "DE",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34024,7 +34002,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "DE",
     "lat": 46.65354,
@@ -34404,17 +34382,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34899,17 +34866,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36917,7 +36873,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "DE",
     "lat": 46.89002,
@@ -37346,7 +37302,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "DE",
     "lat": 46.62704,
@@ -37429,6 +37385,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "DE",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37829,17 +37796,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "DE",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -37847,6 +37803,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "DE",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39193,17 +39160,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "DE",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -39211,6 +39167,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "DE",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39985,17 +39952,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "DE",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -40003,6 +39959,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "DE",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40271,6 +40238,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "DE",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -40370,17 +40348,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "DE",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -40388,6 +40355,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "DE",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41019,17 +40997,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "DE",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -41037,6 +41004,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "DE",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41525,17 +41503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "DE",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -41543,6 +41510,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "DE",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41976,17 +41954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "DE",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -41994,6 +41961,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "DE",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42966,17 +42944,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "DE",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -42984,6 +42951,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "DE",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43050,28 +43028,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "DE",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "DE",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43252,6 +43208,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "FR",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -44517,17 +44484,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "FR",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -44535,6 +44491,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "FR",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44793,7 +44760,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "FR",
     "lat": 46.65354,
@@ -45173,17 +45140,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45668,17 +45624,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47686,7 +47631,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "FR",
     "lat": 46.89002,
@@ -48115,7 +48060,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "FR",
     "lat": 46.62704,
@@ -48198,6 +48143,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "FR",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48598,17 +48554,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "FR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -48616,6 +48561,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "FR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49962,17 +49918,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "FR",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -49980,6 +49925,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "FR",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50754,17 +50710,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "FR",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -50772,6 +50717,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "FR",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51040,6 +50996,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "FR",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -51139,17 +51106,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "FR",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -51157,6 +51113,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "FR",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51788,17 +51755,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "FR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -51806,6 +51762,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "FR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52294,17 +52261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "FR",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -52312,6 +52268,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "FR",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52745,17 +52712,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "FR",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -52763,6 +52719,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "FR",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53735,17 +53702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "FR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -53753,6 +53709,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "FR",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53819,28 +53786,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "FR",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "FR",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54021,6 +53966,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "CN",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -55286,17 +55242,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "CN",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -55304,6 +55249,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "CN",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55562,7 +55518,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "CN",
     "lat": 46.65354,
@@ -55942,17 +55898,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56437,17 +56382,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58455,7 +58389,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "CN",
     "lat": 46.89002,
@@ -58884,7 +58818,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "CN",
     "lat": 46.62704,
@@ -58967,6 +58901,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "CN",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59367,17 +59312,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "CN",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -59385,6 +59319,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "CN",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60731,17 +60676,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "CN",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -60749,6 +60683,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "CN",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61523,17 +61468,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "CN",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -61541,6 +61475,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "CN",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61809,6 +61754,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "CN",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -61908,17 +61864,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "CN",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -61926,6 +61871,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "CN",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62557,17 +62513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "CN",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -62575,6 +62520,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "CN",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63063,17 +63019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "CN",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -63081,6 +63026,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "CN",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63514,17 +63470,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "CN",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -63532,6 +63477,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "CN",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64504,17 +64460,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "CN",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -64522,6 +64467,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "CN",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64588,28 +64544,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "CN",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "CN",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64790,6 +64724,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "KR",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -66055,17 +66000,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "KR",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -66073,6 +66007,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "KR",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66331,7 +66276,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "KR",
     "lat": 46.65354,
@@ -66711,17 +66656,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67206,17 +67140,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69224,7 +69147,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "KR",
     "lat": 46.89002,
@@ -69653,7 +69576,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "KR",
     "lat": 46.62704,
@@ -69736,6 +69659,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "KR",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70136,17 +70070,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "KR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -70154,6 +70077,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "KR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71500,17 +71434,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "KR",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -71518,6 +71441,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "KR",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72292,17 +72226,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "KR",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -72310,6 +72233,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "KR",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72578,6 +72512,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "KR",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -72677,17 +72622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "KR",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -72695,6 +72629,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "KR",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73326,17 +73271,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "KR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -73344,6 +73278,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "KR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73832,17 +73777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "KR",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -73850,6 +73784,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "KR",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74283,17 +74228,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "KR",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -74301,6 +74235,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "KR",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75273,17 +75218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "KR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -75291,6 +75225,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "KR",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75357,28 +75302,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "KR",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "KR",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75559,6 +75482,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "IN",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -76824,17 +76758,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "IN",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -76842,6 +76765,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "IN",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77100,7 +77034,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "IN",
     "lat": 46.65354,
@@ -77480,17 +77414,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77975,17 +77898,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79993,7 +79905,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "IN",
     "lat": 46.89002,
@@ -80422,7 +80334,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "IN",
     "lat": 46.62704,
@@ -80505,6 +80417,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "IN",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80905,17 +80828,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "IN",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -80923,6 +80835,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "IN",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82269,17 +82192,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "IN",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -82287,6 +82199,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "IN",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83061,17 +82984,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "IN",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -83079,6 +82991,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "IN",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83347,6 +83270,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "IN",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -83446,17 +83380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "IN",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -83464,6 +83387,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "IN",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84095,17 +84029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "IN",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -84113,6 +84036,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "IN",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84601,17 +84535,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "IN",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -84619,6 +84542,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "IN",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85052,17 +84986,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "IN",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -85070,6 +84993,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "IN",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86042,17 +85976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "IN",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -86060,6 +85983,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "IN",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86126,28 +86060,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "IN",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "IN",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86328,6 +86240,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "BR",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -87593,17 +87516,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "BR",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -87611,6 +87523,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "BR",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87869,7 +87792,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "BR",
     "lat": 46.65354,
@@ -88249,17 +88172,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88744,17 +88656,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90762,7 +90663,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "BR",
     "lat": 46.89002,
@@ -91191,7 +91092,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "BR",
     "lat": 46.62704,
@@ -91274,6 +91175,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "BR",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91674,17 +91586,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "BR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -91692,6 +91593,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "BR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93038,17 +92950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "BR",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -93056,6 +92957,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "BR",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93830,17 +93742,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "BR",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -93848,6 +93749,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "BR",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94116,6 +94028,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "BR",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -94215,17 +94138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "BR",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -94233,6 +94145,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "BR",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94864,17 +94787,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "BR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -94882,6 +94794,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "BR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95370,17 +95293,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "BR",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -95388,6 +95300,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "BR",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95821,17 +95744,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "BR",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -95839,6 +95751,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "BR",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96811,17 +96734,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "BR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -96829,6 +96741,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "BR",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96895,28 +96818,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "BR",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "BR",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97097,6 +96998,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697031757",
+    "name": "Wildhaus-Alt St. Johann: Säntis",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "AU",
+    "lat": 47.24922,
+    "lng": 9.3432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697031757/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1010909487",
     "name": "Elm: Munggä Hüttä",
     "city": "Elm",
@@ -98362,17 +98274,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1288116500",
-    "name": "Turin › South-east: vista verso sud",
-    "city": "Turin",
-    "countryCode": "AU",
-    "lat": 45.08078,
-    "lng": 7.69478,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234951380",
     "name": "Diomede: Dateline Cam, Little",
     "city": "Diomede",
@@ -98380,6 +98281,17 @@
     "lat": 65.75887,
     "lng": -168.95112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234951380/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1288116500",
+    "name": "Turin › South-east: vista verso sud",
+    "city": "Turin",
+    "countryCode": "AU",
+    "lat": 45.08078,
+    "lng": 7.69478,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98638,7 +98550,7 @@
   },
   {
     "id": "windy-1232134737",
-    "name": "Goschenen: Göscheneralp",
+    "name": "Goschenen › North-west: Salbitschijen - Hoch Horefellistock - Rorspitzli",
     "city": "Goschenen",
     "countryCode": "AU",
     "lat": 46.65354,
@@ -99018,17 +98930,6 @@
     "lat": 46.48455,
     "lng": 9.82,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1698744503/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99513,17 +99414,6 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101531,7 +101421,7 @@
   },
   {
     "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
+    "name": "Heidbuhl › North: Gyrsgrat",
     "city": "Heidbuhl",
     "countryCode": "AU",
     "lat": 46.89002,
@@ -101960,7 +101850,7 @@
   },
   {
     "id": "windy-1697036295",
-    "name": "Grindelwald: Kirchbühl",
+    "name": "Grindelwald › South-east: Mettenberg - Kleines Schreckhorn",
     "city": "Grindelwald",
     "countryCode": "AU",
     "lat": 46.62704,
@@ -102043,6 +101933,17 @@
     "lat": 34.83919,
     "lng": 32.47449,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "AU",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102443,17 +102344,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "AU",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -102461,6 +102351,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "AU",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103807,17 +103708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1686863167",
-    "name": "Old Toronto › West: High Park Village",
-    "city": "Old Toronto",
-    "countryCode": "AU",
-    "lat": 43.65653,
-    "lng": -79.46438,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -103825,6 +103715,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1686863167",
+    "name": "Old Toronto › West: High Park Village",
+    "city": "Old Toronto",
+    "countryCode": "AU",
+    "lat": 43.65653,
+    "lng": -79.46438,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1686863167/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104599,17 +104500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "AU",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1170888461",
     "name": "Capoliveri › South-east: Lacona Beach - Tortuga Beach Club",
     "city": "Capoliveri",
@@ -104617,6 +104507,17 @@
     "lat": 42.7599,
     "lng": 10.29988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1170888461/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "AU",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104885,6 +104786,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1327827048",
+    "name": "Korenov: Jizerka",
+    "city": "Korenov",
+    "countryCode": "AU",
+    "lat": 50.82493,
+    "lng": 15.33665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1327827048/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -104984,17 +104896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1440861949",
-    "name": "Plerin: Plage des Rosaires",
-    "city": "Plerin",
-    "countryCode": "AU",
-    "lat": 48.56375,
-    "lng": -2.75636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -105002,6 +104903,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1440861949",
+    "name": "Plerin: Plage des Rosaires",
+    "city": "Plerin",
+    "countryCode": "AU",
+    "lat": 48.56375,
+    "lng": -2.75636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440861949/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105633,17 +105545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "AU",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio › West: La Sirenetta - Piazza Palombari dell'Artiglio - Euro Beach Soccer League Superfinal Viareggio 2025 - Porto di Viareggio",
     "city": "Viareggio",
@@ -105651,6 +105552,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "AU",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106139,17 +106051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "AU",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -106157,6 +106058,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "AU",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106590,17 +106502,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1298949101",
-    "name": "Napier: Beach",
-    "city": "Napier",
-    "countryCode": "AU",
-    "lat": -39.48742,
-    "lng": 176.92017,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -106608,6 +106509,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1298949101",
+    "name": "Napier: Beach",
+    "city": "Napier",
+    "countryCode": "AU",
+    "lat": -39.48742,
+    "lng": 176.92017,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1298949101/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107580,17 +107492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "AU",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1416154217",
     "name": "Vilnius: Vilniaus širdis",
     "city": "Vilnius",
@@ -107598,6 +107499,17 @@
     "lat": 54.68496,
     "lng": 25.2855,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1256292851",
+    "name": "Grimmialp › North: Diemtigtal - Grimmialp",
+    "city": "Grimmialp",
+    "countryCode": "AU",
+    "lat": 46.56651,
+    "lng": 7.47944,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107664,28 +107576,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "AU",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1171290750",
-    "name": "Bielefeld › West: Jahnplatz",
-    "city": "Bielefeld",
-    "countryCode": "AU",
-    "lat": 52.02354,
-    "lng": 8.53448,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171290750/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
