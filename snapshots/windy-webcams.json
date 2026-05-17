@@ -1452,17 +1452,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "JP",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -1470,6 +1459,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "JP",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3795,17 +3795,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "JP",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -5566,6 +5555,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "JP",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -6864,17 +6864,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "JP",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -6882,6 +6871,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "JP",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7469,17 +7469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "JP",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -7491,13 +7480,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "JP",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8789,17 +8778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "JP",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -8811,13 +8789,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "JP",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8829,6 +8807,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "JP",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8921,17 +8910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "JP",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -8939,6 +8917,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "JP",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9119,17 +9108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "JP",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -9137,6 +9115,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "JP",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10241,17 +10230,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -10307,17 +10285,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "JP",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -10325,6 +10292,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "JP",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12265,17 +12243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "US",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -12283,6 +12250,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "US",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14608,17 +14586,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "US",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -16379,6 +16346,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "US",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -17677,17 +17655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "US",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -17695,6 +17662,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "US",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18282,17 +18260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "US",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -18304,13 +18271,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "US",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19602,17 +19569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "US",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -19624,13 +19580,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "US",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19642,6 +19598,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "US",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19734,17 +19701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "US",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -19752,6 +19708,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "US",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19932,17 +19899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "US",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -19950,6 +19906,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "US",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21054,17 +21021,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -21120,17 +21076,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "US",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -21138,6 +21083,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "US",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23078,17 +23034,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "GB",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -23096,6 +23041,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "GB",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25421,17 +25377,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "GB",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -27192,6 +27137,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "GB",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -28490,17 +28446,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "GB",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -28508,6 +28453,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "GB",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29095,17 +29051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "GB",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -29117,13 +29062,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "GB",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30415,17 +30360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "GB",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -30437,13 +30371,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "GB",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30455,6 +30389,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "GB",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30547,17 +30492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "GB",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -30565,6 +30499,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "GB",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30745,17 +30690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "GB",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -30763,6 +30697,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "GB",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31867,17 +31812,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -31933,17 +31867,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "GB",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -31951,6 +31874,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "GB",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33891,17 +33825,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "DE",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -33909,6 +33832,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "DE",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36234,17 +36168,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "DE",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -38005,6 +37928,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "DE",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -39303,17 +39237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "DE",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -39321,6 +39244,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "DE",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39908,17 +39842,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "DE",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -39930,13 +39853,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "DE",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41228,17 +41151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "DE",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -41250,13 +41162,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "DE",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41268,6 +41180,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "DE",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41360,17 +41283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "DE",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -41378,6 +41290,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "DE",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41558,17 +41481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "DE",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -41576,6 +41488,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "DE",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42680,17 +42603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -42746,17 +42658,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "DE",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -42764,6 +42665,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "DE",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44704,17 +44616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "FR",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -44722,6 +44623,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "FR",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47047,17 +46959,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "FR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -48818,6 +48719,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "FR",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -50116,17 +50028,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "FR",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -50134,6 +50035,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "FR",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50721,17 +50633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "FR",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -50743,13 +50644,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "FR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52041,17 +51942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "FR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -52063,13 +51953,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "FR",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52081,6 +51971,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "FR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52173,17 +52074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "FR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -52191,6 +52081,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "FR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52371,17 +52272,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "FR",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -52389,6 +52279,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "FR",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53493,17 +53394,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -53559,17 +53449,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "FR",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -53577,6 +53456,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "FR",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55517,17 +55407,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "CN",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -55535,6 +55414,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "CN",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57860,17 +57750,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "CN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -59631,6 +59510,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "CN",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -60929,17 +60819,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "CN",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -60947,6 +60826,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "CN",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61534,17 +61424,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "CN",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -61556,13 +61435,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "CN",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62854,17 +62733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "CN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -62876,13 +62744,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "CN",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62894,6 +62762,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "CN",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62986,17 +62865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "CN",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -63004,6 +62872,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "CN",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63184,17 +63063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "CN",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -63202,6 +63070,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "CN",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64306,17 +64185,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -64372,17 +64240,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "CN",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -64390,6 +64247,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "CN",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66330,17 +66198,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "KR",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -66348,6 +66205,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "KR",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68673,17 +68541,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "KR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -70444,6 +70301,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "KR",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -71742,17 +71610,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "KR",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -71760,6 +71617,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "KR",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72347,17 +72215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "KR",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -72369,13 +72226,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "KR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73667,17 +73524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "KR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -73689,13 +73535,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "KR",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73707,6 +73553,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "KR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73799,17 +73656,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "KR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -73817,6 +73663,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "KR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73997,17 +73854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "KR",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -74015,6 +73861,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "KR",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75119,17 +74976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -75185,17 +75031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "KR",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -75203,6 +75038,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "KR",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77143,17 +76989,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "IN",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -77161,6 +76996,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "IN",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79486,17 +79332,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "IN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -81257,6 +81092,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "IN",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -82555,17 +82401,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "IN",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -82573,6 +82408,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "IN",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83160,17 +83006,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "IN",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -83182,13 +83017,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "IN",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84480,17 +84315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "IN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -84502,13 +84326,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "IN",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84520,6 +84344,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "IN",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84612,17 +84447,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "IN",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -84630,6 +84454,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "IN",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84810,17 +84645,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "IN",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -84828,6 +84652,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "IN",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85932,17 +85767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -85998,17 +85822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "IN",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -86016,6 +85829,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "IN",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87956,17 +87780,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "BR",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -87974,6 +87787,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "BR",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90299,17 +90123,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "BR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -92070,6 +91883,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "BR",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -93368,17 +93192,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "BR",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -93386,6 +93199,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "BR",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93973,17 +93797,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "BR",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -93995,13 +93808,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "BR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95293,17 +95106,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "BR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -95315,13 +95117,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "BR",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95333,6 +95135,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "BR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95425,17 +95238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "BR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -95443,6 +95245,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "BR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95623,17 +95436,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "BR",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -95641,6 +95443,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "BR",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96745,17 +96558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -96811,17 +96613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "BR",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -96829,6 +96620,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "BR",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98769,17 +98571,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292514964",
-    "name": "Wildhaus: Oberdorf",
-    "city": "Wildhaus",
-    "countryCode": "AU",
-    "lat": 47.19198,
-    "lng": 9.34537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1232544942",
     "name": "Cambrils › South-east: Hafen",
     "city": "Cambrils",
@@ -98787,6 +98578,17 @@
     "lat": 41.06607,
     "lng": 1.06411,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232544942/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292514964",
+    "name": "Wildhaus: Oberdorf",
+    "city": "Wildhaus",
+    "countryCode": "AU",
+    "lat": 47.19198,
+    "lng": 9.34537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292514964/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101112,17 +100914,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "AU",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440403959",
     "name": "Ward 4 › South: Hai Au building 39B - Tân Bình, Hồ Chí Minh, Vietnam: District 1 Hồ Chí Minh, Vietnam",
     "city": "Ward 4",
@@ -102883,6 +102674,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "AU",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1508413740",
     "name": "London: Charing Cross Rd/Cranbourne St",
     "city": "London",
@@ -104181,17 +103983,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346469018",
-    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
-    "city": "Deggendorf",
-    "countryCode": "AU",
-    "lat": 48.8336,
-    "lng": 12.96215,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -104199,6 +103990,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1346469018",
+    "name": "Deggendorf: Luitpoldplatz - Oberer Stadtplatz",
+    "city": "Deggendorf",
+    "countryCode": "AU",
+    "lat": 48.8336,
+    "lng": 12.96215,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346469018/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104786,17 +104588,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1346122821",
-    "name": "Bansko: ski webcams 3",
-    "city": "Bansko",
-    "countryCode": "AU",
-    "lat": 41.7796,
-    "lng": 23.44876,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1468338429",
     "name": "District of Poprad › North-east: Mountain hotel Popradské pleso",
     "city": "District of Poprad",
@@ -104808,13 +104599,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
+    "id": "windy-1346122821",
+    "name": "Bansko: ski webcams 3",
+    "city": "Bansko",
     "countryCode": "AU",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "lat": 41.7796,
+    "lng": 23.44876,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346122821/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106106,17 +105897,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "AU",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1329762542",
     "name": "Silverburn › North-west: West Kip",
     "city": "Silverburn",
@@ -106128,13 +105908,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
     "countryCode": "AU",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106146,6 +105926,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "AU",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106238,17 +106029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "AU",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -106256,6 +106036,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "AU",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106436,17 +106227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273334222",
-    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
-    "city": "Ischia",
-    "countryCode": "AU",
-    "lat": 40.73851,
-    "lng": 13.95404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -106454,6 +106234,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273334222",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
+    "city": "Ischia",
+    "countryCode": "AU",
+    "lat": 40.73851,
+    "lng": 13.95404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107558,17 +107349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -107624,17 +107404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214491523",
-    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
-    "city": "Baia Mare",
-    "countryCode": "AU",
-    "lat": 47.65435,
-    "lng": 23.56802,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -107642,6 +107411,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214491523",
+    "name": "Baia Mare: McDonald's - TV Satelit - Bizo - Bulevardul Unirii - Bulevardul București",
+    "city": "Baia Mare",
+    "countryCode": "AU",
+    "lat": 47.65435,
+    "lng": 23.56802,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214491523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },

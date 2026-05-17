@@ -138,25 +138,5 @@
     "timestamp": "2026-05-16T12:59:30.959Z",
     "description": "M 5.3 - 94 km E of Port-Vila, Vanuatu",
     "source": "USGS"
-  },
-  {
-    "id": "us6000sy76",
-    "type": "earthquake",
-    "lat": 6.8241,
-    "lng": 124.6816,
-    "intensity": 5,
-    "timestamp": "2026-05-16T11:25:43.857Z",
-    "description": "M 5.0 - 5 km WSW of Badak, Philippines",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sy6x",
-    "type": "earthquake",
-    "lat": -22.985,
-    "lng": -66.294,
-    "intensity": 4.7,
-    "timestamp": "2026-05-16T10:59:47.078Z",
-    "description": "M 4.7 - 67 km WNW of El Aguilar, Argentina",
-    "source": "USGS"
   }
 ]
