@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000syex",
+    "type": "earthquake",
+    "lat": -6.3045,
+    "lng": 151.7008,
+    "intensity": 4.8,
+    "timestamp": "2026-05-17T20:52:01.462Z",
+    "description": "M 4.8 - 192 km ESE of Kimbe, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sye4",
     "type": "earthquake",
     "lat": 24.457,
@@ -52,11 +62,11 @@
   {
     "id": "us6000syc2",
     "type": "earthquake",
-    "lat": 50.8432,
-    "lng": 157.3229,
-    "intensity": 5.7,
-    "timestamp": "2026-05-17T08:04:18.719Z",
-    "description": "M 5.7 - 86 km ENE of Severo-Kuril’sk, Russia",
+    "lat": 50.8582,
+    "lng": 157.2919,
+    "intensity": 5.4,
+    "timestamp": "2026-05-17T08:04:17.461Z",
+    "description": "M 5.4 - 84 km ENE of Severo-Kuril’sk, Russia",
     "source": "USGS"
   },
   {
@@ -97,16 +107,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-17T00:07:28.770Z",
     "description": "M 4.7 - 93 km ENE of Miyako, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sy9z",
-    "type": "earthquake",
-    "lat": 13.0317,
-    "lng": 93.7365,
-    "intensity": 4.7,
-    "timestamp": "2026-05-16T21:16:17.475Z",
-    "description": "M 4.7 - 184 km NE of Bamboo Flat, India",
     "source": "USGS"
   }
 ]
