@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sym0",
+    "type": "earthquake",
+    "lat": 52.5449,
+    "lng": -171.7907,
+    "intensity": 4.9,
+    "timestamp": "2026-05-18T21:37:20.297Z",
+    "description": "M 4.9 - 168 km ENE of Atka, Alaska",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sykw",
     "type": "earthquake",
     "lat": -54.2795,

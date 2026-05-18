@@ -2101,6 +2101,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -2460,17 +2471,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2889,17 +2889,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3538,17 +3527,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "JP",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5353,6 +5331,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12826,6 +12815,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -13185,17 +13185,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13614,17 +13603,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14263,17 +14241,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "US",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16078,6 +16045,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23551,6 +23529,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -23910,17 +23899,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24339,17 +24317,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24988,17 +24955,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "GB",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26803,6 +26759,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34276,6 +34243,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -34635,17 +34613,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35064,17 +35031,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35713,17 +35669,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "DE",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37528,6 +37473,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45001,6 +44957,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -45360,17 +45327,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45789,17 +45745,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46438,17 +46383,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "FR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48253,6 +48187,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55726,6 +55671,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -56085,17 +56041,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56514,17 +56459,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57163,17 +57097,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "CN",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58978,6 +58901,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66451,6 +66385,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -66810,17 +66755,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67239,17 +67173,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67888,17 +67811,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "KR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69703,6 +69615,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77176,6 +77099,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -77535,17 +77469,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77964,17 +77887,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78613,17 +78525,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "IN",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80428,6 +80329,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87901,6 +87813,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -88260,17 +88183,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88689,17 +88601,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89338,17 +89239,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "BR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91153,6 +91043,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98626,6 +98527,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -98985,17 +98897,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99414,17 +99315,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100063,17 +99953,6 @@
     "lat": 36.04833,
     "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "AU",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101878,6 +101757,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
