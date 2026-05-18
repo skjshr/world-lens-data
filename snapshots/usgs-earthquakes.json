@@ -10,6 +10,26 @@
     "source": "USGS"
   },
   {
+    "id": "us6000sykj",
+    "type": "earthquake",
+    "lat": 6.079,
+    "lng": 126.9025,
+    "intensity": 4.5,
+    "timestamp": "2026-05-18T18:06:04.422Z",
+    "description": "M 4.5 - 86 km ESE of Pondaguitan, Philippines",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000syk9",
+    "type": "earthquake",
+    "lat": 39.801,
+    "lng": 143.2523,
+    "intensity": 4.6,
+    "timestamp": "2026-05-18T17:04:31.928Z",
+    "description": "M 4.6 - 113 km E of Miyako, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000syik",
     "type": "earthquake",
     "lat": 24.4799,
@@ -87,16 +107,6 @@
     "intensity": 5,
     "timestamp": "2026-05-17T22:58:32.187Z",
     "description": "M 5.0 - 31 km WNW of Finschhafen, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000syex",
-    "type": "earthquake",
-    "lat": -6.3045,
-    "lng": 151.7008,
-    "intensity": 4.8,
-    "timestamp": "2026-05-17T20:52:01.462Z",
-    "description": "M 4.8 - 192 km ESE of Kimbe, Papua New Guinea",
     "source": "USGS"
   }
 ]
