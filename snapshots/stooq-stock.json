@@ -3,8 +3,8 @@
     "symbol": "SPX",
     "name": "S&P 500",
     "countryCode": "US",
-    "price": 7403.05,
-    "changePct": 0,
+    "price": 7389.09,
+    "changePct": -0.19,
     "currency": "USD",
     "asOf": "2026-05-18T00:00:00.000Z"
   },
@@ -58,7 +58,7 @@
     "name": "DAX",
     "countryCode": "DE",
     "price": 24307.92,
-    "changePct": 0.25,
+    "changePct": 0,
     "currency": "EUR",
     "asOf": "2026-05-18T00:00:00.000Z"
   }

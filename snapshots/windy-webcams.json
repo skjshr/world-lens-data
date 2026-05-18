@@ -242,17 +242,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -2453,17 +2442,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2541,6 +2519,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "JP",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -2548,6 +2537,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4873,17 +4873,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "JP",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -4891,6 +4880,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "JP",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5324,17 +5324,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "JP",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -5342,6 +5331,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "JP",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6552,17 +6552,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "JP",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7788,17 +7777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -7982,17 +7960,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "JP",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10131,17 +10098,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "JP",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -10149,6 +10105,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "JP",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10296,17 +10263,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "JP",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -10314,6 +10270,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "JP",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10710,6 +10677,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "JP",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10956,17 +10934,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -13167,17 +13134,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13255,6 +13211,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "US",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -13262,6 +13229,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15587,17 +15565,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "US",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -15605,6 +15572,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "US",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16038,17 +16016,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "US",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -16056,6 +16023,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "US",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17266,17 +17244,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "US",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18502,17 +18469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -18696,17 +18652,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "US",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20845,17 +20790,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "US",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -20863,6 +20797,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "US",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21010,17 +20955,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "US",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -21028,6 +20962,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "US",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21424,6 +21369,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "US",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21670,17 +21626,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -23881,17 +23826,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -23969,6 +23903,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "GB",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -23976,6 +23921,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26301,17 +26257,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "GB",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -26319,6 +26264,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "GB",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26752,17 +26708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "GB",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -26770,6 +26715,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "GB",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27980,17 +27936,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "GB",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29216,17 +29161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -29410,17 +29344,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "GB",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31559,17 +31482,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "GB",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -31577,6 +31489,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "GB",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31724,17 +31647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "GB",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -31742,6 +31654,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "GB",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32138,6 +32061,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "GB",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32384,17 +32318,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -34595,17 +34518,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34683,6 +34595,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "DE",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -34690,6 +34613,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37015,17 +36949,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "DE",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -37033,6 +36956,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "DE",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37466,17 +37400,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "DE",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -37484,6 +37407,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "DE",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38694,17 +38628,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "DE",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39930,17 +39853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -40124,17 +40036,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "DE",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42273,17 +42174,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "DE",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -42291,6 +42181,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "DE",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42438,17 +42339,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "DE",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -42456,6 +42346,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "DE",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42852,6 +42753,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "DE",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43098,17 +43010,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -45309,17 +45210,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45397,6 +45287,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "FR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -45404,6 +45305,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47729,17 +47641,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "FR",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -47747,6 +47648,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "FR",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48180,17 +48092,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "FR",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -48198,6 +48099,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "FR",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49408,17 +49320,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "FR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50644,17 +50545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -50838,17 +50728,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "FR",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52987,17 +52866,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "FR",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -53005,6 +52873,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "FR",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53152,17 +53031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "FR",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -53170,6 +53038,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "FR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53566,6 +53445,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "FR",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53812,17 +53702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -56023,17 +55902,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56111,6 +55979,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "CN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -56118,6 +55997,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58443,17 +58333,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "CN",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -58461,6 +58340,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "CN",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58894,17 +58784,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "CN",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -58912,6 +58791,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "CN",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60122,17 +60012,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "CN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61358,17 +61237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -61552,17 +61420,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "CN",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63701,17 +63558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "CN",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -63719,6 +63565,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "CN",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63866,17 +63723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "CN",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -63884,6 +63730,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "CN",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64280,6 +64137,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "CN",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64526,17 +64394,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -66737,17 +66594,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -66825,6 +66671,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "KR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -66832,6 +66689,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69157,17 +69025,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "KR",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -69175,6 +69032,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "KR",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69608,17 +69476,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "KR",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -69626,6 +69483,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "KR",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70836,17 +70704,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "KR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72072,17 +71929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -72266,17 +72112,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "KR",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74415,17 +74250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "KR",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -74433,6 +74257,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "KR",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74580,17 +74415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "KR",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -74598,6 +74422,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "KR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74994,6 +74829,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "KR",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75240,17 +75086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -77451,17 +77286,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -77539,6 +77363,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "IN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -77546,6 +77381,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79871,17 +79717,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "IN",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -79889,6 +79724,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "IN",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80322,17 +80168,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "IN",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -80340,6 +80175,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "IN",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81550,17 +81396,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "IN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82786,17 +82621,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -82980,17 +82804,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "IN",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85129,17 +84942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "IN",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -85147,6 +84949,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "IN",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85294,17 +85107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "IN",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -85312,6 +85114,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "IN",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85708,6 +85521,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "IN",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85954,17 +85778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -88165,17 +87978,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -88253,6 +88055,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "BR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -88260,6 +88073,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90585,17 +90409,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "BR",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -90603,6 +90416,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "BR",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91036,17 +90860,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "BR",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -91054,6 +90867,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "BR",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92264,17 +92088,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "BR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93500,17 +93313,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -93694,17 +93496,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "BR",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95843,17 +95634,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "BR",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -95861,6 +95641,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "BR",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96008,17 +95799,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "BR",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -96026,6 +95806,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "BR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96422,6 +96213,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "BR",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96668,17 +96470,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -98879,17 +98670,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -98967,6 +98747,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "AU",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -98974,6 +98765,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101299,17 +101101,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "AU",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -101317,6 +101108,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "AU",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101750,17 +101552,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516351151",
-    "name": "Alicante: Valencia, Spania",
-    "city": "Alicante",
-    "countryCode": "AU",
-    "lat": 38.34658,
-    "lng": -0.47969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -101768,6 +101559,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516351151",
+    "name": "Alicante: Valencia, Spania",
+    "city": "Alicante",
+    "countryCode": "AU",
+    "lat": 38.34658,
+    "lng": -0.47969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102978,17 +102780,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "AU",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104214,17 +104005,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala › South: Feforvatnet - Graslisæter",
     "city": "Gala",
@@ -104408,17 +104188,6 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1250603886",
-    "name": "Seillans: Le Cuinier - Fayence - Saint-Paul-en-Forêt - Fréjus - Saint-Raphaël - ORPI Esterel Côte d'Azur",
-    "city": "Seillans",
-    "countryCode": "AU",
-    "lat": 43.64452,
-    "lng": 6.65636,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106557,17 +106326,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1259781095",
-    "name": "Kalyvia Thorikou › North-west: Ymittos",
-    "city": "Kalyvia Thorikou",
-    "countryCode": "AU",
-    "lat": 37.83412,
-    "lng": 23.92784,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -106575,6 +106333,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1259781095",
+    "name": "Kalyvia Thorikou › North-west: Ymittos",
+    "city": "Kalyvia Thorikou",
+    "countryCode": "AU",
+    "lat": 37.83412,
+    "lng": 23.92784,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106722,17 +106491,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "AU",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -106740,6 +106498,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "AU",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107136,6 +106905,17 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1478630419",
+    "name": "Broadford: Broadford Bay - Applecross",
+    "city": "Broadford",
+    "countryCode": "AU",
+    "lat": 57.23827,
+    "lng": -5.88985,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
