@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sykw",
+    "type": "earthquake",
+    "lat": -54.2795,
+    "lng": -1.2672,
+    "intensity": 5.3,
+    "timestamp": "2026-05-18T18:50:00.309Z",
+    "description": "M 5.3 - Bouvet Island region",
+    "source": "USGS"
+  },
+  {
     "id": "us6000syik",
     "type": "earthquake",
     "lat": 24.4799,

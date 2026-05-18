@@ -760,11 +760,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "JP",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -1211,7 +1211,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "JP",
     "lat": 47.35148,
@@ -1541,11 +1541,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "JP",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -1761,7 +1761,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "JP",
     "lat": 47.02513,
@@ -1800,17 +1800,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "JP",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2080,7 +2069,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "JP",
     "lat": 46.48455,
@@ -2541,17 +2530,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "JP",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -2570,6 +2548,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5082,17 +5071,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "JP",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -5100,6 +5078,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "JP",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5808,6 +5797,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -6457,6 +6457,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "JP",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -6688,17 +6699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "JP",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -6706,6 +6706,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "JP",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7216,17 +7227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "JP",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -7623,6 +7623,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -7678,17 +7689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "JP",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -7696,6 +7696,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "JP",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7843,6 +7854,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "JP",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -7894,17 +7916,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "JP",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8382,17 +8393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "JP",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -8400,6 +8400,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "JP",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8756,17 +8767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "JP",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -8774,6 +8774,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "JP",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9240,17 +9251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "JP",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -9258,6 +9258,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "JP",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10571,6 +10582,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -10710,17 +10732,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "JP",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11485,11 +11496,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "US",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -11936,7 +11947,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "US",
     "lat": 47.35148,
@@ -12266,11 +12277,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "US",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -12486,7 +12497,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "US",
     "lat": 47.02513,
@@ -12525,17 +12536,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "US",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12805,7 +12805,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "US",
     "lat": 46.48455,
@@ -13266,17 +13266,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "US",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -13295,6 +13284,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15807,17 +15807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "US",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -15825,6 +15814,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "US",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16533,6 +16533,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -17182,6 +17193,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "US",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -17413,17 +17435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "US",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -17431,6 +17442,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "US",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17941,17 +17963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "US",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -18348,6 +18359,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -18403,17 +18425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "US",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -18421,6 +18432,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "US",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18568,6 +18590,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "US",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -18619,17 +18652,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "US",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19107,17 +19129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "US",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -19125,6 +19136,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "US",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19481,17 +19503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "US",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -19499,6 +19510,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "US",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19965,17 +19987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "US",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -19983,6 +19994,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "US",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21296,6 +21318,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -21435,17 +21468,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "US",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22210,11 +22232,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "GB",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -22661,7 +22683,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "GB",
     "lat": 47.35148,
@@ -22991,11 +23013,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "GB",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -23211,7 +23233,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "GB",
     "lat": 47.02513,
@@ -23250,17 +23272,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "GB",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23530,7 +23541,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "GB",
     "lat": 46.48455,
@@ -23991,17 +24002,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "GB",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -24020,6 +24020,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26532,17 +26543,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "GB",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -26550,6 +26550,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "GB",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27258,6 +27269,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -27907,6 +27929,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "GB",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -28138,17 +28171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "GB",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -28156,6 +28178,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "GB",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28666,17 +28699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "GB",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -29073,6 +29095,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -29128,17 +29161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "GB",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -29146,6 +29168,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "GB",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29293,6 +29326,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "GB",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -29344,17 +29388,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "GB",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29832,17 +29865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "GB",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -29850,6 +29872,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "GB",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30206,17 +30239,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "GB",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -30224,6 +30246,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "GB",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30690,17 +30723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "GB",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -30708,6 +30730,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "GB",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32021,6 +32054,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -32160,17 +32204,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "GB",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32935,11 +32968,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "DE",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -33386,7 +33419,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "DE",
     "lat": 47.35148,
@@ -33716,11 +33749,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "DE",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -33936,7 +33969,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "DE",
     "lat": 47.02513,
@@ -33975,17 +34008,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "DE",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34255,7 +34277,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "DE",
     "lat": 46.48455,
@@ -34716,17 +34738,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "DE",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -34745,6 +34756,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37257,17 +37279,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "DE",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -37275,6 +37286,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "DE",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37983,6 +38005,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -38632,6 +38665,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "DE",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -38863,17 +38907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "DE",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -38881,6 +38914,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "DE",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39391,17 +39435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "DE",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -39798,6 +39831,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -39853,17 +39897,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "DE",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -39871,6 +39904,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "DE",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40018,6 +40062,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "DE",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -40069,17 +40124,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "DE",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40557,17 +40601,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "DE",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -40575,6 +40608,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "DE",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40931,17 +40975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "DE",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -40949,6 +40982,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "DE",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41415,17 +41459,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "DE",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -41433,6 +41466,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "DE",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42746,6 +42790,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -42885,17 +42940,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "DE",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43660,11 +43704,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "FR",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -44111,7 +44155,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "FR",
     "lat": 47.35148,
@@ -44441,11 +44485,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "FR",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -44661,7 +44705,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "FR",
     "lat": 47.02513,
@@ -44700,17 +44744,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "FR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44980,7 +45013,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "FR",
     "lat": 46.48455,
@@ -45441,17 +45474,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "FR",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -45470,6 +45492,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47982,17 +48015,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "FR",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -48000,6 +48022,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "FR",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48708,6 +48741,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -49357,6 +49401,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "FR",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -49588,17 +49643,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "FR",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -49606,6 +49650,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "FR",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50116,17 +50171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "FR",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -50523,6 +50567,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -50578,17 +50633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "FR",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -50596,6 +50640,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "FR",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50743,6 +50798,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "FR",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -50794,17 +50860,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "FR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51282,17 +51337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "FR",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -51300,6 +51344,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "FR",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51656,17 +51711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "FR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -51674,6 +51718,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "FR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52140,17 +52195,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "FR",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -52158,6 +52202,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "FR",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53471,6 +53526,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -53610,17 +53676,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "FR",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54385,11 +54440,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "CN",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -54836,7 +54891,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "CN",
     "lat": 47.35148,
@@ -55166,11 +55221,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "CN",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -55386,7 +55441,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "CN",
     "lat": 47.02513,
@@ -55425,17 +55480,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "CN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55705,7 +55749,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "CN",
     "lat": 46.48455,
@@ -56166,17 +56210,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "CN",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -56195,6 +56228,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58707,17 +58751,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "CN",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -58725,6 +58758,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "CN",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59433,6 +59477,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -60082,6 +60137,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "CN",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -60313,17 +60379,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "CN",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -60331,6 +60386,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "CN",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60841,17 +60907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "CN",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -61248,6 +61303,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -61303,17 +61369,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "CN",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -61321,6 +61376,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "CN",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61468,6 +61534,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "CN",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -61519,17 +61596,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "CN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62007,17 +62073,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "CN",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -62025,6 +62080,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "CN",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62381,17 +62447,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "CN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -62399,6 +62454,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "CN",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62865,17 +62931,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "CN",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -62883,6 +62938,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "CN",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64196,6 +64262,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -64335,17 +64412,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "CN",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65110,11 +65176,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "KR",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -65561,7 +65627,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "KR",
     "lat": 47.35148,
@@ -65891,11 +65957,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "KR",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -66111,7 +66177,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "KR",
     "lat": 47.02513,
@@ -66150,17 +66216,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "KR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66430,7 +66485,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "KR",
     "lat": 46.48455,
@@ -66891,17 +66946,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "KR",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -66920,6 +66964,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69432,17 +69487,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "KR",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -69450,6 +69494,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "KR",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70158,6 +70213,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -70807,6 +70873,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "KR",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -71038,17 +71115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "KR",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -71056,6 +71122,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "KR",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71566,17 +71643,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "KR",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -71973,6 +72039,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -72028,17 +72105,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "KR",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -72046,6 +72112,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "KR",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72193,6 +72270,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "KR",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -72244,17 +72332,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "KR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72732,17 +72809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "KR",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -72750,6 +72816,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "KR",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73106,17 +73183,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "KR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -73124,6 +73190,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "KR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73590,17 +73667,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "KR",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -73608,6 +73674,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "KR",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74921,6 +74998,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -75060,17 +75148,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "KR",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75835,11 +75912,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "IN",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -76286,7 +76363,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "IN",
     "lat": 47.35148,
@@ -76616,11 +76693,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "IN",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -76836,7 +76913,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "IN",
     "lat": 47.02513,
@@ -76875,17 +76952,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "IN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77155,7 +77221,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "IN",
     "lat": 46.48455,
@@ -77616,17 +77682,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "IN",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -77645,6 +77700,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80157,17 +80223,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "IN",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -80175,6 +80230,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "IN",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80883,6 +80949,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -81532,6 +81609,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "IN",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -81763,17 +81851,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "IN",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -81781,6 +81858,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "IN",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82291,17 +82379,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "IN",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -82698,6 +82775,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -82753,17 +82841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "IN",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -82771,6 +82848,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "IN",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82918,6 +83006,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "IN",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -82969,17 +83068,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "IN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83457,17 +83545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "IN",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -83475,6 +83552,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "IN",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83831,17 +83919,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "IN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -83849,6 +83926,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "IN",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84315,17 +84403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "IN",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -84333,6 +84410,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "IN",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85646,6 +85734,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -85785,17 +85884,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "IN",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86560,11 +86648,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "BR",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -87011,7 +87099,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "BR",
     "lat": 47.35148,
@@ -87341,11 +87429,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "BR",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -87561,7 +87649,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "BR",
     "lat": 47.02513,
@@ -87600,17 +87688,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "BR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87880,7 +87957,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "BR",
     "lat": 46.48455,
@@ -88341,17 +88418,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "BR",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -88370,6 +88436,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90882,17 +90959,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "BR",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -90900,6 +90966,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "BR",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91608,6 +91685,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -92257,6 +92345,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "BR",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -92488,17 +92587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "BR",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -92506,6 +92594,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "BR",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93016,17 +93115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "BR",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -93423,6 +93511,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -93478,17 +93577,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "BR",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -93496,6 +93584,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "BR",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93643,6 +93742,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "BR",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -93694,17 +93804,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "BR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94182,17 +94281,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "BR",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -94200,6 +94288,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "BR",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94556,17 +94655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "BR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -94574,6 +94662,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "BR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95040,17 +95139,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "BR",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -95058,6 +95146,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "BR",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96371,6 +96470,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -96510,17 +96620,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "BR",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97285,11 +97384,11 @@
   },
   {
     "id": "windy-1371646202",
-    "name": "Sion: Vue sur Valère et Tourbillon",
+    "name": "Sion › South: Château de Tourbillon",
     "city": "Sion",
     "countryCode": "AU",
-    "lat": 46.22908,
-    "lng": 7.35942,
+    "lat": 46.23809,
+    "lng": 7.36662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371646202/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -97736,7 +97835,7 @@
   },
   {
     "id": "windy-1697039466",
-    "name": "Stallikon: Uetliberg",
+    "name": "Stallikon › South-east: Uetliberg - Lake Zurich",
     "city": "Stallikon",
     "countryCode": "AU",
     "lat": 47.35148,
@@ -98066,11 +98165,11 @@
   },
   {
     "id": "windy-1231761506",
-    "name": "Sarnen: Langis Glaubenberg",
+    "name": "Sarnen › South-west: Kapelle Schwendi-Kaltbad",
     "city": "Sarnen",
     "countryCode": "AU",
-    "lat": 46.89893,
-    "lng": 8.12867,
+    "lat": 46.89823,
+    "lng": 8.12884,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231761506/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -98286,7 +98385,7 @@
   },
   {
     "id": "windy-1068224396",
-    "name": "Schwyz: Talkessel",
+    "name": "Schwyz › West: Talkessel",
     "city": "Schwyz",
     "countryCode": "AU",
     "lat": 47.02513,
@@ -98325,17 +98424,6 @@
     "lat": 38.05889,
     "lng": 23.86136,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203786305/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "AU",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98605,7 +98693,7 @@
   },
   {
     "id": "windy-1698744503",
-    "name": "Sankt Moritz › South-west: › South-West",
+    "name": "Sankt Moritz › South: Lake Champfèr - Piz Corvatsch",
     "city": "Sankt Moritz",
     "countryCode": "AU",
     "lat": 46.48455,
@@ -99066,17 +99154,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1131368730",
-    "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
-    "city": "Adelboden",
-    "countryCode": "AU",
-    "lat": 46.48452,
-    "lng": 7.56716,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1131368730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -99095,6 +99172,17 @@
     "lat": 43.30086,
     "lng": -110.67134,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101607,17 +101695,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1613392407",
-    "name": "Κοινότητα Τάλας › South-west: Tsada",
-    "city": "Κοινότητα Τάλας",
-    "countryCode": "AU",
-    "lat": 34.83919,
-    "lng": 32.47449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349363864",
     "name": "Sorvagur › North-east: Vagar airport",
     "city": "Sorvagur",
@@ -101625,6 +101702,17 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1613392407",
+    "name": "Κοινότητα Τάλας › South-west: Tsada",
+    "city": "Κοινότητα Τάλας",
+    "countryCode": "AU",
+    "lat": 34.83919,
+    "lng": 32.47449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613392407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102333,6 +102421,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -102982,6 +103081,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1371744007",
+    "name": "Reichenbach im Kandertal › North: Skydive by OUTDOOR - Air Base Drop Zone - Fluggruppe Reichenbach",
+    "city": "Reichenbach im Kandertal",
+    "countryCode": "AU",
+    "lat": 46.61591,
+    "lng": 7.68237,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371744007/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1244413570",
     "name": "La Serena › North-west: La Florida Airport",
     "city": "La Serena",
@@ -103213,17 +103323,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608162387",
-    "name": "Kadena › North-east",
-    "city": "Kadena",
-    "countryCode": "AU",
-    "lat": 26.44431,
-    "lng": 127.77255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -103231,6 +103330,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608162387",
+    "name": "Kadena › North-east",
+    "city": "Kadena",
+    "countryCode": "AU",
+    "lat": 26.44431,
+    "lng": 127.77255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608162387/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103741,17 +103851,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249114124",
-    "name": "Isola",
-    "city": "Isola",
-    "countryCode": "AU",
-    "lat": 44.18735,
-    "lng": 7.15732,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249114124/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1213347873",
     "name": "Vaasa: Tie 8 - Kotiranta - Tie 27417 kiertoliittymä",
     "city": "Vaasa",
@@ -104148,6 +104247,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215516024",
     "name": "Kolin",
     "city": "Kolin",
@@ -104203,17 +104313,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1580739694",
-    "name": "Ontex › East: Lac du Bourget",
-    "city": "Ontex",
-    "countryCode": "AU",
-    "lat": 45.74916,
-    "lng": 5.83157,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -104221,6 +104320,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1580739694",
+    "name": "Ontex › East: Lac du Bourget",
+    "city": "Ontex",
+    "countryCode": "AU",
+    "lat": 45.74916,
+    "lng": 5.83157,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580739694/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104368,6 +104478,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1388921207",
+    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
+    "city": "Municipal Unit of Vytina",
+    "countryCode": "AU",
+    "lat": 37.6773,
+    "lng": 22.12491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966361",
     "name": "Goslar: Schuhhof",
     "city": "Goslar",
@@ -104419,17 +104540,6 @@
     "lat": 42.41714,
     "lng": 0.13891,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1426264758/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: Gran Vía",
-    "city": "Madrid",
-    "countryCode": "AU",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104907,17 +105017,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1357598450",
-    "name": "Svolvaer: Hvalfangergata",
-    "city": "Svolvaer",
-    "countryCode": "AU",
-    "lat": 68.23151,
-    "lng": 14.5586,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -104925,6 +105024,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1357598450",
+    "name": "Svolvaer: Hvalfangergata",
+    "city": "Svolvaer",
+    "countryCode": "AU",
+    "lat": 68.23151,
+    "lng": 14.5586,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357598450/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105281,17 +105391,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "AU",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1615810191",
     "name": "Leknes",
     "city": "Leknes",
@@ -105299,6 +105398,17 @@
     "lat": 68.1286,
     "lng": 13.57431,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1615810191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "AU",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105765,17 +105875,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "AU",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -105783,6 +105882,17 @@
     "lat": 41.84501,
     "lng": 3.12643,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575445569/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "AU",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107096,6 +107206,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793899732",
     "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
     "city": "Shoeburyness",
@@ -107235,17 +107356,6 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "AU",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
