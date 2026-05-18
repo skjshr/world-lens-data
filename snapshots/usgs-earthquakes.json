@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000syh2",
+    "type": "earthquake",
+    "lat": -28.5299,
+    "lng": 74.2599,
+    "intensity": 5.2,
+    "timestamp": "2026-05-18T07:34:30.448Z",
+    "description": "M 5.2 - Mid-Indian Ridge",
+    "source": "USGS"
+  },
+  {
     "id": "us6000syg1",
     "type": "earthquake",
     "lat": -43.4009,
@@ -107,26 +117,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-17T09:38:20.685Z",
     "description": "M 4.6 - 266 km ESE of Port Blair, India",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000syc2",
-    "type": "earthquake",
-    "lat": 50.8582,
-    "lng": 157.2919,
-    "intensity": 5.4,
-    "timestamp": "2026-05-17T08:04:17.461Z",
-    "description": "M 5.4 - 84 km ENE of Severo-Kuril’sk, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000syby",
-    "type": "earthquake",
-    "lat": -2.8876,
-    "lng": 147.7681,
-    "intensity": 5.1,
-    "timestamp": "2026-05-17T07:51:56.627Z",
-    "description": "M 5.1 - 109 km SSE of Lorengau, Papua New Guinea",
     "source": "USGS"
   }
 ]
